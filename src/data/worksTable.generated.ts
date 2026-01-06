@@ -45133,8 +45133,8 @@ export const worksTable: WorkTableRecord[] = [
       "Mohammed Almobarky",
       "Afikah Rahim"
     ],
-    "title": "Organic Geochemistry and Basin Modeling of the Eocene Mangahewa Source rock System in the Pohokura Oilfield, Taranaki Basin (New Zealand) and Their Indication of Oil and Gas Potential",
-    "publicationDate": "2024-01-01",
+    "title": "Organic geochemistry and basin modeling of the Eocene Mangahewa source rock system in the Pohokura oilfield, Taranaki Basin (New Zealand) and their indication of oil and gas potential",
+    "publicationDate": "2024-12-12",
     "year": 2024,
     "venue": "China Geology",
     "citations": 0,
@@ -48461,14 +48461,24 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthorOpenAlexIds": [
       "A5034568196",
       "A5036616600",
+      "A5095780465",
+      "A5025618130",
+      "A5100375667",
+      "A5057920339",
       "A5024020559",
+      "A5014606576",
       "A5109707707",
       "A5030371811"
     ],
     "firstAuthorLastName": "Rahman",
     "allAuthors": [
       "Mahfuzur Rahman",
+      "Zulfiqar Hammad",
+      "Hyeong-Joo Kim",
+      "Seonju Lee",
+      "Tae-Woong Park",
       "Hyeong-Soo Kim",
+      "Md Masudur Rahman",
       "Md Anuwer Hossain",
       "Mohammed Benaafi",
       "Isam H. Aljundi"
@@ -74183,34 +74193,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4318312072",
-    "doi": "https://doi.org/10.54103/2039-4942/17850",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5040147688",
-    "allAuthorOpenAlexIds": [
-      "A5040147688",
-      "A5054655648"
-    ],
-    "firstAuthorLastName": "Stephenson",
-    "allAuthors": [
-      "Michael H. Stephenson",
-      "Duncan McLean"
-    ],
-    "title": "LOPINGIAN (LATE PERMIAN) PALYNOMORPHS FROM THE CADEBY FORMATION, CADEBY QUARRY, YORKSHIRE, UK",
-    "publicationDate": "2023-01-19",
-    "year": 2023,
-    "venue": "RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA",
-    "citations": 2,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Paleontology and Evolutionary Biology"
-    ],
-    "institutions": [
-      "British Geological Survey"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W3160300026",
     "doi": "",
     "program": "",
@@ -74604,6 +74586,34 @@ export const worksTable: WorkTableRecord[] = [
       "Queen's University Belfast",
       "American Association of Petroleum Geologists",
       "China University of Geosciences (Beijing)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4318312072",
+    "doi": "https://doi.org/10.54103/2039-4942/17850",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040147688",
+    "allAuthorOpenAlexIds": [
+      "A5040147688",
+      "A5054655648"
+    ],
+    "firstAuthorLastName": "Stephenson",
+    "allAuthors": [
+      "Michael H. Stephenson",
+      "Duncan McLean"
+    ],
+    "title": "LOPINGIAN (LATE PERMIAN) PALYNOMORPHS FROM THE CADEBY FORMATION, CADEBY QUARRY, YORKSHIRE, UK",
+    "publicationDate": "2023-01-19",
+    "year": 2023,
+    "venue": "RIVISTA ITALIANA DI PALEONTOLOGIA E STRATIGRAFIA",
+    "citations": 2,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Evolutionary Biology"
+    ],
+    "institutions": [
+      "British Geological Survey"
     ]
   },
   {
@@ -117931,6 +117941,34 @@ export const worksTable: WorkTableRecord[] = [
       "Geothermal Energy Systems and Applications",
       "Hydraulic Fracturing and Reservoir Analysis"
     ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W7118184412",
+    "doi": "https://doi.org/10.25781/kaust-n8900",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5074794653",
+    "allAuthorOpenAlexIds": [
+      "A5074794653",
+      "A5121934989",
+      "A5121949370",
+      "A5121943479",
+      "A5007690930"
+    ],
+    "firstAuthorLastName": "Halimi",
+    "allAuthors": [
+      "Abdelghafour Halimi",
+      "Ali Alibrahim",
+      "Didier Barradas-Bautista",
+      "Ronell Sicat",
+      "Abdulkader M. Afifi"
+    ],
+    "title": "Test Dataset for ForamDeepSlice",
+    "publicationDate": "2026-01-01",
+    "year": 2026,
+    "venue": "KAUST Research Repository",
+    "citations": 0,
+    "topics": [],
     "institutions": []
   },
   {
