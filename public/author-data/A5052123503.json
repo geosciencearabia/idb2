@@ -626,7 +626,7 @@
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.87497466,
+        "value": 0.87195328,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1129,8 +1129,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -1738,6 +1738,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -1749,14 +1760,23 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ali Aldawood",
           "raw_affiliation_strings": [
+            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -1782,17 +1802,37 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Ali Shaiban",
           "raw_affiliation_strings": [
+            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -1810,6 +1850,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -1821,14 +1872,23 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
+            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -1846,6 +1906,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -1857,14 +1928,23 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Andrey Bakulin",
           "raw_affiliation_strings": [
+            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -1875,17 +1955,22 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5102799927"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769",
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 1.69539633,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.81676071,
+        "value": 0.81204003,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2188,8 +2273,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 16,
       "referenced_works": [
@@ -2946,17 +3031,37 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ahmad Ihsan Ramdani",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com.",
             "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -2974,6 +3079,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -2985,14 +3101,23 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Pavel Golikov",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com.",
             "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -3010,6 +3135,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -3021,14 +3157,23 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Khaled Alsoqair",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com.",
             "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -3044,17 +3189,48 @@
             "display_name": "Valerii Serpiva",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "id": null,
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": []
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Valerii Serpiva",
           "raw_affiliation_strings": [
+            "2 Aramco Innovations LLC, Moscow, Russia. E-mail: valerii.serpiva@aramcoinnovations.com.",
             "Aramco Innovations LLC, Moscow, Russia.."
           ],
           "affiliations": [
             {
+              "raw_affiliation_string": "2 Aramco Innovations LLC, Moscow, Russia. E-mail: valerii.serpiva@aramcoinnovations.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "raw_affiliation_string": "Aramco Innovations LLC, Moscow, Russia..",
-              "institution_ids": []
+              "institution_ids": [
+                null
+              ]
             }
           ]
         },
@@ -3067,6 +3243,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -3078,14 +3265,23 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com.",
             "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: aa.ihsan.ramdani@gmail.com; pavel.golikov@aramco.com; khaled.alsoqair@aramco.com; ezzedeen.alfataierge@aramco.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -3096,17 +3292,22 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5027711423"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841",
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 1.93737558,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.79141967,
+        "value": 0.77945132,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3394,8 +3595,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -4000,991 +4201,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3196463747",
-      "doi": "https://doi.org/10.1190/segam2021-3576626.1",
-      "title": "Realistic modeling of surface seismic and VSP using DAS with straight and shaped fibers of variable gauge length",
-      "display_name": "Realistic modeling of surface seismic and VSP using DAS with straight and shaped fibers of variable gauge length",
-      "publication_year": 2021,
-      "publication_date": "2021-09-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3196463747",
-        "doi": "https://doi.org/10.1190/segam2021-3576626.1",
-        "mag": "3196463747"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1190/segam2021-3576626.1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1190/segam2021-3576626.1",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "First International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
-        "raw_type": "proceedings-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5033742122",
-            "display_name": "Anton Egorov",
-            "orcid": "https://orcid.org/0000-0001-9139-6191"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Anton Egorov",
-          "raw_affiliation_strings": [
-            "Aramco Innovations LLC"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Aramco Innovations LLC",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5025950100",
-            "display_name": "Marwan Charara",
-            "orcid": "https://orcid.org/0000-0002-8343-5135"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Marwan Charara",
-          "raw_affiliation_strings": [
-            "Aramco Innovations LLC"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Aramco Innovations LLC",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5052123503",
-            "display_name": "Ezzedeen Alfataierge",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ezzedeen Alfataierge",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5067998463",
-            "display_name": "Andrey Bakulin",
-            "orcid": "https://orcid.org/0000-0002-6638-7821"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Andrey Bakulin",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.13484386,
-      "has_fulltext": false,
-      "cited_by_count": 9,
-      "citation_normalized_percentile": {
-        "value": 0.76744606,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 97
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "437",
-        "last_page": "441"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11757",
-        "display_name": "Seismic Waves and Analysis",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9962999820709229,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5376878976821899
-        },
-        {
-          "id": "https://openalex.org/keywords/smoothing",
-          "display_name": "Smoothing",
-          "score": 0.5083901286125183
-        },
-        {
-          "id": "https://openalex.org/keywords/borehole",
-          "display_name": "Borehole",
-          "score": 0.4926169514656067
-        },
-        {
-          "id": "https://openalex.org/keywords/variable",
-          "display_name": "Variable (mathematics)",
-          "score": 0.4799059331417084
-        },
-        {
-          "id": "https://openalex.org/keywords/interpolation",
-          "display_name": "Interpolation (computer graphics)",
-          "score": 0.47354501485824585
-        },
-        {
-          "id": "https://openalex.org/keywords/sensitivity",
-          "display_name": "Sensitivity (control systems)",
-          "score": 0.46148887276649475
-        },
-        {
-          "id": "https://openalex.org/keywords/sampling",
-          "display_name": "Sampling (signal processing)",
-          "score": 0.45443055033683777
-        },
-        {
-          "id": "https://openalex.org/keywords/energy",
-          "display_name": "Energy (signal processing)",
-          "score": 0.4247955083847046
-        },
-        {
-          "id": "https://openalex.org/keywords/gauge",
-          "display_name": "Gauge (firearms)",
-          "score": 0.4196087121963501
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.3840874433517456
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.35770314931869507
-        },
-        {
-          "id": "https://openalex.org/keywords/acoustics",
-          "display_name": "Acoustics",
-          "score": 0.335440993309021
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.20980721712112427
-        },
-        {
-          "id": "https://openalex.org/keywords/telecommunications",
-          "display_name": "Telecommunications",
-          "score": 0.15879175066947937
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.14011386036872864
-        },
-        {
-          "id": "https://openalex.org/keywords/electronic-engineering",
-          "display_name": "Electronic engineering",
-          "score": 0.13509529829025269
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.10071402788162231
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.09693571925163269
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.08123290538787842
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.07981064915657043
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5376878976821899
-        },
-        {
-          "id": "https://openalex.org/C3770464",
-          "wikidata": "https://www.wikidata.org/wiki/Q775963",
-          "display_name": "Smoothing",
-          "level": 2,
-          "score": 0.5083901286125183
-        },
-        {
-          "id": "https://openalex.org/C150560799",
-          "wikidata": "https://www.wikidata.org/wiki/Q502102",
-          "display_name": "Borehole",
-          "level": 2,
-          "score": 0.4926169514656067
-        },
-        {
-          "id": "https://openalex.org/C182365436",
-          "wikidata": "https://www.wikidata.org/wiki/Q50701",
-          "display_name": "Variable (mathematics)",
-          "level": 2,
-          "score": 0.4799059331417084
-        },
-        {
-          "id": "https://openalex.org/C137800194",
-          "wikidata": "https://www.wikidata.org/wiki/Q11713455",
-          "display_name": "Interpolation (computer graphics)",
-          "level": 3,
-          "score": 0.47354501485824585
-        },
-        {
-          "id": "https://openalex.org/C21200559",
-          "wikidata": "https://www.wikidata.org/wiki/Q7451068",
-          "display_name": "Sensitivity (control systems)",
-          "level": 2,
-          "score": 0.46148887276649475
-        },
-        {
-          "id": "https://openalex.org/C140779682",
-          "wikidata": "https://www.wikidata.org/wiki/Q210868",
-          "display_name": "Sampling (signal processing)",
-          "level": 3,
-          "score": 0.45443055033683777
-        },
-        {
-          "id": "https://openalex.org/C186370098",
-          "wikidata": "https://www.wikidata.org/wiki/Q442787",
-          "display_name": "Energy (signal processing)",
-          "level": 2,
-          "score": 0.4247955083847046
-        },
-        {
-          "id": "https://openalex.org/C40976572",
-          "wikidata": "https://www.wikidata.org/wiki/Q2330873",
-          "display_name": "Gauge (firearms)",
-          "level": 2,
-          "score": 0.4196087121963501
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.3840874433517456
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.35770314931869507
-        },
-        {
-          "id": "https://openalex.org/C24890656",
-          "wikidata": "https://www.wikidata.org/wiki/Q82811",
-          "display_name": "Acoustics",
-          "level": 1,
-          "score": 0.335440993309021
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.20980721712112427
-        },
-        {
-          "id": "https://openalex.org/C76155785",
-          "wikidata": "https://www.wikidata.org/wiki/Q418",
-          "display_name": "Telecommunications",
-          "level": 1,
-          "score": 0.15879175066947937
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.14011386036872864
-        },
-        {
-          "id": "https://openalex.org/C24326235",
-          "wikidata": "https://www.wikidata.org/wiki/Q126095",
-          "display_name": "Electronic engineering",
-          "level": 1,
-          "score": 0.13509529829025269
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.10071402788162231
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.09693571925163269
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.08123290538787842
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.07981064915657043
-        },
-        {
-          "id": "https://openalex.org/C31972630",
-          "wikidata": "https://www.wikidata.org/wiki/Q844240",
-          "display_name": "Computer vision",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C134306372",
-          "wikidata": "https://www.wikidata.org/wiki/Q7754",
-          "display_name": "Mathematical analysis",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C94915269",
-          "wikidata": "https://www.wikidata.org/wiki/Q1834857",
-          "display_name": "Detector",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C126042441",
-          "wikidata": "https://www.wikidata.org/wiki/Q1324888",
-          "display_name": "Frame (networking)",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1190/segam2021-3576626.1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1190/segam2021-3576626.1",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "First International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "referenced_works_count": 16,
-      "referenced_works": [
-        "https://openalex.org/W3022312138",
-        "https://openalex.org/W3094660067",
-        "https://openalex.org/W2313508352",
-        "https://openalex.org/W2487692127",
-        "https://openalex.org/W3048737892",
-        "https://openalex.org/W2792303961",
-        "https://openalex.org/W2041778458",
-        "https://openalex.org/W1994874700",
-        "https://openalex.org/W2746732126",
-        "https://openalex.org/W2616881381",
-        "https://openalex.org/W2111327087",
-        "https://openalex.org/W1900713400",
-        "https://openalex.org/W2800943384",
-        "https://openalex.org/W2146625715",
-        "https://openalex.org/W2748092486",
-        "https://openalex.org/W3124656392"
-      ],
-      "related_works": [
-        "https://openalex.org/W2382164616",
-        "https://openalex.org/W2375236835",
-        "https://openalex.org/W2388470518",
-        "https://openalex.org/W1972422314",
-        "https://openalex.org/W2534908930",
-        "https://openalex.org/W2334011004",
-        "https://openalex.org/W3002610800",
-        "https://openalex.org/W2388544642",
-        "https://openalex.org/W1807313583",
-        "https://openalex.org/W4389342940"
-      ],
-      "abstract_inverted_index": {
-        "There": [
-          0
-        ],
-        "is": [
-          1
-        ],
-        "a": [
-          2,
-          56,
-          110
-        ],
-        "rising": [
-          3
-        ],
-        "demand": [
-          4
-        ],
-        "for": [
-          5,
-          22,
-          118
-        ],
-        "distributed": [
-          6
-        ],
-        "acoustic": [
-          7
-        ],
-        "sensing": [
-          8
-        ],
-        "(DAS)": [
-          9
-        ],
-        "in": [
-          10,
-          109
-        ],
-        "exploration": [
-          11
-        ],
-        "and": [
-          12,
-          68,
-          103,
-          120,
-          127
-        ],
-        "developmental": [
-          13
-        ],
-        "geophysics.": [
-          14
-        ],
-        "DAS": [
-          15,
-          52,
-          72,
-          115
-        ],
-        "has": [
-          16
-        ],
-        "several": [
-          17
-        ],
-        "advantages": [
-          18
-        ],
-        "over": [
-          19
-        ],
-        "conventional": [
-          20,
-          133
-        ],
-        "sensors,": [
-          21
-        ],
-        "example,": [
-          23
-        ],
-        "fine": [
-          24,
-          89
-        ],
-        "spatial": [
-          25,
-          90
-        ],
-        "sampling,": [
-          26
-        ],
-        "wide": [
-          27
-        ],
-        "frequency": [
-          28
-        ],
-        "range,": [
-          29
-        ],
-        "relative": [
-          30
-        ],
-        "ease": [
-          31
-        ],
-        "of": [
-          32,
-          39,
-          51,
-          76,
-          100
-        ],
-        "permanent": [
-          33
-        ],
-        "downhole": [
-          34
-        ],
-        "deployment.": [
-          35
-        ],
-        "A": [
-          36
-        ],
-        "few": [
-          37
-        ],
-        "examples": [
-          38
-        ],
-        "using": [
-          40
-        ],
-        "shaped": [
-          41,
-          101
-        ],
-        "cables": [
-          42,
-          70
-        ],
-        "were": [
-          43
-        ],
-        "recently": [
-          44
-        ],
-        "presented,": [
-          45
-        ],
-        "which": [
-          46
-        ],
-        "improve": [
-          47
-        ],
-        "the": [
-          48,
-          62,
-          98,
-          104,
-          131
-        ],
-        "broadside": [
-          49
-        ],
-        "sensitivity": [
-          50
-        ],
-        "systems.": [
-          53,
-          73
-        ],
-        "We": [
-          54,
-          113
-        ],
-        "present": [
-          55
-        ],
-        "pseudospectral": [
-          57
-        ],
-        "algorithm": [
-          58
-        ],
-        "that": [
-          59
-        ],
-        "can": [
-          60
-        ],
-        "model": [
-          61,
-          114
-        ],
-        "seismic": [
-          63,
-          116,
-          122
-        ],
-        "gathers": [
-          64,
-          117
-        ],
-        "acquired": [
-          65
-        ],
-        "with": [
-          66,
-          71,
-          88
-        ],
-        "straight": [
-          67
-        ],
-        "helical": [
-          69
-        ],
-        "The": [
-          74,
-          92
-        ],
-        "use": [
-          75
-        ],
-        "an": [
-          77
-        ],
-        "accurate": [
-          78
-        ],
-        "wavefield": [
-          79
-        ],
-        "interpolation": [
-          80
-        ],
-        "technique": [
-          81
-        ],
-        "allows": [
-          82
-        ],
-        "us": [
-          83
-        ],
-        "to": [
-          84,
-          130
-        ],
-        "obtain": [
-          85
-        ],
-        "synthetic": [
-          86
-        ],
-        "wavefields": [
-          87
-        ],
-        "sampling.": [
-          91
-        ],
-        "fit-for-purpose": [
-          93
-        ],
-        "strain": [
-          94
-        ],
-        "averaging": [
-          95
-        ],
-        "methodology": [
-          96
-        ],
-        "models": [
-          97
-        ],
-        "response": [
-          99
-        ],
-        "fibers": [
-          102
-        ],
-        "gauge": [
-          105
-        ],
-        "length's": [
-          106
-        ],
-        "smoothing": [
-          107
-        ],
-        "effect": [
-          108
-        ],
-        "consistent": [
-          111
-        ],
-        "manner.": [
-          112
-        ],
-        "surface": [
-          119
-        ],
-        "borehole": [
-          121
-        ],
-        "acquisitions,": [
-          123
-        ],
-        "examine": [
-          124
-        ],
-        "their": [
-          125
-        ],
-        "properties,": [
-          126
-        ],
-        "compare": [
-          128
-        ],
-        "them": [
-          129
-        ],
-        "more": [
-          132
-        ],
-        "particle": [
-          134
-        ],
-        "velocity": [
-          135
-        ],
-        "recordings.": [
-          136
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W3090541542",
       "doi": "https://doi.org/10.1190/segam2020-3419066.1",
       "title": "Influence of gauge length on DAS VSP data at the Houston Research Center test well",
@@ -5045,7 +4261,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
             "Saudi Aramco EXPEC Advanced Research Center"
@@ -5210,15 +4426,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5052123503"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 1.16126043,
       "has_fulltext": false,
-      "cited_by_count": 8,
+      "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.77486419,
+        "value": 0.77468555,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5454,8 +4674,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 6,
       "referenced_works": [
@@ -5937,6 +5157,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
           "year": 2024,
           "cited_by_count": 1
         },
@@ -5951,6 +5175,995 @@
         {
           "year": 2021,
           "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3196463747",
+      "doi": "https://doi.org/10.1190/segam2021-3576626.1",
+      "title": "Realistic modeling of surface seismic and VSP using DAS with straight and shaped fibers of variable gauge length",
+      "display_name": "Realistic modeling of surface seismic and VSP using DAS with straight and shaped fibers of variable gauge length",
+      "publication_year": 2021,
+      "publication_date": "2021-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3196463747",
+        "doi": "https://doi.org/10.1190/segam2021-3576626.1",
+        "mag": "3196463747"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1190/segam2021-3576626.1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1190/segam2021-3576626.1",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "First International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5033742122",
+            "display_name": "Anton Egorov",
+            "orcid": "https://orcid.org/0000-0001-9139-6191"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Anton Egorov",
+          "raw_affiliation_strings": [
+            "Aramco Innovations LLC"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Aramco Innovations LLC",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5025950100",
+            "display_name": "Marwan Charara",
+            "orcid": "https://orcid.org/0000-0002-8343-5135"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Marwan Charara",
+          "raw_affiliation_strings": [
+            "Aramco Innovations LLC"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Aramco Innovations LLC",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5052123503",
+            "display_name": "Ezzedeen Alfataierge",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ezzedeen Alfataierge",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5067998463",
+            "display_name": "Andrey Bakulin",
+            "orcid": "https://orcid.org/0000-0002-6638-7821"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrey Bakulin",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5033742122"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.13484386,
+      "has_fulltext": false,
+      "cited_by_count": 9,
+      "citation_normalized_percentile": {
+        "value": 0.76808855,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 97
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "437",
+        "last_page": "441"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11757",
+        "display_name": "Seismic Waves and Analysis",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10892",
+          "display_name": "Drilling and Well Engineering",
+          "score": 0.9962999820709229,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5376878976821899
+        },
+        {
+          "id": "https://openalex.org/keywords/smoothing",
+          "display_name": "Smoothing",
+          "score": 0.5083901286125183
+        },
+        {
+          "id": "https://openalex.org/keywords/borehole",
+          "display_name": "Borehole",
+          "score": 0.4926169514656067
+        },
+        {
+          "id": "https://openalex.org/keywords/variable",
+          "display_name": "Variable (mathematics)",
+          "score": 0.4799059331417084
+        },
+        {
+          "id": "https://openalex.org/keywords/interpolation",
+          "display_name": "Interpolation (computer graphics)",
+          "score": 0.47354501485824585
+        },
+        {
+          "id": "https://openalex.org/keywords/sensitivity",
+          "display_name": "Sensitivity (control systems)",
+          "score": 0.46148887276649475
+        },
+        {
+          "id": "https://openalex.org/keywords/sampling",
+          "display_name": "Sampling (signal processing)",
+          "score": 0.45443055033683777
+        },
+        {
+          "id": "https://openalex.org/keywords/energy",
+          "display_name": "Energy (signal processing)",
+          "score": 0.4247955083847046
+        },
+        {
+          "id": "https://openalex.org/keywords/gauge",
+          "display_name": "Gauge (firearms)",
+          "score": 0.4196087121963501
+        },
+        {
+          "id": "https://openalex.org/keywords/seismology",
+          "display_name": "Seismology",
+          "score": 0.3840874433517456
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.35770314931869507
+        },
+        {
+          "id": "https://openalex.org/keywords/acoustics",
+          "display_name": "Acoustics",
+          "score": 0.335440993309021
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.20980721712112427
+        },
+        {
+          "id": "https://openalex.org/keywords/telecommunications",
+          "display_name": "Telecommunications",
+          "score": 0.15879175066947937
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.14011386036872864
+        },
+        {
+          "id": "https://openalex.org/keywords/electronic-engineering",
+          "display_name": "Electronic engineering",
+          "score": 0.13509529829025269
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.10071402788162231
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.09693571925163269
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.08123290538787842
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.07981064915657043
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5376878976821899
+        },
+        {
+          "id": "https://openalex.org/C3770464",
+          "wikidata": "https://www.wikidata.org/wiki/Q775963",
+          "display_name": "Smoothing",
+          "level": 2,
+          "score": 0.5083901286125183
+        },
+        {
+          "id": "https://openalex.org/C150560799",
+          "wikidata": "https://www.wikidata.org/wiki/Q502102",
+          "display_name": "Borehole",
+          "level": 2,
+          "score": 0.4926169514656067
+        },
+        {
+          "id": "https://openalex.org/C182365436",
+          "wikidata": "https://www.wikidata.org/wiki/Q50701",
+          "display_name": "Variable (mathematics)",
+          "level": 2,
+          "score": 0.4799059331417084
+        },
+        {
+          "id": "https://openalex.org/C137800194",
+          "wikidata": "https://www.wikidata.org/wiki/Q11713455",
+          "display_name": "Interpolation (computer graphics)",
+          "level": 3,
+          "score": 0.47354501485824585
+        },
+        {
+          "id": "https://openalex.org/C21200559",
+          "wikidata": "https://www.wikidata.org/wiki/Q7451068",
+          "display_name": "Sensitivity (control systems)",
+          "level": 2,
+          "score": 0.46148887276649475
+        },
+        {
+          "id": "https://openalex.org/C140779682",
+          "wikidata": "https://www.wikidata.org/wiki/Q210868",
+          "display_name": "Sampling (signal processing)",
+          "level": 3,
+          "score": 0.45443055033683777
+        },
+        {
+          "id": "https://openalex.org/C186370098",
+          "wikidata": "https://www.wikidata.org/wiki/Q442787",
+          "display_name": "Energy (signal processing)",
+          "level": 2,
+          "score": 0.4247955083847046
+        },
+        {
+          "id": "https://openalex.org/C40976572",
+          "wikidata": "https://www.wikidata.org/wiki/Q2330873",
+          "display_name": "Gauge (firearms)",
+          "level": 2,
+          "score": 0.4196087121963501
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.3840874433517456
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.35770314931869507
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0.335440993309021
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.20980721712112427
+        },
+        {
+          "id": "https://openalex.org/C76155785",
+          "wikidata": "https://www.wikidata.org/wiki/Q418",
+          "display_name": "Telecommunications",
+          "level": 1,
+          "score": 0.15879175066947937
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.14011386036872864
+        },
+        {
+          "id": "https://openalex.org/C24326235",
+          "wikidata": "https://www.wikidata.org/wiki/Q126095",
+          "display_name": "Electronic engineering",
+          "level": 1,
+          "score": 0.13509529829025269
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.10071402788162231
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.09693571925163269
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.08123290538787842
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.07981064915657043
+        },
+        {
+          "id": "https://openalex.org/C31972630",
+          "wikidata": "https://www.wikidata.org/wiki/Q844240",
+          "display_name": "Computer vision",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C134306372",
+          "wikidata": "https://www.wikidata.org/wiki/Q7754",
+          "display_name": "Mathematical analysis",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C94915269",
+          "wikidata": "https://www.wikidata.org/wiki/Q1834857",
+          "display_name": "Detector",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C126042441",
+          "wikidata": "https://www.wikidata.org/wiki/Q1324888",
+          "display_name": "Frame (networking)",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1190/segam2021-3576626.1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1190/segam2021-3576626.1",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "First International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 16,
+      "referenced_works": [
+        "https://openalex.org/W3022312138",
+        "https://openalex.org/W3094660067",
+        "https://openalex.org/W2313508352",
+        "https://openalex.org/W2487692127",
+        "https://openalex.org/W3048737892",
+        "https://openalex.org/W2792303961",
+        "https://openalex.org/W2041778458",
+        "https://openalex.org/W1994874700",
+        "https://openalex.org/W2746732126",
+        "https://openalex.org/W2616881381",
+        "https://openalex.org/W2111327087",
+        "https://openalex.org/W1900713400",
+        "https://openalex.org/W2800943384",
+        "https://openalex.org/W2146625715",
+        "https://openalex.org/W2748092486",
+        "https://openalex.org/W3124656392"
+      ],
+      "related_works": [
+        "https://openalex.org/W2382164616",
+        "https://openalex.org/W2375236835",
+        "https://openalex.org/W2388470518",
+        "https://openalex.org/W1972422314",
+        "https://openalex.org/W2534908930",
+        "https://openalex.org/W2334011004",
+        "https://openalex.org/W3002610800",
+        "https://openalex.org/W2388544642",
+        "https://openalex.org/W1807313583",
+        "https://openalex.org/W4389342940"
+      ],
+      "abstract_inverted_index": {
+        "There": [
+          0
+        ],
+        "is": [
+          1
+        ],
+        "a": [
+          2,
+          56,
+          110
+        ],
+        "rising": [
+          3
+        ],
+        "demand": [
+          4
+        ],
+        "for": [
+          5,
+          22,
+          118
+        ],
+        "distributed": [
+          6
+        ],
+        "acoustic": [
+          7
+        ],
+        "sensing": [
+          8
+        ],
+        "(DAS)": [
+          9
+        ],
+        "in": [
+          10,
+          109
+        ],
+        "exploration": [
+          11
+        ],
+        "and": [
+          12,
+          68,
+          103,
+          120,
+          127
+        ],
+        "developmental": [
+          13
+        ],
+        "geophysics.": [
+          14
+        ],
+        "DAS": [
+          15,
+          52,
+          72,
+          115
+        ],
+        "has": [
+          16
+        ],
+        "several": [
+          17
+        ],
+        "advantages": [
+          18
+        ],
+        "over": [
+          19
+        ],
+        "conventional": [
+          20,
+          133
+        ],
+        "sensors,": [
+          21
+        ],
+        "example,": [
+          23
+        ],
+        "fine": [
+          24,
+          89
+        ],
+        "spatial": [
+          25,
+          90
+        ],
+        "sampling,": [
+          26
+        ],
+        "wide": [
+          27
+        ],
+        "frequency": [
+          28
+        ],
+        "range,": [
+          29
+        ],
+        "relative": [
+          30
+        ],
+        "ease": [
+          31
+        ],
+        "of": [
+          32,
+          39,
+          51,
+          76,
+          100
+        ],
+        "permanent": [
+          33
+        ],
+        "downhole": [
+          34
+        ],
+        "deployment.": [
+          35
+        ],
+        "A": [
+          36
+        ],
+        "few": [
+          37
+        ],
+        "examples": [
+          38
+        ],
+        "using": [
+          40
+        ],
+        "shaped": [
+          41,
+          101
+        ],
+        "cables": [
+          42,
+          70
+        ],
+        "were": [
+          43
+        ],
+        "recently": [
+          44
+        ],
+        "presented,": [
+          45
+        ],
+        "which": [
+          46
+        ],
+        "improve": [
+          47
+        ],
+        "the": [
+          48,
+          62,
+          98,
+          104,
+          131
+        ],
+        "broadside": [
+          49
+        ],
+        "sensitivity": [
+          50
+        ],
+        "systems.": [
+          53,
+          73
+        ],
+        "We": [
+          54,
+          113
+        ],
+        "present": [
+          55
+        ],
+        "pseudospectral": [
+          57
+        ],
+        "algorithm": [
+          58
+        ],
+        "that": [
+          59
+        ],
+        "can": [
+          60
+        ],
+        "model": [
+          61,
+          114
+        ],
+        "seismic": [
+          63,
+          116,
+          122
+        ],
+        "gathers": [
+          64,
+          117
+        ],
+        "acquired": [
+          65
+        ],
+        "with": [
+          66,
+          71,
+          88
+        ],
+        "straight": [
+          67
+        ],
+        "helical": [
+          69
+        ],
+        "The": [
+          74,
+          92
+        ],
+        "use": [
+          75
+        ],
+        "an": [
+          77
+        ],
+        "accurate": [
+          78
+        ],
+        "wavefield": [
+          79
+        ],
+        "interpolation": [
+          80
+        ],
+        "technique": [
+          81
+        ],
+        "allows": [
+          82
+        ],
+        "us": [
+          83
+        ],
+        "to": [
+          84,
+          130
+        ],
+        "obtain": [
+          85
+        ],
+        "synthetic": [
+          86
+        ],
+        "wavefields": [
+          87
+        ],
+        "sampling.": [
+          91
+        ],
+        "fit-for-purpose": [
+          93
+        ],
+        "strain": [
+          94
+        ],
+        "averaging": [
+          95
+        ],
+        "methodology": [
+          96
+        ],
+        "models": [
+          97
+        ],
+        "response": [
+          99
+        ],
+        "fibers": [
+          102
+        ],
+        "gauge": [
+          105
+        ],
+        "length's": [
+          106
+        ],
+        "smoothing": [
+          107
+        ],
+        "effect": [
+          108
+        ],
+        "consistent": [
+          111
+        ],
+        "manner.": [
+          112
+        ],
+        "surface": [
+          119
+        ],
+        "borehole": [
+          121
+        ],
+        "acquisitions,": [
+          123
+        ],
+        "examine": [
+          124
+        ],
+        "their": [
+          125
+        ],
+        "properties,": [
+          126
+        ],
+        "compare": [
+          128
+        ],
+        "them": [
+          129
+        ],
+        "more": [
+          132
+        ],
+        "particle": [
+          134
+        ],
+        "velocity": [
+          135
+        ],
+        "recordings.": [
+          136
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -6017,7 +6230,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Vladimir Kazei",
           "raw_affiliation_strings": [
             "Aramco Services Company"
@@ -6146,15 +6359,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5006480587"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.97272331,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.74255966,
+        "value": 0.74325054,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6412,8 +6629,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 19,
       "referenced_works": [
@@ -6870,7 +7087,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Andrey Bakulin",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -6961,8 +7178,12 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5067998463"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 3.16942149,
@@ -7168,8 +7389,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -7709,7 +7930,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
             "University of Houston, Saudi Aramco"
@@ -7718,8 +7939,8 @@
             {
               "raw_affiliation_string": "University of Houston, Saudi Aramco",
               "institution_ids": [
-                "https://openalex.org/I44461941",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I44461941"
               ]
             }
           ]
@@ -7800,15 +8021,20 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5052123503"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769",
+        "https://openalex.org/I44461941"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 3.06084576,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.90400635,
+        "value": 0.90395873,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8097,8 +8323,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 3,
       "referenced_works": [
@@ -8957,7 +9183,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "P. Golikov",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco"
@@ -9085,15 +9311,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5015911545"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.76632866,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.72551909,
+        "value": 0.7203406,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9386,8 +9616,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -9714,7 +9944,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco"
@@ -9843,15 +10073,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5052123503"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 1.2775571,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.81119507,
+        "value": 0.80607045,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10025,8 +10259,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 7,
       "referenced_works": [
@@ -10121,7 +10355,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -10250,15 +10484,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5052123503"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.34538381,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.59572468,
+        "value": 0.59671516,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10415,8 +10653,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -10883,16 +11121,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -10902,13 +11130,23 @@
                 "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
+            },
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
             }
           ],
           "countries": [
             "SA",
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "A. Ramdani",
           "raw_affiliation_strings": [
             "EXPEC Advanced Research Center, Saudi Aramco",
@@ -11044,15 +11282,20 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5027711423"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769",
+        "https://openalex.org/I71920554"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.43421651,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.62193686,
+        "value": 0.61626294,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11380,8 +11623,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -11873,7 +12116,7 @@
             "SA",
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "A. Ramdani",
           "raw_affiliation_strings": [
             "Geophysical Technology Division, EXPEC Advanced Research Center, Saudi Aramco",
@@ -11881,15 +12124,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "King Abdullah University of Science and Technology",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
               "raw_affiliation_string": "Geophysical Technology Division, EXPEC Advanced Research Center, Saudi Aramco",
               "institution_ids": [
                 "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Abdullah University of Science and Technology",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
               ]
             }
           ]
@@ -12008,15 +12251,20 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5027711423"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I71920554",
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 1.31910614,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.80446346,
+        "value": 0.79950016,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12299,8 +12547,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -12582,7 +12830,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
             "University of Houston"
@@ -12672,15 +12920,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5052123503"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I44461941"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.09057663,
+        "value": 0.09018476,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12856,8 +13108,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 4,
       "referenced_works": [
@@ -13324,7 +13576,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Andrey Bakulin",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -13421,15 +13673,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5067998463"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.50914015,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.51455026,
+        "value": 0.51031746,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13728,8 +13984,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 5,
       "referenced_works": [
@@ -14229,7 +14485,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "A. AlDawood",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -14358,15 +14614,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5102799927"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.33907927,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.55201849,
+        "value": 0.55002309,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14728,8 +14988,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -15169,6 +15429,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -15178,22 +15448,12 @@
                 "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
-            },
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
             }
           ],
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
             "University of Houston, Saudi Aramco"
@@ -15202,8 +15462,8 @@
             {
               "raw_affiliation_string": "University of Houston, Saudi Aramco",
               "institution_ids": [
-                "https://openalex.org/I44461941",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I44461941"
               ]
             }
           ]
@@ -15320,15 +15580,20 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5052123503"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I44461941",
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.61216915,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.53232844,
+        "value": 0.53239409,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15679,8 +15944,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 5,
       "referenced_works": [
@@ -16604,8 +16869,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Y. Jin",
+          "is_corresponding": true,
+          "raw_author_name": "Yan Jin",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -16619,7 +16884,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "N. Dyaur",
+          "raw_author_name": "Nikolay Dyaur",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -16633,7 +16898,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "E. Alfataierge",
+          "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -16647,7 +16912,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Y. Zheng",
+          "raw_author_name": "Yiming Zheng",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -16655,7 +16920,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5007118645"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -16663,7 +16930,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24694497,
+        "value": 0.24610732,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16835,8 +17102,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -16912,7 +17179,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
-          "raw_author_name": "Ezzedeen Osama M. Alfataierge",
+          "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -17223,8 +17490,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -17328,7 +17595,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "A. Egorov",
           "raw_affiliation_strings": [
             "Aramco Research Center"
@@ -17493,15 +17760,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5033742122"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1319896,
+        "value": 0.1313394,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17826,8 +18097,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -18183,7 +18454,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "A. AlDawood",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -18312,15 +18583,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5102799927"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15101085,
+        "value": 0.14983834,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18479,8 +18754,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -18646,7 +18921,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "A. Bakulin",
           "raw_affiliation_strings": [
             "Bureau of Economic Geology, Jackson School of Geosciences, The University of Texas at Austin"
@@ -18739,15 +19014,20 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5067998463"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1288783943",
+        "https://openalex.org/I86519309"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11373974,
+        "value": 0.10838932,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19029,8 +19309,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -19602,17 +19882,37 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdulrahman Alshuhail",
           "raw_affiliation_strings": [
+            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com.",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -19630,6 +19930,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -19641,14 +19952,23 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Constantinos Tsingas",
           "raw_affiliation_strings": [
+            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com.",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -19666,6 +19986,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -19677,14 +20008,23 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
+            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com.",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -19710,17 +20050,37 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Daniele Colombo",
           "raw_affiliation_strings": [
+            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com.",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -19746,17 +20106,37 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Abdulmohsen Alali",
           "raw_affiliation_strings": [
+            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com.",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: abdulrahman.shuhail@aramco.com; constantinos.tsingas@aramco.com; ezzedeen.alfataierge@aramco.com; daniele.colombo@aramco.com; alali_87@outlook.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -19767,17 +20147,22 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5089898416"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841",
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14477321,
+        "value": 0.13255778,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20090,8 +20475,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 7,
       "referenced_works": [
@@ -20548,7 +20933,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Y. Alshaheen",
           "raw_affiliation_strings": [
             "EXPEC ARC, Saudi Aramco"
@@ -20677,15 +21062,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5119130299"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38312245,
+        "value": 0.33158339,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20847,8 +21236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -20929,7 +21318,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "A. AlDawood",
           "raw_affiliation_strings": [
             "Aramco"
@@ -21021,15 +21410,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5102799927"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.31460403,
+        "value": 0.27588591,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21148,8 +21541,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -21250,12 +21643,19 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Vladimir Kazei",
           "raw_affiliation_strings": [
+            "1Aramco Americas, Houston Research Center, Houston, Texas, USA. E-mail: vladimir.kazei@aramcoamericas.com.",
             "Aramco Americas, Houston Research Center, Houston, Texas, USA.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1Aramco Americas, Houston Research Center, Houston, Texas, USA. E-mail: vladimir.kazei@aramcoamericas.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Aramco Americas, Houston Research Center, Houston, Texas, USA..",
               "institution_ids": [
@@ -21273,6 +21673,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -21284,14 +21695,23 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Nour Alzamil",
           "raw_affiliation_strings": [
+            "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com.",
             "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -21317,17 +21737,37 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Ali AlDawood",
           "raw_affiliation_strings": [
+            "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com.",
             "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -21353,17 +21793,37 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
+            "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com.",
             "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "2Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia. E-mail: nour.alzamil@aramco.com; ali.dawood.18@aramco.com; ezzedeen.alfataierge@aramco.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769",
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Center, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -21397,9 +21857,16 @@
           "is_corresponding": false,
           "raw_author_name": "Ali Shaiban",
           "raw_affiliation_strings": [
+            "3Saudi Aramco, Dhahran, Saudi Arabia. E-mail: saihat1408@gmail.com.",
             "Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "3Saudi Aramco, Dhahran, Saudi Arabia. E-mail: saihat1408@gmail.com.",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -21412,15 +21879,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5006480587"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38485612,
+        "value": 0.34796418,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21594,8 +22065,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -22165,7 +22636,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Yujin Liu",
           "raw_affiliation_strings": [
             "Aramco Beijing Research Center, Aramco Asia, Beijing, China"
@@ -22289,7 +22760,9 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5019749743"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -22297,7 +22770,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.52758007,
+        "value": 0.45700579,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22406,8 +22879,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 7,
       "referenced_works": [
@@ -22416,8 +22889,8 @@
         "https://openalex.org/W3134096153",
         "https://openalex.org/W2891152328",
         "https://openalex.org/W2968740995",
-        "https://openalex.org/W2181631364",
-        "https://openalex.org/W1756056716"
+        "https://openalex.org/W1756056716",
+        "https://openalex.org/W2181631364"
       ],
       "related_works": [],
       "abstract_inverted_index": {

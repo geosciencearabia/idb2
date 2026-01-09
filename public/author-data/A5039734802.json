@@ -582,7 +582,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -636,15 +636,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.64519086,
       "has_fulltext": false,
-      "cited_by_count": 224,
+      "cited_by_count": 225,
       "citation_normalized_percentile": {
-        "value": 0.73201868,
+        "value": 0.732606,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1016,8 +1020,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 66,
       "referenced_works": [
@@ -1054,39 +1058,39 @@
         "https://openalex.org/W4236216865",
         "https://openalex.org/W1937095371",
         "https://openalex.org/W4210554603",
-        "https://openalex.org/W1785771645",
-        "https://openalex.org/W2257662138",
-        "https://openalex.org/W1982339776",
-        "https://openalex.org/W637695037",
-        "https://openalex.org/W2243426299",
-        "https://openalex.org/W1973082754",
-        "https://openalex.org/W2305072269",
-        "https://openalex.org/W1498877843",
         "https://openalex.org/W2317360713",
         "https://openalex.org/W2069344026",
-        "https://openalex.org/W2318425307",
+        "https://openalex.org/W1915845930",
+        "https://openalex.org/W2074189613",
+        "https://openalex.org/W2087763001",
+        "https://openalex.org/W2257662138",
+        "https://openalex.org/W4285719527",
         "https://openalex.org/W2087852549",
+        "https://openalex.org/W1982339776",
+        "https://openalex.org/W2305072269",
+        "https://openalex.org/W2243426299",
         "https://openalex.org/W1966827689",
-        "https://openalex.org/W2200658242",
-        "https://openalex.org/W1574181895",
+        "https://openalex.org/W1534357174",
+        "https://openalex.org/W1996546531",
         "https://openalex.org/W574363047",
+        "https://openalex.org/W637695037",
+        "https://openalex.org/W1518047447",
+        "https://openalex.org/W1520623586",
+        "https://openalex.org/W1785771645",
+        "https://openalex.org/W2132541490",
         "https://openalex.org/W2198878071",
+        "https://openalex.org/W2200658242",
+        "https://openalex.org/W2105092715",
+        "https://openalex.org/W1498877843",
+        "https://openalex.org/W610540414",
+        "https://openalex.org/W2255427225",
+        "https://openalex.org/W2320364547",
         "https://openalex.org/W2112456255",
         "https://openalex.org/W176469377",
-        "https://openalex.org/W2320364547",
-        "https://openalex.org/W2105092715",
-        "https://openalex.org/W2119626865",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2132541490",
-        "https://openalex.org/W1520623586",
-        "https://openalex.org/W1996546531",
-        "https://openalex.org/W1534357174",
-        "https://openalex.org/W2255427225",
-        "https://openalex.org/W1518047447",
-        "https://openalex.org/W1915845930",
-        "https://openalex.org/W2087763001",
-        "https://openalex.org/W610540414",
-        "https://openalex.org/W2074189613"
+        "https://openalex.org/W2318425307",
+        "https://openalex.org/W1973082754",
+        "https://openalex.org/W1574181895",
+        "https://openalex.org/W2119626865"
       ],
       "related_works": [
         "https://openalex.org/W1536319771",
@@ -1531,6 +1535,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 11
         },
@@ -1654,7 +1662,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Robert F. Lindsay",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -1733,7 +1741,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5086882344"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -1741,7 +1751,7 @@
       "has_fulltext": false,
       "cited_by_count": 76,
       "citation_normalized_percentile": {
-        "value": 0.97329017,
+        "value": 0.97331177,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2000,8 +2010,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -3773,7 +3783,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "P. K. Swart",
           "raw_affiliation_strings": [
             "MGG/RSMAS, 4600 Rickenbacker Causeway, University of Miami, Miami, Florida 33149, U.S.A.;"
@@ -3935,15 +3945,19 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5050486511"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I145608581"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 3.60298885,
       "has_fulltext": false,
       "cited_by_count": 122,
       "citation_normalized_percentile": {
-        "value": 0.96901387,
+        "value": 0.96909288,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4154,59 +4168,59 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
-        "https://openalex.org/W2120278951",
-        "https://openalex.org/W2066113217",
-        "https://openalex.org/W2607243671",
-        "https://openalex.org/W2139015198",
-        "https://openalex.org/W4239752076",
-        "https://openalex.org/W1528229206",
-        "https://openalex.org/W2941825081",
-        "https://openalex.org/W2223610388",
-        "https://openalex.org/W601879019",
-        "https://openalex.org/W2043335551",
-        "https://openalex.org/W2008114507",
-        "https://openalex.org/W2082460606",
-        "https://openalex.org/W2953570489",
-        "https://openalex.org/W1599139640",
-        "https://openalex.org/W1498877843",
-        "https://openalex.org/W623580817",
-        "https://openalex.org/W2080602377",
-        "https://openalex.org/W1975227670",
-        "https://openalex.org/W2062219322",
-        "https://openalex.org/W2052848232",
-        "https://openalex.org/W1531383480",
-        "https://openalex.org/W1991608704",
-        "https://openalex.org/W2130332630",
-        "https://openalex.org/W1968940707",
-        "https://openalex.org/W2305072269",
-        "https://openalex.org/W2178590323",
         "https://openalex.org/W97725961",
-        "https://openalex.org/W2078575433",
-        "https://openalex.org/W2115215976",
-        "https://openalex.org/W1523931230",
+        "https://openalex.org/W2178590323",
         "https://openalex.org/W1552307154",
-        "https://openalex.org/W1551741841",
-        "https://openalex.org/W1548153960",
-        "https://openalex.org/W2139512662",
-        "https://openalex.org/W3010571416",
-        "https://openalex.org/W1991952401",
-        "https://openalex.org/W2090566591",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W2527844842",
-        "https://openalex.org/W1996137722",
         "https://openalex.org/W3110659972",
-        "https://openalex.org/W2019795776",
-        "https://openalex.org/W350278410",
-        "https://openalex.org/W2131622490",
-        "https://openalex.org/W1999964026",
         "https://openalex.org/W1977401328",
+        "https://openalex.org/W2131622490",
+        "https://openalex.org/W2139015198",
+        "https://openalex.org/W1531383480",
+        "https://openalex.org/W2115215976",
+        "https://openalex.org/W2607243671",
+        "https://openalex.org/W1523931230",
+        "https://openalex.org/W1999964026",
+        "https://openalex.org/W1548153960",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2082460606",
+        "https://openalex.org/W1498877843",
+        "https://openalex.org/W3010571416",
+        "https://openalex.org/W2953570489",
+        "https://openalex.org/W1991952401",
+        "https://openalex.org/W2223610388",
+        "https://openalex.org/W2052848232",
         "https://openalex.org/W2081226755",
-        "https://openalex.org/W2064072983"
+        "https://openalex.org/W2527844842",
+        "https://openalex.org/W2062219322",
+        "https://openalex.org/W2019795776",
+        "https://openalex.org/W1975227670",
+        "https://openalex.org/W2305072269",
+        "https://openalex.org/W4239752076",
+        "https://openalex.org/W1968940707",
+        "https://openalex.org/W1996137722",
+        "https://openalex.org/W601879019",
+        "https://openalex.org/W2066113217",
+        "https://openalex.org/W2078575433",
+        "https://openalex.org/W350278410",
+        "https://openalex.org/W2139512662",
+        "https://openalex.org/W1991608704",
+        "https://openalex.org/W2064072983",
+        "https://openalex.org/W2008114507",
+        "https://openalex.org/W2941825081",
+        "https://openalex.org/W1551741841",
+        "https://openalex.org/W2120278951",
+        "https://openalex.org/W2080602377",
+        "https://openalex.org/W623580817",
+        "https://openalex.org/W1528229206",
+        "https://openalex.org/W1599139640",
+        "https://openalex.org/W2043335551",
+        "https://openalex.org/W2130332630",
+        "https://openalex.org/W2090566591"
       ],
       "related_works": [
         "https://openalex.org/W4226020657",
@@ -5391,7 +5405,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "David Cantrell",
           "raw_affiliation_strings": [
             "SAUDI ARABIA Riyadh QATAR BAHRAIN IRAN North"
@@ -5481,15 +5495,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210103399"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 2.95838541,
       "has_fulltext": true,
       "cited_by_count": 112,
       "citation_normalized_percentile": {
-        "value": 0.90908651,
+        "value": 0.90920062,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5772,8 +5790,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 68,
       "referenced_works": [
@@ -5830,21 +5848,21 @@
         "https://openalex.org/W2058304931",
         "https://openalex.org/W2049487263",
         "https://openalex.org/W6629654626",
-        "https://openalex.org/W1998984266",
-        "https://openalex.org/W1531383480",
-        "https://openalex.org/W2001180931",
-        "https://openalex.org/W1858972708",
-        "https://openalex.org/W1498877843",
-        "https://openalex.org/W2127408852",
-        "https://openalex.org/W1969348741",
-        "https://openalex.org/W2937684811",
-        "https://openalex.org/W2139015198",
-        "https://openalex.org/W2132463920",
         "https://openalex.org/W4210554603",
-        "https://openalex.org/W2037789987",
         "https://openalex.org/W1528229206",
+        "https://openalex.org/W1858972708",
+        "https://openalex.org/W2937684811",
         "https://openalex.org/W2120278951",
-        "https://openalex.org/W2068451724"
+        "https://openalex.org/W1969348741",
+        "https://openalex.org/W2001180931",
+        "https://openalex.org/W2132463920",
+        "https://openalex.org/W2127408852",
+        "https://openalex.org/W1998984266",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2139015198",
+        "https://openalex.org/W1531383480",
+        "https://openalex.org/W1498877843",
+        "https://openalex.org/W2037789987"
       ],
       "related_works": [
         "https://openalex.org/W2146999122",
@@ -6711,7 +6729,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "J. C. MITCHELL",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -6776,7 +6794,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5000172249"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -7046,8 +7066,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -7926,8 +7946,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "D. L. Cantrell",
+          "is_corresponding": true,
+          "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -7941,7 +7961,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "P. G. Nicholson",
+          "raw_author_name": "Patrick G. Nicholson",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -7955,7 +7975,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "G. W. Hughes",
+          "raw_author_name": "Geraint W. Hughes",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -7969,7 +7989,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. A. Miller",
+          "raw_author_name": "Mark A. Miller",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -8011,7 +8031,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "A. K. Norton",
+          "raw_author_name": "A. Kent Norton",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -8019,7 +8039,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -8027,7 +8049,7 @@
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.97427628,
+        "value": 0.97432071,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8177,8 +8199,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -8338,12 +8360,19 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Peng Lu",
           "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center Saudi Aramco Dhahran 31311 Saudi Arabia",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco Dhahran 31311 Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
               "institution_ids": [
@@ -8377,9 +8406,16 @@
           "is_corresponding": false,
           "raw_author_name": "Dave Cantrell",
           "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center Saudi Aramco Dhahran 31311 Saudi Arabia",
             "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco Dhahran 31311 Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, 31311, Saudi Arabia",
               "institution_ids": [
@@ -8392,8 +8428,12 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5084753403"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": {
         "value": 4050,
         "currency": "USD",
@@ -8404,7 +8444,7 @@
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.94576732,
+        "value": 0.94600139,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8708,8 +8748,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 97,
       "referenced_works": [
@@ -8797,19 +8837,19 @@
         "https://openalex.org/W2032677315",
         "https://openalex.org/W2027607664",
         "https://openalex.org/W2060587541",
-        "https://openalex.org/W2578772546",
-        "https://openalex.org/W2107127140",
-        "https://openalex.org/W2036864176",
-        "https://openalex.org/W1533729466",
-        "https://openalex.org/W2124390624",
-        "https://openalex.org/W2128369281",
-        "https://openalex.org/W1869293329",
-        "https://openalex.org/W1998984266",
-        "https://openalex.org/W1604035276",
         "https://openalex.org/W2032292073",
+        "https://openalex.org/W1869293329",
+        "https://openalex.org/W2021224134",
+        "https://openalex.org/W2124390624",
+        "https://openalex.org/W1998984266",
+        "https://openalex.org/W1533729466",
+        "https://openalex.org/W1604035276",
+        "https://openalex.org/W2107127140",
         "https://openalex.org/W2764149683",
+        "https://openalex.org/W2036864176",
         "https://openalex.org/W4241868443",
-        "https://openalex.org/W2021224134"
+        "https://openalex.org/W2578772546",
+        "https://openalex.org/W2128369281"
       ],
       "related_works": [
         "https://openalex.org/W2374013430",
@@ -9582,9 +9622,16 @@
           "is_corresponding": true,
           "raw_author_name": "Peter K. Swart",
           "raw_affiliation_strings": [
+            "MGG/RSMAS University of Miami 4600 Rickenbacker Causeway Miami FL 33149 USA",
             "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "MGG/RSMAS University of Miami 4600 Rickenbacker Causeway Miami FL 33149 USA",
+              "institution_ids": [
+                "https://openalex.org/I145608581"
+              ]
+            },
             {
               "raw_affiliation_string": "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA",
               "institution_ids": [
@@ -9610,17 +9657,37 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center Saudi Aramco Dharan 31311 Saudi Arabia",
             "EXPEC Advanced Research Center, Saudi Aramco, Dharan, 31311 Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco Dharan 31311 Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dharan, 31311 Saudi Arabia",
               "institution_ids": [
@@ -9664,10 +9731,24 @@
           "is_corresponding": false,
           "raw_author_name": "Monica M. Arienzo",
           "raw_affiliation_strings": [
+            "Desert Research Institute 2215 Raggio Parkway Reno NV 89512 USA",
+            "MGG/RSMAS University of Miami 4600 Rickenbacker Causeway Miami FL 33149 USA",
             "Desert Research Institute, 2215 Raggio Parkway, Reno, NV, 89512 USA",
             "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Desert Research Institute 2215 Raggio Parkway Reno NV 89512 USA",
+              "institution_ids": [
+                "https://openalex.org/I60138030"
+              ]
+            },
+            {
+              "raw_affiliation_string": "MGG/RSMAS University of Miami 4600 Rickenbacker Causeway Miami FL 33149 USA",
+              "institution_ids": [
+                "https://openalex.org/I145608581"
+              ]
+            },
             {
               "raw_affiliation_string": "Desert Research Institute, 2215 Raggio Parkway, Reno, NV, 89512 USA",
               "institution_ids": [
@@ -9707,9 +9788,16 @@
           "is_corresponding": false,
           "raw_author_name": "Sean T. Murray",
           "raw_affiliation_strings": [
+            "MGG/RSMAS University of Miami 4600 Rickenbacker Causeway Miami FL 33149 USA",
             "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "MGG/RSMAS University of Miami 4600 Rickenbacker Causeway Miami FL 33149 USA",
+              "institution_ids": [
+                "https://openalex.org/I145608581"
+              ]
+            },
             {
               "raw_affiliation_string": "MGG/RSMAS, University of Miami, 4600 Rickenbacker Causeway, Miami, FL, 33149 USA",
               "institution_ids": [
@@ -9738,7 +9826,7 @@
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.86431889,
+        "value": 0.86503079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10086,8 +10174,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -10135,8 +10223,8 @@
         "https://openalex.org/W2005674369",
         "https://openalex.org/W4210554603",
         "https://openalex.org/W195523536",
-        "https://openalex.org/W2102367050",
-        "https://openalex.org/W4239752076"
+        "https://openalex.org/W4239752076",
+        "https://openalex.org/W2102367050"
       ],
       "related_works": [
         "https://openalex.org/W2374013430",
@@ -10751,8 +10839,21 @@
             "display_name": "Dave L. Cantrell",
             "orcid": "https://orcid.org/0000-0003-3118-9769"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I-1",
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": [
+                "https://openalex.org/I-1"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": true,
           "raw_author_name": "D.L. Cantrell",
           "raw_affiliation_strings": [
@@ -10761,12 +10862,14 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
+              "raw_affiliation_string": "Cantrell GeoLogic LLC, Franklin, TN, USA",
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Cantrell GeoLogic LLC, Franklin, TN, USA",
-              "institution_ids": []
+              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I-1"
+              ]
             }
           ]
         },
@@ -10778,6 +10881,16 @@
             "orcid": "https://orcid.org/0000-0002-3052-6391"
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I-1",
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": [
+                "https://openalex.org/I-1"
+              ]
+            },
             {
               "id": "https://openalex.org/I4210118467",
               "display_name": "Houston Independent School District",
@@ -10800,13 +10913,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
               "institution_ids": [
                 "https://openalex.org/I4210118467"
+              ]
+            },
+            {
+              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I-1"
               ]
             }
           ]
@@ -10849,6 +10964,16 @@
               "lineage": [
                 "https://openalex.org/I4210118467"
               ]
+            },
+            {
+              "id": "https://openalex.org/I-1",
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": [
+                "https://openalex.org/I-1"
+              ]
             }
           ],
           "countries": [
@@ -10862,13 +10987,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
               "institution_ids": [
                 "https://openalex.org/I4210118467"
+              ]
+            },
+            {
+              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I-1"
               ]
             }
           ]
@@ -10890,6 +11017,16 @@
               "lineage": [
                 "https://openalex.org/I2802333474"
               ]
+            },
+            {
+              "id": "https://openalex.org/I-1",
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": [
+                "https://openalex.org/I-1"
+              ]
             }
           ],
           "countries": [
@@ -10910,7 +11047,9 @@
             },
             {
               "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I-1"
+              ]
             }
           ]
         },
@@ -10931,6 +11070,16 @@
               "lineage": [
                 "https://openalex.org/I4210118467"
               ]
+            },
+            {
+              "id": "https://openalex.org/I-1",
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": [
+                "https://openalex.org/I-1"
+              ]
             }
           ],
           "countries": [
@@ -10944,13 +11093,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "Independent Consultant, Houston, TX, USA",
               "institution_ids": [
                 "https://openalex.org/I4210118467"
+              ]
+            },
+            {
+              "raw_affiliation_string": "QRI Quantum Reservoir Impact LLC, Houston, TX, USA",
+              "institution_ids": [
+                "https://openalex.org/I-1"
               ]
             }
           ]
@@ -10983,7 +11134,9 @@
       "corresponding_author_ids": [
         "https://openalex.org/A5039734802"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I-1"
+      ],
       "apc_list": {
         "value": 3490,
         "currency": "USD",
@@ -10994,7 +11147,7 @@
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.97352803,
+        "value": 0.97356725,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11266,8 +11419,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 62,
       "referenced_works": [
@@ -11307,32 +11460,32 @@
         "https://openalex.org/W2167454550",
         "https://openalex.org/W2087018781",
         "https://openalex.org/W2200851220",
-        "https://openalex.org/W2140147987",
+        "https://openalex.org/W2125923759",
+        "https://openalex.org/W1560753261",
         "https://openalex.org/W2009220556",
-        "https://openalex.org/W1532967299",
+        "https://openalex.org/W4242413772",
+        "https://openalex.org/W2023502112",
+        "https://openalex.org/W3108897286",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2590919824",
+        "https://openalex.org/W365829125",
         "https://openalex.org/W2119866941",
         "https://openalex.org/W2806558743",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W1514469041",
         "https://openalex.org/W2247188168",
-        "https://openalex.org/W2003451471",
-        "https://openalex.org/W365829125",
-        "https://openalex.org/W4242413772",
-        "https://openalex.org/W2106288237",
-        "https://openalex.org/W948192881",
-        "https://openalex.org/W2081184868",
-        "https://openalex.org/W2125923759",
-        "https://openalex.org/W2590919824",
-        "https://openalex.org/W4214819432",
-        "https://openalex.org/W1560753261",
-        "https://openalex.org/W578079095",
+        "https://openalex.org/W1514469041",
+        "https://openalex.org/W1532967299",
         "https://openalex.org/W2258528414",
         "https://openalex.org/W1988912271",
         "https://openalex.org/W1580687896",
-        "https://openalex.org/W2023502112",
+        "https://openalex.org/W4214819432",
+        "https://openalex.org/W2081184868",
+        "https://openalex.org/W2908306306",
+        "https://openalex.org/W2140147987",
+        "https://openalex.org/W2003451471",
+        "https://openalex.org/W578079095",
         "https://openalex.org/W2531092595",
-        "https://openalex.org/W3108897286",
-        "https://openalex.org/W2908306306"
+        "https://openalex.org/W948192881",
+        "https://openalex.org/W2106288237"
       ],
       "related_works": [
         "https://openalex.org/W2366661441",
@@ -11436,7 +11589,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "C. Robertson Handford",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -11473,7 +11626,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5013547666"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -11481,7 +11636,7 @@
       "has_fulltext": false,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.93832599,
+        "value": 0.93838028,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11753,22 +11908,22 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 11,
       "referenced_works": [
-        "https://openalex.org/W2156954622",
-        "https://openalex.org/W2048410163",
-        "https://openalex.org/W2155104858",
-        "https://openalex.org/W1580287752",
-        "https://openalex.org/W2068451724",
         "https://openalex.org/W3041290506",
         "https://openalex.org/W1498877843",
-        "https://openalex.org/W161332351",
+        "https://openalex.org/W2156954622",
         "https://openalex.org/W1977123972",
-        "https://openalex.org/W1485666651",
-        "https://openalex.org/W2086770948"
+        "https://openalex.org/W2086770948",
+        "https://openalex.org/W2048410163",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2155104858",
+        "https://openalex.org/W161332351",
+        "https://openalex.org/W1580287752",
+        "https://openalex.org/W1485666651"
       ],
       "related_works": [
         "https://openalex.org/W4385784786",
@@ -11954,7 +12109,7 @@
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.06699318,
+        "value": 0.0668701,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12269,8 +12424,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 58,
       "referenced_works": [
@@ -12304,34 +12459,34 @@
         "https://openalex.org/W2031894253",
         "https://openalex.org/W2146281710",
         "https://openalex.org/W4236216865",
-        "https://openalex.org/W2320364547",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W4252816007",
-        "https://openalex.org/W574363047",
-        "https://openalex.org/W2112456255",
-        "https://openalex.org/W3013191529",
-        "https://openalex.org/W617353587",
-        "https://openalex.org/W1997248638",
-        "https://openalex.org/W2118382793",
-        "https://openalex.org/W2105823968",
-        "https://openalex.org/W1552307154",
-        "https://openalex.org/W2121918535",
-        "https://openalex.org/W2138290004",
-        "https://openalex.org/W1543064048",
         "https://openalex.org/W2086770948",
-        "https://openalex.org/W1789645206",
+        "https://openalex.org/W574363047",
         "https://openalex.org/W4210554603",
-        "https://openalex.org/W1492351103",
-        "https://openalex.org/W2489708704",
-        "https://openalex.org/W1498877843",
-        "https://openalex.org/W1968172155",
-        "https://openalex.org/W1832764887",
+        "https://openalex.org/W2121918535",
+        "https://openalex.org/W617353587",
         "https://openalex.org/W2136195355",
+        "https://openalex.org/W2489708704",
+        "https://openalex.org/W2500144445",
+        "https://openalex.org/W1492351103",
+        "https://openalex.org/W1498877843",
         "https://openalex.org/W2135768977",
-        "https://openalex.org/W2600451665",
-        "https://openalex.org/W1518047447",
         "https://openalex.org/W2054829011",
-        "https://openalex.org/W2500144445"
+        "https://openalex.org/W2320364547",
+        "https://openalex.org/W1968172155",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2105823968",
+        "https://openalex.org/W1997248638",
+        "https://openalex.org/W1518047447",
+        "https://openalex.org/W1552307154",
+        "https://openalex.org/W1543064048",
+        "https://openalex.org/W3013191529",
+        "https://openalex.org/W1832764887",
+        "https://openalex.org/W1789645206",
+        "https://openalex.org/W2112456255",
+        "https://openalex.org/W2118382793",
+        "https://openalex.org/W4252816007",
+        "https://openalex.org/W2600451665",
+        "https://openalex.org/W2138290004"
       ],
       "related_works": [
         "https://openalex.org/W2083903711",
@@ -12475,7 +12630,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
@@ -12498,16 +12653,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I28407311",
-              "display_name": "University of Manchester",
-              "ror": "https://ror.org/027m9bs27",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I28407311"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -12515,6 +12660,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I28407311",
+              "display_name": "University of Manchester",
+              "ror": "https://ror.org/027m9bs27",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28407311"
               ]
             }
           ],
@@ -12530,15 +12685,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "School of Earth and Environmental Sciences, University of Manchester, Oxford Road, Manchester M13 9PL, UK",
-              "institution_ids": [
-                "https://openalex.org/I28407311"
-              ]
-            },
-            {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Earth and Environmental Sciences, University of Manchester, Oxford Road, Manchester M13 9PL, UK",
+              "institution_ids": [
+                "https://openalex.org/I28407311"
               ]
             }
           ]
@@ -12619,15 +12774,19 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5085007251"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 4.33440786,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.96775284,
+        "value": 0.96781949,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13023,8 +13182,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 68,
       "referenced_works": [
@@ -13086,16 +13245,16 @@
         "https://openalex.org/W2087280943",
         "https://openalex.org/W2169520319",
         "https://openalex.org/W1762531735",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W1564076024",
         "https://openalex.org/W2921867121",
-        "https://openalex.org/W4234735774",
+        "https://openalex.org/W4239752076",
         "https://openalex.org/W2262466167",
         "https://openalex.org/W2087246217",
-        "https://openalex.org/W4239752076",
         "https://openalex.org/W2063013251",
         "https://openalex.org/W560598676",
-        "https://openalex.org/W4235032634"
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W4235032634",
+        "https://openalex.org/W4234735774",
+        "https://openalex.org/W1564076024"
       ],
       "related_works": [
         "https://openalex.org/W3192243988",
@@ -13988,7 +14147,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Robert F. Lindsay",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -14053,7 +14212,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5086882344"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -14061,7 +14222,7 @@
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.83683386,
+        "value": 0.83723144,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14401,8 +14562,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -15132,16 +15293,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "id": "https://openalex.org/I146416000",
               "display_name": "University of Kansas",
               "ror": "https://ror.org/001tmjg57",
@@ -15149,6 +15300,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I146416000"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
               ]
             }
           ],
@@ -15305,7 +15466,7 @@
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.9599779,
+        "value": 0.95999685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15674,8 +15835,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 64,
       "referenced_works": [
@@ -15733,16 +15894,16 @@
         "https://openalex.org/W6633947182",
         "https://openalex.org/W2068870556",
         "https://openalex.org/W2019374442",
-        "https://openalex.org/W2570131007",
         "https://openalex.org/W2494602570",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W2104659005",
-        "https://openalex.org/W2188088257",
+        "https://openalex.org/W1580287752",
         "https://openalex.org/W587884627",
-        "https://openalex.org/W2269768242",
+        "https://openalex.org/W2188088257",
+        "https://openalex.org/W2104659005",
         "https://openalex.org/W2738760632",
+        "https://openalex.org/W2269768242",
         "https://openalex.org/W1567418253",
-        "https://openalex.org/W1580287752"
+        "https://openalex.org/W2570131007"
       ],
       "related_works": [
         "https://openalex.org/W1617145894",
@@ -15876,7 +16037,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mustafa A. Al Ibrahim",
           "raw_affiliation_strings": [
             "Saudi ARAMCO"
@@ -16001,15 +16162,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5009963240"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 2.97239156,
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.89721369,
+        "value": 0.89795963,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16328,47 +16493,47 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
-        "https://openalex.org/W2228569540",
-        "https://openalex.org/W2041622963",
-        "https://openalex.org/W2944267028",
-        "https://openalex.org/W2110159066",
-        "https://openalex.org/W2065117275",
-        "https://openalex.org/W1988512432",
-        "https://openalex.org/W2033790398",
-        "https://openalex.org/W2109430410",
-        "https://openalex.org/W1608292140",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W2105478611",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W2169964049",
-        "https://openalex.org/W2134746957",
-        "https://openalex.org/W1825260807",
-        "https://openalex.org/W2990128836",
-        "https://openalex.org/W2116736066",
-        "https://openalex.org/W2107163286",
-        "https://openalex.org/W1972721022",
-        "https://openalex.org/W2016381774",
-        "https://openalex.org/W2156433034",
-        "https://openalex.org/W2182971207",
-        "https://openalex.org/W2037063157",
-        "https://openalex.org/W2078540824",
-        "https://openalex.org/W2001156023",
-        "https://openalex.org/W2954735392",
-        "https://openalex.org/W2155051757",
-        "https://openalex.org/W3128966218",
-        "https://openalex.org/W1603391494",
-        "https://openalex.org/W1997248638",
-        "https://openalex.org/W2048410163",
-        "https://openalex.org/W2146844961",
         "https://openalex.org/W3131236843",
+        "https://openalex.org/W2156433034",
+        "https://openalex.org/W1997248638",
+        "https://openalex.org/W2078540824",
+        "https://openalex.org/W1972721022",
+        "https://openalex.org/W2944267028",
+        "https://openalex.org/W2033790398",
+        "https://openalex.org/W2105478611",
+        "https://openalex.org/W2228569540",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W1825260807",
         "https://openalex.org/W2079140419",
+        "https://openalex.org/W3128966218",
+        "https://openalex.org/W2182971207",
+        "https://openalex.org/W2165117122",
+        "https://openalex.org/W2155051757",
+        "https://openalex.org/W2954735392",
+        "https://openalex.org/W2169964049",
+        "https://openalex.org/W2037063157",
         "https://openalex.org/W2095658096",
-        "https://openalex.org/W2165117122"
+        "https://openalex.org/W2016381774",
+        "https://openalex.org/W2041622963",
+        "https://openalex.org/W2107163286",
+        "https://openalex.org/W2116736066",
+        "https://openalex.org/W2048410163",
+        "https://openalex.org/W2109430410",
+        "https://openalex.org/W2134746957",
+        "https://openalex.org/W2990128836",
+        "https://openalex.org/W2065117275",
+        "https://openalex.org/W2001156023",
+        "https://openalex.org/W2110159066",
+        "https://openalex.org/W1603391494",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W1608292140",
+        "https://openalex.org/W2146844961",
+        "https://openalex.org/W1988512432"
       ],
       "related_works": [
         "https://openalex.org/W2356518127",
@@ -17152,15 +17317,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, College of Petroleum Engineering and Geosciences, Geosciences Department, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College London, London SW7 2BP, UK",
               "institution_ids": [
                 "https://openalex.org/I47508984"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, College of Petroleum Engineering and Geosciences, Geosciences Department, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -17238,7 +17403,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.81530119,
+        "value": 0.81542694,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17622,8 +17787,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 74,
       "referenced_works": [
@@ -17680,27 +17845,27 @@
         "https://openalex.org/W2549998901",
         "https://openalex.org/W203584942",
         "https://openalex.org/W2029837300",
-        "https://openalex.org/W67243371",
-        "https://openalex.org/W2107627442",
-        "https://openalex.org/W2912179607",
-        "https://openalex.org/W1552146141",
-        "https://openalex.org/W2001384403",
-        "https://openalex.org/W2128250598",
         "https://openalex.org/W1565182374",
-        "https://openalex.org/W2063118675",
-        "https://openalex.org/W2140364622",
-        "https://openalex.org/W148932376",
-        "https://openalex.org/W2687631996",
-        "https://openalex.org/W1533729466",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2026853797",
-        "https://openalex.org/W2086604122",
-        "https://openalex.org/W4239198781",
-        "https://openalex.org/W2156981346",
-        "https://openalex.org/W1921613879",
         "https://openalex.org/W1966266244",
+        "https://openalex.org/W2026853797",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W1552146141",
+        "https://openalex.org/W67243371",
+        "https://openalex.org/W1921613879",
+        "https://openalex.org/W2001384403",
+        "https://openalex.org/W1533729466",
+        "https://openalex.org/W2156981346",
+        "https://openalex.org/W2140364622",
         "https://openalex.org/W2302654900",
-        "https://openalex.org/W1580287752"
+        "https://openalex.org/W148932376",
+        "https://openalex.org/W2107627442",
+        "https://openalex.org/W2063118675",
+        "https://openalex.org/W2687631996",
+        "https://openalex.org/W1580287752",
+        "https://openalex.org/W2912179607",
+        "https://openalex.org/W2128250598",
+        "https://openalex.org/W2086604122",
+        "https://openalex.org/W4239198781"
       ],
       "related_works": [
         "https://openalex.org/W3036329988",
@@ -17808,7 +17973,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "David L. Cantrell",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -17970,15 +18135,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 2.78773161,
       "has_fulltext": false,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.90139168,
+        "value": 0.90155732,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18238,17 +18407,17 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 6,
       "referenced_works": [
         "https://openalex.org/W6680761498",
         "https://openalex.org/W6678225465",
         "https://openalex.org/W2162992874",
-        "https://openalex.org/W4239752076",
+        "https://openalex.org/W2139015198",
         "https://openalex.org/W2120278951",
-        "https://openalex.org/W2139015198"
+        "https://openalex.org/W4239752076"
       ],
       "related_works": [
         "https://openalex.org/W2374013430",
@@ -19182,7 +19351,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -19205,7 +19374,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -19213,7 +19384,7 @@
       "has_fulltext": false,
       "cited_by_count": 58,
       "citation_normalized_percentile": {
-        "value": 0.85861246,
+        "value": 0.85878713,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19714,8 +19885,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -19742,21 +19913,21 @@
         "https://openalex.org/W2164821252",
         "https://openalex.org/W6649514728",
         "https://openalex.org/W4210554603",
-        "https://openalex.org/W1552307154",
-        "https://openalex.org/W2029837300",
-        "https://openalex.org/W2049444735",
-        "https://openalex.org/W2600451665",
-        "https://openalex.org/W2015131273",
-        "https://openalex.org/W2126574815",
-        "https://openalex.org/W2136195355",
-        "https://openalex.org/W1858972708",
-        "https://openalex.org/W1996546531",
         "https://openalex.org/W636373446",
-        "https://openalex.org/W1498877843",
+        "https://openalex.org/W2015131273",
+        "https://openalex.org/W2600451665",
+        "https://openalex.org/W2126574815",
         "https://openalex.org/W1983896479",
-        "https://openalex.org/W1973110194",
+        "https://openalex.org/W2049444735",
+        "https://openalex.org/W1996546531",
+        "https://openalex.org/W2029837300",
+        "https://openalex.org/W1498877843",
         "https://openalex.org/W2068451724",
-        "https://openalex.org/W652666493"
+        "https://openalex.org/W652666493",
+        "https://openalex.org/W1552307154",
+        "https://openalex.org/W1973110194",
+        "https://openalex.org/W2136195355",
+        "https://openalex.org/W1858972708"
       ],
       "related_works": [
         "https://openalex.org/W3021108382",
@@ -20887,7 +21058,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
             "Kansas Interdisciplinary Carbonates Consortium, Department of Geology, University of Kansas, Lawrence, Kansas, U.S.A."
@@ -20982,16 +21153,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "id": "https://openalex.org/I146416000",
               "display_name": "University of Kansas",
               "ror": "https://ror.org/001tmjg57",
@@ -20999,6 +21160,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I146416000"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
               ]
             }
           ],
@@ -21014,15 +21185,15 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "raw_affiliation_string": "Kansas Interdisciplinary Carbonates Consortium, Department of Geology, University of Kansas, Lawrence, Kansas, U.S.A.",
               "institution_ids": [
                 "https://openalex.org/I146416000"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -21067,15 +21238,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040857714"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I146416000"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 1.19885611,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.90693085,
+        "value": 0.9070793,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21294,8 +21469,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 61,
       "referenced_works": [
@@ -21354,12 +21529,12 @@
         "https://openalex.org/W2066389106",
         "https://openalex.org/W1971860618",
         "https://openalex.org/W203584942",
-        "https://openalex.org/W2063800269",
-        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2494602570",
         "https://openalex.org/W1565182374",
-        "https://openalex.org/W2104414419",
         "https://openalex.org/W2017471573",
-        "https://openalex.org/W2494602570"
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2104414419",
+        "https://openalex.org/W2063800269"
       ],
       "related_works": [
         "https://openalex.org/W1545611118",
@@ -22860,8 +23035,8 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
-          "raw_author_name": "Dave L. Cantrell",
+          "is_corresponding": true,
+          "raw_author_name": "Dave L. Cantrell, Kenneth R. Walker",
           "raw_affiliation_strings": [
             "Exxon Prod. Res., Houston, TX, United States"
           ],
@@ -22873,41 +23048,24 @@
               ]
             }
           ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5103638669",
-            "display_name": "Kenneth R. Walker",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Kenneth R. Walker",
-          "raw_affiliation_strings": [
-            "Univ. Tenn., Dep. Geol. Sci., United States"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Univ. Tenn., Dep. Geol. Sci., United States",
-              "institution_ids": []
-            }
-          ]
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I923382979"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 1.30502392,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.85258563,
+        "value": 0.85298058,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23229,8 +23387,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -24120,6 +24278,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -24130,14 +24299,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
               "type": "company",
               "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -24145,23 +24313,37 @@
             "SA",
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "D. L. Cantrell",
           "raw_affiliation_strings": [
-            "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
-            "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+            "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+            "Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
+            "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+            "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
+              "raw_affiliation_string": "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
-                "https://openalex.org/I62856769"
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
               ]
             },
             {
               "raw_affiliation_string": "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "1Saudi Arabian Oil Company, PO Box 10831, Dhahran 31311, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
               ]
             }
           ]
@@ -24179,10 +24361,23 @@
               "display_name": "Commonwealth Scientific and Industrial Research Organisation",
               "ror": "https://ror.org/03qn8fb07",
               "country_code": "AU",
-              "type": "government",
+              "type": "funder",
               "lineage": [
                 "https://openalex.org/I1292875679",
                 "https://openalex.org/I2801453606",
+                "https://openalex.org/I4387156119"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210138528",
+              "display_name": "Australian Resources Research Centre",
+              "ror": "https://ror.org/03rzhkf33",
+              "country_code": "AU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1292875679",
+                "https://openalex.org/I2801453606",
+                "https://openalex.org/I4210138528",
                 "https://openalex.org/I4387156119"
               ]
             }
@@ -24193,9 +24388,17 @@
           "is_corresponding": false,
           "raw_author_name": "C. M. Griffiths",
           "raw_affiliation_strings": [
+            "CSIRO Earth Science and Resource Engineering, Australian Resources Research Centre, Technology Park 26 Dick Perry Avenue, Kensington, Perth, WA 6151 Australia",
             "3CSIRO Earth Science and Resource Engineering, Australian Resources Research Centre, Technology Park 26 Dick Perry Avenue, Kensington, Perth, WA 6151 Australia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "CSIRO Earth Science and Resource Engineering, Australian Resources Research Centre, Technology Park 26 Dick Perry Avenue, Kensington, Perth, WA 6151 Australia",
+              "institution_ids": [
+                "https://openalex.org/I4210138528",
+                "https://openalex.org/I1292875679"
+              ]
+            },
             {
               "raw_affiliation_string": "3CSIRO Earth Science and Resource Engineering, Australian Resources Research Centre, Technology Park 26 Dick Perry Avenue, Kensington, Perth, WA 6151 Australia",
               "institution_ids": [
@@ -24240,12 +24443,18 @@
           "is_corresponding": false,
           "raw_author_name": "G. W. Hughes",
           "raw_affiliation_strings": [
-            "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-            "Department of Earth Sciences, The Natural History Museum, Cromwell Road, London SW7 5BD, UK"
+            "Applied Microfacies Limited, Tan Y Gaer, Llanbedr DC, Denbighshire LL151UT, UK",
+            "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+            "Department of Earth Sciences, The Natural History Museum, Cromwell Road, London SW7 5BD, UK",
+            "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "raw_affiliation_string": "Applied Microfacies Limited, Tan Y Gaer, Llanbedr DC, Denbighshire LL151UT, UK",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -24255,6 +24464,12 @@
               "institution_ids": [
                 "https://openalex.org/I1336856363"
               ]
+            },
+            {
+              "raw_affiliation_string": "2Department of Earth Sciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             }
           ]
         }
@@ -24262,15 +24477,21 @@
       "institutions": [],
       "countries_distinct_count": 4,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769",
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.39380385,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.67619973,
+        "value": 0.6769836,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24469,8 +24690,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 71,
       "referenced_works": [
@@ -24523,28 +24744,28 @@
         "https://openalex.org/W1992194321",
         "https://openalex.org/W4211007335",
         "https://openalex.org/W2059210169",
-        "https://openalex.org/W2065898417",
-        "https://openalex.org/W2011817796",
-        "https://openalex.org/W2989049194",
-        "https://openalex.org/W4230797236",
-        "https://openalex.org/W2000836282",
-        "https://openalex.org/W2044583341",
-        "https://openalex.org/W4210840637",
-        "https://openalex.org/W1963924652",
-        "https://openalex.org/W2769611808",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W4232776798",
-        "https://openalex.org/W27925853",
-        "https://openalex.org/W653381609",
-        "https://openalex.org/W1498877843",
-        "https://openalex.org/W1630322587",
-        "https://openalex.org/W4231000141",
+        "https://openalex.org/W1492351103",
         "https://openalex.org/W623580817",
-        "https://openalex.org/W2168128507",
+        "https://openalex.org/W2044583341",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W27925853",
         "https://openalex.org/W2000545800",
-        "https://openalex.org/W2600493976",
         "https://openalex.org/W608719650",
-        "https://openalex.org/W1492351103"
+        "https://openalex.org/W2065898417",
+        "https://openalex.org/W2600493976",
+        "https://openalex.org/W4232776798",
+        "https://openalex.org/W1963924652",
+        "https://openalex.org/W1630322587",
+        "https://openalex.org/W2989049194",
+        "https://openalex.org/W2168128507",
+        "https://openalex.org/W4210840637",
+        "https://openalex.org/W2011817796",
+        "https://openalex.org/W2000836282",
+        "https://openalex.org/W1498877843",
+        "https://openalex.org/W4231000141",
+        "https://openalex.org/W653381609",
+        "https://openalex.org/W4230797236",
+        "https://openalex.org/W2769611808"
       ],
       "related_works": [
         "https://openalex.org/W3149668185",
@@ -25335,7 +25556,7 @@
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.89446721,
+        "value": 0.89456869,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25695,8 +25916,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 66,
       "referenced_works": [
@@ -25745,27 +25966,27 @@
         "https://openalex.org/W2343322491",
         "https://openalex.org/W2594125016",
         "https://openalex.org/W203584942",
-        "https://openalex.org/W1498877843",
-        "https://openalex.org/W2124390624",
-        "https://openalex.org/W4210554603",
-        "https://openalex.org/W2338771377",
-        "https://openalex.org/W122358588",
-        "https://openalex.org/W2141460615",
-        "https://openalex.org/W2063118675",
-        "https://openalex.org/W2223885932",
-        "https://openalex.org/W1565182374",
-        "https://openalex.org/W1552146141",
-        "https://openalex.org/W1569740409",
-        "https://openalex.org/W148932376",
-        "https://openalex.org/W620952173",
         "https://openalex.org/W2279547310",
-        "https://openalex.org/W2343329556",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W1533729466",
+        "https://openalex.org/W148932376",
         "https://openalex.org/W2687631996",
-        "https://openalex.org/W2182971207",
+        "https://openalex.org/W122358588",
+        "https://openalex.org/W2223885932",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W4210554603",
+        "https://openalex.org/W1498877843",
+        "https://openalex.org/W2338771377",
+        "https://openalex.org/W2343329556",
+        "https://openalex.org/W620952173",
+        "https://openalex.org/W2124390624",
+        "https://openalex.org/W2063118675",
+        "https://openalex.org/W1565182374",
         "https://openalex.org/W1580287752",
-        "https://openalex.org/W1564076024"
+        "https://openalex.org/W1533729466",
+        "https://openalex.org/W1564076024",
+        "https://openalex.org/W2141460615",
+        "https://openalex.org/W1552146141",
+        "https://openalex.org/W2182971207",
+        "https://openalex.org/W1569740409"
       ],
       "related_works": [
         "https://openalex.org/W2791869554",
@@ -25896,9 +26117,16 @@
           "is_corresponding": true,
           "raw_author_name": "Carl Jacquemyn",
           "raw_affiliation_strings": [
+            "Department of Earth Science and Engineering Imperial College London SW7 2AZ UK",
             "Department of Earth Science and Engineering, Imperial College, London, SW7 2AZ UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science and Engineering Imperial College London SW7 2AZ UK",
+              "institution_ids": [
+                "https://openalex.org/I47508984"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College, London, SW7 2AZ UK",
               "institution_ids": [
@@ -25932,9 +26160,16 @@
           "is_corresponding": false,
           "raw_author_name": "Matthew D. Jackson",
           "raw_affiliation_strings": [
+            "Department of Earth Science and Engineering Imperial College London SW7 2AZ UK",
             "Department of Earth Science and Engineering, Imperial College, London, SW7 2AZ UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science and Engineering Imperial College London SW7 2AZ UK",
+              "institution_ids": [
+                "https://openalex.org/I47508984"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College, London, SW7 2AZ UK",
               "institution_ids": [
@@ -25968,9 +26203,16 @@
           "is_corresponding": false,
           "raw_author_name": "Gary J. Hampson",
           "raw_affiliation_strings": [
+            "Department of Earth Science and Engineering Imperial College London SW7 2AZ UK",
             "Department of Earth Science and Engineering, Imperial College, London, SW7 2AZ UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science and Engineering Imperial College London SW7 2AZ UK",
+              "institution_ids": [
+                "https://openalex.org/I47508984"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College, London, SW7 2AZ UK",
               "institution_ids": [
@@ -26004,9 +26246,16 @@
           "is_corresponding": false,
           "raw_author_name": "Cédric M. John",
           "raw_affiliation_strings": [
+            "Department of Earth Science and Engineering Imperial College London SW7 2AZ UK",
             "Department of Earth Science and Engineering, Imperial College, London, SW7 2AZ UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science and Engineering Imperial College London SW7 2AZ UK",
+              "institution_ids": [
+                "https://openalex.org/I47508984"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College, London, SW7 2AZ UK",
               "institution_ids": [
@@ -26040,9 +26289,16 @@
           "is_corresponding": false,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center Saudi Aramco P.O. Box 5000 Dhahran 31311 Saudi Arabia",
             "EXPEC Advanced Research Center, Saudi Aramco, P.O. Box 5000, Dhahran, 31311 Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco P.O. Box 5000 Dhahran 31311 Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, P.O. Box 5000, Dhahran, 31311 Saudi Arabia",
               "institution_ids": [
@@ -26076,9 +26332,16 @@
           "is_corresponding": false,
           "raw_author_name": "Rainer Zűhlke",
           "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center Saudi Aramco P.O. Box 5000 Dhahran 31311 Saudi Arabia",
             "EXPEC Advanced Research Center, Saudi Aramco, P.O. Box 5000, Dhahran, 31311 Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco P.O. Box 5000 Dhahran 31311 Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, P.O. Box 5000, Dhahran, 31311 Saudi Arabia",
               "institution_ids": [
@@ -26112,9 +26375,16 @@
           "is_corresponding": false,
           "raw_author_name": "AbdulJaleel AbuBshait",
           "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center Saudi Aramco P.O. Box 5000 Dhahran 31311 Saudi Arabia",
             "EXPEC Advanced Research Center, Saudi Aramco, P.O. Box 5000, Dhahran, 31311 Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco P.O. Box 5000 Dhahran 31311 Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, P.O. Box 5000, Dhahran, 31311 Saudi Arabia",
               "institution_ids": [
@@ -26148,9 +26418,16 @@
           "is_corresponding": false,
           "raw_author_name": "Robert F. Lindsay",
           "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center Saudi Aramco P.O. Box 5000 Dhahran 31311 Saudi Arabia",
             "EXPEC Advanced Research Center, Saudi Aramco, P.O. Box 5000, Dhahran, 31311 Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco P.O. Box 5000 Dhahran 31311 Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, P.O. Box 5000, Dhahran, 31311 Saudi Arabia",
               "institution_ids": [
@@ -26184,9 +26461,16 @@
           "is_corresponding": false,
           "raw_author_name": "Ronald Monsen",
           "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center Saudi Aramco P.O. Box 5000 Dhahran 31311 Saudi Arabia",
             "EXPEC Advanced Research Center, Saudi Aramco, P.O. Box 5000, Dhahran, 31311 Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center Saudi Aramco P.O. Box 5000 Dhahran 31311 Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, P.O. Box 5000, Dhahran, 31311 Saudi Arabia",
               "institution_ids": [
@@ -26215,7 +26499,7 @@
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.74587345,
+        "value": 0.74680073,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26538,8 +26822,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 77,
       "referenced_works": [
@@ -26611,15 +26895,15 @@
         "https://openalex.org/W2115997702",
         "https://openalex.org/W1998935446",
         "https://openalex.org/W203584942",
+        "https://openalex.org/W2141093796",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W1490441963",
+        "https://openalex.org/W2130486621",
         "https://openalex.org/W4232835124",
         "https://openalex.org/W2074189613",
-        "https://openalex.org/W2141093796",
-        "https://openalex.org/W2130486621",
-        "https://openalex.org/W1490441963",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2564523369",
         "https://openalex.org/W2888449677",
-        "https://openalex.org/W2079349855"
+        "https://openalex.org/W2079349855",
+        "https://openalex.org/W2564523369"
       ],
       "related_works": [
         "https://openalex.org/W4313208625",
@@ -27437,7 +27721,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -27474,7 +27758,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -27482,7 +27768,7 @@
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.77653226,
+        "value": 0.77770655,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27879,8 +28165,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -27894,10 +28180,10 @@
         "https://openalex.org/W2107009412",
         "https://openalex.org/W135107391",
         "https://openalex.org/W3043027909",
-        "https://openalex.org/W653574402",
-        "https://openalex.org/W2074124828",
+        "https://openalex.org/W2015800829",
         "https://openalex.org/W1968725331",
-        "https://openalex.org/W2015800829"
+        "https://openalex.org/W653574402",
+        "https://openalex.org/W2074124828"
       ],
       "related_works": [
         "https://openalex.org/W3136036534",
@@ -28462,7 +28748,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Shuo Zhang",
           "raw_affiliation_strings": [
             "Aramco Research Center – Houston, 16300 Park Row Drive, Houston, TX 77084, USA"
@@ -28663,15 +28949,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5100450362"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.68593651,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.68892058,
+        "value": 0.69115694,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29050,8 +29340,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -29085,12 +29375,12 @@
         "https://openalex.org/W2138691371",
         "https://openalex.org/W2312299597",
         "https://openalex.org/W1995654536",
-        "https://openalex.org/W2240259745",
-        "https://openalex.org/W2110769362",
-        "https://openalex.org/W2087974133",
+        "https://openalex.org/W2478314528",
         "https://openalex.org/W2305072269",
+        "https://openalex.org/W2240259745",
+        "https://openalex.org/W2087974133",
         "https://openalex.org/W2074189613",
-        "https://openalex.org/W2478314528"
+        "https://openalex.org/W2110769362"
       ],
       "related_works": [
         "https://openalex.org/W2099612568",
@@ -29916,7 +30206,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.8424383,
+        "value": 0.84165199,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -30262,8 +30552,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 90,
       "referenced_works": [
@@ -30344,19 +30634,19 @@
         "https://openalex.org/W2588272324",
         "https://openalex.org/W2923812089",
         "https://openalex.org/W2956924622",
-        "https://openalex.org/W560598676",
-        "https://openalex.org/W2118987500",
-        "https://openalex.org/W3025546462",
-        "https://openalex.org/W4229682780",
-        "https://openalex.org/W233281612",
-        "https://openalex.org/W2980069739",
+        "https://openalex.org/W1795272034",
         "https://openalex.org/W4300627476",
-        "https://openalex.org/W1998984266",
-        "https://openalex.org/W1762531735",
-        "https://openalex.org/W1983149641",
         "https://openalex.org/W2147495909",
+        "https://openalex.org/W2980069739",
+        "https://openalex.org/W3025546462",
+        "https://openalex.org/W2118987500",
+        "https://openalex.org/W1983149641",
+        "https://openalex.org/W560598676",
+        "https://openalex.org/W1762531735",
+        "https://openalex.org/W1998984266",
+        "https://openalex.org/W4229682780",
         "https://openalex.org/W2139819426",
-        "https://openalex.org/W1795272034"
+        "https://openalex.org/W233281612"
       ],
       "related_works": [
         "https://openalex.org/W3036329988",
@@ -30452,16 +30742,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1302918504",
-              "display_name": "Planetary Science Institute",
-              "ror": "https://ror.org/05vvg9554",
-              "country_code": "US",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I1302918504"
-              ]
-            },
-            {
               "id": "https://openalex.org/I97018004",
               "display_name": "Stanford University",
               "ror": "https://ror.org/00f54p054",
@@ -30470,17 +30750,35 @@
               "lineage": [
                 "https://openalex.org/I97018004"
               ]
+            },
+            {
+              "id": "https://openalex.org/I1302918504",
+              "display_name": "Planetary Science Institute",
+              "ror": "https://ror.org/05vvg9554",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1302918504"
+              ]
             }
           ],
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Pulkit Singh",
           "raw_affiliation_strings": [
+            "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA",
             "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA. Electronic address: pulkitsingh97@gmail.com."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA",
+              "institution_ids": [
+                "https://openalex.org/I1302918504",
+                "https://openalex.org/I97018004"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA. Electronic address: pulkitsingh97@gmail.com.",
               "institution_ids": [
@@ -30515,9 +30813,16 @@
           "is_corresponding": false,
           "raw_author_name": "Jordan Ferré",
           "raw_affiliation_strings": [
+            "Department of Earth System Science, Stanford University, Stanford, CA 94305, USA",
             "Department of Earth System Science, Stanford University, Stanford, CA 94305, USA."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth System Science, Stanford University, Stanford, CA 94305, USA",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth System Science, Stanford University, Stanford, CA 94305, USA.",
               "institution_ids": [
@@ -30534,6 +30839,71 @@
             "orcid": "https://orcid.org/0000-0002-3961-1971"
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1302918504",
+              "display_name": "Planetary Science Institute",
+              "ror": "https://ror.org/05vvg9554",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1302918504"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bridget Thrasher",
+          "raw_affiliation_strings": [
+            "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA",
+            "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA."
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA",
+              "institution_ids": [
+                "https://openalex.org/I1302918504",
+                "https://openalex.org/I97018004"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA.",
+              "institution_ids": [
+                "https://openalex.org/I1302918504",
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027418132",
+            "display_name": "Pedro M. Monarrez",
+            "orcid": "https://orcid.org/0000-0002-4221-0693"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I859038795",
+              "display_name": "Virginia Tech",
+              "ror": "https://ror.org/02smfhw86",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I859038795"
+              ]
+            },
             {
               "id": "https://openalex.org/I1302918504",
               "display_name": "Planetary Science Institute",
@@ -30559,58 +30929,26 @@
             "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Bridget Thrasher",
+          "raw_author_name": "Pedro M. Monarrez",
           "raw_affiliation_strings": [
-            "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA."
+            "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA",
+            "Department of Geosciences, Virginia Tech, Blacksburg, VA 24061, USA",
+            "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA; Department of Geosciences, Virginia Tech, Blacksburg, VA 24061, USA."
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA.",
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA",
               "institution_ids": [
                 "https://openalex.org/I1302918504",
                 "https://openalex.org/I97018004"
               ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027418132",
-            "display_name": "Pedro M. Monarrez",
-            "orcid": "https://orcid.org/0000-0002-4221-0693"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I97018004",
-              "display_name": "Stanford University",
-              "ror": "https://ror.org/00f54p054",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I97018004"
-              ]
             },
             {
-              "id": "https://openalex.org/I859038795",
-              "display_name": "Virginia Tech",
-              "ror": "https://ror.org/02smfhw86",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
+              "raw_affiliation_string": "Department of Geosciences, Virginia Tech, Blacksburg, VA 24061, USA",
+              "institution_ids": [
                 "https://openalex.org/I859038795"
               ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Pedro M Monarrez",
-          "raw_affiliation_strings": [
-            "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA; Department of Geosciences, Virginia Tech, Blacksburg, VA 24061, USA."
-          ],
-          "affiliations": [
+            },
             {
               "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA; Department of Geosciences, Virginia Tech, Blacksburg, VA 24061, USA.",
               "institution_ids": [
@@ -30645,9 +30983,16 @@
           "is_corresponding": false,
           "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 34463, Saudi Arabia",
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 34463, Saudi Arabia."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 34463, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 34463, Saudi Arabia.",
               "institution_ids": [
@@ -30663,17 +31008,35 @@
             "display_name": "Dave L. Cantrell",
             "orcid": "https://orcid.org/0000-0003-3118-9769"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": null,
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": []
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
-          "raw_author_name": "Dave L Cantrell",
+          "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [
+            "Cantrell GeoLogic LLC, Franklin, TN 37069, USA",
             "Cantrell GeoLogic LLC, Franklin, TN 37069, USA."
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Cantrell GeoLogic LLC, Franklin, TN 37069, USA.",
+              "raw_affiliation_string": "Cantrell GeoLogic LLC, Franklin, TN 37069, USA",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Cantrell GeoLogic LLC, Franklin, TN 37069, USA.",
+              "institution_ids": [
+                null
+              ]
             }
           ]
         },
@@ -30700,11 +31063,18 @@
             "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Daniel J Lehrmann",
+          "raw_author_name": "Daniel J. Lehrmann",
           "raw_affiliation_strings": [
+            "Department of Earth and Environmental Geosciences, Trinity University, San Antonio, TX 78212, USA",
             "Department of Earth and Environmental Geosciences, Trinity University, San Antonio, TX 78212, USA."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Environmental Geosciences, Trinity University, San Antonio, TX 78212, USA",
+              "institution_ids": [
+                "https://openalex.org/I60060512"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth and Environmental Geosciences, Trinity University, San Antonio, TX 78212, USA.",
               "institution_ids": [
@@ -30738,9 +31108,16 @@
           "is_corresponding": false,
           "raw_author_name": "Michele Morsilli",
           "raw_affiliation_strings": [
+            "Dipartimento di Fisica e Scienze della Terra, Università di Ferrara, Ferrara 44122, Italy",
             "Dipartimento di Fisica e Scienze della Terra, Università di Ferrara, Ferrara 44122, Italy."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Dipartimento di Fisica e Scienze della Terra, Università di Ferrara, Ferrara 44122, Italy",
+              "institution_ids": [
+                "https://openalex.org/I201324441"
+              ]
+            },
             {
               "raw_affiliation_string": "Dipartimento di Fisica e Scienze della Terra, Università di Ferrara, Ferrara 44122, Italy.",
               "institution_ids": [
@@ -30782,11 +31159,19 @@
             "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Jonathan L Payne",
+          "raw_author_name": "Jonathan L. Payne",
           "raw_affiliation_strings": [
+            "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA",
             "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA",
+              "institution_ids": [
+                "https://openalex.org/I1302918504",
+                "https://openalex.org/I97018004"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth and Planetary Sciences, Stanford University, Stanford, CA 94305, USA.",
               "institution_ids": [
@@ -30800,8 +31185,13 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 9,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5001052278"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I97018004",
+        "https://openalex.org/I1302918504"
+      ],
       "apc_list": {
         "value": 6830,
         "currency": "USD",
@@ -30812,7 +31202,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.95301144,
+        "value": 0.94870277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31280,8 +31670,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 89,
       "referenced_works": [
@@ -31365,15 +31755,15 @@
         "https://openalex.org/W2047330035",
         "https://openalex.org/W3001554335",
         "https://openalex.org/W4311996109",
-        "https://openalex.org/W4232293351",
-        "https://openalex.org/W4385805385",
-        "https://openalex.org/W2950657146",
-        "https://openalex.org/W2538115225",
-        "https://openalex.org/W4210554603",
-        "https://openalex.org/W2294993268",
-        "https://openalex.org/W4389940884",
         "https://openalex.org/W1564076024",
-        "https://openalex.org/W3134776370"
+        "https://openalex.org/W2294993268",
+        "https://openalex.org/W4385805385",
+        "https://openalex.org/W4210554603",
+        "https://openalex.org/W2538115225",
+        "https://openalex.org/W4389940884",
+        "https://openalex.org/W3134776370",
+        "https://openalex.org/W2950657146",
+        "https://openalex.org/W4232293351"
       ],
       "related_works": [
         "https://openalex.org/W2780477383",
@@ -31457,7 +31847,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Maaruf Hussain",
           "raw_affiliation_strings": [
             "Baker Hughes Research Center, Dhahran Global Technology Center, King Fahd University of Petroleum and Minerals"
@@ -31583,15 +31973,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5102780937"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.52117864,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.71331269,
+        "value": 0.71487683,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31808,8 +32202,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -31887,8 +32281,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "D. L. Cantrell",
+          "is_corresponding": true,
+          "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -31902,7 +32296,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "P. G. Nicholson",
+          "raw_author_name": "Patrick G. Nicholson",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -31916,7 +32310,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "G. W. Hughes",
+          "raw_author_name": "Geraint W. Hughes",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -31930,7 +32324,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. A. Miller",
+          "raw_author_name": "Mark A. Miller",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -31972,7 +32366,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "A. K. Norton",
+          "raw_author_name": "A. Kent Norton",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -31980,7 +32374,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -31988,7 +32384,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.68453468,
+        "value": 0.68529788,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32364,8 +32760,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -33034,7 +33430,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -33085,7 +33481,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -33093,7 +33491,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.66466694,
+        "value": 0.66362619,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33341,8 +33739,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -34034,7 +34432,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ardiansyah Koeshidayatullah",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -34049,7 +34447,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_author_name": "Khalid Al‐Ramadan",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -34071,7 +34469,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5059881838"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -34079,7 +34479,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.20202824,
+        "value": 0.20200616,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34366,14 +34766,14 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 3,
       "referenced_works": [
-        "https://openalex.org/W1993936442",
         "https://openalex.org/W1564076024",
-        "https://openalex.org/W1975890505"
+        "https://openalex.org/W1975890505",
+        "https://openalex.org/W1993936442"
       ],
       "related_works": [
         "https://openalex.org/W2369107101",
@@ -35045,8 +35445,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Hassan Eltom",
+          "is_corresponding": true,
+          "raw_author_name": "University of Kansas",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -35060,7 +35460,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Luis A. Gonzalez",
+          "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -35074,7 +35474,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Eugene C. Rankey",
+          "raw_author_name": "Luis A. Gonzalez",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -35088,6 +35488,20 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "raw_author_name": "Eugene C. Rankey",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039734802",
+            "display_name": "Dave L. Cantrell",
+            "orcid": "https://orcid.org/0000-0003-3118-9769"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
           "raw_author_name": "Stephen T. Hasiotis",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -35095,9 +35509,9 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5039734802",
-            "display_name": "Dave L. Cantrell",
-            "orcid": "https://orcid.org/0000-0003-3118-9769"
+            "id": null,
+            "display_name": "Dave Cantrell",
+            "orcid": null
           },
           "institutions": [],
           "countries": [],
@@ -35109,8 +35523,10 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040857714"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -35118,7 +35534,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0309872,
+        "value": 0.03076879,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35414,8 +35830,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -35502,8 +35918,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Hassan Eltom",
+          "is_corresponding": true,
+          "raw_author_name": "University of Kansas",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -35517,7 +35933,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Stephen T. Hasiotis",
+          "raw_author_name": "Hassan Eltom",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -35531,7 +35947,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Eugene C. Rankey",
+          "raw_author_name": "Stephen T. Hasiotis",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -35545,6 +35961,20 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "raw_author_name": "Eugene C. Rankey",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039734802",
+            "display_name": "Dave L. Cantrell",
+            "orcid": "https://orcid.org/0000-0003-3118-9769"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
           "raw_author_name": "Luis A. Gonzalez",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -35552,9 +35982,9 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5039734802",
-            "display_name": "Dave L. Cantrell",
-            "orcid": "https://orcid.org/0000-0003-3118-9769"
+            "id": null,
+            "display_name": "Dave Cantrell",
+            "orcid": null
           },
           "institutions": [],
           "countries": [],
@@ -35566,8 +35996,10 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040857714"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -35575,7 +36007,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11631192,
+        "value": 0.1158776,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35839,8 +36271,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -35921,7 +36353,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -36014,7 +36446,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5039734802"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -36022,7 +36456,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10736086,
+        "value": 0.10648286,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36310,8 +36744,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -37046,7 +37480,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Carl Jacquemyn",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -37089,7 +37523,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Cedric M. John",
+          "raw_author_name": "Cédric M. John",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -37103,7 +37537,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Dave Cantrell",
+          "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -37117,7 +37551,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Rainer Zuhlke",
+          "raw_author_name": "Rainer Zühlke",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -37153,7 +37587,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5005324517"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -37161,7 +37597,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32483114,
+        "value": 0.32460814,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37256,8 +37692,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -37332,8 +37768,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Pulkit Singh",
+          "is_corresponding": true,
+          "raw_author_name": "Stanford University",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -37347,7 +37783,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Jordan Ferre",
+          "raw_author_name": "Pulkit Singh",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -37361,7 +37797,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Gabriella Del Viscio",
+          "raw_author_name": "Jordan Ferre",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -37375,7 +37811,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Dave L. Cantrell",
+          "raw_author_name": "Gabriella Del Viscio",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -37389,7 +37825,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -37403,7 +37839,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Michele Morsilli",
+          "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -37417,6 +37853,20 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "raw_author_name": "Michele Morsilli",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061005201",
+            "display_name": "Jonathan L. Payne",
+            "orcid": "https://orcid.org/0000-0002-9601-3310"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
           "raw_author_name": "Daniel Lehrmann",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -37424,9 +37874,9 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5061005201",
-            "display_name": "Jonathan L. Payne",
-            "orcid": "https://orcid.org/0000-0002-9601-3310"
+            "id": null,
+            "display_name": "Jonathan Payne",
+            "orcid": null
           },
           "institutions": [],
           "countries": [],
@@ -37438,8 +37888,10 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 8,
-      "corresponding_author_ids": [],
+      "institutions_distinct_count": 9,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5101987329"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -37447,7 +37899,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15871244,
+        "value": 0.15732478,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37621,8 +38073,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -37721,8 +38173,8 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
-          "raw_author_name": "Pulkit Singh",
+          "is_corresponding": true,
+          "raw_author_name": "Stanford University",
           "raw_affiliation_strings": [
             "Stanford University"
           ],
@@ -37742,12 +38194,34 @@
             "display_name": "Jordan Ferré",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
-          "raw_author_name": "Jordan Ferre",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_author_name": "Pulkit Singh",
+          "raw_affiliation_strings": [
+            "Stanford University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -37772,7 +38246,7 @@
             "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Bridget Thrasher",
+          "raw_author_name": "Jordan Ferre",
           "raw_affiliation_strings": [
             "Stanford University"
           ],
@@ -37791,6 +38265,60 @@
             "id": "https://openalex.org/A5085007251",
             "display_name": "Khalid Al–Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bridget Thrasher",
+          "raw_affiliation_strings": [
+            "Stanford University",
+            "King Fahd University of Petroleum & Minerals"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            },
+            {
+              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039734802",
+            "display_name": "Dave L. Cantrell",
+            "orcid": "https://orcid.org/0000-0003-3118-9769"
           },
           "institutions": [
             {
@@ -37824,20 +38352,6 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5039734802",
-            "display_name": "Dave L. Cantrell",
-            "orcid": "https://orcid.org/0000-0003-3118-9769"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Dave L. Cantrell",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
             "id": "https://openalex.org/A5058862006",
             "display_name": "Daniel J. Lehrmann",
             "orcid": "https://orcid.org/0000-0002-0838-3814"
@@ -37858,7 +38372,7 @@
             "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Daniel Lehrmann",
+          "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [
             "One Trinity Place San Antonio, TX"
           ],
@@ -37880,6 +38394,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I60060512",
+              "display_name": "Trinity University",
+              "ror": "https://ror.org/00t8gz605",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60060512"
+              ]
+            },
+            {
               "id": "https://openalex.org/I201324441",
               "display_name": "University of Ferrara",
               "ror": "https://ror.org/041zkgm14",
@@ -37891,14 +38415,29 @@
             }
           ],
           "countries": [
-            "IT"
+            "IT",
+            "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Michele Morsilli",
+          "raw_author_name": "Daniel Lehrmann",
           "raw_affiliation_strings": [
+            "One Trinity Place San Antonio, TX",
+            "Trinity University",
             "University of Ferrara"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "One Trinity Place San Antonio, TX",
+              "institution_ids": [
+                "https://openalex.org/I60060512"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Trinity University",
+              "institution_ids": [
+                "https://openalex.org/I60060512"
+              ]
+            },
             {
               "raw_affiliation_string": "University of Ferrara",
               "institution_ids": [
@@ -37908,11 +38447,65 @@
           ]
         },
         {
-          "author_position": "last",
+          "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5061005201",
             "display_name": "Jonathan L. Payne",
             "orcid": "https://orcid.org/0000-0002-9601-3310"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I201324441",
+              "display_name": "University of Ferrara",
+              "ror": "https://ror.org/041zkgm14",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201324441"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "IT",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michele Morsilli",
+          "raw_affiliation_strings": [
+            "University of Ferrara",
+            "Stanford University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Ferrara",
+              "institution_ids": [
+                "https://openalex.org/I201324441"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": null,
+            "display_name": "Jonathan Payne",
+            "orcid": null
           },
           "institutions": [
             {
@@ -37946,9 +38539,13 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 8,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "institutions_distinct_count": 9,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5001052278"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I97018004"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
@@ -38134,8 +38731,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -38221,8 +38818,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Pulkit Singh",
+          "is_corresponding": true,
+          "raw_author_name": "Stanford University",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -38233,12 +38830,34 @@
             "display_name": "K. L. Weaver",
             "orcid": "https://orcid.org/0000-0002-7094-3501"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
-          "raw_author_name": "Karrie Weaver",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_author_name": "Pulkit Singh",
+          "raw_affiliation_strings": [
+            "Stanford University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -38247,12 +38866,34 @@
             "display_name": "Kathleen Dunn",
             "orcid": "https://orcid.org/0000-0002-7488-7981"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
-          "raw_author_name": "Katie Dunn",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_author_name": "Karrie Weaver",
+          "raw_affiliation_strings": [
+            "Stanford University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -38261,12 +38902,34 @@
             "display_name": "Dale Burns",
             "orcid": "https://orcid.org/0000-0001-6062-6230"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
-          "raw_author_name": "Dale Burns",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_author_name": "Katie Dunn",
+          "raw_affiliation_strings": [
+            "Stanford University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -38275,12 +38938,34 @@
             "display_name": "Dave L. Cantrell",
             "orcid": "https://orcid.org/0000-0003-3118-9769"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
-          "raw_author_name": "Dave L. Cantrell",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_author_name": "Dale Burns",
+          "raw_affiliation_strings": [
+            "Stanford University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -38292,7 +38977,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Michele Morsilli",
+          "raw_author_name": "Dave L. Cantrell",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -38303,32 +38988,114 @@
             "display_name": "Daniel J. Lehrmann",
             "orcid": "https://orcid.org/0000-0002-0838-3814"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I201324441",
+              "display_name": "University of Ferrara",
+              "ror": "https://ror.org/041zkgm14",
+              "country_code": "IT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201324441"
+              ]
+            }
+          ],
+          "countries": [
+            "IT"
+          ],
           "is_corresponding": false,
-          "raw_author_name": "Daniel Lehrmann",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_author_name": "Michele Morsilli",
+          "raw_affiliation_strings": [
+            "University of Ferrara"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "University of Ferrara",
+              "institution_ids": [
+                "https://openalex.org/I201324441"
+              ]
+            }
+          ]
         },
         {
-          "author_position": "last",
+          "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5061005201",
             "display_name": "Jonathan L. Payne",
             "orcid": "https://orcid.org/0000-0002-9601-3310"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60060512",
+              "display_name": "Trinity University",
+              "ror": "https://ror.org/00t8gz605",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60060512"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Lehrmann",
+          "raw_affiliation_strings": [
+            "Trinity University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Trinity University",
+              "institution_ids": [
+                "https://openalex.org/I60060512"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": null,
+            "display_name": "Jonathan Payne",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Jonathan Payne",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Stanford University"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Stanford University",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 8,
-      "corresponding_author_ids": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 9,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5001052278"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -38336,7 +39103,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.26104164,
+        "value": 0.25728182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38604,8 +39371,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -38672,7 +39439,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Pulkit Singh",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -38779,7 +39546,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5001052278"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -38787,7 +39556,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37317757,
+        "value": 0.37009672,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39107,8 +39876,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -39194,8 +39963,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Pulkit Singh",
+          "is_corresponding": true,
+          "raw_author_name": "Stanford University",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -39209,7 +39978,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Jordan Ferre",
+          "raw_author_name": "Pulkit Singh",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -39223,7 +39992,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Bridget Thrasher",
+          "raw_author_name": "Jordan Ferre",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -39237,7 +40006,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Pedro Monarrez",
+          "raw_author_name": "Bridget Thrasher",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -39245,13 +40014,13 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al‐Ramadan",
+            "display_name": "Khalid Al–Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Khalid Al-Ramadan",
+          "raw_author_name": "Pedro Monarrez",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -39265,7 +40034,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Dave Cantrell",
+          "raw_author_name": "Khalid Al-Ramadan",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -39279,6 +40048,20 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
+          "raw_author_name": "Dave Cantrell",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061005201",
+            "display_name": "Jonathan L. Payne",
+            "orcid": "https://orcid.org/0000-0002-9601-3310"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
           "raw_author_name": "Daniel Lehrmann",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -39286,9 +40069,9 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5061005201",
-            "display_name": "Jonathan L. Payne",
-            "orcid": "https://orcid.org/0000-0002-9601-3310"
+            "id": null,
+            "display_name": "Jonathan Payne",
+            "orcid": null
           },
           "institutions": [],
           "countries": [],
@@ -39300,8 +40083,10 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 8,
-      "corresponding_author_ids": [],
+      "institutions_distinct_count": 9,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5001052278"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -39365,8 +40150,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],

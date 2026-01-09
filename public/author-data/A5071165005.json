@@ -316,6 +316,429 @@
   },
   "works": [
     {
+      "id": "https://openalex.org/W4402326942",
+      "doi": "https://doi.org/10.1016/j.cageo.2024.105711",
+      "title": "Learning CO<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si194.svg\" display=\"inline\" id=\"d1e1512\"><mml:msub><mml:mrow/><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math> plume migration in faulted reservoirs with Graph Neural Networks",
+      "display_name": "Learning CO<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si194.svg\" display=\"inline\" id=\"d1e1512\"><mml:msub><mml:mrow/><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math> plume migration in faulted reservoirs with Graph Neural Networks",
+      "publication_year": 2024,
+      "publication_date": "2024-09-07",
+      "ids": {
+        "openalex": "https://openalex.org/W4402326942",
+        "doi": "https://doi.org/10.1016/j.cageo.2024.105711"
+      },
+      "language": "lv",
+      "primary_location": {
+        "id": "doi:10.1016/j.cageo.2024.105711",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.cageo.2024.105711",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S61699894",
+          "display_name": "Computers & Geosciences",
+          "issn_l": "0098-3004",
+          "issn": [
+            "0098-3004",
+            "1873-7803"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Computers &amp; Geosciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5036781407",
+            "display_name": "Xin Ju",
+            "orcid": "https://orcid.org/0000-0003-4110-7472"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Xin Ju",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047662931",
+            "display_name": "François P. Hamon",
+            "orcid": "https://orcid.org/0000-0001-8229-963X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "François P. Hamon",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007168661",
+            "display_name": "Gege Wen",
+            "orcid": "https://orcid.org/0000-0003-1668-3777"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Gege Wen",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5071165005",
+            "display_name": "Rayan Kanfar",
+            "orcid": "https://orcid.org/0000-0003-4321-5573"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Rayan Kanfar",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5027534318",
+            "display_name": "Mauricio Araya–Polo",
+            "orcid": "https://orcid.org/0000-0002-5537-1840"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mauricio Araya-Polo",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033541460",
+            "display_name": "Hamdi A. Tchelepi",
+            "orcid": "https://orcid.org/0000-0002-3084-6635"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Hamdi A. Tchelepi",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5036781407"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 3630,
+        "currency": "USD",
+        "value_usd": 3630
+      },
+      "apc_paid": null,
+      "fwci": 5.03717651,
+      "has_fulltext": false,
+      "cited_by_count": 13,
+      "citation_normalized_percentile": {
+        "value": 0.92637463,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "193",
+        "issue": null,
+        "first_page": "105711",
+        "last_page": "105711"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10491",
+          "display_name": "Enhanced Oil Recovery Techniques",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.5545613765716553
+        },
+        {
+          "id": "https://openalex.org/keywords/scalable-vector-graphics",
+          "display_name": "Scalable Vector Graphics",
+          "score": 0.43883803486824036
+        },
+        {
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.1661686897277832
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.5545613765716553
+        },
+        {
+          "id": "https://openalex.org/C202629362",
+          "wikidata": "https://www.wikidata.org/wiki/Q2078",
+          "display_name": "Scalable Vector Graphics",
+          "level": 2,
+          "score": 0.43883803486824036
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.1661686897277832
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.cageo.2024.105711",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.cageo.2024.105711",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S61699894",
+            "display_name": "Computers & Geosciences",
+            "issn_l": "0098-3004",
+            "issn": [
+              "0098-3004",
+              "1873-7803"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Computers &amp; Geosciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "referenced_works_count": 52,
+      "referenced_works": [
+        "https://openalex.org/W3166111822",
+        "https://openalex.org/W4312617492",
+        "https://openalex.org/W6680598519",
+        "https://openalex.org/W2011364235",
+        "https://openalex.org/W6720006811",
+        "https://openalex.org/W2064572976",
+        "https://openalex.org/W2058738180",
+        "https://openalex.org/W3183994952",
+        "https://openalex.org/W6738964360",
+        "https://openalex.org/W2111546927",
+        "https://openalex.org/W4392059653",
+        "https://openalex.org/W3012977591",
+        "https://openalex.org/W1897549261",
+        "https://openalex.org/W2180023479",
+        "https://openalex.org/W2757850250",
+        "https://openalex.org/W2093652220",
+        "https://openalex.org/W2811208018",
+        "https://openalex.org/W2155117641",
+        "https://openalex.org/W2106176530",
+        "https://openalex.org/W2042377693",
+        "https://openalex.org/W1982388591",
+        "https://openalex.org/W6639824700",
+        "https://openalex.org/W6774033856",
+        "https://openalex.org/W6731918294",
+        "https://openalex.org/W6810581345",
+        "https://openalex.org/W4285133117",
+        "https://openalex.org/W1986714070",
+        "https://openalex.org/W2093509949",
+        "https://openalex.org/W3210813904",
+        "https://openalex.org/W3157798299",
+        "https://openalex.org/W3016309349",
+        "https://openalex.org/W2047137338",
+        "https://openalex.org/W3197308578",
+        "https://openalex.org/W4323904364",
+        "https://openalex.org/W2981461641",
+        "https://openalex.org/W4283010154",
+        "https://openalex.org/W3152893301",
+        "https://openalex.org/W2784733489",
+        "https://openalex.org/W4294558607",
+        "https://openalex.org/W4281565761",
+        "https://openalex.org/W4295728955",
+        "https://openalex.org/W3205927194",
+        "https://openalex.org/W4398251086",
+        "https://openalex.org/W4287122177",
+        "https://openalex.org/W1566030289",
+        "https://openalex.org/W4225370476",
+        "https://openalex.org/W3100968477",
+        "https://openalex.org/W1570210063",
+        "https://openalex.org/W4287645102",
+        "https://openalex.org/W2143093655",
+        "https://openalex.org/W2964321699",
+        "https://openalex.org/W4320341235"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W2358969090",
+        "https://openalex.org/W3183425535",
+        "https://openalex.org/W2354624479",
+        "https://openalex.org/W2394137533",
+        "https://openalex.org/W2362190996",
+        "https://openalex.org/W2385461408",
+        "https://openalex.org/W2119089902",
+        "https://openalex.org/W2387643967"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 10
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-12-22T23:10:17.713674",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3003329782",
       "doi": "https://doi.org/10.2523/iptc-19693-ms",
       "title": "Real-Time Well Log Prediction From Drilling Data Using Deep Learning",
@@ -389,7 +812,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Stanford University"
@@ -515,13 +938,17 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5071165005"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I97018004"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 19.43110441,
       "has_fulltext": false,
-      "cited_by_count": 54,
+      "cited_by_count": 56,
       "citation_normalized_percentile": {
         "value": 0.99912485,
         "is_in_top_1_percent": true,
@@ -919,15 +1346,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.7099999785423279,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 30,
       "referenced_works": [
@@ -943,24 +1370,24 @@
         "https://openalex.org/W2325473967",
         "https://openalex.org/W6670542613",
         "https://openalex.org/W6748862132",
-        "https://openalex.org/W2950220847",
-        "https://openalex.org/W3137695714",
-        "https://openalex.org/W2058832429",
-        "https://openalex.org/W2068181873",
-        "https://openalex.org/W2074176021",
-        "https://openalex.org/W2323841792",
-        "https://openalex.org/W2952276042",
+        "https://openalex.org/W2512297284",
+        "https://openalex.org/W15242090",
         "https://openalex.org/W4231033096",
-        "https://openalex.org/W2519091744",
-        "https://openalex.org/W2792764867",
+        "https://openalex.org/W2160319921",
+        "https://openalex.org/W2068181873",
         "https://openalex.org/W2080383849",
         "https://openalex.org/W1979518289",
-        "https://openalex.org/W2790390066",
-        "https://openalex.org/W15242090",
+        "https://openalex.org/W2519091744",
+        "https://openalex.org/W2792764867",
+        "https://openalex.org/W2952632681",
+        "https://openalex.org/W2323841792",
+        "https://openalex.org/W2950220847",
         "https://openalex.org/W2949382160",
-        "https://openalex.org/W2512297284",
-        "https://openalex.org/W2160319921",
-        "https://openalex.org/W2952632681"
+        "https://openalex.org/W2790390066",
+        "https://openalex.org/W2074176021",
+        "https://openalex.org/W3137695714",
+        "https://openalex.org/W2952276042",
+        "https://openalex.org/W2058832429"
       ],
       "related_works": [
         "https://openalex.org/W2002724804",
@@ -1523,7 +1950,7 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 6
+          "cited_by_count": 8
         },
         {
           "year": 2024,
@@ -1547,423 +1974,6 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4402326942",
-      "doi": "https://doi.org/10.1016/j.cageo.2024.105711",
-      "title": "Learning CO<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si194.svg\" display=\"inline\" id=\"d1e1512\"><mml:msub><mml:mrow/><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math> plume migration in faulted reservoirs with Graph Neural Networks",
-      "display_name": "Learning CO<mml:math xmlns:mml=\"http://www.w3.org/1998/Math/MathML\" altimg=\"si194.svg\" display=\"inline\" id=\"d1e1512\"><mml:msub><mml:mrow/><mml:mrow><mml:mn>2</mml:mn></mml:mrow></mml:msub></mml:math> plume migration in faulted reservoirs with Graph Neural Networks",
-      "publication_year": 2024,
-      "publication_date": "2024-09-07",
-      "ids": {
-        "openalex": "https://openalex.org/W4402326942",
-        "doi": "https://doi.org/10.1016/j.cageo.2024.105711"
-      },
-      "language": "lv",
-      "primary_location": {
-        "id": "doi:10.1016/j.cageo.2024.105711",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.cageo.2024.105711",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S61699894",
-          "display_name": "Computers & Geosciences",
-          "issn_l": "0098-3004",
-          "issn": [
-            "0098-3004",
-            "1873-7803"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Computers &amp; Geosciences",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5036781407",
-            "display_name": "Xin Ju",
-            "orcid": "https://orcid.org/0000-0003-4110-7472"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Xin Ju",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5047662931",
-            "display_name": "François P. Hamon",
-            "orcid": "https://orcid.org/0000-0001-8229-963X"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "François P. Hamon",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5007168661",
-            "display_name": "Gege Wen",
-            "orcid": "https://orcid.org/0000-0003-1668-3777"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Gege Wen",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5071165005",
-            "display_name": "Rayan Kanfar",
-            "orcid": "https://orcid.org/0000-0003-4321-5573"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Rayan Kanfar",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5027534318",
-            "display_name": "Mauricio Araya–Polo",
-            "orcid": "https://orcid.org/0000-0002-5537-1840"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mauricio Araya-Polo",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5033541460",
-            "display_name": "Hamdi A. Tchelepi",
-            "orcid": "https://orcid.org/0000-0002-3084-6635"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Hamdi A. Tchelepi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 3630,
-        "currency": "USD",
-        "value_usd": 3630
-      },
-      "apc_paid": null,
-      "fwci": 4.26222628,
-      "has_fulltext": false,
-      "cited_by_count": 11,
-      "citation_normalized_percentile": {
-        "value": 0.91219649,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "193",
-        "issue": null,
-        "first_page": "105711",
-        "last_page": "105711"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11302",
-        "display_name": "CO2 Sequestration and Geologic Interactions",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10491",
-          "display_name": "Enhanced Oil Recovery Techniques",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.5545613765716553
-        },
-        {
-          "id": "https://openalex.org/keywords/scalable-vector-graphics",
-          "display_name": "Scalable Vector Graphics",
-          "score": 0.43883803486824036
-        },
-        {
-          "id": "https://openalex.org/keywords/world-wide-web",
-          "display_name": "World Wide Web",
-          "score": 0.1661686897277832
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.5545613765716553
-        },
-        {
-          "id": "https://openalex.org/C202629362",
-          "wikidata": "https://www.wikidata.org/wiki/Q2078",
-          "display_name": "Scalable Vector Graphics",
-          "level": 2,
-          "score": 0.43883803486824036
-        },
-        {
-          "id": "https://openalex.org/C136764020",
-          "wikidata": "https://www.wikidata.org/wiki/Q466",
-          "display_name": "World Wide Web",
-          "level": 1,
-          "score": 0.1661686897277832
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.cageo.2024.105711",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.cageo.2024.105711",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S61699894",
-            "display_name": "Computers & Geosciences",
-            "issn_l": "0098-3004",
-            "issn": [
-              "0098-3004",
-              "1873-7803"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Computers &amp; Geosciences",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.5600000023841858,
-          "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "referenced_works_count": 52,
-      "referenced_works": [
-        "https://openalex.org/W3166111822",
-        "https://openalex.org/W4312617492",
-        "https://openalex.org/W6680598519",
-        "https://openalex.org/W2011364235",
-        "https://openalex.org/W6720006811",
-        "https://openalex.org/W2064572976",
-        "https://openalex.org/W2058738180",
-        "https://openalex.org/W3183994952",
-        "https://openalex.org/W6738964360",
-        "https://openalex.org/W2111546927",
-        "https://openalex.org/W4392059653",
-        "https://openalex.org/W3012977591",
-        "https://openalex.org/W1897549261",
-        "https://openalex.org/W2180023479",
-        "https://openalex.org/W2757850250",
-        "https://openalex.org/W2093652220",
-        "https://openalex.org/W2811208018",
-        "https://openalex.org/W2155117641",
-        "https://openalex.org/W2106176530",
-        "https://openalex.org/W2042377693",
-        "https://openalex.org/W1982388591",
-        "https://openalex.org/W6639824700",
-        "https://openalex.org/W6774033856",
-        "https://openalex.org/W6731918294",
-        "https://openalex.org/W6810581345",
-        "https://openalex.org/W4285133117",
-        "https://openalex.org/W1986714070",
-        "https://openalex.org/W2093509949",
-        "https://openalex.org/W3210813904",
-        "https://openalex.org/W3157798299",
-        "https://openalex.org/W3016309349",
-        "https://openalex.org/W2047137338",
-        "https://openalex.org/W3197308578",
-        "https://openalex.org/W4323904364",
-        "https://openalex.org/W2981461641",
-        "https://openalex.org/W4283010154",
-        "https://openalex.org/W3152893301",
-        "https://openalex.org/W2784733489",
-        "https://openalex.org/W4294558607",
-        "https://openalex.org/W3100968477",
-        "https://openalex.org/W4287122177",
-        "https://openalex.org/W4320341235",
-        "https://openalex.org/W2143093655",
-        "https://openalex.org/W3205927194",
-        "https://openalex.org/W4295728955",
-        "https://openalex.org/W4398251086",
-        "https://openalex.org/W4287645102",
-        "https://openalex.org/W1566030289",
-        "https://openalex.org/W4225370476",
-        "https://openalex.org/W1570210063",
-        "https://openalex.org/W4281565761",
-        "https://openalex.org/W2964321699"
-      ],
-      "related_works": [
-        "https://openalex.org/W4391375266",
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W2358969090",
-        "https://openalex.org/W3183425535",
-        "https://openalex.org/W2354624479",
-        "https://openalex.org/W2394137533",
-        "https://openalex.org/W2362190996",
-        "https://openalex.org/W2385461408",
-        "https://openalex.org/W2119089902",
-        "https://openalex.org/W2387643967"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 10
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-12-22T23:10:17.713674",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2047,7 +2057,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Department of Energy Science and Engineering, Stanford University, 367 Panama Street, Stanford, CA, 94305-2220, USA"
@@ -2101,15 +2111,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5071165005"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I97018004"
+      ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.45163063,
+      "fwci": 1.81453829,
       "has_fulltext": false,
-      "cited_by_count": 4,
+      "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.78001123,
+        "value": 0.80953444,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2457,8 +2471,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4399999976158142,
-          "display_name": "Decent work and economic growth",
-          "id": "https://metadata.un.org/sdg/8"
+          "id": "https://metadata.un.org/sdg/8",
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -2470,8 +2484,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -2509,8 +2523,8 @@
         "https://openalex.org/W2160303039",
         "https://openalex.org/W2026158509",
         "https://openalex.org/W2503676979",
-        "https://openalex.org/W71764628",
-        "https://openalex.org/W124181313"
+        "https://openalex.org/W124181313",
+        "https://openalex.org/W71764628"
       ],
       "related_works": [
         "https://openalex.org/W3203010359",
@@ -2528,7 +2542,7 @@
       "counts_by_year": [
         {
           "year": 2025,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2024,
@@ -2604,6 +2618,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -2615,14 +2640,22 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com.",
             "Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -2640,6 +2673,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -2651,14 +2695,22 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Abdulmohsen Alali",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com.",
             "Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -2684,17 +2736,36 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Thierry-Laurent Tonellot",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com.",
             "Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -2712,6 +2783,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -2723,14 +2805,22 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Hussain Salim",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com.",
             "Saudi Aramco, Dhahran, Saudi Arabia.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco, Dhahran, Saudi Arabia. E-mail: rayan.kanfar@aramco.com; abdulmohsen.ali.1@aramco.com; thierrylaurent.tonellot@aramco.com; hussain.salim.2@aramco.com.",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia..",
               "institution_ids": [
@@ -2764,9 +2854,16 @@
           "is_corresponding": false,
           "raw_author_name": "Oleg Ovcharenko",
           "raw_affiliation_strings": [
+            "2 NVIDIA Corp., Santa Clara, California, USA. E-mail: oovcharenko@nvidia.com.",
             "NVIDIA Corp., Santa Clara, California, USA.."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "2 NVIDIA Corp., Santa Clara, California, USA. E-mail: oovcharenko@nvidia.com.",
+              "institution_ids": [
+                "https://openalex.org/I4210127875"
+              ]
+            },
             {
               "raw_affiliation_string": "NVIDIA Corp., Santa Clara, California, USA..",
               "institution_ids": [
@@ -2779,15 +2876,20 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5071165005"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769",
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 3.06327829,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.78184856,
+        "value": 0.77594738,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3019,8 +3121,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 34,
       "referenced_works": [
@@ -3055,9 +3157,9 @@
         "https://openalex.org/W3149008029",
         "https://openalex.org/W4386794445",
         "https://openalex.org/W4304195432",
-        "https://openalex.org/W4386410789",
+        "https://openalex.org/W2990138404",
         "https://openalex.org/W2559655401",
-        "https://openalex.org/W2990138404"
+        "https://openalex.org/W4386410789"
       ],
       "related_works": [
         "https://openalex.org/W1981780420",
@@ -3535,8 +3637,8 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
@@ -3564,7 +3666,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ju, Xin",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -3643,7 +3745,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5101867027"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -3910,8 +4014,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -3969,8 +4073,8 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
@@ -3980,15 +4084,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -4507,7 +4611,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Stanford University;"
@@ -4598,15 +4702,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5071165005"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I97018004"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.31684086,
+        "value": 0.31444688,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4873,8 +4981,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 12,
       "referenced_works": [
@@ -4887,8 +4995,8 @@
         "https://openalex.org/W3107209249",
         "https://openalex.org/W4285093386",
         "https://openalex.org/W2948893225",
-        "https://openalex.org/W2999905431",
         "https://openalex.org/W2559655401",
+        "https://openalex.org/W2999905431",
         "https://openalex.org/W2612690371"
       ],
       "related_works": [
@@ -5203,7 +5311,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
             "Energy Science & Engineering, Stanford University, Stanford, CA, USA"
@@ -5309,16 +5417,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1302918504",
-              "display_name": "Planetary Science Institute",
-              "ror": "https://ror.org/05vvg9554",
-              "country_code": "US",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I1302918504"
-              ]
-            },
-            {
               "id": "https://openalex.org/I97018004",
               "display_name": "Stanford University",
               "ror": "https://ror.org/00f54p054",
@@ -5326,6 +5424,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I97018004"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1302918504",
+              "display_name": "Planetary Science Institute",
+              "ror": "https://ror.org/05vvg9554",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1302918504"
               ]
             }
           ],
@@ -5351,15 +5459,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5071165005"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I97018004"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08358896,
+        "value": 0.08269525,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5555,8 +5667,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 22,
       "referenced_works": [
@@ -5576,12 +5688,12 @@
         "https://openalex.org/W6794190785",
         "https://openalex.org/W2156770446",
         "https://openalex.org/W4283771424",
-        "https://openalex.org/W1522301498",
+        "https://openalex.org/W2954742730",
         "https://openalex.org/W4310632623",
-        "https://openalex.org/W4294643831",
         "https://openalex.org/W2612690371",
+        "https://openalex.org/W1522301498",
         "https://openalex.org/W3153319639",
-        "https://openalex.org/W2954742730"
+        "https://openalex.org/W4294643831"
       ],
       "related_works": [
         "https://openalex.org/W2748952813",
@@ -6098,7 +6210,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdulrahman Al-Fakih",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -6191,7 +6303,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5013827317"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -6287,8 +6401,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 40,
       "referenced_works": [

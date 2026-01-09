@@ -456,7 +456,7 @@
           "countries": [
             "NL"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Konert Geert",
           "raw_affiliation_strings": [
             "Shell International"
@@ -584,15 +584,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5051035705"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I7923278"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 6.77590579,
       "has_fulltext": true,
-      "cited_by_count": 518,
+      "cited_by_count": 519,
       "citation_normalized_percentile": {
-        "value": 0.96880169,
+        "value": 0.96887354,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -975,19 +979,19 @@
         "https://openalex.org/W6675257378",
         "https://openalex.org/W2974207299",
         "https://openalex.org/W2944320642",
-        "https://openalex.org/W2022842844",
         "https://openalex.org/W2098946510",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2022842844",
+        "https://openalex.org/W2996419205",
+        "https://openalex.org/W3128966218",
+        "https://openalex.org/W1994180156",
         "https://openalex.org/W2166039370",
+        "https://openalex.org/W2102332269",
         "https://openalex.org/W2065829251",
+        "https://openalex.org/W1963906122",
         "https://openalex.org/W2125021582",
         "https://openalex.org/W2124390624",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W3128966218",
-        "https://openalex.org/W1963906122",
-        "https://openalex.org/W2996419205",
-        "https://openalex.org/W2298570460",
-        "https://openalex.org/W2102332269",
-        "https://openalex.org/W1994180156"
+        "https://openalex.org/W2298570460"
       ],
       "related_works": [
         "https://openalex.org/W2046362351",
@@ -1823,6 +1827,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 49
         },
@@ -1962,7 +1970,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Paul K. Strother",
           "raw_affiliation_strings": [
             "Boston College Department of Geology and Geophysics, Weston Observatory, Weston, Massachusetts 02193"
@@ -2037,9 +2045,16 @@
           "is_corresponding": false,
           "raw_author_name": "Alfred Traverse",
           "raw_affiliation_strings": [
+            "Department of Geosciences, Pennsylvania State University, University Park, Pennsylvania 16802",
             "Department of Geosciences Pennsylvania State University University Park, Pennsylvania 16802"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, Pennsylvania State University, University Park, Pennsylvania 16802",
+              "institution_ids": [
+                "https://openalex.org/I130769515"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences Pennsylvania State University University Park, Pennsylvania 16802",
               "institution_ids": [
@@ -2052,15 +2067,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5073496917"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I103531236"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 4.47403778,
       "has_fulltext": false,
       "cited_by_count": 180,
       "citation_normalized_percentile": {
-        "value": 0.94820362,
+        "value": 0.94843049,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3348,7 +3367,7 @@
       "has_fulltext": false,
       "cited_by_count": 54,
       "citation_normalized_percentile": {
-        "value": 0.75153249,
+        "value": 0.7525941,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3698,13 +3717,13 @@
         "https://openalex.org/W6679252377",
         "https://openalex.org/W2066997202",
         "https://openalex.org/W2052213377",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W122678642",
-        "https://openalex.org/W2943315204",
         "https://openalex.org/W3092335825",
         "https://openalex.org/W2597931178",
+        "https://openalex.org/W2943315204",
         "https://openalex.org/W2128500185",
-        "https://openalex.org/W1877150129"
+        "https://openalex.org/W122678642",
+        "https://openalex.org/W1877150129",
+        "https://openalex.org/W195523536"
       ],
       "related_works": [
         "https://openalex.org/W2559599890",
@@ -3851,7 +3870,7 @@
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "government",
+              "type": "funder",
               "lineage": [
                 "https://openalex.org/I1294671590"
               ]
@@ -3870,7 +3889,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
             "URA 1364 du CNRS, Laboratoire de Paléontologie et Stratigraphie, Université de Rennes I, 35042 Rennes cedex, France"
@@ -3879,8 +3898,8 @@
             {
               "raw_affiliation_string": "URA 1364 du CNRS, Laboratoire de Paléontologie et Stratigraphie, Université de Rennes I, 35042 Rennes cedex, France",
               "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I56067802"
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I1294671590"
               ]
             }
           ]
@@ -3997,8 +4016,13 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5111534349"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1294671590",
+        "https://openalex.org/I56067802"
+      ],
       "apc_list": {
         "value": 3080,
         "currency": "USD",
@@ -4009,7 +4033,7 @@
       "has_fulltext": false,
       "cited_by_count": 55,
       "citation_normalized_percentile": {
-        "value": 0.95606866,
+        "value": 0.95625636,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4346,23 +4370,23 @@
         "https://openalex.org/W6679252377",
         "https://openalex.org/W6726808910",
         "https://openalex.org/W2052213377",
-        "https://openalex.org/W2943315204",
-        "https://openalex.org/W773289702",
-        "https://openalex.org/W2085526976",
-        "https://openalex.org/W2125021582",
-        "https://openalex.org/W586013635",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W319663532",
-        "https://openalex.org/W3142643523",
         "https://openalex.org/W4385628771",
-        "https://openalex.org/W2050580822",
-        "https://openalex.org/W2074820021",
-        "https://openalex.org/W2801959296",
-        "https://openalex.org/W567664885",
-        "https://openalex.org/W2128500185",
-        "https://openalex.org/W2345626855",
         "https://openalex.org/W2166039370",
-        "https://openalex.org/W195523536"
+        "https://openalex.org/W2074820021",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W773289702",
+        "https://openalex.org/W2801959296",
+        "https://openalex.org/W586013635",
+        "https://openalex.org/W3142643523",
+        "https://openalex.org/W2345626855",
+        "https://openalex.org/W2125021582",
+        "https://openalex.org/W319663532",
+        "https://openalex.org/W2085526976",
+        "https://openalex.org/W567664885",
+        "https://openalex.org/W2050580822",
+        "https://openalex.org/W2128500185",
+        "https://openalex.org/W2943315204"
       ],
       "related_works": [
         "https://openalex.org/W2160362315",
@@ -4502,7 +4526,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Sa’id A. Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -4631,15 +4655,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054134454"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 1.39610056,
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.86994421,
+        "value": 0.86947442,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4979,16 +5007,16 @@
         "https://openalex.org/W2091539779",
         "https://openalex.org/W1971240109",
         "https://openalex.org/W2944320642",
-        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2501683605",
+        "https://openalex.org/W2166039370",
+        "https://openalex.org/W319663532",
+        "https://openalex.org/W3142643523",
         "https://openalex.org/W1722846525",
         "https://openalex.org/W162791",
-        "https://openalex.org/W2501683605",
-        "https://openalex.org/W319663532",
-        "https://openalex.org/W2188088257",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2910189912",
         "https://openalex.org/W2797720419",
-        "https://openalex.org/W2166039370",
-        "https://openalex.org/W3142643523",
-        "https://openalex.org/W2910189912"
+        "https://openalex.org/W2188088257"
       ],
       "related_works": [
         "https://openalex.org/W2159674257",
@@ -5535,7 +5563,7 @@
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "government",
+              "type": "funder",
               "lineage": [
                 "https://openalex.org/I1294671590"
               ]
@@ -5587,16 +5615,16 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Rue des Jonquilles, 35235 Thorigné-Fouillard, France",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "Géosciences-Rennes, CNRS UMR 6118, Université de Rennes 1, 35042 Rennes, France",
               "institution_ids": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802"
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I1294671590"
               ]
+            },
+            {
+              "raw_affiliation_string": "Rue des Jonquilles, 35235 Thorigné-Fouillard, France",
+              "institution_ids": []
             }
           ]
         },
@@ -5787,7 +5815,7 @@
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.96336769,
+        "value": 0.96340253,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6085,8 +6113,8 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "REVIEW OF PALAEOBOTANY AND PALYNOLOGY",
-          "raw_type": "journalArticle"
+          "raw_source_name": "ISSN: 0034-6667",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
         }
       ],
       "best_oa_location": null,
@@ -6170,32 +6198,32 @@
         "https://openalex.org/W2034100650",
         "https://openalex.org/W6719274126",
         "https://openalex.org/W2259019958",
-        "https://openalex.org/W2443752829",
-        "https://openalex.org/W2620415727",
         "https://openalex.org/W2202260353",
-        "https://openalex.org/W2043876474",
-        "https://openalex.org/W4245823893",
-        "https://openalex.org/W1877150129",
-        "https://openalex.org/W2049594954",
-        "https://openalex.org/W2117919275",
-        "https://openalex.org/W359202993",
-        "https://openalex.org/W1550978638",
-        "https://openalex.org/W2050580822",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W1981737804",
-        "https://openalex.org/W2464939118",
-        "https://openalex.org/W2597931178",
-        "https://openalex.org/W2007218904",
-        "https://openalex.org/W1968615516",
         "https://openalex.org/W1990486296",
-        "https://openalex.org/W2023943700",
-        "https://openalex.org/W2975121897",
+        "https://openalex.org/W2050580822",
+        "https://openalex.org/W2049594954",
+        "https://openalex.org/W2303823290",
+        "https://openalex.org/W359202993",
+        "https://openalex.org/W2464939118",
+        "https://openalex.org/W2007218904",
         "https://openalex.org/W2125021582",
         "https://openalex.org/W2262636503",
-        "https://openalex.org/W937435502",
+        "https://openalex.org/W2023943700",
+        "https://openalex.org/W1981737804",
+        "https://openalex.org/W2597931178",
+        "https://openalex.org/W2117919275",
         "https://openalex.org/W3002222432",
         "https://openalex.org/W4236699888",
-        "https://openalex.org/W2303823290"
+        "https://openalex.org/W2043876474",
+        "https://openalex.org/W937435502",
+        "https://openalex.org/W4245823893",
+        "https://openalex.org/W1550978638",
+        "https://openalex.org/W2443752829",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2975121897",
+        "https://openalex.org/W2620415727",
+        "https://openalex.org/W1877150129",
+        "https://openalex.org/W1968615516"
       ],
       "related_works": [
         "https://openalex.org/W782260409",
@@ -6322,7 +6350,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -6351,7 +6379,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Sa’id Al-Hajri",
+          "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -6359,7 +6387,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5111534349"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -6367,7 +6397,7 @@
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.8400536,
+        "value": 0.84007062,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6819,7 +6849,7 @@
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.63778211,
+        "value": 0.6383501,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7137,18 +7167,18 @@
         "https://openalex.org/W2079921604",
         "https://openalex.org/W1964129293",
         "https://openalex.org/W1990542043",
-        "https://openalex.org/W2567210958",
+        "https://openalex.org/W2909198644",
         "https://openalex.org/W2970547570",
-        "https://openalex.org/W2329841831",
-        "https://openalex.org/W141601975",
-        "https://openalex.org/W1974033102",
-        "https://openalex.org/W2117355035",
         "https://openalex.org/W1563200055",
-        "https://openalex.org/W2506184417",
-        "https://openalex.org/W2180353876",
-        "https://openalex.org/W2951904574",
         "https://openalex.org/W2560267962",
-        "https://openalex.org/W2909198644"
+        "https://openalex.org/W2951904574",
+        "https://openalex.org/W141601975",
+        "https://openalex.org/W2329841831",
+        "https://openalex.org/W2567210958",
+        "https://openalex.org/W2180353876",
+        "https://openalex.org/W1974033102",
+        "https://openalex.org/W2506184417",
+        "https://openalex.org/W2117355035"
       ],
       "related_works": [
         "https://openalex.org/W2073176850",
@@ -7271,9 +7301,19 @@
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "government",
+              "type": "funder",
               "lineage": [
                 "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
               ]
             },
             {
@@ -7300,16 +7340,6 @@
                 "https://openalex.org/I56067802",
                 "https://openalex.org/I56067802"
               ]
-            },
-            {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
             }
           ],
           "countries": [
@@ -7323,16 +7353,16 @@
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Rue des Jonquilles, 35235 Thorigné-Fouillard, France",
-              "institution_ids": []
-            },
-            {
               "raw_affiliation_string": "Géosciences-Rennes, CNRS UMR 6118, Université de Rennes 1, 35042 Rennes, France",
               "institution_ids": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802"
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I1294671590"
               ]
+            },
+            {
+              "raw_affiliation_string": "Rue des Jonquilles, 35235 Thorigné-Fouillard, France",
+              "institution_ids": []
             }
           ]
         },
@@ -7438,8 +7468,8 @@
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I1294671590",
-        "https://openalex.org/I4210096833",
-        "https://openalex.org/I56067802"
+        "https://openalex.org/I56067802",
+        "https://openalex.org/I4210096833"
       ],
       "apc_list": {
         "value": 3080,
@@ -7451,7 +7481,7 @@
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.93551058,
+        "value": 0.93561327,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7742,19 +7772,19 @@
         "https://openalex.org/W2052213377",
         "https://openalex.org/W2259019958",
         "https://openalex.org/W2151359348",
-        "https://openalex.org/W2443752829",
-        "https://openalex.org/W1120841369",
         "https://openalex.org/W2597883500",
+        "https://openalex.org/W1120841369",
         "https://openalex.org/W2561666449",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W3116451916",
-        "https://openalex.org/W1877150129",
-        "https://openalex.org/W2972990828",
-        "https://openalex.org/W2616985032",
-        "https://openalex.org/W2167588505",
         "https://openalex.org/W2314239886",
         "https://openalex.org/W2597931178",
-        "https://openalex.org/W2262636503"
+        "https://openalex.org/W2972990828",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2616985032",
+        "https://openalex.org/W3116451916",
+        "https://openalex.org/W2443752829",
+        "https://openalex.org/W2262636503",
+        "https://openalex.org/W2167588505",
+        "https://openalex.org/W1877150129"
       ],
       "related_works": [
         "https://openalex.org/W2031066500",
@@ -7882,17 +7912,35 @@
                 "https://openalex.org/I202391551",
                 "https://openalex.org/I4210141937"
               ]
+            },
+            {
+              "id": "https://openalex.org/I111112146",
+              "display_name": "Tallinn University of Technology",
+              "ror": "https://ror.org/0443cwa12",
+              "country_code": "EE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I111112146"
+              ]
             }
           ],
           "countries": [
-            "CZ"
+            "CZ",
+            "EE"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Olle Hints",
           "raw_affiliation_strings": [
+            "Institute of Geology at Tallinn University of Technology, Ehitajate 5, 19086 Tallinn, Estonia",
             "Institute of Geology at Tallinn"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geology at Tallinn University of Technology, Ehitajate 5, 19086 Tallinn, Estonia",
+              "institution_ids": [
+                "https://openalex.org/I111112146"
+              ]
+            },
             {
               "raw_affiliation_string": "Institute of Geology at Tallinn",
               "institution_ids": [
@@ -7909,6 +7957,16 @@
             "orcid": null
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
             {
               "id": "https://openalex.org/I4210096833",
               "display_name": "Géosciences Rennes",
@@ -7933,6 +7991,16 @@
                 "https://openalex.org/I56067802",
                 "https://openalex.org/I56067802"
               ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
             }
           ],
           "countries": [
@@ -7941,9 +8009,23 @@
           "is_corresponding": false,
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
+            "Géosciences-Rennes, CNRS UMR 6118, Université de Rennes 1, 35042 Rennes, France",
+            "Rue des Jonquilles, 35235 Thorigné-Fouillard, France",
             "Géosciences Rennes"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Géosciences-Rennes, CNRS UMR 6118, Université de Rennes 1, 35042 Rennes, France",
+              "institution_ids": [
+                "https://openalex.org/I4210096833",
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Rue des Jonquilles, 35235 Thorigné-Fouillard, France",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Géosciences Rennes",
               "institution_ids": [
@@ -7970,17 +8052,35 @@
                 "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
             }
           ],
           "countries": [
+            "SA",
             "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Sa'id Al-Hajri",
           "raw_affiliation_strings": [
+            "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia",
             "Saudi — Aramco"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi — Aramco",
               "institution_ids": [
@@ -7991,10 +8091,15 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
+      "countries_distinct_count": 5,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5038394462"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210141937",
+        "https://openalex.org/I111112146"
+      ],
       "apc_list": {
         "value": 3080,
         "currency": "USD",
@@ -8005,7 +8110,7 @@
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.92409514,
+        "value": 0.92424117,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8294,16 +8399,16 @@
       ],
       "awards": [
         {
-          "id": "https://openalex.org/G6565344128",
+          "id": "https://openalex.org/G3350390190",
           "display_name": null,
-          "funder_award_id": "SF0140020s08",
+          "funder_award_id": "ETF9039",
           "funder_id": "https://openalex.org/F4320321090",
           "funder_display_name": "Eesti Teadusagentuur"
         },
         {
-          "id": "https://openalex.org/G3350390190",
+          "id": "https://openalex.org/G6565344128",
           "display_name": null,
-          "funder_award_id": "ETF9039",
+          "funder_award_id": "SF0140020s08",
           "funder_id": "https://openalex.org/F4320321090",
           "funder_display_name": "Eesti Teadusagentuur"
         }
@@ -8352,15 +8457,15 @@
         "https://openalex.org/W2113384436",
         "https://openalex.org/W2057487513",
         "https://openalex.org/W2259019958",
-        "https://openalex.org/W3202876361",
-        "https://openalex.org/W319663532",
-        "https://openalex.org/W4245823893",
-        "https://openalex.org/W2039534785",
-        "https://openalex.org/W1859721464",
         "https://openalex.org/W2007218904",
-        "https://openalex.org/W2523378890",
         "https://openalex.org/W2050580822",
-        "https://openalex.org/W2186131974"
+        "https://openalex.org/W2039534785",
+        "https://openalex.org/W4245823893",
+        "https://openalex.org/W2523378890",
+        "https://openalex.org/W2186131974",
+        "https://openalex.org/W1859721464",
+        "https://openalex.org/W319663532",
+        "https://openalex.org/W3202876361"
       ],
       "related_works": [
         "https://openalex.org/W2911869918",
@@ -8492,7 +8597,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "T.E. Stump",
           "raw_affiliation_strings": [
             "Saudi Aramco, P.O. Box 10716, Dhahran, 31311, Saudi Arabia"
@@ -8582,8 +8687,12 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5018932064"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": {
         "value": 3080,
         "currency": "USD",
@@ -8594,7 +8703,7 @@
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.86390927,
+        "value": 0.8649635,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8856,18 +8965,18 @@
         "https://openalex.org/W1971240109",
         "https://openalex.org/W2091539779",
         "https://openalex.org/W6675712617",
-        "https://openalex.org/W2125021582",
-        "https://openalex.org/W2054921342",
-        "https://openalex.org/W1973826423",
         "https://openalex.org/W2344742640",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2473132188",
-        "https://openalex.org/W2481846260",
-        "https://openalex.org/W2224028786",
-        "https://openalex.org/W1930573109",
         "https://openalex.org/W2104736232",
+        "https://openalex.org/W2473132188",
+        "https://openalex.org/W2054921342",
+        "https://openalex.org/W4285719527",
         "https://openalex.org/W2053493272",
-        "https://openalex.org/W2765392214"
+        "https://openalex.org/W2765392214",
+        "https://openalex.org/W2224028786",
+        "https://openalex.org/W2125021582",
+        "https://openalex.org/W1973826423",
+        "https://openalex.org/W2481846260",
+        "https://openalex.org/W1930573109"
       ],
       "related_works": [
         "https://openalex.org/W2386415025",
@@ -8999,7 +9108,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [
             "Geological Research and DevelopmentExploration, Saudi Aramco Dhahran 31311, Saudi Arabia"
@@ -9022,13 +9131,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
               "country_code": "FR",
-              "type": "government",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I56067802"
               ]
             },
             {
@@ -9057,13 +9166,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "education",
+              "type": "funder",
               "lineage": [
-                "https://openalex.org/I56067802"
+                "https://openalex.org/I1294671590"
               ]
             }
           ],
@@ -9079,9 +9188,9 @@
             {
               "raw_affiliation_string": "Laboratoire de Sédimentologie et Paléontologie Géosciences, UPR 4661 du CNRS Université de Rennes 1 F-35042 Rennes, cedex France",
               "institution_ids": [
-                "https://openalex.org/I1294671590",
                 "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802"
+                "https://openalex.org/I56067802",
+                "https://openalex.org/I1294671590"
               ]
             }
           ]
@@ -9090,8 +9199,12 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054134454"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": {
         "value": 2620,
         "currency": "USD",
@@ -9102,7 +9215,7 @@
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.72537594,
+        "value": 0.72705224,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9439,10 +9552,10 @@
         "https://openalex.org/W6758166751",
         "https://openalex.org/W2068101248",
         "https://openalex.org/W2119807910",
-        "https://openalex.org/W2125021582",
         "https://openalex.org/W3177271903",
-        "https://openalex.org/W2910189912",
-        "https://openalex.org/W122678642"
+        "https://openalex.org/W2125021582",
+        "https://openalex.org/W122678642",
+        "https://openalex.org/W2910189912"
       ],
       "related_works": [
         "https://openalex.org/W2346947030",
@@ -9565,8 +9678,8 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
-          "raw_author_name": "Sa’id Al-Hajri",
+          "is_corresponding": true,
+          "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [
             "Saudi ARAMCO"
           ],
@@ -9619,15 +9732,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054134454"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 1.98696819,
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.87505079,
+        "value": 0.87515201,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9947,8 +10064,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Geoffrey Clayton",
+          "is_corresponding": true,
+          "raw_author_name": "Geoff Clayton",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -9998,7 +10115,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Sa’id Al-Hajri",
+          "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -10020,7 +10137,9 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5066688203"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -10028,7 +10147,7 @@
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.8929297,
+        "value": 0.89319011,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10268,900 +10387,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2233849553",
-      "doi": "https://doi.org/10.1016/j.revmic.2017.02.002",
-      "title": "A distinctive marginal marine palynological assemblage from the Přídolí of northwestern Saudi Arabia",
-      "display_name": "A distinctive marginal marine palynological assemblage from the Přídolí of northwestern Saudi Arabia",
-      "publication_year": 2017,
-      "publication_date": "2017-03-31",
-      "ids": {
-        "openalex": "https://openalex.org/W2233849553",
-        "doi": "https://doi.org/10.1016/j.revmic.2017.02.002",
-        "mag": "2233849553"
-      },
-      "language": "cs",
-      "primary_location": {
-        "id": "doi:10.1016/j.revmic.2017.02.002",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.revmic.2017.02.002",
-        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0035159817300089",
-        "source": {
-          "id": "https://openalex.org/S2898090153",
-          "display_name": "Revue de Micropaléontologie",
-          "issn_l": "0035-1598",
-          "issn": [
-            "0035-1598",
-            "1873-4413"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Revue de Micropaléontologie",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0035159817300089",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5084822278",
-            "display_name": "Pierre Breuer",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Pierre Breuer",
-          "raw_affiliation_strings": [
-            "Saudi Aramco, Geological Technical Services Division, Biostratigraphy Group, 31311 Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco, Geological Technical Services Division, Biostratigraphy Group, 31311 Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5054134454",
-            "display_name": "S. Al-Hajri",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sa’id Al-Hajri",
-          "raw_affiliation_strings": [
-            "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5090141705",
-            "display_name": "Alain Le Hérissé",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210157108",
-              "display_name": "Institut Universitaire Européen de la Mer",
-              "ror": "https://ror.org/04pfr1b11",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4412460332"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I161929037",
-              "display_name": "Université de Bretagne Occidentale",
-              "ror": "https://ror.org/01b8h3982",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I161929037"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Alain Le Hérissé",
-          "raw_affiliation_strings": [
-            "Université de Brest, CNRS UMR6538, Géosciences Océan, Institut Universitaire Européen de la Mer, Bâtiment G, 6, avenue Le Gorgeu, 29238 Brest cedex 3, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Université de Brest, CNRS UMR6538, Géosciences Océan, Institut Universitaire Européen de la Mer, Bâtiment G, 6, avenue Le Gorgeu, 29238 Brest cedex 3, France",
-              "institution_ids": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I161929037",
-                "https://openalex.org/I4210157108"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5111534349",
-            "display_name": "Florentin Paris",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Florentin Paris",
-          "raw_affiliation_strings": [
-            "Rue des Jonquilles, 35235 Thorigné-Fouillard, France"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Rue des Jonquilles, 35235 Thorigné-Fouillard, France",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044489988",
-            "display_name": "Philippe Steemans",
-            "orcid": "https://orcid.org/0000-0003-1183-6324"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I157674565",
-              "display_name": "University of Liège",
-              "ror": "https://ror.org/00afp2z80",
-              "country_code": "BE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I157674565"
-              ]
-            }
-          ],
-          "countries": [
-            "BE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Philippe Steemans",
-          "raw_affiliation_strings": [
-            "NFSR Senior Research Associate, Department of Geology, Unit PPP, Liège University, Quartier Agora, B-18, Allée du 6-Août, 14, 4000 Liège, Belgium"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "NFSR Senior Research Associate, Department of Geology, Unit PPP, Liège University, Quartier Agora, B-18, Allée du 6-Août, 14, 4000 Liège, Belgium",
-              "institution_ids": [
-                "https://openalex.org/I157674565"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5029025019",
-            "display_name": "Jacques Verniers",
-            "orcid": "https://orcid.org/0000-0002-2939-7684"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I32597200",
-              "display_name": "Ghent University",
-              "ror": "https://ror.org/00cv9y106",
-              "country_code": "BE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I32597200"
-              ]
-            }
-          ],
-          "countries": [
-            "BE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jacques Verniers",
-          "raw_affiliation_strings": [
-            "Research Unit of Paleontology, Department of Geology, Ghent University, 9000 Ghent, Belgium"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Research Unit of Paleontology, Department of Geology, Ghent University, 9000 Ghent, Belgium",
-              "institution_ids": [
-                "https://openalex.org/I32597200"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5058654714",
-            "display_name": "Charles H. Wellman",
-            "orcid": "https://orcid.org/0000-0001-7511-0464"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I91136226",
-              "display_name": "University of Sheffield",
-              "ror": "https://ror.org/05krs5044",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I91136226"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Charles H. Wellman",
-          "raw_affiliation_strings": [
-            "Department of Animal & Plant Sciences, University of Sheffield, Alfred Denny Building, Western Bank, S10 2TN Sheffield, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Animal & Plant Sciences, University of Sheffield, Alfred Denny Building, Western Bank, S10 2TN Sheffield, UK",
-              "institution_ids": [
-                "https://openalex.org/I91136226"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5084822278"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
-      ],
-      "apc_list": {
-        "value": 2800,
-        "currency": "USD",
-        "value_usd": 2800
-      },
-      "apc_paid": null,
-      "fwci": 0.59942806,
-      "has_fulltext": true,
-      "cited_by_count": 7,
-      "citation_normalized_percentile": {
-        "value": 0.84366119,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "60",
-        "issue": "3",
-        "first_page": "371",
-        "last_page": "402"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9994999766349792,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9991999864578247,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9991000294685364,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/palynology",
-          "display_name": "Palynology",
-          "score": 0.8686753511428833
-        },
-        {
-          "id": "https://openalex.org/keywords/assemblage",
-          "display_name": "Assemblage (archaeology)",
-          "score": 0.8665165901184082
-        },
-        {
-          "id": "https://openalex.org/keywords/acritarch",
-          "display_name": "Acritarch",
-          "score": 0.7209110260009766
-        },
-        {
-          "id": "https://openalex.org/keywords/gondwana",
-          "display_name": "Gondwana",
-          "score": 0.6894991397857666
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5627552270889282
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5509714484214783
-        },
-        {
-          "id": "https://openalex.org/keywords/taxon",
-          "display_name": "Taxon",
-          "score": 0.4784305691719055
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.42836999893188477
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.233318030834198
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.13049638271331787
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.10294920206069946
-        },
-        {
-          "id": "https://openalex.org/keywords/pollen",
-          "display_name": "Pollen",
-          "score": 0.07089796662330627
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C162501224",
-          "wikidata": "https://www.wikidata.org/wiki/Q212919",
-          "display_name": "Palynology",
-          "level": 3,
-          "score": 0.8686753511428833
-        },
-        {
-          "id": "https://openalex.org/C2777798969",
-          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
-          "display_name": "Assemblage (archaeology)",
-          "level": 2,
-          "score": 0.8665165901184082
-        },
-        {
-          "id": "https://openalex.org/C97316735",
-          "wikidata": "https://www.wikidata.org/wiki/Q342747",
-          "display_name": "Acritarch",
-          "level": 2,
-          "score": 0.7209110260009766
-        },
-        {
-          "id": "https://openalex.org/C2781148125",
-          "wikidata": "https://www.wikidata.org/wiki/Q80583",
-          "display_name": "Gondwana",
-          "level": 3,
-          "score": 0.6894991397857666
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5627552270889282
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5509714484214783
-        },
-        {
-          "id": "https://openalex.org/C71640776",
-          "wikidata": "https://www.wikidata.org/wiki/Q16521",
-          "display_name": "Taxon",
-          "level": 2,
-          "score": 0.4784305691719055
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.42836999893188477
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.233318030834198
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.13049638271331787
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.10294920206069946
-        },
-        {
-          "id": "https://openalex.org/C2780618852",
-          "wikidata": "https://www.wikidata.org/wiki/Q79932",
-          "display_name": "Pollen",
-          "level": 2,
-          "score": 0.07089796662330627
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.revmic.2017.02.002",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.revmic.2017.02.002",
-          "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0035159817300089",
-          "source": {
-            "id": "https://openalex.org/S2898090153",
-            "display_name": "Revue de Micropaléontologie",
-            "issn_l": "0035-1598",
-            "issn": [
-              "0035-1598",
-              "1873-4413"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Revue de Micropaléontologie",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:HAL:hal-01910087v1",
-          "is_oa": true,
-          "landing_page_url": "https://hal.univ-brest.fr/hal-01910087",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Revue de Micropaléontologie, 2017, 60 (3), pp.371 - 402. &#x27E8;10.1016/j.revmic.2017.02.002&#x27E9;",
-          "raw_type": "Journal articles"
-        },
-        {
-          "id": "pmh:oai:archive.ugent.be:8573649",
-          "is_oa": false,
-          "landing_page_url": "https://biblio.ugent.be/publication/8573649",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400477",
-            "display_name": "Ghent University Academic Bibliography (Ghent University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I32597200",
-            "host_organization_name": "Ghent University",
-            "host_organization_lineage": [
-              "https://openalex.org/I32597200"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "REVUE DE MICROPALEONTOLOGIE",
-          "raw_type": "journalArticle"
-        },
-        {
-          "id": "pmh:oai:orbi.ulg.ac.be:2268/214451",
-          "is_oa": false,
-          "landing_page_url": "https://orbi.uliege.be/handle/2268/214451",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400651",
-            "display_name": "Open Repository and Bibliography (University of Liège)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I157674565",
-            "host_organization_name": "University of Liège",
-            "host_organization_lineage": [
-              "https://openalex.org/I157674565"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Revue de Micropaléontologie, 60, 371-402 (2017)",
-          "raw_type": "peer reviewed"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.revmic.2017.02.002",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.revmic.2017.02.002",
-        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0035159817300089",
-        "source": {
-          "id": "https://openalex.org/S2898090153",
-          "display_name": "Revue de Micropaléontologie",
-          "issn_l": "0035-1598",
-          "issn": [
-            "0035-1598",
-            "1873-4413"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Revue de Micropaléontologie",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": true
-      },
-      "referenced_works_count": 102,
-      "referenced_works": [
-        "https://openalex.org/W1558237779",
-        "https://openalex.org/W3128695080",
-        "https://openalex.org/W6638405160",
-        "https://openalex.org/W1978613952",
-        "https://openalex.org/W2104430377",
-        "https://openalex.org/W6643816234",
-        "https://openalex.org/W2016288825",
-        "https://openalex.org/W2117069434",
-        "https://openalex.org/W2968823268",
-        "https://openalex.org/W6622576041",
-        "https://openalex.org/W2598174262",
-        "https://openalex.org/W2067326465",
-        "https://openalex.org/W1968361832",
-        "https://openalex.org/W7048602449",
-        "https://openalex.org/W2065110112",
-        "https://openalex.org/W4245465792",
-        "https://openalex.org/W2946022769",
-        "https://openalex.org/W2009596160",
-        "https://openalex.org/W6787944988",
-        "https://openalex.org/W2078996408",
-        "https://openalex.org/W2112523440",
-        "https://openalex.org/W2435913569",
-        "https://openalex.org/W6636742553",
-        "https://openalex.org/W2042243864",
-        "https://openalex.org/W2078504143",
-        "https://openalex.org/W2312319594",
-        "https://openalex.org/W6642158360",
-        "https://openalex.org/W2044998296",
-        "https://openalex.org/W2173593053",
-        "https://openalex.org/W4317856981",
-        "https://openalex.org/W2043748564",
-        "https://openalex.org/W2046929661",
-        "https://openalex.org/W2054155026",
-        "https://openalex.org/W2063743433",
-        "https://openalex.org/W2166781815",
-        "https://openalex.org/W4293256569",
-        "https://openalex.org/W2081242734",
-        "https://openalex.org/W2025124551",
-        "https://openalex.org/W6639193870",
-        "https://openalex.org/W4211128516",
-        "https://openalex.org/W6758558109",
-        "https://openalex.org/W2013724523",
-        "https://openalex.org/W2316759598",
-        "https://openalex.org/W6728909380",
-        "https://openalex.org/W6765582021",
-        "https://openalex.org/W2076570565",
-        "https://openalex.org/W6818289280",
-        "https://openalex.org/W2094852978",
-        "https://openalex.org/W6893422560",
-        "https://openalex.org/W2319811024",
-        "https://openalex.org/W7006653089",
-        "https://openalex.org/W6629483285",
-        "https://openalex.org/W1985041664",
-        "https://openalex.org/W6646813138",
-        "https://openalex.org/W2020903820",
-        "https://openalex.org/W6683291379",
-        "https://openalex.org/W2029204334",
-        "https://openalex.org/W6643135611",
-        "https://openalex.org/W2042880085",
-        "https://openalex.org/W2029550131",
-        "https://openalex.org/W2069219639",
-        "https://openalex.org/W2161721158",
-        "https://openalex.org/W6667682517",
-        "https://openalex.org/W2323490829",
-        "https://openalex.org/W6683481143",
-        "https://openalex.org/W1988794119",
-        "https://openalex.org/W2167844526",
-        "https://openalex.org/W2020142853",
-        "https://openalex.org/W2035135167",
-        "https://openalex.org/W6745666130",
-        "https://openalex.org/W2618687283",
-        "https://openalex.org/W1973737829",
-        "https://openalex.org/W1496447526",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W1831163486",
-        "https://openalex.org/W3002222432",
-        "https://openalex.org/W2233849553",
-        "https://openalex.org/W2225017485",
-        "https://openalex.org/W1852444732",
-        "https://openalex.org/W1851810514",
-        "https://openalex.org/W3126685076",
-        "https://openalex.org/W2068101248",
-        "https://openalex.org/W2158291297",
-        "https://openalex.org/W1968596323",
-        "https://openalex.org/W2902305428",
-        "https://openalex.org/W3116451916",
-        "https://openalex.org/W2243147257",
-        "https://openalex.org/W4236699888",
-        "https://openalex.org/W2911158700",
-        "https://openalex.org/W254125409",
-        "https://openalex.org/W2767825032",
-        "https://openalex.org/W773289702",
-        "https://openalex.org/W1986049126",
-        "https://openalex.org/W2159248822",
-        "https://openalex.org/W2961841250",
-        "https://openalex.org/W2273107665",
-        "https://openalex.org/W1626447196",
-        "https://openalex.org/W1971240109",
-        "https://openalex.org/W600135336",
-        "https://openalex.org/W1892300796",
-        "https://openalex.org/W2124390624",
-        "https://openalex.org/W2175638499"
-      ],
-      "related_works": [
-        "https://openalex.org/W2119780946",
-        "https://openalex.org/W4295796109",
-        "https://openalex.org/W2030651076",
-        "https://openalex.org/W2766266997",
-        "https://openalex.org/W2117097523",
-        "https://openalex.org/W3039460639",
-        "https://openalex.org/W289530973",
-        "https://openalex.org/W2044764595",
-        "https://openalex.org/W1985041664",
-        "https://openalex.org/W2522493646"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2262636503",
       "doi": null,
       "title": "Aeronian and Telychian chitinozoans from Central Saudi Arabia.",
@@ -11248,7 +10473,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
             "Géosciences Rennes"
@@ -11272,7 +10497,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Merrell Miller",
+          "raw_author_name": "Merrell A. Miller",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -11286,7 +10511,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Sa'Id Al-Hajri",
+          "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -11322,15 +10547,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5111534349"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210096833"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.25561552,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.80970912,
+        "value": 0.81043215,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11876,7 +11105,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.81150601,
+        "value": 0.81182351,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12170,6 +11399,900 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2233849553",
+      "doi": "https://doi.org/10.1016/j.revmic.2017.02.002",
+      "title": "A distinctive marginal marine palynological assemblage from the Přídolí of northwestern Saudi Arabia",
+      "display_name": "A distinctive marginal marine palynological assemblage from the Přídolí of northwestern Saudi Arabia",
+      "publication_year": 2017,
+      "publication_date": "2017-03-31",
+      "ids": {
+        "openalex": "https://openalex.org/W2233849553",
+        "doi": "https://doi.org/10.1016/j.revmic.2017.02.002",
+        "mag": "2233849553"
+      },
+      "language": "cs",
+      "primary_location": {
+        "id": "doi:10.1016/j.revmic.2017.02.002",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.revmic.2017.02.002",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0035159817300089",
+        "source": {
+          "id": "https://openalex.org/S2898090153",
+          "display_name": "Revue de Micropaléontologie",
+          "issn_l": "0035-1598",
+          "issn": [
+            "0035-1598",
+            "1873-4413"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Revue de Micropaléontologie",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0035159817300089",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5084822278",
+            "display_name": "Pierre Breuer",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Pierre Breuer",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Geological Technical Services Division, Biostratigraphy Group, 31311 Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Geological Technical Services Division, Biostratigraphy Group, 31311 Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054134454",
+            "display_name": "S. Al-Hajri",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Sa’id Al-Hajri",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Exploration Technical Services Department, 31311 Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5090141705",
+            "display_name": "Alain Le Hérissé",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I161929037",
+              "display_name": "Université de Bretagne Occidentale",
+              "ror": "https://ror.org/01b8h3982",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I161929037"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210157108",
+              "display_name": "Institut Universitaire Européen de la Mer",
+              "ror": "https://ror.org/04pfr1b11",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I4210166444",
+                "https://openalex.org/I4412460332"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alain Le Hérissé",
+          "raw_affiliation_strings": [
+            "Université de Brest, CNRS UMR6538, Géosciences Océan, Institut Universitaire Européen de la Mer, Bâtiment G, 6, avenue Le Gorgeu, 29238 Brest cedex 3, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Université de Brest, CNRS UMR6538, Géosciences Océan, Institut Universitaire Européen de la Mer, Bâtiment G, 6, avenue Le Gorgeu, 29238 Brest cedex 3, France",
+              "institution_ids": [
+                "https://openalex.org/I4210157108",
+                "https://openalex.org/I161929037",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5111534349",
+            "display_name": "Florentin Paris",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Florentin Paris",
+          "raw_affiliation_strings": [
+            "Rue des Jonquilles, 35235 Thorigné-Fouillard, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Rue des Jonquilles, 35235 Thorigné-Fouillard, France",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044489988",
+            "display_name": "Philippe Steemans",
+            "orcid": "https://orcid.org/0000-0003-1183-6324"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I157674565",
+              "display_name": "University of Liège",
+              "ror": "https://ror.org/00afp2z80",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I157674565"
+              ]
+            }
+          ],
+          "countries": [
+            "BE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Philippe Steemans",
+          "raw_affiliation_strings": [
+            "NFSR Senior Research Associate, Department of Geology, Unit PPP, Liège University, Quartier Agora, B-18, Allée du 6-Août, 14, 4000 Liège, Belgium"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "NFSR Senior Research Associate, Department of Geology, Unit PPP, Liège University, Quartier Agora, B-18, Allée du 6-Août, 14, 4000 Liège, Belgium",
+              "institution_ids": [
+                "https://openalex.org/I157674565"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029025019",
+            "display_name": "Jacques Verniers",
+            "orcid": "https://orcid.org/0000-0002-2939-7684"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I32597200",
+              "display_name": "Ghent University",
+              "ror": "https://ror.org/00cv9y106",
+              "country_code": "BE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I32597200"
+              ]
+            }
+          ],
+          "countries": [
+            "BE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jacques Verniers",
+          "raw_affiliation_strings": [
+            "Research Unit of Paleontology, Department of Geology, Ghent University, 9000 Ghent, Belgium"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Research Unit of Paleontology, Department of Geology, Ghent University, 9000 Ghent, Belgium",
+              "institution_ids": [
+                "https://openalex.org/I32597200"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5058654714",
+            "display_name": "Charles H. Wellman",
+            "orcid": "https://orcid.org/0000-0001-7511-0464"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I91136226",
+              "display_name": "University of Sheffield",
+              "ror": "https://ror.org/05krs5044",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I91136226"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Charles H. Wellman",
+          "raw_affiliation_strings": [
+            "Department of Animal & Plant Sciences, University of Sheffield, Alfred Denny Building, Western Bank, S10 2TN Sheffield, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Animal & Plant Sciences, University of Sheffield, Alfred Denny Building, Western Bank, S10 2TN Sheffield, UK",
+              "institution_ids": [
+                "https://openalex.org/I91136226"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 7,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5084822278"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
+      "apc_list": {
+        "value": 2800,
+        "currency": "USD",
+        "value_usd": 2800
+      },
+      "apc_paid": null,
+      "fwci": 0.59942806,
+      "has_fulltext": true,
+      "cited_by_count": 7,
+      "citation_normalized_percentile": {
+        "value": 0.84384597,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "60",
+        "issue": "3",
+        "first_page": "371",
+        "last_page": "402"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9994999766349792,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9994999766349792,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9991999864578247,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9991000294685364,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/palynology",
+          "display_name": "Palynology",
+          "score": 0.8686753511428833
+        },
+        {
+          "id": "https://openalex.org/keywords/assemblage",
+          "display_name": "Assemblage (archaeology)",
+          "score": 0.8665165901184082
+        },
+        {
+          "id": "https://openalex.org/keywords/acritarch",
+          "display_name": "Acritarch",
+          "score": 0.7209110260009766
+        },
+        {
+          "id": "https://openalex.org/keywords/gondwana",
+          "display_name": "Gondwana",
+          "score": 0.6894991397857666
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5627552270889282
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.5509714484214783
+        },
+        {
+          "id": "https://openalex.org/keywords/taxon",
+          "display_name": "Taxon",
+          "score": 0.4784305691719055
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.42836999893188477
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.233318030834198
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.13049638271331787
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.10294920206069946
+        },
+        {
+          "id": "https://openalex.org/keywords/pollen",
+          "display_name": "Pollen",
+          "score": 0.07089796662330627
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C162501224",
+          "wikidata": "https://www.wikidata.org/wiki/Q212919",
+          "display_name": "Palynology",
+          "level": 3,
+          "score": 0.8686753511428833
+        },
+        {
+          "id": "https://openalex.org/C2777798969",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Assemblage (archaeology)",
+          "level": 2,
+          "score": 0.8665165901184082
+        },
+        {
+          "id": "https://openalex.org/C97316735",
+          "wikidata": "https://www.wikidata.org/wiki/Q342747",
+          "display_name": "Acritarch",
+          "level": 2,
+          "score": 0.7209110260009766
+        },
+        {
+          "id": "https://openalex.org/C2781148125",
+          "wikidata": "https://www.wikidata.org/wiki/Q80583",
+          "display_name": "Gondwana",
+          "level": 3,
+          "score": 0.6894991397857666
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5627552270889282
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.5509714484214783
+        },
+        {
+          "id": "https://openalex.org/C71640776",
+          "wikidata": "https://www.wikidata.org/wiki/Q16521",
+          "display_name": "Taxon",
+          "level": 2,
+          "score": 0.4784305691719055
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.42836999893188477
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.233318030834198
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.13049638271331787
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.10294920206069946
+        },
+        {
+          "id": "https://openalex.org/C2780618852",
+          "wikidata": "https://www.wikidata.org/wiki/Q79932",
+          "display_name": "Pollen",
+          "level": 2,
+          "score": 0.07089796662330627
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.revmic.2017.02.002",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.revmic.2017.02.002",
+          "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0035159817300089",
+          "source": {
+            "id": "https://openalex.org/S2898090153",
+            "display_name": "Revue de Micropaléontologie",
+            "issn_l": "0035-1598",
+            "issn": [
+              "0035-1598",
+              "1873-4413"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Revue de Micropaléontologie",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-01910087v1",
+          "is_oa": true,
+          "landing_page_url": "https://hal.univ-brest.fr/hal-01910087",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Revue de Micropaléontologie, 2017, 60 (3), pp.371 - 402. &#x27E8;10.1016/j.revmic.2017.02.002&#x27E9;",
+          "raw_type": "Journal articles"
+        },
+        {
+          "id": "pmh:oai:archive.ugent.be:8573649",
+          "is_oa": false,
+          "landing_page_url": "https://biblio.ugent.be/publication/8573649",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400477",
+            "display_name": "Ghent University Academic Bibliography (Ghent University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I32597200",
+            "host_organization_name": "Ghent University",
+            "host_organization_lineage": [
+              "https://openalex.org/I32597200"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ISSN: 0035-1598",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
+        },
+        {
+          "id": "pmh:oai:orbi.ulg.ac.be:2268/214451",
+          "is_oa": false,
+          "landing_page_url": "https://orbi.uliege.be/handle/2268/214451",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400651",
+            "display_name": "Open Repository and Bibliography (University of Liège)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I157674565",
+            "host_organization_name": "University of Liège",
+            "host_organization_lineage": [
+              "https://openalex.org/I157674565"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Revue de Micropaléontologie, 60, 371-402 (2017)",
+          "raw_type": "peer reviewed"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.revmic.2017.02.002",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.revmic.2017.02.002",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0035159817300089",
+        "source": {
+          "id": "https://openalex.org/S2898090153",
+          "display_name": "Revue de Micropaléontologie",
+          "issn_l": "0035-1598",
+          "issn": [
+            "0035-1598",
+            "1873-4413"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Revue de Micropaléontologie",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "referenced_works_count": 102,
+      "referenced_works": [
+        "https://openalex.org/W1558237779",
+        "https://openalex.org/W3128695080",
+        "https://openalex.org/W6638405160",
+        "https://openalex.org/W1978613952",
+        "https://openalex.org/W2104430377",
+        "https://openalex.org/W6643816234",
+        "https://openalex.org/W2016288825",
+        "https://openalex.org/W2117069434",
+        "https://openalex.org/W2968823268",
+        "https://openalex.org/W6622576041",
+        "https://openalex.org/W2598174262",
+        "https://openalex.org/W2067326465",
+        "https://openalex.org/W1968361832",
+        "https://openalex.org/W7048602449",
+        "https://openalex.org/W2065110112",
+        "https://openalex.org/W4245465792",
+        "https://openalex.org/W2946022769",
+        "https://openalex.org/W2009596160",
+        "https://openalex.org/W6787944988",
+        "https://openalex.org/W2078996408",
+        "https://openalex.org/W2112523440",
+        "https://openalex.org/W2435913569",
+        "https://openalex.org/W6636742553",
+        "https://openalex.org/W2042243864",
+        "https://openalex.org/W2078504143",
+        "https://openalex.org/W2312319594",
+        "https://openalex.org/W6642158360",
+        "https://openalex.org/W2044998296",
+        "https://openalex.org/W2173593053",
+        "https://openalex.org/W4317856981",
+        "https://openalex.org/W2043748564",
+        "https://openalex.org/W2046929661",
+        "https://openalex.org/W2054155026",
+        "https://openalex.org/W2063743433",
+        "https://openalex.org/W2166781815",
+        "https://openalex.org/W4293256569",
+        "https://openalex.org/W2081242734",
+        "https://openalex.org/W2025124551",
+        "https://openalex.org/W6639193870",
+        "https://openalex.org/W4211128516",
+        "https://openalex.org/W6758558109",
+        "https://openalex.org/W2013724523",
+        "https://openalex.org/W2316759598",
+        "https://openalex.org/W6728909380",
+        "https://openalex.org/W6765582021",
+        "https://openalex.org/W2076570565",
+        "https://openalex.org/W6818289280",
+        "https://openalex.org/W2094852978",
+        "https://openalex.org/W6893422560",
+        "https://openalex.org/W2319811024",
+        "https://openalex.org/W7006653089",
+        "https://openalex.org/W6629483285",
+        "https://openalex.org/W1985041664",
+        "https://openalex.org/W6646813138",
+        "https://openalex.org/W2020903820",
+        "https://openalex.org/W6683291379",
+        "https://openalex.org/W2029204334",
+        "https://openalex.org/W6643135611",
+        "https://openalex.org/W2042880085",
+        "https://openalex.org/W2029550131",
+        "https://openalex.org/W2069219639",
+        "https://openalex.org/W2161721158",
+        "https://openalex.org/W6667682517",
+        "https://openalex.org/W2323490829",
+        "https://openalex.org/W6683481143",
+        "https://openalex.org/W1988794119",
+        "https://openalex.org/W2167844526",
+        "https://openalex.org/W2020142853",
+        "https://openalex.org/W2035135167",
+        "https://openalex.org/W6745666130",
+        "https://openalex.org/W600135336",
+        "https://openalex.org/W1851810514",
+        "https://openalex.org/W4236699888",
+        "https://openalex.org/W2124390624",
+        "https://openalex.org/W2767825032",
+        "https://openalex.org/W1831163486",
+        "https://openalex.org/W1986049126",
+        "https://openalex.org/W254125409",
+        "https://openalex.org/W2233849553",
+        "https://openalex.org/W2911158700",
+        "https://openalex.org/W2961841250",
+        "https://openalex.org/W2159248822",
+        "https://openalex.org/W2243147257",
+        "https://openalex.org/W2618687283",
+        "https://openalex.org/W3116451916",
+        "https://openalex.org/W2902305428",
+        "https://openalex.org/W1968596323",
+        "https://openalex.org/W2068101248",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W1892300796",
+        "https://openalex.org/W1971240109",
+        "https://openalex.org/W2225017485",
+        "https://openalex.org/W1852444732",
+        "https://openalex.org/W773289702",
+        "https://openalex.org/W2273107665",
+        "https://openalex.org/W1496447526",
+        "https://openalex.org/W1626447196",
+        "https://openalex.org/W3002222432",
+        "https://openalex.org/W2175638499",
+        "https://openalex.org/W3126685076",
+        "https://openalex.org/W2158291297",
+        "https://openalex.org/W1973737829"
+      ],
+      "related_works": [
+        "https://openalex.org/W2119780946",
+        "https://openalex.org/W4295796109",
+        "https://openalex.org/W2030651076",
+        "https://openalex.org/W2766266997",
+        "https://openalex.org/W2117097523",
+        "https://openalex.org/W3039460639",
+        "https://openalex.org/W289530973",
+        "https://openalex.org/W2044764595",
+        "https://openalex.org/W1985041664",
+        "https://openalex.org/W2522493646"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3150378705",
       "doi": null,
       "title": "Palynology of a Problematic Lower Palaeozoic Lithofacies in Central Saudi Arabia",
@@ -12213,7 +12336,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Stewart G. Molyneux",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -12228,7 +12351,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Sa’id Al-Hajri",
+          "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -12236,7 +12359,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5000541549"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -12244,7 +12369,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.44534742,
+        "value": 0.44466964,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12533,7 +12658,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -12562,7 +12687,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Geoffrey Clayton",
+          "raw_author_name": "Geoff Clayton",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -12576,7 +12701,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Sa’id Al-Hajri",
+          "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -12584,7 +12709,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5110460569"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -12592,7 +12719,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.95266152,
+        "value": 0.95277665,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12906,7 +13033,7 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
             "Géosciences Rennes"
@@ -12944,7 +13071,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Merrell Miller",
+          "raw_author_name": "Merrell A. Miller",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -12958,7 +13085,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Sa'Id Al-Hajri",
+          "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -12972,7 +13099,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "J. Melvin",
+          "raw_author_name": "James Melvin",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -12980,15 +13107,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5111534349"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210096833"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.25594639,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.66377974,
+        "value": 0.6648378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13336,8 +13467,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Sa'Id Al-Hajri",
+          "is_corresponding": true,
+          "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -13407,7 +13538,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Alain Le Herissé",
+          "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -13415,7 +13546,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054134454"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -13423,7 +13556,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.26346944,
+        "value": 0.26301699,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13922,7 +14055,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.6367083,
+        "value": 0.63806294,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14276,7 +14409,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "B. Samanta",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -14369,7 +14502,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5046600983"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -14377,7 +14512,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.39242504,
+        "value": 0.391899,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14694,7 +14829,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Atika Said Al-Bimani",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -14773,7 +14908,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5031626291"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -14781,7 +14918,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.74743659,
+        "value": 0.74756757,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15031,7 +15168,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -15046,7 +15183,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "J. Filatoff",
+          "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -15096,7 +15233,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "B. Owens",
+          "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -15110,7 +15247,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "S. Loboziak",
+          "raw_author_name": "Stanislas Loboziak",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -15118,7 +15255,9 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054134454"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -15126,7 +15265,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01665345,
+        "value": 0.01660735,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15393,21 +15532,21 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "B. Ghosh",
           "raw_affiliation_strings": [
-            "PETROLEUM INSTITUTE",
-            "Petroleum Institute"
+            "Petroleum Institute",
+            "PETROLEUM INSTITUTE"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "PETROLEUM INSTITUTE",
+              "raw_affiliation_string": "Petroleum Institute",
               "institution_ids": [
                 "https://openalex.org/I1286361989"
               ]
             },
             {
-              "raw_affiliation_string": "Petroleum Institute",
+              "raw_affiliation_string": "PETROLEUM INSTITUTE",
               "institution_ids": [
                 "https://openalex.org/I1286361989"
               ]
@@ -15457,17 +15596,35 @@
             "display_name": "K. Najim",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": null,
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": []
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Kitany Najim",
           "raw_affiliation_strings": [
+            "Petroleum Development Oman",
             "Petroleum Development Oman,"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Petroleum Development Oman,",
+              "raw_affiliation_string": "Petroleum Development Oman",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Petroleum Development Oman,",
+              "institution_ids": [
+                null
+              ]
             }
           ]
         },
@@ -15478,17 +15635,35 @@
             "display_name": "S. Al-Hajri",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": null,
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": []
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Said Al-Hajri",
           "raw_affiliation_strings": [
+            "Petroleum Development Oman",
             "Petroleum Development Oman,"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Petroleum Development Oman,",
+              "raw_affiliation_string": "Petroleum Development Oman",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Petroleum Development Oman,",
+              "institution_ids": [
+                null
+              ]
             }
           ]
         },
@@ -15499,17 +15674,35 @@
             "display_name": "James H. Clark",
             "orcid": "https://orcid.org/0000-0002-5860-2480"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": null,
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": []
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
           "is_corresponding": false,
           "raw_author_name": "James Clark",
           "raw_affiliation_strings": [
+            "Petroleum Development Oman",
             "Petroleum Development Oman,"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Petroleum Development Oman,",
+              "raw_affiliation_string": "Petroleum Development Oman",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Petroleum Development Oman,",
+              "institution_ids": [
+                null
+              ]
             }
           ]
         },
@@ -15538,19 +15731,19 @@
           "is_corresponding": false,
           "raw_author_name": "F. H. Boukadi",
           "raw_affiliation_strings": [
-            "PETROLEUM INSTITUTE",
-            "University of Louisiana"
+            "University of Louisiana",
+            "PETROLEUM INSTITUTE"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "University of Louisiana",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "PETROLEUM INSTITUTE",
               "institution_ids": [
                 "https://openalex.org/I1286361989"
               ]
-            },
-            {
-              "raw_affiliation_string": "University of Louisiana",
-              "institution_ids": []
             }
           ]
         }
@@ -15558,15 +15751,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5033669424"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1286361989"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13158379,
+        "value": 0.13130107,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16546,8 +16743,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A. Le Hérissé",
+          "is_corresponding": true,
+          "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -16597,7 +16794,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "P. Breuer",
+          "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -16611,7 +16808,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. Vecoli",
+          "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -16633,7 +16830,9 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5090141705"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -16641,7 +16840,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11847844,
+        "value": 0.11805947,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16957,7 +17156,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -17008,7 +17207,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "B. Owens",
+          "raw_author_name": "Bernard Owens",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17022,7 +17221,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "J. Filatoff",
+          "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17036,7 +17235,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "S. Loboziak",
+          "raw_author_name": "Stanislas Loboziak",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -17044,7 +17243,9 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054134454"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -17052,7 +17253,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22126372,
+        "value": 0.22036169,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17251,7 +17452,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -17266,7 +17467,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. Al-Ruwaili",
+          "raw_author_name": "Mansour Al-Ruwaili",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17280,7 +17481,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "G. Clayton",
+          "raw_author_name": "Geoff Clayton",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17294,7 +17495,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "J. Filatoff",
+          "raw_author_name": "John Filatoff",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17308,7 +17509,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "K. T. Higgs",
+          "raw_author_name": "Ken Higgs",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17322,7 +17523,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "A. Le Hérissé",
+          "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17336,7 +17537,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "S. Loboziak",
+          "raw_author_name": "Stanislas Loboziak",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17350,7 +17551,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "J. Marshall",
+          "raw_author_name": "John Marshall",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17364,7 +17565,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "S.G. Molyneux",
+          "raw_author_name": "Stewart G. Molyneux",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17378,7 +17579,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "F. Paris",
+          "raw_author_name": "F. Parı́s",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17428,7 +17629,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. Stephenson",
+          "raw_author_name": "Mike Stephenson",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17442,7 +17643,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. Vanguestaine",
+          "raw_author_name": "Michel Vanguestaine",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17456,7 +17657,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "J. Verniers",
+          "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -17470,7 +17671,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "C.H. Wellman",
+          "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -17478,7 +17679,9 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 15,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054134454"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -17486,7 +17689,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16639577,
+        "value": 0.16599108,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18338,7 +18541,7 @@
           "countries": [
             "BE"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
             "Université de Liège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
@@ -18362,7 +18565,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "P. Breuer",
+          "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -18390,7 +18593,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "A. Le Hérissé",
+          "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -18404,7 +18607,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "F. Paris",
+          "raw_author_name": "F. Parı́s",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -18418,7 +18621,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "J. Verniers",
+          "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -18432,7 +18635,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "C.H. Wellman",
+          "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -18440,15 +18643,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5044489988"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I157674565"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0752331,
+        "value": 0.07513826,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18813,7 +19020,7 @@
           "countries": [
             "BE"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
             "Université de Liège > Département de géologie > Paléobiogéologie - Paléobotanique - Paléopalynologie (PPP) >"
@@ -18837,7 +19044,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "P. Breuer",
+          "raw_author_name": "Pierre Breuer",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -18865,7 +19072,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "A. Le Hérissé",
+          "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -18879,7 +19086,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "F. Paris",
+          "raw_author_name": "F. Parı́s",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -18893,7 +19100,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "J. Verniers",
+          "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -18907,7 +19114,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "C.H. Wellman",
+          "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -18915,15 +19122,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5044489988"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I157674565"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08566118,
+        "value": 0.0857305,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19258,8 +19469,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "P Strother",
+          "is_corresponding": true,
+          "raw_author_name": "Paul K. Strother",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -19273,7 +19484,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "W Taylor",
+          "raw_author_name": "W. Taylor",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -19337,7 +19548,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M Vecoli",
+          "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -19351,7 +19562,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "S Al-Hajri",
+          "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -19359,7 +19570,9 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5073496917"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -19367,7 +19580,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03778927,
+        "value": 0.03764234,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19673,7 +19886,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Christian Cesari",
           "raw_affiliation_strings": [
             "Saudi ARAMCO"
@@ -19753,7 +19966,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Said Al-Hajri",
+          "raw_author_name": "S. Al-Hajri",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -19775,15 +19988,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5021666885"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09092401,
+        "value": 0.09080855,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20026,7 +20243,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Khalid Al-Maamari",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -20077,7 +20294,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5081821644"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -20085,7 +20304,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.62253111,
+        "value": 0.62161619,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

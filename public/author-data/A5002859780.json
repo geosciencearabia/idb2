@@ -393,7 +393,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Muhittin Senalp",
           "raw_affiliation_strings": [
             "Saudi Aramco"
@@ -448,15 +448,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5081283983"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 53,
       "citation_normalized_percentile": {
-        "value": 0.44853815,
+        "value": 0.44731846,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -812,19 +816,19 @@
         "https://openalex.org/W1596903934",
         "https://openalex.org/W2046362903",
         "https://openalex.org/W2077234725",
-        "https://openalex.org/W3201594851",
-        "https://openalex.org/W1999280481",
-        "https://openalex.org/W3092335825",
-        "https://openalex.org/W2006161750",
-        "https://openalex.org/W2125021582",
         "https://openalex.org/W2124390624",
-        "https://openalex.org/W2765392214",
-        "https://openalex.org/W1494596028",
-        "https://openalex.org/W2596771771",
-        "https://openalex.org/W1527847239",
-        "https://openalex.org/W2144336460",
         "https://openalex.org/W4254070942",
-        "https://openalex.org/W2473736701"
+        "https://openalex.org/W2006161750",
+        "https://openalex.org/W3092335825",
+        "https://openalex.org/W2125021582",
+        "https://openalex.org/W2765392214",
+        "https://openalex.org/W3201594851",
+        "https://openalex.org/W2144336460",
+        "https://openalex.org/W1494596028",
+        "https://openalex.org/W1527847239",
+        "https://openalex.org/W2596771771",
+        "https://openalex.org/W2473736701",
+        "https://openalex.org/W1999280481"
       ],
       "related_works": [
         "https://openalex.org/W2311936561",
@@ -1715,7 +1719,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mohammed J. Al-Mahmoud",
           "raw_affiliation_strings": [
             "Exploration Organization, Saudi Aramco, Dhahran, 31311, Saudi Arabia"
@@ -1805,8 +1809,12 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5067739868"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": {
         "value": 4270,
         "currency": "USD",
@@ -1817,7 +1825,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.65480863,
+        "value": 0.65566495,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2096,14 +2104,14 @@
         "https://openalex.org/W2123591318",
         "https://openalex.org/W1989004297",
         "https://openalex.org/W203584942",
-        "https://openalex.org/W195523536",
         "https://openalex.org/W296468733",
-        "https://openalex.org/W1497047052",
         "https://openalex.org/W4250537886",
-        "https://openalex.org/W2166866809",
-        "https://openalex.org/W1521060394",
         "https://openalex.org/W4285719527",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W1521060394",
         "https://openalex.org/W1160582",
+        "https://openalex.org/W1497047052",
+        "https://openalex.org/W2166866809",
         "https://openalex.org/W2124390624"
       ],
       "related_works": [
@@ -2191,7 +2199,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Riyadh A. Rahmani",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -2228,7 +2236,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5087370063"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -2236,7 +2246,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.75249501,
+        "value": 0.75298805,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2592,9 +2602,9 @@
         "https://openalex.org/W4231820044",
         "https://openalex.org/W2944320642",
         "https://openalex.org/W2144169221",
-        "https://openalex.org/W2586174234",
         "https://openalex.org/W4300900741",
-        "https://openalex.org/W2124390624"
+        "https://openalex.org/W2124390624",
+        "https://openalex.org/W2586174234"
       ],
       "related_works": [
         "https://openalex.org/W2046656234",
@@ -2985,7 +2995,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdulfattah A. Al-Dajani",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -3008,7 +3018,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5025657675"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -3016,7 +3028,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.26909171,
+        "value": 0.26873487,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4121,8 +4133,8 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
-          "raw_author_name": "J.. Findley",
+          "is_corresponding": true,
+          "raw_author_name": "J. Findley",
           "raw_affiliation_strings": [
             "Saudi Aramco"
           ],
@@ -4159,7 +4171,7 @@
             "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "H.. Al-Haj",
+          "raw_author_name": "H. Al-Haj",
           "raw_affiliation_strings": [
             "Saudi Aramco"
           ],
@@ -4196,7 +4208,7 @@
             "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "J.. Shanaa",
+          "raw_author_name": "J. Shanaa",
           "raw_affiliation_strings": [
             "Saudi Aramco"
           ],
@@ -4233,7 +4245,7 @@
             "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "A.. Al-Duaiji",
+          "raw_author_name": "A. Al-Duaiji",
           "raw_affiliation_strings": [
             "Saudi Aramco"
           ],
@@ -4263,17 +4275,34 @@
               "lineage": [
                 "https://openalex.org/I4210136101"
               ]
+            },
+            {
+              "id": "https://openalex.org/I-1",
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": [
+                "https://openalex.org/I-1"
+              ]
             }
           ],
           "countries": [
             "CA"
           ],
           "is_corresponding": false,
-          "raw_author_name": "S.. Economou",
+          "raw_author_name": "S. Economou",
           "raw_affiliation_strings": [
+            "Terragon Gulf Ltd",
             "Terragon Gulf Ltd."
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Terragon Gulf Ltd",
+              "institution_ids": [
+                "https://openalex.org/I-1"
+              ]
+            },
             {
               "raw_affiliation_string": "Terragon Gulf Ltd.",
               "institution_ids": [
@@ -4286,15 +4315,19 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5046095236"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04608295,
+        "value": 0.04615625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5129,7 +5162,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
-          "raw_author_name": "Abdulaziz Abdullah Al-Duaiji",
+          "raw_author_name": "Abdulaziz A. Al-Duaiji",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -5147,7 +5180,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30490624,
+        "value": 0.30489995,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5527,7 +5560,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdulaziz A. Al-Duaiji",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -5578,7 +5611,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5002859780"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -5586,7 +5621,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.54427999,
+        "value": 0.54391913,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6503,7 +6538,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdulaziz A. Al-Duaiji",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -6526,7 +6561,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5002859780"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -6534,7 +6571,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.64031244,
+        "value": 0.63928928,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

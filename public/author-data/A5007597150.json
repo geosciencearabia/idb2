@@ -385,6 +385,16 @@
               "lineage": [
                 "https://openalex.org/I4210122910"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210114766",
+              "display_name": "Muscat College",
+              "ror": "https://ror.org/01zhpv322",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210114766"
+              ]
             }
           ],
           "countries": [
@@ -393,9 +403,16 @@
           "is_corresponding": true,
           "raw_author_name": "Mohammed Al-Kindi",
           "raw_affiliation_strings": [
+            "Earth Sciences Consultancy Centre, PO Box 979, PC. 611, Muscat, Sultanate of Oman",
             "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre, PO Box 979, PC. 611, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210114766"
+              ]
+            },
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman",
               "institution_ids": [
@@ -412,7 +429,8 @@
         "https://openalex.org/A5007597150"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I4210122910"
+        "https://openalex.org/I4210122910",
+        "https://openalex.org/I4210114766"
       ],
       "apc_list": null,
       "apc_paid": null,
@@ -420,7 +438,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.78621324,
+        "value": 0.77110181,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -781,8 +799,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 64,
       "referenced_works": [
@@ -1442,7 +1460,7 @@
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.75378065,
+        "value": 0.75367345,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1869,8 +1887,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 53,
       "referenced_works": [
@@ -1923,9 +1941,9 @@
         "https://openalex.org/W2075109672",
         "https://openalex.org/W27077920",
         "https://openalex.org/W2124259587",
+        "https://openalex.org/W1973254332",
         "https://openalex.org/W4245249958",
         "https://openalex.org/W2152597251",
-        "https://openalex.org/W1973254332",
         "https://openalex.org/W1592324393"
       ],
       "related_works": [
@@ -2797,6 +2815,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1340949323",
+              "display_name": "Crown College",
+              "ror": "https://ror.org/059617j81",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1340949323"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210126300",
               "display_name": "Worcestershire Health and Care NHS Trust",
               "ror": "https://ror.org/03nkk3987",
@@ -2808,14 +2836,22 @@
             }
           ],
           "countries": [
-            "GB"
+            "GB",
+            "US"
           ],
           "is_corresponding": true,
           "raw_author_name": "Alan Peter Heward",
           "raw_affiliation_strings": [
+            "23 Croftdown Court",
             "23 Croftdown Court, Malvern, Worcestershire WR14 3HZ, UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "23 Croftdown Court",
+              "institution_ids": [
+                "https://openalex.org/I1340949323"
+              ]
+            },
             {
               "raw_affiliation_string": "23 Croftdown Court, Malvern, Worcestershire WR14 3HZ, UK",
               "institution_ids": [
@@ -2831,14 +2867,45 @@
             "display_name": "M. Quentin Morton",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210104395",
+              "display_name": "Green Mountain Radio Research (United States)",
+              "ror": "https://ror.org/01g07dr78",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210104395"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I116867862",
+              "display_name": "Green Mountain College",
+              "ror": "https://ror.org/04gfner94",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116867862"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "M. Quentin Morton",
           "raw_affiliation_strings": [
+            "Green Mountain Press",
             "Green Mountain Press, P.O. Box 348, Aylesford, Kent, ME6 9AP, U.K"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Green Mountain Press",
+              "institution_ids": [
+                "https://openalex.org/I4210104395",
+                "https://openalex.org/I116867862"
+              ]
+            },
             {
               "raw_affiliation_string": "Green Mountain Press, P.O. Box 348, Aylesford, Kent, ME6 9AP, U.K",
               "institution_ids": []
@@ -2868,11 +2935,16 @@
             "OM"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Mohammed Al Kindi",
+          "raw_author_name": "Mohammed Al-Kindi",
           "raw_affiliation_strings": [
+            "Earth Sciences Consultancy Centre",
             "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Earth Sciences Consultancy Centre, P.O. Box 979, PC. 611, Muscat, Sultanate of Oman",
               "institution_ids": [
@@ -2883,12 +2955,13 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
+      "countries_distinct_count": 3,
       "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5012623177"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I1340949323",
         "https://openalex.org/I4210126300"
       ],
       "apc_list": null,
@@ -2897,7 +2970,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.91806945,
+        "value": 0.91159381,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3189,15 +3262,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 75,
       "referenced_works": [
@@ -3269,13 +3342,13 @@
         "https://openalex.org/W2145995786",
         "https://openalex.org/W6750538592",
         "https://openalex.org/W1572495630",
-        "https://openalex.org/W1531587811",
-        "https://openalex.org/W1610837456",
-        "https://openalex.org/W4249009346",
-        "https://openalex.org/W2071582006",
         "https://openalex.org/W2146480283",
         "https://openalex.org/W2063147594",
-        "https://openalex.org/W1592324393"
+        "https://openalex.org/W1531587811",
+        "https://openalex.org/W1610837456",
+        "https://openalex.org/W2071582006",
+        "https://openalex.org/W1592324393",
+        "https://openalex.org/W4249009346"
       ],
       "related_works": [
         "https://openalex.org/W2347604034",
@@ -3880,7 +3953,7 @@
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.49889884,
+        "value": 0.49847185,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4371,8 +4444,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -4410,8 +4483,8 @@
         "https://openalex.org/W2317290616",
         "https://openalex.org/W2122491931",
         "https://openalex.org/W2041972194",
-        "https://openalex.org/W27851335",
-        "https://openalex.org/W2344547313"
+        "https://openalex.org/W2344547313",
+        "https://openalex.org/W27851335"
       ],
       "related_works": [
         "https://openalex.org/W2057745949",
@@ -5272,8 +5345,8 @@
             {
               "raw_affiliation_string": "Université Côte d’Azur, Polytech’Lab - UPR 7498, 930 route des Colles, 06903, Sophia-Antipolis, France",
               "institution_ids": [
-                "https://openalex.org/I201841394",
-                "https://openalex.org/I4210154774"
+                "https://openalex.org/I4210154774",
+                "https://openalex.org/I201841394"
               ]
             }
           ]
@@ -5322,8 +5395,8 @@
         "https://openalex.org/A5054416815"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I201841394",
-        "https://openalex.org/I4210154774"
+        "https://openalex.org/I4210154774",
+        "https://openalex.org/I201841394"
       ],
       "apc_list": {
         "value": 2390,
@@ -5335,7 +5408,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.41710543,
+        "value": 0.41464908,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5604,15 +5677,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 16,
       "referenced_works": [
@@ -5722,24 +5795,11 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4387155127",
-              "display_name": "Centre de recherche en paléontologie - Paris",
-              "ror": "https://ror.org/05ax2x637",
-              "country_code": null,
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I4210123595",
-                "https://openalex.org/I4387155127"
-              ]
-            },
-            {
               "id": "https://openalex.org/I1294671590",
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "government",
+              "type": "funder",
               "lineage": [
                 "https://openalex.org/I1294671590"
               ]
@@ -5758,16 +5818,23 @@
           "countries": [
             "FR"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Martin Pickford",
           "raw_affiliation_strings": [
+            "entre de Recherche en Paléontologie - Paris (CR2P), Muséum national d’Histoire naturelle, CNRS, Sorbonne Université,",
             "entre de Recherche en Paléontologie - Paris (CR2P), Muséum national d'Histoire naturelle, CNRS, Sorbonne Université,"
           ],
           "affiliations": [
             {
+              "raw_affiliation_string": "entre de Recherche en Paléontologie - Paris (CR2P), Muséum national d’Histoire naturelle, CNRS, Sorbonne Université,",
+              "institution_ids": [
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "raw_affiliation_string": "entre de Recherche en Paléontologie - Paris (CR2P), Muséum national d'Histoire naturelle, CNRS, Sorbonne Université,",
               "institution_ids": [
-                "https://openalex.org/I4387155127",
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I1294671590"
               ]
@@ -5862,15 +5929,20 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5086207961"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I1294671590",
+        "https://openalex.org/I39804081"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0.83066184,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.83082637,
+        "value": 0.82978644,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6128,15 +6200,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 1,
       "referenced_works": [
@@ -6396,7 +6468,7 @@
           "countries": [
             "OM"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Robert Hird",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
@@ -6486,8 +6558,12 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5063720304"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210122910"
+      ],
       "apc_list": {
         "value": 2390,
         "currency": "EUR",
@@ -6498,7 +6574,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.12679933,
+        "value": 0.1255604,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6783,15 +6859,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -6918,7 +6994,7 @@
           "countries": [
             "OM"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "R Hird",
           "raw_affiliation_strings": [
             "Earth Sciences Consultancy Centre, Ghala, Muscat, Sultanate of Oman"
@@ -6972,8 +7048,12 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5063720304"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210122910"
+      ],
       "apc_list": {
         "value": 2690,
         "currency": "EUR",
@@ -6984,7 +7064,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0653987,
+        "value": 0.06365526,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7320,15 +7400,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -7465,7 +7545,7 @@
           "countries": [
             "US"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "David Cousins",
           "raw_affiliation_strings": [
             "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA"
@@ -7735,8 +7815,12 @@
       "institutions": [],
       "countries_distinct_count": 3,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5063297406"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I86519309"
+      ],
       "apc_list": {
         "value": 4840,
         "currency": "USD",
@@ -7747,7 +7831,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.08152556,
+        "value": 0.07460571,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8042,8 +8126,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8055,8 +8139,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 73,
       "referenced_works": [
@@ -8130,9 +8214,9 @@
         "https://openalex.org/W3117817073",
         "https://openalex.org/W2171211028",
         "https://openalex.org/W1991253872",
+        "https://openalex.org/W2146480283",
         "https://openalex.org/W2904132173",
-        "https://openalex.org/W2312997001",
-        "https://openalex.org/W2146480283"
+        "https://openalex.org/W2312997001"
       ],
       "related_works": [
         "https://openalex.org/W2083876416",

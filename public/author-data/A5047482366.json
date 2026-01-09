@@ -477,7 +477,7 @@
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.69560965,
+        "value": 0.69722192,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -815,9 +815,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -836,15 +836,15 @@
         "https://openalex.org/W1575680728",
         "https://openalex.org/W1892752429",
         "https://openalex.org/W2589202187",
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W1039998118",
-        "https://openalex.org/W2898659379",
-        "https://openalex.org/W2428554414",
-        "https://openalex.org/W3149077640",
-        "https://openalex.org/W2754859214",
-        "https://openalex.org/W195523536",
         "https://openalex.org/W649820064",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W2754859214",
+        "https://openalex.org/W2428554414",
+        "https://openalex.org/W2898659379",
+        "https://openalex.org/W3149077640",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W203584942",
         "https://openalex.org/W621038836"
       ],
       "related_works": [
@@ -971,7 +971,7 @@
           "countries": [
             "DE"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Conny Zeeb",
           "raw_affiliation_strings": [
             "Institute for Geoscience (IfG), University of Tübingen, Sigwartstraße 10, 72076, Tübingen, Germany"
@@ -1064,17 +1064,37 @@
             "display_name": "Hussain Al Ajmi",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210160020",
+              "display_name": "Ministry of Environment",
+              "ror": "https://ror.org/04ck23c90",
+              "country_code": "QA",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210160020"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [
-            "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS), P.O. Box 2730, Riyadh, 11461, Saudi Arabia"
+            "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS), P.O. Box 2730, Riyadh, 11461, Saudi Arabia",
+            "Water Resources Development Department, Ministry of Water and Electricity, King Fahd Road, Saud Mall Center , Riyadh, 11233, Saudi Arabia"
           ],
           "affiliations": [
             {
               "raw_affiliation_string": "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS), P.O. Box 2730, Riyadh, 11461, Saudi Arabia",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Water Resources Development Department, Ministry of Water and Electricity, King Fahd Road, Saud Mall Center , Riyadh, 11233, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210160020"
+              ]
             }
           ]
         },
@@ -1137,10 +1157,14 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 6,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5020195655"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I8087733"
+      ],
       "apc_list": {
         "value": 2690,
         "currency": "EUR",
@@ -1151,7 +1175,7 @@
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.81821122,
+        "value": 0.81864142,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1535,16 +1559,16 @@
         "https://openalex.org/W2135642521",
         "https://openalex.org/W1515230668",
         "https://openalex.org/W2045956763",
-        "https://openalex.org/W2054796647",
+        "https://openalex.org/W1957217261",
+        "https://openalex.org/W2046755995",
+        "https://openalex.org/W2114398777",
+        "https://openalex.org/W2046534258",
         "https://openalex.org/W2614359689",
         "https://openalex.org/W1491530927",
-        "https://openalex.org/W2114398777",
-        "https://openalex.org/W3205220501",
-        "https://openalex.org/W2046534258",
         "https://openalex.org/W4302551746",
-        "https://openalex.org/W2046755995",
         "https://openalex.org/W2741196203",
-        "https://openalex.org/W1957217261"
+        "https://openalex.org/W2054796647",
+        "https://openalex.org/W3205220501"
       ],
       "related_works": [
         "https://openalex.org/W2390267220",
@@ -1675,17 +1699,33 @@
             "display_name": "Hussain Al Ajmi",
             "orcid": null
           },
-          "institutions": [],
+          "institutions": [
+            {
+              "id": null,
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": []
+            }
+          ],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [
+            "Ministry of Water & Electricity, Riyadh, Saudi Arabia",
             "Ministry of Water & Electricity"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Ministry of Water & Electricity",
+              "raw_affiliation_string": "Ministry of Water & Electricity, Riyadh, Saudi Arabia",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Ministry of Water & Electricity",
+              "institution_ids": [
+                null
+              ]
             }
           ]
         },
@@ -1714,9 +1754,16 @@
           "is_corresponding": false,
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [
+            "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
             "TU Darmstadt"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
+              "institution_ids": [
+                "https://openalex.org/I31512782"
+              ]
+            },
             {
               "raw_affiliation_string": "TU Darmstadt",
               "institution_ids": [
@@ -1751,9 +1798,14 @@
           "is_corresponding": false,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [
+            "Gesellschaft für Internationale Zusammenarbeit (GIZ), P.O. Box 2730, Riyadh, 11461, Saudi Arabia",
             "Gesellschaft für Internationale Zusammenarbeit (GIZ)"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Gesellschaft für Internationale Zusammenarbeit (GIZ), P.O. Box 2730, Riyadh, 11461, Saudi Arabia",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Gesellschaft für Internationale Zusammenarbeit (GIZ)",
               "institution_ids": [
@@ -1787,9 +1839,16 @@
           "is_corresponding": false,
           "raw_author_name": "Jens Hornung",
           "raw_affiliation_strings": [
+            "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
             "TU Darmstadt"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
+              "institution_ids": [
+                "https://openalex.org/I31512782"
+              ]
+            },
             {
               "raw_affiliation_string": "TU Darmstadt",
               "institution_ids": [
@@ -1823,9 +1882,16 @@
           "is_corresponding": false,
           "raw_author_name": "Alexander Bassis",
           "raw_affiliation_strings": [
+            "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
             "TU Darmstadt"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
+              "institution_ids": [
+                "https://openalex.org/I31512782"
+              ]
+            },
             {
               "raw_affiliation_string": "TU Darmstadt",
               "institution_ids": [
@@ -1841,14 +1907,34 @@
             "display_name": "Martin Keller",
             "orcid": "https://orcid.org/0000-0001-5994-7547"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I181369854",
+              "display_name": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+              "ror": "https://ror.org/00f7hpc57",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I181369854"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [
+            "Abteilung Krustendynamik, Geozentrum Nordbayern, Universität Erlangen, Schlossgarten 5, 91054, Erlangen, Germany",
             "Universität Erlangen"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Abteilung Krustendynamik, Geozentrum Nordbayern, Universität Erlangen, Schlossgarten 5, 91054, Erlangen, Germany",
+              "institution_ids": [
+                "https://openalex.org/I181369854"
+              ]
+            },
             {
               "raw_affiliation_string": "Universität Erlangen",
               "institution_ids": []
@@ -1880,9 +1966,16 @@
           "is_corresponding": false,
           "raw_author_name": "Christoph Schüth",
           "raw_affiliation_strings": [
+            "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
             "TU Darmstadt"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstraße 9, 64287, Darmstadt, Germany",
+              "institution_ids": [
+                "https://openalex.org/I31512782"
+              ]
+            },
             {
               "raw_affiliation_string": "TU Darmstadt",
               "institution_ids": [
@@ -1895,7 +1988,9 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 7,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5047482366"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2490,
@@ -1907,7 +2002,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.86514474,
+        "value": 0.86551804,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2212,15 +2307,15 @@
         "https://openalex.org/W2093551220",
         "https://openalex.org/W2083824245",
         "https://openalex.org/W2135642521",
-        "https://openalex.org/W2025672249",
-        "https://openalex.org/W3019168552",
-        "https://openalex.org/W1925721664",
         "https://openalex.org/W1534738797",
-        "https://openalex.org/W1966101546",
-        "https://openalex.org/W280024276",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W2182877433",
-        "https://openalex.org/W2104580656"
+        "https://openalex.org/W1925721664",
+        "https://openalex.org/W2025672249",
+        "https://openalex.org/W280024276",
+        "https://openalex.org/W2104580656",
+        "https://openalex.org/W1966101546",
+        "https://openalex.org/W3019168552",
+        "https://openalex.org/W4285719527"
       ],
       "related_works": [
         "https://openalex.org/W3013662737",
@@ -2335,17 +2430,33 @@
             "display_name": "Randolf Rausch",
             "orcid": "https://orcid.org/0000-0003-3635-7821"
           },
-          "institutions": [],
+          "institutions": [
+            {
+              "id": null,
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": []
+            }
+          ],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [
+            "GIZ International Services, P.O. Box 2730, Riyadh, 11461, Kingdom of Saudi Arabia",
             "GIZ International Services"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "GIZ International Services",
+              "raw_affiliation_string": "GIZ International Services, P.O. Box 2730, Riyadh, 11461, Kingdom of Saudi Arabia",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "GIZ International Services",
+              "institution_ids": [
+                null
+              ]
             }
           ]
         },
@@ -2374,9 +2485,16 @@
           "is_corresponding": false,
           "raw_author_name": "Theo Simon",
           "raw_affiliation_strings": [
+            "Universität Stuttgart, Institut für Planetologie, Herdweg 51, 70174, Stuttgart, Germany",
             "Universität Stuttgart, Institut für Planetologie"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Universität Stuttgart, Institut für Planetologie, Herdweg 51, 70174, Stuttgart, Germany",
+              "institution_ids": [
+                "https://openalex.org/I100066346"
+              ]
+            },
             {
               "raw_affiliation_string": "Universität Stuttgart, Institut für Planetologie",
               "institution_ids": [
@@ -2397,9 +2515,14 @@
           "is_corresponding": false,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [
+            "Ministry of Water and Electricity, Riyadh, Kingdom of Saudi Arabia",
             "Ministry of Water and Electricity"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Ministry of Water and Electricity, Riyadh, Kingdom of Saudi Arabia",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Ministry of Water and Electricity",
               "institution_ids": []
@@ -2433,9 +2556,16 @@
           "is_corresponding": false,
           "raw_author_name": "Heiko Dirks",
           "raw_affiliation_strings": [
+            "Dornier Consulting, P.O. Box 2730, Riyadh, 11461, Kingdom of Saudi Arabia",
             "Dornier Consulting"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Dornier Consulting, P.O. Box 2730, Riyadh, 11461, Kingdom of Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I1339191578"
+              ]
+            },
             {
               "raw_affiliation_string": "Dornier Consulting",
               "institution_ids": [
@@ -2448,7 +2578,9 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5070429780"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": {
         "value": 2390,
@@ -2460,7 +2592,7 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.74308506,
+        "value": 0.7435397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2745,9 +2877,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -2760,12 +2892,12 @@
       "referenced_works": [
         "https://openalex.org/W650514499",
         "https://openalex.org/W195523536",
-        "https://openalex.org/W413578628",
-        "https://openalex.org/W614825625",
-        "https://openalex.org/W646961543",
         "https://openalex.org/W1581625917",
-        "https://openalex.org/W1521874678",
-        "https://openalex.org/W2939888277"
+        "https://openalex.org/W413578628",
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W646961543",
+        "https://openalex.org/W614825625",
+        "https://openalex.org/W1521874678"
       ],
       "related_works": [
         "https://openalex.org/W2052441122",
@@ -2853,8 +2985,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "H. Al Ajmi",
+          "is_corresponding": true,
+          "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -2868,7 +3000,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. Keller",
+          "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -2896,7 +3028,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "R. Rausch",
+          "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -2904,7 +3036,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5047482366"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -2912,7 +3046,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.83650488,
+        "value": 0.83692855,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3122,11 +3256,11 @@
       },
       "referenced_works_count": 5,
       "referenced_works": [
-        "https://openalex.org/W1986392889",
-        "https://openalex.org/W1991092005",
-        "https://openalex.org/W1581594313",
         "https://openalex.org/W1983728751",
-        "https://openalex.org/W2087614875"
+        "https://openalex.org/W1986392889",
+        "https://openalex.org/W1581594313",
+        "https://openalex.org/W2087614875",
+        "https://openalex.org/W1991092005"
       ],
       "related_works": [
         "https://openalex.org/W3023346821",
@@ -3223,7 +3357,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Christoph Schüth",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -3252,7 +3386,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Matthias Piepenbrink",
+          "raw_author_name": "M. Piepenbrink",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -3280,7 +3414,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "H. al Ajmi",
+          "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -3322,7 +3456,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. Al-Saud",
+          "raw_author_name": "Mohammed Al-Saud",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -3330,7 +3464,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5006410698"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -3338,7 +3474,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.05590598,
+        "value": 0.05577368,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3661,9 +3797,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -4183,14 +4319,32 @@
             "display_name": "Hussain Al Ajmi",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
+          "institutions": [
+            {
+              "id": null,
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": []
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "H. Al Ajmi",
           "raw_affiliation_strings": [
+            "Water Resources Development Department, Ministry of Water and Electricity, Riyadh, Saudi Arabia",
             "Ministry of Water and Electricity"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Water Resources Development Department, Ministry of Water and Electricity, Riyadh, Saudi Arabia",
+              "institution_ids": [
+                null
+              ]
+            },
             {
               "raw_affiliation_string": "Ministry of Water and Electricity",
               "institution_ids": []
@@ -4209,9 +4363,19 @@
           "is_corresponding": false,
           "raw_author_name": "M. Keller",
           "raw_affiliation_strings": [
+            "Abteilung Krustendynamik, Geozentrum Nordbayern, Schlossgarten 5, 91054, Erlangen, Germany",
+            "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS), Riyadh, Saudi Arabia",
             "Geozentrum Nordbayern"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Abteilung Krustendynamik, Geozentrum Nordbayern, Schlossgarten 5, 91054, Erlangen, Germany",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS), Riyadh, Saudi Arabia",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Geozentrum Nordbayern",
               "institution_ids": []
@@ -4243,9 +4407,16 @@
           "is_corresponding": false,
           "raw_author_name": "M. Hinderer",
           "raw_affiliation_strings": [
+            "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstrasse 9, 64287, Darmstadt, Germany",
             "TU Darmstadt"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Institut für Angewandte Geowissenschaften, TU Darmstadt, Schnittspahnstrasse 9, 64287, Darmstadt, Germany",
+              "institution_ids": [
+                "https://openalex.org/I31512782"
+              ]
+            },
             {
               "raw_affiliation_string": "TU Darmstadt",
               "institution_ids": [
@@ -4280,9 +4451,14 @@
           "is_corresponding": false,
           "raw_author_name": "R. Rausch",
           "raw_affiliation_strings": [
+            "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS), Riyadh, Saudi Arabia",
             "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS)"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS), Riyadh, Saudi Arabia",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Gesellschaft für Technische Zusammenarbeit International Services (GTZ-IS)",
               "institution_ids": [
@@ -4295,7 +4471,9 @@
       "institutions": [],
       "countries_distinct_count": 2,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5047482366"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -4668,7 +4846,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
-          "raw_author_name": "Hussain Al Ajmi",
+          "raw_author_name": "Al Ajmi, Hussain",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -4686,7 +4864,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.75289275,
+        "value": 0.75340894,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7939,8 +8117,8 @@
           "countries": [
             "DE"
           ],
-          "is_corresponding": false,
-          "raw_author_name": "M. Keller",
+          "is_corresponding": true,
+          "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [
             "University of Erlangen-Nuremberg"
           ],
@@ -7963,7 +8141,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "H. al Ajmi",
+          "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -7991,7 +8169,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "R. Rausch",
+          "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -7999,15 +8177,19 @@
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5078290557"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I181369854"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03025065,
+        "value": 0.03015045,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8310,9 +8492,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/6"
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -8517,8 +8699,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "H. Al Ajmi",
+          "is_corresponding": true,
+          "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -8532,7 +8714,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. Keller",
+          "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -8560,7 +8742,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "R. Rausch",
+          "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -8568,7 +8750,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5047482366"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -8576,7 +8760,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03043586,
+        "value": 0.03033466,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8890,8 +9074,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M. Keller",
+          "is_corresponding": true,
+          "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -8919,7 +9103,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "H. al Ajmi",
+          "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -8933,7 +9117,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "R. Rausch",
+          "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -8941,7 +9125,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5078290557"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -8949,7 +9135,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10337339,
+        "value": 0.10261221,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9898,8 +10084,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M. Keller",
+          "is_corresponding": true,
+          "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -9913,7 +10099,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "H. Al Ajmi",
+          "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -9927,7 +10113,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. Hinderer",
+          "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -9941,7 +10127,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "R. Rausch",
+          "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -9949,7 +10135,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5078290557"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -9957,7 +10145,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.07918784,
+        "value": 0.07893054,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10169,9 +10357,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6000000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10182,8 +10370,8 @@
       },
       "referenced_works_count": 4,
       "referenced_works": [
-        "https://openalex.org/W2087614875",
         "https://openalex.org/W1581625917",
+        "https://openalex.org/W2087614875",
         "https://openalex.org/W2939888277",
         "https://openalex.org/W2288685003"
       ],
@@ -10258,8 +10446,8 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "H. Al Ajmi",
+          "is_corresponding": true,
+          "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -10287,7 +10475,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. Keller",
+          "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -10301,7 +10489,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "R. Rausch",
+          "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
@@ -10309,7 +10497,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5047482366"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -10317,7 +10507,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03633619,
+        "value": 0.03630399,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10612,7 +10802,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Matthias Hinderer",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -10627,7 +10817,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "M. Keller",
+          "raw_author_name": "Martin Keller",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -10641,7 +10831,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "H. al Ajmi",
+          "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -10719,7 +10909,9 @@
       "institutions": [],
       "countries_distinct_count": 0,
       "institutions_distinct_count": 8,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5074383190"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -10727,7 +10919,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.07600309,
+        "value": 0.07624068,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
