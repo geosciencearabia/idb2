@@ -38,7 +38,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
     "publications": 634,
-    "citations": 30538
+    "citations": 30539
   },
   {
     "id": "https://openalex.org/T10965",
@@ -50,7 +50,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
     "publications": 554,
-    "citations": 11248
+    "citations": 11249
   },
   {
     "id": "https://openalex.org/T13177",
@@ -92,7 +92,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10413",
     "name": "High-pressure geophysics and materials",
     "publications": 161,
-    "citations": 13174
+    "citations": 13175
   },
   {
     "id": "https://openalex.org/T10765",
@@ -725,6 +725,12 @@ export const topicStats: TopicStats[] = [
     "citations": 26
   },
   {
+    "id": "https://openalex.org/T11007",
+    "name": "Hybrid Renewable Energy Systems",
+    "publications": 6,
+    "citations": 21
+  },
+  {
     "id": "https://openalex.org/T11325",
     "name": "Inertial Sensor and Navigation",
     "publications": 6,
@@ -783,12 +789,6 @@ export const topicStats: TopicStats[] = [
     "name": "Building materials and conservation",
     "publications": 5,
     "citations": 23
-  },
-  {
-    "id": "https://openalex.org/T11007",
-    "name": "Hybrid Renewable Energy Systems",
-    "publications": 5,
-    "citations": 21
   },
   {
     "id": "https://openalex.org/T11164",
@@ -1459,6 +1459,12 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T12537",
     "name": "Flow Measurement and Analysis",
+    "publications": 2,
+    "citations": 5
+  },
+  {
+    "id": "https://openalex.org/T10435",
+    "name": "Environmental Impact and Sustainability",
     "publications": 2,
     "citations": 5
   },
@@ -2173,12 +2179,6 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11192",
     "name": "Underwater Vehicles and Communication Systems",
-    "publications": 1,
-    "citations": 5
-  },
-  {
-    "id": "https://openalex.org/T10435",
-    "name": "Environmental Impact and Sustainability",
     "publications": 1,
     "citations": 5
   },
@@ -3137,6 +3137,12 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
+    "id": "https://openalex.org/T12129",
+    "name": "Global Energy Security and Policy",
+    "publications": 1,
+    "citations": 0
+  },
+  {
     "id": "https://openalex.org/T10511",
     "name": "High voltage insulation and dielectric phenomena",
     "publications": 1,
@@ -3263,7 +3269,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210143841",
     "name": "Saudi Aramco (Saudi Arabia)",
     "publications": 189,
-    "citations": 4303
+    "citations": 4304
   },
   {
     "id": "https://openalex.org/I36197038",
@@ -3425,7 +3431,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I162577319",
     "name": "The University of Texas at Dallas",
     "publications": 30,
-    "citations": 5339
+    "citations": 5340
   },
   {
     "id": "https://openalex.org/I4210148734",
@@ -4211,7 +4217,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I197323543",
     "name": "Johannes Gutenberg University Mainz",
     "publications": 8,
-    "citations": 829
+    "citations": 830
   },
   {
     "id": "https://openalex.org/I3018690959",

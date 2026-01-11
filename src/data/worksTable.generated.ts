@@ -38307,8 +38307,8 @@ export const worksTable: WorkTableRecord[] = [
       "Kazan Federal University",
       "King Saud University",
       "University of Technology Malaysia",
-      "Jagiellonian University",
       "Instytut Nauk Geologicznych",
+      "Jagiellonian University",
       "University of the Fraser Valley",
       "Abdul Wali Khan University Mardan"
     ]
@@ -118473,6 +118473,42 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W7119514191",
+    "doi": "https://doi.org/10.1016/j.ecmx.2026.101536",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5074794653",
+    "allAuthorOpenAlexIds": [
+      "A5074794653",
+      "A5122345003",
+      "A5116157569",
+      "A5043678138",
+      "A5028526938",
+      "A5108340585",
+      "A5122346775"
+    ],
+    "firstAuthorLastName": "Rowaihy",
+    "allAuthors": [
+      "Feras Rowaihy",
+      "Ali Hamieh",
+      "Naser A. Odeh",
+      "Mohamad Hejazi",
+      "Mohammed Al-Juaied",
+      "Abdulkader M. Afifi",
+      "Hussein Hoteit"
+    ],
+    "title": "Decarbonizing Saudi Arabia’s energy and industrial sectors: An integrated techno-economic assessment of CCS",
+    "publicationDate": "2026-01-01",
+    "year": 2026,
+    "venue": "Energy Conversion and Management X",
+    "citations": 0,
+    "topics": [
+      "Hybrid Renewable Energy Systems",
+      "Environmental Impact and Sustainability",
+      "Global Energy Security and Policy"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W2583394094",
     "doi": "https://doi.org/10.3389/fenvs.2017.00001",
     "program": "",
@@ -131765,7 +131801,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2004-01-01",
     "year": 2004,
     "venue": "Developments in precambrian geology",
-    "citations": 312,
+    "citations": 313,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
