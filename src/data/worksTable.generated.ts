@@ -77429,6 +77429,1127 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2923992571",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2019.03.019",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5021951962",
+      "A5010428004",
+      "A5101907692"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Eugene C. Rankey",
+      "Stephen T. Hasiotis",
+      "Reza Barati"
+    ],
+    "title": "Effect of bioturbation on petrophysical properties: Insights from geostatistical and flow simulation modeling",
+    "publicationDate": "2019-03-18",
+    "year": 2019,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 37,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Groundwater flow and contamination studies",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "University of Kansas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4400871393",
+    "doi": "https://doi.org/10.1016/j.geoen.2024.213152",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5092832121",
+      "A5088395879",
+      "A5009566538",
+      "A5012140858",
+      "A5057617772",
+      "A5052646582",
+      "A5055095911",
+      "A5107771404"
+    ],
+    "firstAuthorLastName": "Gavidia",
+    "allAuthors": [
+      "Jean Carlos Rangel Gavidia",
+      "SeyedMehdi Mohammadizadeh",
+      "Guilherme Furlan Chinelatto",
+      "Mateus Basso",
+      "João Paulo da Ponte Souza",
+      "L. Portillo",
+      "Hassan A. Eltom",
+      "Alexandre Campane Vidal",
+      "Robert H. Goldstein"
+    ],
+    "title": "Bridging the gap: Integrating static and dynamic data for improved permeability modeling and super k zone detection in vuggy reservoirs",
+    "publicationDate": "2024-07-22",
+    "year": 2024,
+    "venue": "Geoenergy Science and Engineering",
+    "citations": 21,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Reservoir Engineering and Simulation Methods",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "Universidade Estadual de Campinas (UNICAMP)",
+      "University of Sistan and Baluchestan",
+      "King Fahd University of Petroleum and Minerals",
+      "University of Kansas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2995034329",
+    "doi": "https://doi.org/10.1016/j.sedgeo.2019.105573",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom"
+    ],
+    "title": "Limitation of laboratory measurements in evaluating rock properties of bioturbated strata: A case study of the Upper Jubaila Member in central Saudi Arabia",
+    "publicationDate": "2019-12-19",
+    "year": 2019,
+    "venue": "Sedimentary Geology",
+    "citations": 21,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3154509136",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2021.105067",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5107771404"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Robert H. Goldstein"
+    ],
+    "title": "Use of geostatistical modeling to improve the understanding of permeability upscaling in isotropic and anisotropic burrowed reservoirs",
+    "publicationDate": "2021-04-09",
+    "year": 2021,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 13,
+    "topics": [
+      "Groundwater flow and contamination studies",
+      "Advanced Mathematical Modeling in Engineering",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Kansas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4310209541",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2022.106036",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5107771404"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Robert H. Goldstein"
+    ],
+    "title": "Scale dependence of petrophysical measurements in reservoirs with Thalassinoides: Insights from CT scans",
+    "publicationDate": "2022-11-29",
+    "year": 2022,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 11,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Kansas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4383894627",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106412",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5107771404"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Robert H. Goldstein"
+    ],
+    "title": "Digital rock modeling to quantify scale dependence of petrophysical measurements in burrowed reservoir rocks: An example using Thalassinoides",
+    "publicationDate": "2023-07-11",
+    "year": 2023,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 6,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Groundwater flow and contamination studies",
+      "Seismic Imaging and Inversion Techniques"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Kansas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4402099631",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2024.107075",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5001396920",
+      "A5064720324",
+      "A5082826691"
+    ],
+    "firstAuthorLastName": "Refaat",
+    "allAuthors": [
+      "Ahmed Refaat",
+      "Hassan A. Eltom",
+      "Ammar El‐Husseiny",
+      "John Humphrey"
+    ],
+    "title": "Modeling porosity and permeability evolution of burrow fillings with packstone fabric in the Upper Jurassic Hanifa Formation, central Saudi Arabia: A digenetic backstripping study",
+    "publicationDate": "2024-09-01",
+    "year": 2024,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 5,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3030653473",
+    "doi": "https://doi.org/10.2110/sepmsp.112.05",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5010428004"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Stephen T. Hasiotis"
+    ],
+    "title": "Lateral and Vertical Trends of Preferred Flow Pathways Associated with Bioturbated Carbonate: Examples From Middle to Upper Jurassic Strata, Central Saudi Arabia",
+    "publicationDate": "2019-01-01",
+    "year": 2019,
+    "venue": "SEPM (Society for Sedimentary Geology) eBooks",
+    "citations": 17,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "University of Kansas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3085505323",
+    "doi": "https://doi.org/10.3390/en13215557",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5088388992",
+      "A5072682306",
+      "A5033625767",
+      "A5058720438",
+      "A5059504799"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Nabil A. Saraih",
+      "Oliver G. Esteva",
+      "Lundi Kusuma",
+      "Saleh Ahmed",
+      "Mohamed A. Yassin"
+    ],
+    "title": "Three-Dimensional Modeling and Fluid Flow Simulation for the Quantitative Description of Permeability Anisotropy in Tidal Flat Carbonate",
+    "publicationDate": "2020-10-23",
+    "year": 2020,
+    "venue": "Energies",
+    "citations": 8,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Reservoir Engineering and Simulation Methods"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3040899053",
+    "doi": "https://doi.org/10.1111/sed.12780",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5021951962",
+      "A5055544372"
+    ],
+    "firstAuthorLastName": "Rankey",
+    "allAuthors": [
+      "Eugene C. Rankey",
+      "Joaquín Rodrigo Garza-Pérez",
+      "Hassan A. Eltom"
+    ],
+    "title": "Chemical oceanographic influences on sediment accumulations of a carbonate ramp: Holocene Yucatan Shelf, Mexico",
+    "publicationDate": "2020-07-12",
+    "year": 2020,
+    "venue": "Sedimentology",
+    "citations": 6,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Geochemistry and Elemental Analysis",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "University of Kansas",
+      "Universidad Nacional Autónoma de México",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4364378426",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2023.106259",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5059504799",
+      "A5006019310",
+      "A5101483820",
+      "A5033625767",
+      "A5085758789"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Mohamed A. Yassin",
+      "Jarvis R. Cline",
+      "Mohammed H. Alghamdi",
+      "Lundi Kusuma",
+      "Ali E. Al-Mahfoudh"
+    ],
+    "title": "Incorporating outcrop observations and laboratory measurements in 3D reservoir models: An integrated study to enhance the workflow of modeling bioturbated carbonate reservoirs",
+    "publicationDate": "2023-04-11",
+    "year": 2023,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 3,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Reservoir Engineering and Simulation Methods",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3096928982",
+    "doi": "https://doi.org/10.1016/j.palaeo.2020.110083",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5047905444",
+      "A5010428004",
+      "A5113898656",
+      "A5021178018"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Luis A. González",
+      "Stephen T. Hasiotis",
+      "Douglas Walker",
+      "Joseph E. Andrew"
+    ],
+    "title": "Calibration of bulk carbonate strontium isotopes to ammonite zones: Implication for global stratigraphic correlation of Callovian–Kimmeridgian strata in Central Saudi Arabia",
+    "publicationDate": "2020-10-27",
+    "year": 2020,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 6,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "Isotope Analysis in Ecology"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Kansas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4366286029",
+    "doi": "https://doi.org/10.1016/j.sedgeo.2023.106395",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5074504776",
+      "A5064720324",
+      "A5046641260"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "M. Rika Nanda Syahputra",
+      "Ammar El‐Husseiny",
+      "Andrew D. La Croix"
+    ],
+    "title": "Spatial complexity of burrow attributes and their impact on porosity and permeability distributions in bioturbated reservoirs",
+    "publicationDate": "2023-04-18",
+    "year": 2023,
+    "venue": "Sedimentary Geology",
+    "citations": 4,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Waikato"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4319767824",
+    "doi": "https://doi.org/10.1016/j.geoen.2023.211559",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5085758789",
+      "A5033625767"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Ali E. Al-Mahfoudh",
+      "Lundi Kusuma"
+    ],
+    "title": "Geological understanding of permeability upscaling in mixed carbonate siliciclastic reservoirs: An outcrop approach, Miocene Dam formation, eastern Saudi Arabia",
+    "publicationDate": "2023-02-09",
+    "year": 2023,
+    "venue": "Geoenergy Science and Engineering",
+    "citations": 3,
+    "topics": [
+      "Advanced Mathematical Modeling in Engineering",
+      "Hydrocarbon exploration and reservoir analysis",
+      "CO2 Sequestration and Geologic Interactions"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4391576828",
+    "doi": "https://doi.org/10.1038/s41598-024-52333-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom"
+    ],
+    "title": "Reproducing burrows in modelled sedimentary strata",
+    "publicationDate": "2024-02-06",
+    "year": 2024,
+    "venue": "Scientific Reports",
+    "citations": 2,
+    "topics": [
+      "Geological formations and processes",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Seismic Imaging and Inversion Techniques"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4383341156",
+    "doi": "https://doi.org/10.1306/04192320212",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5021951962",
+      "A5107771404",
+      "A5102717035"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Eugene C. Rankey",
+      "Robert H. Goldstein",
+      "Reza Barati"
+    ],
+    "title": "Passageways for permeability: Geostatistical simulation of controls on the connectivity of vug-to-vug pore networks",
+    "publicationDate": "2023-07-01",
+    "year": 2023,
+    "venue": "AAPG Bulletin",
+    "citations": 2,
+    "topics": [
+      "Enhanced Oil Recovery Techniques",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Mineral Processing and Grinding"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4391326907",
+    "doi": "https://doi.org/10.1016/j.jafrearsci.2024.105190",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5026931883",
+      "A5059504799"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Hussam Eldin Elzain",
+      "Mohamed A. Yassin"
+    ],
+    "title": "Storage, flow and contamination of groundwater in bioturbated strata: Example from the upper Jubaila Formation, Saudi Arabia",
+    "publicationDate": "2024-01-29",
+    "year": 2024,
+    "venue": "Journal of African Earth Sciences",
+    "citations": 2,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Groundwater flow and contamination studies"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Sultan Qaboos University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4399566052",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2024.106951",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom"
+    ],
+    "title": "Modeling and simulating biogenically-controlled permeability in gas reservoirs",
+    "publicationDate": "2024-06-12",
+    "year": 2024,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 2,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Enhanced Oil Recovery Techniques"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4404489554",
+    "doi": "https://doi.org/10.1016/j.sedgeo.2024.106781",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5061727407",
+      "A5064720324",
+      "A5007108235"
+    ],
+    "firstAuthorLastName": "Muharrag",
+    "allAuthors": [
+      "Jaber Muharrag",
+      "Hassan A. Eltom",
+      "Ammar El‐Husseiny",
+      "Fawwaz Muhammad Alkhaldi"
+    ],
+    "title": "Influence of stromatolites on petrophysical properties within stratigraphic contexts: A case study from the Dam Formation, eastern Saudi Arabia",
+    "publicationDate": "2024-11-18",
+    "year": 2024,
+    "venue": "Sedimentary Geology",
+    "citations": 1,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4413136659",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2025.107577",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5000915808",
+      "A5064720324"
+    ],
+    "firstAuthorLastName": "Refaat",
+    "allAuthors": [
+      "Ahmed Refaat",
+      "Hassan A. Eltom",
+      "Ammar El‐Husseiny"
+    ],
+    "title": "On the limitations of spot permeability measurements to quantify bulk permeability of bioturbated reservoirs: Insights from digital rock physics modeling",
+    "publicationDate": "2025-08-08",
+    "year": 2025,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 1,
+    "topics": [
+      "Enhanced Oil Recovery Techniques",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3123103367",
+    "doi": "https://doi.org/10.20944/preprints202009.0366.v1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5088388992",
+      "A5072682306",
+      "A5033625767",
+      "A5058720438",
+      "A5059504799"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Nabil A. Saraih",
+      "Oliver G. Esteva",
+      "Lundi Kusuma",
+      "Saleh Ahmed",
+      "Mohamed A. Yassin"
+    ],
+    "title": "Three-Dimensional Modeling and Fluid Flow Simulation for the Quantitative Description of Permeability Anisotropy in Tidal Flat Carbonate",
+    "publicationDate": "2020-09-16",
+    "year": 2020,
+    "venue": "Preprints.org",
+    "citations": 2,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Reservoir Engineering and Simulation Methods"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2332621919",
+    "doi": "https://doi.org/10.3997/2214-4609.201413155",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5113128063",
+      "A5009478389",
+      "A5018338300",
+      "A5033386219",
+      "A5108225096",
+      "A5053834729"
+    ],
+    "firstAuthorLastName": "Ayadiuno",
+    "allAuthors": [
+      "Chris Ayadiuno",
+      "Abdulwahab Ali",
+      "Aiman Bakhorji",
+      "Saqib Ali",
+      "Syed Nizamuddin",
+      "Abdulazeez Abdulraheem",
+      "Hassan A. Eltom"
+    ],
+    "title": "The Effects of Saturation and Pore Structure on Acoustic Properties of Carbonate Rocks",
+    "publicationDate": "2015-05-26",
+    "year": 2015,
+    "venue": "Proceedings",
+    "citations": 1,
+    "topics": [
+      "Seismic Imaging and Inversion Techniques",
+      "Drilling and Well Engineering",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "Saudi Aramco (United States)",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4229002445",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2022.105709",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom"
+    ],
+    "title": "On the scale dependence of estimating burrow intensity of Thalassinoides from two-dimensional views",
+    "publicationDate": "2022-05-06",
+    "year": 2022,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 1,
+    "topics": [
+      "Geological formations and processes",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2066459703",
+    "doi": "https://doi.org/10.3997/2214-4609.20142878",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5082642403",
+      "A5087395789"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Mohammad Makkawi",
+      "O. Abdulatif"
+    ],
+    "title": "Charactrization of Spatial Lithofacies Continuity of Arab-D Reservoir Using Modeled Semivariograms: Outcrop Approch",
+    "publicationDate": "2012-11-25",
+    "year": 2012,
+    "venue": "Proceedings",
+    "citations": 0,
+    "topics": [
+      "Reservoir Engineering and Simulation Methods",
+      "Geochemistry and Geologic Mapping",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W3214528663",
+    "doi": "https://doi.org/10.7185/gold2021.6265",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5028056429",
+      "A5007783400"
+    ],
+    "firstAuthorLastName": "Georgiev",
+    "allAuthors": [
+      "Svetoslav Georgiev",
+      "Abid Khogali",
+      "Hassan A. Eltom"
+    ],
+    "title": "Hg contents of Toarcian sediments from the Marrat Formation, Saudi Arabia",
+    "publicationDate": "2021-01-01",
+    "year": 2021,
+    "venue": "Goldschmidt2021 abstracts",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Elemental Analysis",
+      "Mercury impact and mitigation studies",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4213059437",
+    "doi": "https://doi.org/10.2523/iptc-21869-ea",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5007783400",
+      "A5044457172",
+      "A5088388992"
+    ],
+    "firstAuthorLastName": "Khogali",
+    "allAuthors": [
+      "Abid Khogali",
+      "Rika N. Syahputra",
+      "Nabil A. Saraih",
+      "Hassan A. Eltom"
+    ],
+    "title": "Controls on Reservoir Sand-Body Architecture: Modelling and Fluid Flow Simulation of Modern Analog, East Sudan",
+    "publicationDate": "2022-02-21",
+    "year": 2022,
+    "venue": "International Petroleum Technology Conference",
+    "citations": 0,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Geological formations and processes",
+      "Reservoir Engineering and Simulation Methods"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4238470914",
+    "doi": "https://doi.org/10.46427/gold2020.818",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5028056429"
+    ],
+    "firstAuthorLastName": "Georgiev",
+    "allAuthors": [
+      "Svetoslav Georgiev",
+      "Hassan A. Eltom"
+    ],
+    "title": "Sources and Magnitude of Hg Loading during the Permian-Triassic Transition, Buraydah Section, Saudi Arabia",
+    "publicationDate": "2020-01-01",
+    "year": 2020,
+    "venue": "Goldschmidt Abstracts",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4285279903",
+    "doi": "https://doi.org/10.2139/ssrn.4106729",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5085758789",
+      "A5033625767"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Ali E. Al-Mahfoudh",
+      "Lundi Kusuma"
+    ],
+    "title": "Geological Understanding of Permeability Upscaling in Mixed Carbonate Siliciclastic Reservoirs: An Outcrop Approach, Miocene Dam Formation, Eastern Saudi Arabia",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "SSRN Electronic Journal",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4312718183",
+    "doi": "https://doi.org/10.2139/ssrn.4225457",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5107771404"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Robert H. Goldstein"
+    ],
+    "title": "Scale Dependence of Petrophysical Measurements in Reservoirs with Thalassinoides: Insights from CT Scans",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "SSRN Electronic Journal",
+    "citations": 0,
+    "topics": [
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "NMR spectroscopy and applications",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Kansas"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4312902210",
+    "doi": "https://doi.org/10.2139/ssrn.4292809",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5059504799",
+      "A5006019310",
+      "A5101483820",
+      "A5033625767",
+      "A5085758789"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom",
+      "Mohamed A. Yassin",
+      "Jarvis R. Cline",
+      "Mohammed H. Alghamdi",
+      "Lundi Kusuma",
+      "Ali E. Al-Mahfoudh"
+    ],
+    "title": "Incorporating Outcrop Observations and Laboratory Measurements in 3D Reservoir Models: An Integrated Study to Enhance the Workflow of Modeling Bioturbated Carbonate Reservoirs",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "SSRN Electronic Journal",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Reservoir Engineering and Simulation Methods",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4313173873",
+    "doi": "https://doi.org/10.46427/gold2022.11228",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5028056429",
+      "A5007783400",
+      "A5010979162"
+    ],
+    "firstAuthorLastName": "Georgiev",
+    "allAuthors": [
+      "Svetoslav Georgiev",
+      "Abid Khogali",
+      "Hassan A. Eltom",
+      "Christophe Cloquet"
+    ],
+    "title": "A global mercury signal recorded in a Toarcian shallow marine succession, Marrat Fm, Saudi Arabia",
+    "publicationDate": "2022-01-01",
+    "year": 2022,
+    "venue": "Goldschmidt2022 abstracts",
+    "citations": 0,
+    "topics": [
+      "Marine animal studies overview",
+      "Methane Hydrates and Related Phenomena",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Bulgarian Academy of Sciences",
+      "King Fahd University of Petroleum and Minerals",
+      "Geological Institute",
+      "Université de Lorraine"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4386488553",
+    "doi": "https://doi.org/10.2139/ssrn.4563147",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714"
+    ],
+    "firstAuthorLastName": "Eltom",
+    "allAuthors": [
+      "Hassan A. Eltom"
+    ],
+    "title": "Reproducing Burrows in Modelled Sedimentary Strata: A Workflow Using Multipoint Statistics Modelling in Petrel™",
+    "publicationDate": "2023-01-01",
+    "year": 2023,
+    "venue": "SSRN Electronic Journal",
+    "citations": 0,
+    "topics": [
+      "Geological Modeling and Analysis",
+      "Geological formations and processes",
+      "Reservoir Engineering and Simulation Methods"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4399887669",
+    "doi": "https://doi.org/10.2139/ssrn.4871939",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5001396920",
+      "A5064720324",
+      "A5082826691"
+    ],
+    "firstAuthorLastName": "Refaat",
+    "allAuthors": [
+      "Ahmed Refaat",
+      "Hassan A. Eltom",
+      "Ammar El‐Husseiny",
+      "John Humphrey"
+    ],
+    "title": "Modeling Porosity and Permeability Evolution of Burrow Fillings with Packstone Fabric: A Digenetic Backstripping Study",
+    "publicationDate": "2024-01-01",
+    "year": 2024,
+    "venue": "SSRN Electronic Journal",
+    "citations": 0,
+    "topics": [
+      "Pickering emulsions and particle stabilization",
+      "3D Shape Modeling and Analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Oldham Council",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4410159041",
+    "doi": "https://doi.org/10.1038/s41598-025-00697-w",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5059100961",
+      "A5054922583",
+      "A5016178719",
+      "A5064720324"
+    ],
+    "firstAuthorLastName": "Al-Lehyani",
+    "allAuthors": [
+      "Ayman Al-Lehyani",
+      "Hassan A. Eltom",
+      "Abdullatif Al‐Shuhail",
+      "Eassa Abdullah",
+      "Ammar El‐Husseiny"
+    ],
+    "title": "Comparative study of laboratory and portable spot permeability measurements in bioturbated carbonate strata",
+    "publicationDate": "2025-05-07",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "citations": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Groundwater flow and contamination studies",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4410991051",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2025.107497",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5117814511",
+      "A5064720324",
+      "A5082826691",
+      "A5027698592"
+    ],
+    "firstAuthorLastName": "Nagy",
+    "allAuthors": [
+      "Ahmed Nagy",
+      "Hassan A. Eltom",
+      "Ammar El‐Husseiny",
+      "John Humphrey",
+      "Mohammed Al Hamad"
+    ],
+    "title": "Impact of burrows on electrical resistivity: Example from the Jurassic Hanifa Formation, Saudi Arabia",
+    "publicationDate": "2025-06-03",
+    "year": 2025,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 0,
+    "topics": [
+      "Geophysical and Geoelectrical Methods",
+      "Geological and Geophysical Studies",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4414232424",
+    "doi": "https://doi.org/10.2118/227731-ms",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5040857714",
+    "allAuthorOpenAlexIds": [
+      "A5040857714",
+      "A5119631469",
+      "A5064720324"
+    ],
+    "firstAuthorLastName": "Youusef",
+    "allAuthors": [
+      "AbdAllah A. Youusef",
+      "Ammar El‐Husseiny",
+      "Hassan A. Eltom"
+    ],
+    "title": "A Rate-Dependent Upscaling Framework for REV Saturation Functions in Dual-Porosity Media",
+    "publicationDate": "2025-09-16",
+    "year": 2025,
+    "venue": "",
+    "citations": 0,
+    "topics": [
+      "Advanced Mathematical Modeling in Engineering",
+      "Seismic Imaging and Inversion Techniques",
+      "Enhanced Oil Recovery Techniques"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1999436875",
     "doi": "https://doi.org/10.1016/j.aeolia.2015.01.010",
     "program": "",
@@ -106918,40 +108039,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4410159041",
-    "doi": "https://doi.org/10.1038/s41598-025-00697-w",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5059100961",
-      "A5040857714",
-      "A5016178719",
-      "A5064720324"
-    ],
-    "firstAuthorLastName": "Al-Lehyani",
-    "allAuthors": [
-      "Ayman Al-Lehyani",
-      "Hassan A. Eltom",
-      "Abdullatif Al‐Shuhail",
-      "Eassa Abdullah",
-      "Ammar El‐Husseiny"
-    ],
-    "title": "Comparative study of laboratory and portable spot permeability measurements in bioturbated carbonate strata",
-    "publicationDate": "2025-05-07",
-    "year": 2025,
-    "venue": "Scientific Reports",
-    "citations": 0,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Groundwater flow and contamination studies",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4410904763",
     "doi": "https://doi.org/10.3997/2214-4609.202571013",
     "program": "",
@@ -129789,110 +130876,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Universiti Teknologi Petronas",
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3085505323",
-    "doi": "https://doi.org/10.3390/en13215557",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5088388992",
-    "allAuthorOpenAlexIds": [
-      "A5088388992",
-      "A5040857714",
-      "A5072682306",
-      "A5033625767",
-      "A5058720438",
-      "A5059504799"
-    ],
-    "firstAuthorLastName": "Eltom",
-    "allAuthors": [
-      "Hassan A. Eltom",
-      "Nabil A. Saraih",
-      "Oliver G. Esteva",
-      "Lundi Kusuma",
-      "Saleh Ahmed",
-      "Mohamed A. Yassin"
-    ],
-    "title": "Three-Dimensional Modeling and Fluid Flow Simulation for the Quantitative Description of Permeability Anisotropy in Tidal Flat Carbonate",
-    "publicationDate": "2020-10-23",
-    "year": 2020,
-    "venue": "Energies",
-    "citations": 8,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Reservoir Engineering and Simulation Methods"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3123103367",
-    "doi": "https://doi.org/10.20944/preprints202009.0366.v1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5088388992",
-    "allAuthorOpenAlexIds": [
-      "A5088388992",
-      "A5040857714",
-      "A5072682306",
-      "A5033625767",
-      "A5058720438",
-      "A5059504799"
-    ],
-    "firstAuthorLastName": "Eltom",
-    "allAuthors": [
-      "Hassan A. Eltom",
-      "Nabil A. Saraih",
-      "Oliver G. Esteva",
-      "Lundi Kusuma",
-      "Saleh Ahmed",
-      "Mohamed A. Yassin"
-    ],
-    "title": "Three-Dimensional Modeling and Fluid Flow Simulation for the Quantitative Description of Permeability Anisotropy in Tidal Flat Carbonate",
-    "publicationDate": "2020-09-16",
-    "year": 2020,
-    "venue": "Preprints.org",
-    "citations": 2,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Reservoir Engineering and Simulation Methods"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4213059437",
-    "doi": "https://doi.org/10.2523/iptc-21869-ea",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5088388992",
-    "allAuthorOpenAlexIds": [
-      "A5088388992",
-      "A5007783400",
-      "A5044457172",
-      "A5040857714"
-    ],
-    "firstAuthorLastName": "Khogali",
-    "allAuthors": [
-      "Abid Khogali",
-      "Rika N. Syahputra",
-      "Nabil A. Saraih",
-      "Hassan A. Eltom"
-    ],
-    "title": "Controls on Reservoir Sand-Body Architecture: Modelling and Fluid Flow Simulation of Modern Analog, East Sudan",
-    "publicationDate": "2022-02-21",
-    "year": 2022,
-    "venue": "International Petroleum Technology Conference",
-    "citations": 0,
-    "topics": [
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Geological formations and processes",
-      "Reservoir Engineering and Simulation Methods"
-    ],
-    "institutions": [
       "King Fahd University of Petroleum and Minerals"
     ]
   },

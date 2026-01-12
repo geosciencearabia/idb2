@@ -1082,5 +1082,23 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 15,
     "totalCitations": 246,
     "hIndex": 5
+  },
+  {
+    "authorId": "idb0059-eltom-hassan",
+    "openAlexId": "A5040857714",
+    "openAlexIds": [
+      "A5040857714"
+    ],
+    "name": "Hassan Eltom",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "heltom@ku.edu",
+    "orcid": "",
+    "totalPublications": 83,
+    "totalCitations": 573,
+    "hIndex": 15
   }
 ];
