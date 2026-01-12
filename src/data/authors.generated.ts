@@ -1095,7 +1095,7 @@ export const authors: AuthorRecord[] = [
     "affiliate1": "",
     "affiliate2": "",
     "affiliate3": "",
-    "email": "heltom@ku.edu",
+    "email": "",
     "orcid": "",
     "totalPublications": 83,
     "totalCitations": 573,
