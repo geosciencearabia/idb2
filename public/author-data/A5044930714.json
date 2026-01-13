@@ -474,16 +474,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
-            },
-            {
               "id": "https://openalex.org/I40120149",
               "display_name": "University of Oxford",
               "ror": "https://ror.org/052gg0110",
@@ -503,6 +493,16 @@
                 "https://openalex.org/I149899117",
                 "https://openalex.org/I4210161060"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210140987",
+              "display_name": "Oxford Archaeology",
+              "ror": "https://ror.org/045f8jj92",
+              "country_code": "GB",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210140987"
+              ]
             }
           ],
           "countries": [
@@ -512,14 +512,21 @@
           "is_corresponding": false,
           "raw_author_name": "Huw S. Groucutt",
           "raw_affiliation_strings": [
-            "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany",
+            "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany. huw.groucutt@rlaha.ox.ac.uk.",
+            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK. huw.groucutt@rlaha.ox.ac.uk.",
             "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany",
+              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany. huw.groucutt@rlaha.ox.ac.uk.",
               "institution_ids": [
                 "https://openalex.org/I4210161060"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK. huw.groucutt@rlaha.ox.ac.uk.",
+              "institution_ids": [
+                "https://openalex.org/I4210140987"
               ]
             },
             {
@@ -566,20 +573,27 @@
           "is_corresponding": false,
           "raw_author_name": "Rainer Grün",
           "raw_affiliation_strings": [
-            "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia",
-            "Research School of Earth Sciences, The Australian National University, Canberra, Australian Capital Territory, Australia"
+            "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia.",
+            "Research School of Earth Sciences, The Australian National University, Canberra, Australian Capital Territory, Australia.",
+            "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia",
+              "raw_affiliation_string": "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia.",
               "institution_ids": [
                 "https://openalex.org/I11701301"
               ]
             },
             {
-              "raw_affiliation_string": "Research School of Earth Sciences, The Australian National University, Canberra, Australian Capital Territory, Australia",
+              "raw_affiliation_string": "Research School of Earth Sciences, The Australian National University, Canberra, Australian Capital Territory, Australia.",
               "institution_ids": [
                 "https://openalex.org/I118347636"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia",
+              "institution_ids": [
+                "https://openalex.org/I11701301"
               ]
             }
           ]
@@ -593,6 +607,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -604,14 +629,22 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Iyad A. S. Zalmout",
           "raw_affiliation_strings": [
+            "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia.",
             "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia",
               "institution_ids": [
@@ -629,17 +662,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210161060",
-              "display_name": "Max Planck Institute for the Science of Human History",
-              "ror": "https://ror.org/05mjrzy91",
-              "country_code": "DE",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I149899117",
-                "https://openalex.org/I4210161060"
-              ]
-            },
-            {
               "id": "https://openalex.org/I183935753",
               "display_name": "King's College London",
               "ror": "https://ror.org/0220mzb33",
@@ -648,6 +670,17 @@
               "lineage": [
                 "https://openalex.org/I124357947",
                 "https://openalex.org/I183935753"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210161060",
+              "display_name": "Max Planck Institute for the Science of Human History",
+              "ror": "https://ror.org/05mjrzy91",
+              "country_code": "DE",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I149899117",
+                "https://openalex.org/I4210161060"
               ]
             }
           ],
@@ -658,20 +691,27 @@
           "is_corresponding": false,
           "raw_author_name": "Nick A. Drake",
           "raw_affiliation_strings": [
-            "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany",
-            "Department of Geography, King’s College London, London, UK"
+            "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany.",
+            "Department of Geography, King's College London, London, UK.",
+            "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany",
+              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany.",
               "institution_ids": [
                 "https://openalex.org/I4210161060"
               ]
             },
             {
-              "raw_affiliation_string": "Department of Geography, King’s College London, London, UK",
+              "raw_affiliation_string": "Department of Geography, King's College London, London, UK.",
               "institution_ids": [
                 "https://openalex.org/I183935753"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210161060"
               ]
             }
           ]
@@ -685,16 +725,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4432739",
-              "display_name": "University of Bergen",
-              "ror": "https://ror.org/03zga2b32",
-              "country_code": "NO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4432739"
-              ]
-            },
-            {
               "id": "https://openalex.org/I184558857",
               "display_name": "Royal Holloway University of London",
               "ror": "https://ror.org/04g2vpn86",
@@ -703,6 +733,16 @@
               "lineage": [
                 "https://openalex.org/I124357947",
                 "https://openalex.org/I184558857"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4432739",
+              "display_name": "University of Bergen",
+              "ror": "https://ror.org/03zga2b32",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4432739"
               ]
             }
           ],
@@ -713,20 +753,27 @@
           "is_corresponding": false,
           "raw_author_name": "Simon J. Armitage",
           "raw_affiliation_strings": [
-            "Department of Geography, Royal Holloway, University of London, London, UK",
-            "SFF Centre for Early Sapiens Behaviour (SapienCE), University of Bergen, Bergen, Norway"
+            "Department of Geography, Royal Holloway, University of London, London, UK.",
+            "SFF Centre for Early Sapiens Behaviour (SapienCE), University of Bergen, Bergen, Norway.",
+            "Department of Geography, Royal Holloway, University of London, London, UK"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Geography, Royal Holloway, University of London, London, UK",
+              "raw_affiliation_string": "Department of Geography, Royal Holloway, University of London, London, UK.",
               "institution_ids": [
                 "https://openalex.org/I184558857"
               ]
             },
             {
-              "raw_affiliation_string": "SFF Centre for Early Sapiens Behaviour (SapienCE), University of Bergen, Bergen, Norway",
+              "raw_affiliation_string": "SFF Centre for Early Sapiens Behaviour (SapienCE), University of Bergen, Bergen, Norway.",
               "institution_ids": [
                 "https://openalex.org/I4432739"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geography, Royal Holloway, University of London, London, UK",
+              "institution_ids": [
+                "https://openalex.org/I184558857"
               ]
             }
           ]
@@ -757,9 +804,16 @@
           "is_corresponding": false,
           "raw_author_name": "Ian Candy",
           "raw_affiliation_strings": [
+            "Department of Geography, Royal Holloway, University of London, London, UK.",
             "Department of Geography, Royal Holloway, University of London, London, UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geography, Royal Holloway, University of London, London, UK.",
+              "institution_ids": [
+                "https://openalex.org/I184558857"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geography, Royal Holloway, University of London, London, UK",
               "institution_ids": [
@@ -794,9 +848,16 @@
           "is_corresponding": false,
           "raw_author_name": "Richard Clark-Wilson",
           "raw_affiliation_strings": [
+            "Department of Geography, Royal Holloway, University of London, London, UK.",
             "Department of Geography, Royal Holloway, University of London, London, UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geography, Royal Holloway, University of London, London, UK.",
+              "institution_ids": [
+                "https://openalex.org/I184558857"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geography, Royal Holloway, University of London, London, UK",
               "institution_ids": [
@@ -830,9 +891,16 @@
           "is_corresponding": false,
           "raw_author_name": "Julien Louys",
           "raw_affiliation_strings": [
+            "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia.",
             "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia.",
+              "institution_ids": [
+                "https://openalex.org/I11701301"
+              ]
+            },
             {
               "raw_affiliation_string": "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia",
               "institution_ids": [
@@ -867,12 +935,12 @@
           "is_corresponding": false,
           "raw_author_name": "Paul S. Breeze",
           "raw_affiliation_strings": [
-            "Department of Geography, King’s College London, London, UK",
+            "Department of Geography, King's College London, London, UK.",
             "Department of Geography, King's College London, London, UK"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Geography, King’s College London, London, UK",
+              "raw_affiliation_string": "Department of Geography, King's College London, London, UK.",
               "institution_ids": [
                 "https://openalex.org/I183935753"
               ]
@@ -921,20 +989,27 @@
           "is_corresponding": false,
           "raw_author_name": "Mathieu Duval",
           "raw_affiliation_strings": [
-            "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia",
-            "Geochronology, Centro Nacional de Investigación sobre la Evolución (CENIEH), Burgos, Spain"
+            "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia.",
+            "Geochronology, Centro Nacional de Investigación sobre la Evolución (CENIEH), Burgos, Spain.",
+            "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia",
+              "raw_affiliation_string": "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia.",
               "institution_ids": [
                 "https://openalex.org/I11701301"
               ]
             },
             {
-              "raw_affiliation_string": "Geochronology, Centro Nacional de Investigación sobre la Evolución (CENIEH), Burgos, Spain",
+              "raw_affiliation_string": "Geochronology, Centro Nacional de Investigación sobre la Evolución (CENIEH), Burgos, Spain.",
               "institution_ids": [
                 "https://openalex.org/I4210107073"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Australian Research Centre for Human Evolution (ARCHE), Environmental Futures Research Institute, Griffith University, Nathan, Queensland, Australia",
+              "institution_ids": [
+                "https://openalex.org/I11701301"
               ]
             }
           ]
@@ -958,6 +1033,16 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4210161471",
+              "display_name": "Department of Archaeology",
+              "ror": "https://ror.org/05xcdy991",
+              "country_code": "LK",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210161471"
+              ]
+            },
+            {
               "id": "https://openalex.org/I1336856363",
               "display_name": "Natural History Museum",
               "ror": "https://ror.org/039zvsn29",
@@ -969,19 +1054,27 @@
             }
           ],
           "countries": [
-            "GB"
+            "GB",
+            "LK"
           ],
           "is_corresponding": false,
           "raw_author_name": "Laura T. Buck",
           "raw_affiliation_strings": [
-            "Earth Sciences Department, Natural History Museum, London, UK",
+            "Earth Sciences Department, Natural History Museum, London, UK.",
+            "PAVE Research Group, Department of Archaeology, University of Cambridge, Cambridge, UK.",
             "PAVE Research Group, Department of Archaeology, University of Cambridge, Cambridge, UK"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Earth Sciences Department, Natural History Museum, London, UK",
+              "raw_affiliation_string": "Earth Sciences Department, Natural History Museum, London, UK.",
               "institution_ids": [
                 "https://openalex.org/I1336856363"
+              ]
+            },
+            {
+              "raw_affiliation_string": "PAVE Research Group, Department of Archaeology, University of Cambridge, Cambridge, UK.",
+              "institution_ids": [
+                "https://openalex.org/I4210161471"
               ]
             },
             {
@@ -1001,16 +1094,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I20581793",
-              "display_name": "University of Kent",
-              "ror": "https://ror.org/00xkeyj56",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I20581793"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210118560",
               "display_name": "Max Planck Institute for Evolutionary Anthropology",
               "ror": "https://ror.org/02a33b393",
@@ -1019,6 +1102,16 @@
               "lineage": [
                 "https://openalex.org/I149899117",
                 "https://openalex.org/I4210118560"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I20581793",
+              "display_name": "University of Kent",
+              "ror": "https://ror.org/00xkeyj56",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I20581793"
               ]
             }
           ],
@@ -1029,14 +1122,21 @@
           "is_corresponding": false,
           "raw_author_name": "Tracy L. Kivell",
           "raw_affiliation_strings": [
-            "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany",
+            "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany.",
+            "Skeletal Biology Research Centre, School of Anthropology and Conservation, University of Kent, Canterbury, UK.",
             "Skeletal Biology Research Centre, School of Anthropology and Conservation, University of Kent, Canterbury, UK"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany",
+              "raw_affiliation_string": "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany.",
               "institution_ids": [
                 "https://openalex.org/I4210118560"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Skeletal Biology Research Centre, School of Anthropology and Conservation, University of Kent, Canterbury, UK.",
+              "institution_ids": [
+                "https://openalex.org/I20581793"
               ]
             },
             {
@@ -1056,6 +1156,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I63098007",
+              "display_name": "Liverpool John Moores University",
+              "ror": "https://ror.org/04zfme737",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I63098007"
+              ]
+            },
+            {
               "id": "https://openalex.org/I241749",
               "display_name": "University of Cambridge",
               "ror": "https://ror.org/013meh722",
@@ -1066,36 +1176,44 @@
               ]
             },
             {
-              "id": "https://openalex.org/I63098007",
-              "display_name": "Liverpool John Moores University",
-              "ror": "https://ror.org/04zfme737",
-              "country_code": "GB",
-              "type": "education",
+              "id": "https://openalex.org/I4210161471",
+              "display_name": "Department of Archaeology",
+              "ror": "https://ror.org/05xcdy991",
+              "country_code": "LK",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I63098007"
+                "https://openalex.org/I4210161471"
               ]
             }
           ],
           "countries": [
-            "GB"
+            "GB",
+            "LK"
           ],
           "is_corresponding": false,
           "raw_author_name": "Emma Pomeroy",
           "raw_affiliation_strings": [
-            "PAVE Research Group, Department of Archaeology, University of Cambridge, Cambridge, UK",
-            "School of Natural Sciences and Psychology, Liverpool John Moores University, Liverpool, UK"
+            "PAVE Research Group, Department of Archaeology, University of Cambridge, Cambridge, UK.",
+            "School of Natural Sciences and Psychology, Liverpool John Moores University, Liverpool, UK.",
+            "PAVE Research Group, Department of Archaeology, University of Cambridge, Cambridge, UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "PAVE Research Group, Department of Archaeology, University of Cambridge, Cambridge, UK.",
+              "institution_ids": [
+                "https://openalex.org/I4210161471"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Natural Sciences and Psychology, Liverpool John Moores University, Liverpool, UK.",
+              "institution_ids": [
+                "https://openalex.org/I63098007"
+              ]
+            },
             {
               "raw_affiliation_string": "PAVE Research Group, Department of Archaeology, University of Cambridge, Cambridge, UK",
               "institution_ids": [
                 "https://openalex.org/I241749"
-              ]
-            },
-            {
-              "raw_affiliation_string": "School of Natural Sciences and Psychology, Liverpool John Moores University, Liverpool, UK",
-              "institution_ids": [
-                "https://openalex.org/I63098007"
               ]
             }
           ]
@@ -1126,9 +1244,16 @@
           "is_corresponding": false,
           "raw_author_name": "Nicholas B. Stephens",
           "raw_affiliation_strings": [
+            "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany.",
             "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I4210118560"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Human Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany",
               "institution_ids": [
@@ -1164,23 +1289,41 @@
               "lineage": [
                 "https://openalex.org/I241749"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210161471",
+              "display_name": "Department of Archaeology",
+              "ror": "https://ror.org/05xcdy991",
+              "country_code": "LK",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210161471"
+              ]
             }
           ],
           "countries": [
             "CA",
-            "GB"
+            "GB",
+            "LK"
           ],
           "is_corresponding": false,
           "raw_author_name": "Jay T. Stock",
           "raw_affiliation_strings": [
-            "Department of Anthropology, University of Western Ontario, London, Ontario, Canada",
+            "Department of Anthropology, University of Western Ontario, London, Ontario, Canada.",
+            "PAVE Research Group, Department of Archaeology, University of Cambridge, Cambridge, UK.",
             "PAVE Research Group, Department of Archaeology, University of Cambridge, Cambridge, UK"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Anthropology, University of Western Ontario, London, Ontario, Canada",
+              "raw_affiliation_string": "Department of Anthropology, University of Western Ontario, London, Ontario, Canada.",
               "institution_ids": [
                 "https://openalex.org/I125749732"
+              ]
+            },
+            {
+              "raw_affiliation_string": "PAVE Research Group, Department of Archaeology, University of Cambridge, Cambridge, UK.",
+              "institution_ids": [
+                "https://openalex.org/I4210161471"
               ]
             },
             {
@@ -1200,16 +1343,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I31746571",
-              "display_name": "UNSW Sydney",
-              "ror": "https://ror.org/03r8z3t63",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I31746571"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210163172",
               "display_name": "Environmental Earth Sciences",
               "ror": "https://ror.org/04rnwed46",
@@ -1217,6 +1350,16 @@
               "type": "other",
               "lineage": [
                 "https://openalex.org/I4210163172"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I31746571",
+              "display_name": "UNSW Sydney",
+              "ror": "https://ror.org/03r8z3t63",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31746571"
               ]
             }
           ],
@@ -1226,9 +1369,16 @@
           "is_corresponding": false,
           "raw_author_name": "Mathew Stewart",
           "raw_affiliation_strings": [
+            "Palaeontology, Geobiology and Earth Archives Research Centre, School of Biological, Earth and Environmental Science, University of New South Wales, Sydney, New South Wales, Australia.",
             "Palaeontology, Geobiology and Earth Archives Research Centre, School of Biological, Earth and Environmental Science, University of New South Wales, Sydney, New South Wales, Australia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Palaeontology, Geobiology and Earth Archives Research Centre, School of Biological, Earth and Environmental Science, University of New South Wales, Sydney, New South Wales, Australia.",
+              "institution_ids": [
+                "https://openalex.org/I4210163172"
+              ]
+            },
             {
               "raw_affiliation_string": "Palaeontology, Geobiology and Earth Archives Research Centre, School of Biological, Earth and Environmental Science, University of New South Wales, Sydney, New South Wales, Australia",
               "institution_ids": [
@@ -1263,9 +1413,16 @@
           "is_corresponding": false,
           "raw_author_name": "Gilbert J. Price",
           "raw_affiliation_strings": [
+            "School of Earth and Environmental Sciences, The University of Queensland, St Lucia, Queensland, Australia.",
             "School of Earth and Environmental Sciences, The University of Queensland, St Lucia, Queensland, Australia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "School of Earth and Environmental Sciences, The University of Queensland, St Lucia, Queensland, Australia.",
+              "institution_ids": [
+                "https://openalex.org/I165143802"
+              ]
+            },
             {
               "raw_affiliation_string": "School of Earth and Environmental Sciences, The University of Queensland, St Lucia, Queensland, Australia",
               "institution_ids": [
@@ -1299,9 +1456,16 @@
           "is_corresponding": false,
           "raw_author_name": "Leslie Kinsley",
           "raw_affiliation_strings": [
+            "Research School of Earth Sciences, The Australian National University, Canberra, Australian Capital Territory, Australia.",
             "Research School of Earth Sciences, The Australian National University, Canberra, Australian Capital Territory, Australia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Research School of Earth Sciences, The Australian National University, Canberra, Australian Capital Territory, Australia.",
+              "institution_ids": [
+                "https://openalex.org/I118347636"
+              ]
+            },
             {
               "raw_affiliation_string": "Research School of Earth Sciences, The Australian National University, Canberra, Australian Capital Territory, Australia",
               "institution_ids": [
@@ -1335,9 +1499,16 @@
           "is_corresponding": false,
           "raw_author_name": "Wing Wai Sung",
           "raw_affiliation_strings": [
+            "Department of Life Sciences, Natural History Museum, London, UK.",
             "Department of Life Sciences, Natural History Museum, London, UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Life Sciences, Natural History Museum, London, UK.",
+              "institution_ids": [
+                "https://openalex.org/I1336856363"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Life Sciences, Natural History Museum, London, UK",
               "institution_ids": [
@@ -1371,9 +1542,16 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullah Alsharekh",
           "raw_affiliation_strings": [
+            "Department of Archaeology, King Saud University, Riyadh, Saudi Arabia.",
             "Department of Archaeology, King Saud University, Riyadh, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Archaeology, King Saud University, Riyadh, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I28022161"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Archaeology, King Saud University, Riyadh, Saudi Arabia",
               "institution_ids": [
@@ -1394,9 +1572,14 @@
           "is_corresponding": false,
           "raw_author_name": "Abdulaziz Al-Omari",
           "raw_affiliation_strings": [
+            "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia.",
             "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia.",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia",
               "institution_ids": []
@@ -1428,9 +1611,16 @@
           "is_corresponding": false,
           "raw_author_name": "Muhammad Zahir",
           "raw_affiliation_strings": [
+            "Department of Archaeology, Hazara University, Mansehra, Pakistan.",
             "Department of Archaeology, Hazara University, Mansehra, Pakistan"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Archaeology, Hazara University, Mansehra, Pakistan.",
+              "institution_ids": [
+                "https://openalex.org/I263208278"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Archaeology, Hazara University, Mansehra, Pakistan",
               "institution_ids": [
@@ -1448,6 +1638,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -1459,14 +1660,22 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Abdullah M. Memesh",
           "raw_affiliation_strings": [
+            "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia.",
             "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia",
               "institution_ids": [
@@ -1492,17 +1701,36 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Ammar J. Abdulshakoor",
           "raw_affiliation_strings": [
+            "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia.",
             "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia",
               "institution_ids": [
@@ -1520,6 +1748,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -1531,14 +1770,22 @@
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Abdu M. Al-Masari",
           "raw_affiliation_strings": [
+            "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia.",
             "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia",
               "institution_ids": [
@@ -1564,17 +1811,36 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
             }
           ],
           "countries": [
-            "SA"
+            "SA",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Ahmed A. Bahameem",
           "raw_affiliation_strings": [
+            "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia.",
             "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I1286329397"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Sedimentary Rocks and Palaeontology Department, Jeddah, Saudi Arabia",
               "institution_ids": [
@@ -1595,9 +1861,14 @@
           "is_corresponding": false,
           "raw_author_name": "Khaled M. S. Al Murayyi",
           "raw_affiliation_strings": [
+            "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia.",
             "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia.",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia",
               "institution_ids": []
@@ -1616,9 +1887,14 @@
           "is_corresponding": false,
           "raw_author_name": "Badr Zahrani",
           "raw_affiliation_strings": [
+            "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia.",
             "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia.",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "Saudi Commission for Tourism and National Heritage, Riyadh, Saudi Arabia",
               "institution_ids": []
@@ -1653,16 +1929,6 @@
                 "https://openalex.org/I149899117",
                 "https://openalex.org/I4210161060"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
             }
           ],
           "countries": [
@@ -1672,21 +1938,27 @@
           "is_corresponding": false,
           "raw_author_name": "Eleanor L. M. Scerri",
           "raw_affiliation_strings": [
-            "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany",
-            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK"
+            "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany.",
+            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK.",
+            "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany",
+              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany.",
               "institution_ids": [
                 "https://openalex.org/I4210161060"
               ]
             },
             {
-              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK",
+              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, University of Oxford, Oxford, UK.",
               "institution_ids": [
-                "https://openalex.org/I4210140987",
                 "https://openalex.org/I40120149"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany",
+              "institution_ids": [
+                "https://openalex.org/I4210161060"
               ]
             }
           ]
@@ -1699,6 +1971,16 @@
             "orcid": "https://orcid.org/0000-0003-2522-5727"
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I103187081",
+              "display_name": "Smithsonian Institution",
+              "ror": "https://ror.org/01pp8nd67",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I103187081"
+              ]
+            },
             {
               "id": "https://openalex.org/I1341618623",
               "display_name": "National Museum of Natural History",
@@ -1720,16 +2002,6 @@
                 "https://openalex.org/I149899117",
                 "https://openalex.org/I4210161060"
               ]
-            },
-            {
-              "id": "https://openalex.org/I103187081",
-              "display_name": "Smithsonian Institution",
-              "ror": "https://ror.org/01pp8nd67",
-              "country_code": "US",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I103187081"
-              ]
             }
           ],
           "countries": [
@@ -1739,14 +2011,21 @@
           "is_corresponding": true,
           "raw_author_name": "Michael D. Petraglia",
           "raw_affiliation_strings": [
-            "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany",
+            "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany. petraglia@shh.mpg.de.",
+            "Human Origins Program, National Museum of Natural History, Smithsonian Institution, Washington DC, USA. petraglia@shh.mpg.de.",
             "Human Origins Program, National Museum of Natural History, Smithsonian Institution, Washington DC, USA"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany",
+              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute for the Science of Human History, Jena, Germany. petraglia@shh.mpg.de.",
               "institution_ids": [
                 "https://openalex.org/I4210161060"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Human Origins Program, National Museum of Natural History, Smithsonian Institution, Washington DC, USA. petraglia@shh.mpg.de.",
+              "institution_ids": [
+                "https://openalex.org/I1341618623"
               ]
             },
             {
@@ -1760,15 +2039,15 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 9,
+      "countries_distinct_count": 10,
       "institutions_distinct_count": 30,
       "corresponding_author_ids": [
         "https://openalex.org/A5037966215"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I103187081",
         "https://openalex.org/I1341618623",
-        "https://openalex.org/I4210161060",
-        "https://openalex.org/I103187081"
+        "https://openalex.org/I4210161060"
       ],
       "apc_list": {
         "value": 9750,
@@ -1784,7 +2063,7 @@
       "has_fulltext": false,
       "cited_by_count": 180,
       "citation_normalized_percentile": {
-        "value": 0.99959787,
+        "value": 0.9995978,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2477,9 +2756,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2573,20 +2852,20 @@
         "https://openalex.org/W2024893758",
         "https://openalex.org/W782144311",
         "https://openalex.org/W1988076578",
+        "https://openalex.org/W1992669875",
+        "https://openalex.org/W1999290076",
+        "https://openalex.org/W1483488697",
         "https://openalex.org/W589370796",
         "https://openalex.org/W616537449",
-        "https://openalex.org/W2164185981",
-        "https://openalex.org/W1587627133",
-        "https://openalex.org/W2033113804",
-        "https://openalex.org/W1483488697",
-        "https://openalex.org/W1999290076",
-        "https://openalex.org/W1992669875",
-        "https://openalex.org/W2328278329",
-        "https://openalex.org/W1537128219",
-        "https://openalex.org/W2048777134",
         "https://openalex.org/W1536154287",
+        "https://openalex.org/W1631559605",
+        "https://openalex.org/W1587627133",
+        "https://openalex.org/W1537128219",
+        "https://openalex.org/W2164185981",
+        "https://openalex.org/W2048777134",
+        "https://openalex.org/W2033113804",
         "https://openalex.org/W3144864910",
-        "https://openalex.org/W1631559605"
+        "https://openalex.org/W2328278329"
       ],
       "related_works": [
         "https://openalex.org/W2022942531",
@@ -3244,7 +3523,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5934,9 +6213,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -8618,9 +8897,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5199999809265137
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9717,9 +9996,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10958,9 +11237,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5400000214576721
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12729,9 +13008,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.800000011920929
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -14985,9 +15264,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16553,9 +16832,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17030,9 +17309,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17860,16 +18139,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210134214",
               "display_name": "Beijing Research Institute of Uranium Geology",
               "ror": "https://ror.org/046qx3a23",
@@ -17877,6 +18146,16 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -17981,7 +18260,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -18004,16 +18283,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210134214",
               "display_name": "Beijing Research Institute of Uranium Geology",
               "ror": "https://ror.org/046qx3a23",
@@ -18022,13 +18291,23 @@
               "lineage": [
                 "https://openalex.org/I4210134214"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
             }
           ],
           "countries": [
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -18058,16 +18337,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -18075,6 +18344,16 @@
               "type": "company",
               "lineage": [
                 "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
               ]
             }
           ],
@@ -18236,7 +18515,7 @@
       "corresponding_author_ids": [
         "https://openalex.org/A5101699144",
         "https://openalex.org/A5109396102",
-        "https://openalex.org/A5044930714"
+        "https://openalex.org/A5030898494"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I4210134214",
@@ -18256,7 +18535,7 @@
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89282159,
+        "value": 0.89279392,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18637,9 +18916,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -18742,11 +19021,11 @@
         "https://openalex.org/W2050075372",
         "https://openalex.org/W2131050439",
         "https://openalex.org/W2283724060",
+        "https://openalex.org/W2102947943",
         "https://openalex.org/W2089841273",
         "https://openalex.org/W2208117800",
         "https://openalex.org/W2336738242",
-        "https://openalex.org/W2344338649",
-        "https://openalex.org/W2102947943"
+        "https://openalex.org/W2344338649"
       ],
       "related_works": [
         "https://openalex.org/W2943036979",
@@ -19211,7 +19490,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-01-11T23:08:45.486102",
+      "updated_date": "2026-01-13T12:54:05.518873",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19756,9 +20035,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -23420,9 +23699,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -25918,16 +26197,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I180923762",
-              "display_name": "University of Cologne",
-              "ror": "https://ror.org/00rcxh774",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I180923762"
-              ]
-            },
-            {
               "id": "https://openalex.org/I197854408",
               "display_name": "University of Malta",
               "ror": "https://ror.org/03a62bv60",
@@ -25935,6 +26204,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I197854408"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I180923762",
+              "display_name": "University of Cologne",
+              "ror": "https://ror.org/00rcxh774",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I180923762"
               ]
             }
           ],
@@ -25945,10 +26224,24 @@
           "is_corresponding": true,
           "raw_author_name": "Huw S. Groucutt",
           "raw_affiliation_strings": [
+            "Department of Classics and Archaeology, University of Malta, Msida, Malta.",
+            "Institute of Prehistoric Archaeology, University of Cologne, Cologne, Germany.",
             "Institute of Prehistoric Archaeology, University of Cologne, Cologne, Germany",
             "Department of Classics and Archaeology, University of Malta, Msida, Malta"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Classics and Archaeology, University of Malta, Msida, Malta.",
+              "institution_ids": [
+                "https://openalex.org/I197854408"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Prehistoric Archaeology, University of Cologne, Cologne, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I180923762"
+              ]
+            },
             {
               "raw_affiliation_string": "Institute of Prehistoric Archaeology, University of Cologne, Cologne, Germany",
               "institution_ids": [
@@ -25988,9 +26281,16 @@
           "is_corresponding": true,
           "raw_author_name": "Mathew Stewart",
           "raw_affiliation_strings": [
+            "Australian Research Centre for Human Evolution, Griffith University, Brisbane, Australia.",
             "Australian Research Centre for Human Evolution, Griffith University, Brisbane, Australia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Australian Research Centre for Human Evolution, Griffith University, Brisbane, Australia.",
+              "institution_ids": [
+                "https://openalex.org/I11701301"
+              ]
+            },
             {
               "raw_affiliation_string": "Australian Research Centre for Human Evolution, Griffith University, Brisbane, Australia",
               "institution_ids": [
@@ -26006,17 +26306,39 @@
             "display_name": "Faisal Al‐Jibreen",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1314849024",
+              "display_name": "Ministry of Culture",
+              "ror": "https://ror.org/028chwx32",
+              "country_code": "IN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1314849024"
+              ]
+            }
+          ],
+          "countries": [
+            "IN"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Faisal Al-Jibreen",
           "raw_affiliation_strings": [
+            "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia.",
             "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia"
           ],
           "affiliations": [
             {
+              "raw_affiliation_string": "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I1314849024"
+              ]
+            },
+            {
               "raw_affiliation_string": "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1314849024"
+              ]
             }
           ]
         },
@@ -26037,26 +26359,53 @@
               "lineage": [
                 "https://openalex.org/I170201317"
               ]
+            },
+            {
+              "id": "https://openalex.org/I1314849024",
+              "display_name": "Ministry of Culture",
+              "ror": "https://ror.org/028chwx32",
+              "country_code": "IN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1314849024"
+              ]
             }
           ],
           "countries": [
+            "IN",
             "US"
           ],
           "is_corresponding": true,
           "raw_author_name": "Mesfer Al-Qahtani",
           "raw_affiliation_strings": [
-            "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia",
-            "Department of Anthropology, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America"
+            "Department of Anthropology, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America.",
+            "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia.",
+            "Department of Anthropology, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
+            "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia",
-              "institution_ids": []
+              "raw_affiliation_string": "Department of Anthropology, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America.",
+              "institution_ids": [
+                "https://openalex.org/I170201317"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I1314849024"
+              ]
             },
             {
               "raw_affiliation_string": "Department of Anthropology, University of Pittsburgh, Pittsburgh, Pennsylvania, United States of America",
               "institution_ids": [
                 "https://openalex.org/I170201317"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Heritage commission, Ministry of Culture, Riyadh, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I1314849024"
               ]
             }
           ]
@@ -26086,9 +26435,16 @@
           "is_corresponding": true,
           "raw_author_name": "Mahmoud Al-Shanti",
           "raw_affiliation_strings": [
+            "Geotourism Department, Saudi Geological Survey, Jeddah, Saudi Arabia.",
             "Geotourism Department, Saudi Geological Survey, Jeddah, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Geotourism Department, Saudi Geological Survey, Jeddah, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Geotourism Department, Saudi Geological Survey, Jeddah, Saudi Arabia",
               "institution_ids": [
@@ -26122,9 +26478,16 @@
           "is_corresponding": true,
           "raw_author_name": "Eric Andrieux",
           "raw_affiliation_strings": [
+            "Department of Archaeology, Durham University, Durham, United Kingdom.",
             "Department of Archaeology, Durham University, Durham, United Kingdom"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Archaeology, Durham University, Durham, United Kingdom.",
+              "institution_ids": [
+                "https://openalex.org/I190082696"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Archaeology, Durham University, Durham, United Kingdom",
               "institution_ids": [
@@ -26141,6 +26504,16 @@
             "orcid": "https://orcid.org/0000-0002-9399-5515"
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I146655781",
+              "display_name": "University of Liverpool",
+              "ror": "https://ror.org/04xs57h96",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I146655781"
+              ]
+            },
             {
               "id": "https://openalex.org/I4210161060",
               "display_name": "Max Planck Institute for the Science of Human History",
@@ -26165,25 +26538,42 @@
             }
           ],
           "countries": [
-            "DE"
+            "DE",
+            "GB"
           ],
           "is_corresponding": true,
           "raw_author_name": "James Blinkhorn",
           "raw_affiliation_strings": [
-            "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany",
-            "Human Origins Research Group, Department of Archaeology, Classics, and Egyptology, University of Liverpool, Liverpool, United Kingdom"
+            "Human Origins Research Group, Department of Archaeology, Classics, and Egyptology, University of Liverpool, Liverpool, United Kingdom.",
+            "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany.",
+            "Human Origins Research Group, Department of Archaeology, Classics, and Egyptology, University of Liverpool, Liverpool, United Kingdom",
+            "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Human Origins Research Group, Department of Archaeology, Classics, and Egyptology, University of Liverpool, Liverpool, United Kingdom.",
+              "institution_ids": [
+                "https://openalex.org/I146655781"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I4210161060"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Human Origins Research Group, Department of Archaeology, Classics, and Egyptology, University of Liverpool, Liverpool, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I146655781"
+              ]
+            },
             {
               "raw_affiliation_string": "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany",
               "institution_ids": [
                 "https://openalex.org/I4210161060",
                 "https://openalex.org/I4387154167"
               ]
-            },
-            {
-              "raw_affiliation_string": "Human Origins Research Group, Department of Archaeology, Classics, and Egyptology, University of Liverpool, Liverpool, United Kingdom",
-              "institution_ids": []
             }
           ]
         },
@@ -26195,16 +26585,6 @@
             "orcid": "https://orcid.org/0000-0002-7783-4199"
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I11701301",
-              "display_name": "Griffith University",
-              "ror": "https://ror.org/02sc3r913",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I11701301"
-              ]
-            },
             {
               "id": "https://openalex.org/I165143802",
               "display_name": "University of Queensland",
@@ -26236,6 +26616,16 @@
                 "https://openalex.org/I149899117",
                 "https://openalex.org/I4210161060"
               ]
+            },
+            {
+              "id": "https://openalex.org/I11701301",
+              "display_name": "Griffith University",
+              "ror": "https://ror.org/02sc3r913",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I11701301"
+              ]
             }
           ],
           "countries": [
@@ -26245,15 +26635,31 @@
           "is_corresponding": true,
           "raw_author_name": "Nicole Boivin",
           "raw_affiliation_strings": [
-            "School of Environment and Science, Griffith University, Brisbane, Australia",
+            "Department of Archaeology, Max Planck Institute of Geoanthropology, Jena, Germany.",
+            "School of Environment and Science, Griffith University, Brisbane, Australia.",
+            "School of Social Science, The University of Queensland, Brisbane, Australia.",
             "Department of Archaeology, Max Planck Institute of Geoanthropology, Jena, Germany",
-            "School of Social Science, The University of Queensland, Brisbane, Australia"
+            "School of Social Science, The University of Queensland, Brisbane, Australia",
+            "School of Environment and Science, Griffith University, Brisbane, Australia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "School of Environment and Science, Griffith University, Brisbane, Australia",
+              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute of Geoanthropology, Jena, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I4210161060",
+                "https://openalex.org/I4387154167"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Environment and Science, Griffith University, Brisbane, Australia.",
               "institution_ids": [
                 "https://openalex.org/I11701301"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Social Science, The University of Queensland, Brisbane, Australia.",
+              "institution_ids": [
+                "https://openalex.org/I165143802"
               ]
             },
             {
@@ -26267,6 +26673,12 @@
               "raw_affiliation_string": "School of Social Science, The University of Queensland, Brisbane, Australia",
               "institution_ids": [
                 "https://openalex.org/I165143802"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Environment and Science, Griffith University, Brisbane, Australia",
+              "institution_ids": [
+                "https://openalex.org/I11701301"
               ]
             }
           ]
@@ -26297,9 +26709,16 @@
           "is_corresponding": true,
           "raw_author_name": "Paul S. Breeze",
           "raw_affiliation_strings": [
+            "Department of Geography, King's College London, London, United Kingdom.",
             "Department of Geography, King's College London, London, United Kingdom"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geography, King's College London, London, United Kingdom.",
+              "institution_ids": [
+                "https://openalex.org/I183935753"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geography, King's College London, London, United Kingdom",
               "institution_ids": [
@@ -26334,9 +26753,16 @@
           "is_corresponding": true,
           "raw_author_name": "Nick Drake",
           "raw_affiliation_strings": [
+            "Department of Geography, King's College London, London, United Kingdom.",
             "Department of Geography, King's College London, London, United Kingdom"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geography, King's College London, London, United Kingdom.",
+              "institution_ids": [
+                "https://openalex.org/I183935753"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geography, King's College London, London, United Kingdom",
               "institution_ids": [
@@ -26352,17 +26778,53 @@
             "display_name": "Abdullah Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I2799486974",
+              "display_name": "China Geological Survey",
+              "ror": "https://ror.org/04wtq2305",
+              "country_code": "CN",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I2799486974"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "US"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Abdullah Memesh",
           "raw_affiliation_strings": [
+            "Survey and Exploration Centre, Geological Programs, Saudi Geological Survey, Jeddah, Saudi Arabia.",
             "Survey and Exploration Centre, Geological Programs, Saudi Geological Survey, Jeddah, Saudi Arabia"
           ],
           "affiliations": [
             {
+              "raw_affiliation_string": "Survey and Exploration Centre, Geological Programs, Saudi Geological Survey, Jeddah, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I2799486974"
+              ]
+            },
+            {
               "raw_affiliation_string": "Survey and Exploration Centre, Geological Programs, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I2799486974"
+              ]
             }
           ]
         },
@@ -26391,9 +26853,16 @@
           "is_corresponding": true,
           "raw_author_name": "Yahya Mufarreh",
           "raw_affiliation_strings": [
+            "Geotourism Department, Saudi Geological Survey, Jeddah, Saudi Arabia.",
             "Geotourism Department, Saudi Geological Survey, Jeddah, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Geotourism Department, Saudi Geological Survey, Jeddah, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Geotourism Department, Saudi Geological Survey, Jeddah, Saudi Arabia",
               "institution_ids": [
@@ -26411,6 +26880,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210131448",
+              "display_name": "Queensland Department of Environment and Science",
+              "ror": "https://ror.org/02wtcj248",
+              "country_code": "AU",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I2801244131",
+                "https://openalex.org/I4210131448"
+              ]
+            },
+            {
               "id": "https://openalex.org/I165143802",
               "display_name": "University of Queensland",
               "ror": "https://ror.org/00rqy9422",
@@ -26427,9 +26907,17 @@
           "is_corresponding": true,
           "raw_author_name": "Gilbert Price",
           "raw_affiliation_strings": [
+            "School of The Environment, The University of Queensland, Brisbane, Australia.",
             "School of The Environment, The University of Queensland, Brisbane, Australia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "School of The Environment, The University of Queensland, Brisbane, Australia.",
+              "institution_ids": [
+                "https://openalex.org/I4210131448",
+                "https://openalex.org/I165143802"
+              ]
+            },
             {
               "raw_affiliation_string": "School of The Environment, The University of Queensland, Brisbane, Australia",
               "institution_ids": [
@@ -26447,13 +26935,14 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I180923762",
-              "display_name": "University of Cologne",
-              "ror": "https://ror.org/00rcxh774",
-              "country_code": "DE",
-              "type": "education",
+              "id": "https://openalex.org/I4387154167",
+              "display_name": "Max Planck Institute of Geoanthropology",
+              "ror": "https://ror.org/00js75b59",
+              "country_code": null,
+              "type": "facility",
               "lineage": [
-                "https://openalex.org/I180923762"
+                "https://openalex.org/I149899117",
+                "https://openalex.org/I4387154167"
               ]
             },
             {
@@ -26467,14 +26956,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4387154167",
-              "display_name": "Max Planck Institute of Geoanthropology",
-              "ror": "https://ror.org/00js75b59",
-              "country_code": null,
-              "type": "facility",
+              "id": "https://openalex.org/I180923762",
+              "display_name": "University of Cologne",
+              "ror": "https://ror.org/00rcxh774",
+              "country_code": "DE",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I149899117",
-                "https://openalex.org/I4387154167"
+                "https://openalex.org/I180923762"
               ]
             },
             {
@@ -26496,16 +26984,36 @@
           "is_corresponding": true,
           "raw_author_name": "Eleanor M. L. Scerri",
           "raw_affiliation_strings": [
-            "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany",
+            "Department of Classics and Archaeology, University of Malta, Msida, Malta.",
+            "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany.",
+            "Institute of Prehistoric Archaeology, University of Cologne, Cologne, Germany.",
+            "Department of Classics and Archaeology, University of Malta, Msida, Malta",
             "Institute of Prehistoric Archaeology, University of Cologne, Cologne, Germany",
-            "Department of Classics and Archaeology, University of Malta, Msida, Malta"
+            "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany",
+              "raw_affiliation_string": "Department of Classics and Archaeology, University of Malta, Msida, Malta.",
               "institution_ids": [
-                "https://openalex.org/I4210161060",
-                "https://openalex.org/I4387154167"
+                "https://openalex.org/I197854408"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I4210161060"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Prehistoric Archaeology, University of Cologne, Cologne, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I180923762"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Classics and Archaeology, University of Malta, Msida, Malta",
+              "institution_ids": [
+                "https://openalex.org/I197854408"
               ]
             },
             {
@@ -26515,9 +27023,10 @@
               ]
             },
             {
-              "raw_affiliation_string": "Department of Classics and Archaeology, University of Malta, Msida, Malta",
+              "raw_affiliation_string": "Human Palaeosystems Group, Max Planck Institute of Geoanthropology, Jena, Germany",
               "institution_ids": [
-                "https://openalex.org/I197854408"
+                "https://openalex.org/I4210161060",
+                "https://openalex.org/I4387154167"
               ]
             }
           ]
@@ -26569,10 +27078,25 @@
           "is_corresponding": true,
           "raw_author_name": "Nils Vanwezer",
           "raw_affiliation_strings": [
+            "Department of Archaeology, Max Planck Institute of Geoanthropology, Jena, Germany.",
+            "State Office for Heritage Management and Archaeology, Saxony-Anhalt, Germany.",
             "Department of Archaeology, Max Planck Institute of Geoanthropology, Jena, Germany",
             "State Office for Heritage Management and Archaeology, Saxony-Anhalt, Germany"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Archaeology, Max Planck Institute of Geoanthropology, Jena, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I4210161060",
+                "https://openalex.org/I4387154167"
+              ]
+            },
+            {
+              "raw_affiliation_string": "State Office for Heritage Management and Archaeology, Saxony-Anhalt, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I4210119132"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Archaeology, Max Planck Institute of Geoanthropology, Jena, Germany",
               "institution_ids": [
@@ -26614,9 +27138,16 @@
           "is_corresponding": true,
           "raw_author_name": "Hubert Vonhof",
           "raw_affiliation_strings": [
+            "Department of Climate Geochemistry, Max Planck Institute for Chemistry, Mainz, Germany.",
             "Department of Climate Geochemistry, Max Planck Institute for Chemistry, Mainz, Germany"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Climate Geochemistry, Max Planck Institute for Chemistry, Mainz, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I4210113422"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Climate Geochemistry, Max Planck Institute for Chemistry, Mainz, Germany",
               "institution_ids": [
@@ -26632,17 +27163,53 @@
             "display_name": "Iyad S. Zalmout",
             "orcid": "https://orcid.org/0000-0003-1874-801X"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2799486974",
+              "display_name": "China Geological Survey",
+              "ror": "https://ror.org/04wtq2305",
+              "country_code": "CN",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I2799486974"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1286329397",
+              "display_name": "United States Geological Survey",
+              "ror": "https://ror.org/035a68863",
+              "country_code": "US",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I1335927249"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "US"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Iyad Zalmout",
           "raw_affiliation_strings": [
+            "Survey and Exploration Centre, Geological Programs, Saudi Geological Survey, Jeddah, Saudi Arabia.",
             "Survey and Exploration Centre, Geological Programs, Saudi Geological Survey, Jeddah, Saudi Arabia"
           ],
           "affiliations": [
             {
+              "raw_affiliation_string": "Survey and Exploration Centre, Geological Programs, Saudi Geological Survey, Jeddah, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I2799486974"
+              ]
+            },
+            {
               "raw_affiliation_string": "Survey and Exploration Centre, Geological Programs, Saudi Geological Survey, Jeddah, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1286329397",
+                "https://openalex.org/I2799486974"
+              ]
             }
           ]
         },
@@ -26671,9 +27238,16 @@
           "is_corresponding": true,
           "raw_author_name": "Abdullah M. Alsharekh",
           "raw_affiliation_strings": [
+            "Department of Archaeology, College of Tourism and Archaeology, King Saud University, Riyadh, Saudi Arabia.",
             "Department of Archaeology, College of Tourism and Archaeology, King Saud University, Riyadh, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Archaeology, College of Tourism and Archaeology, King Saud University, Riyadh, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I28022161"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Archaeology, College of Tourism and Archaeology, King Saud University, Riyadh, Saudi Arabia",
               "institution_ids": [
@@ -26729,13 +27303,15 @@
           "is_corresponding": true,
           "raw_author_name": "Michael D. Petraglia",
           "raw_affiliation_strings": [
-            "Australian Research Centre for Human Evolution, Griffith University, Brisbane, Australia",
+            "Australian Research Centre for Human Evolution, Griffith University, Brisbane, Australia.",
             "Human Origins Program, National Museum of Natural History, Smithsonian Institution, Washington, DC, United States of America.",
+            "School of Social Science, The University of Queensland, Brisbane, Australia.",
+            "Australian Research Centre for Human Evolution, Griffith University, Brisbane, Australia",
             "School of Social Science, The University of Queensland, Brisbane, Australia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Australian Research Centre for Human Evolution, Griffith University, Brisbane, Australia",
+              "raw_affiliation_string": "Australian Research Centre for Human Evolution, Griffith University, Brisbane, Australia.",
               "institution_ids": [
                 "https://openalex.org/I11701301"
               ]
@@ -26744,6 +27320,18 @@
               "raw_affiliation_string": "Human Origins Program, National Museum of Natural History, Smithsonian Institution, Washington, DC, United States of America.",
               "institution_ids": [
                 "https://openalex.org/I1341618623"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Social Science, The University of Queensland, Brisbane, Australia.",
+              "institution_ids": [
+                "https://openalex.org/I165143802"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Australian Research Centre for Human Evolution, Griffith University, Brisbane, Australia",
+              "institution_ids": [
+                "https://openalex.org/I11701301"
               ]
             },
             {
@@ -26756,7 +27344,7 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 6,
+      "countries_distinct_count": 8,
       "institutions_distinct_count": 19,
       "corresponding_author_ids": [
         "https://openalex.org/A5087955542",
@@ -26780,16 +27368,21 @@
         "https://openalex.org/A5037966215"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I180923762",
         "https://openalex.org/I197854408",
+        "https://openalex.org/I180923762",
         "https://openalex.org/I11701301",
+        "https://openalex.org/I1314849024",
         "https://openalex.org/I170201317",
         "https://openalex.org/I4210143841",
         "https://openalex.org/I190082696",
+        "https://openalex.org/I146655781",
         "https://openalex.org/I4210161060",
         "https://openalex.org/I4387154167",
         "https://openalex.org/I165143802",
         "https://openalex.org/I183935753",
+        "https://openalex.org/I1286329397",
+        "https://openalex.org/I2799486974",
+        "https://openalex.org/I4210131448",
         "https://openalex.org/I4210119132",
         "https://openalex.org/I4210113422",
         "https://openalex.org/I28022161",
@@ -27644,7 +28237,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-28T13:57:08.472653",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-11-20T00:00:00"
     },
     {
@@ -27713,7 +28306,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
-          "raw_author_name": "Survey and Exploration Center",
+          "raw_author_name": "MOHAMMED FADANI",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -27727,7 +28320,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "MOHAMMED FADANI",
+          "raw_author_name": "MOHAMMED NAJJAR",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -27741,7 +28334,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "MOHAMMED NAJJAR",
+          "raw_author_name": "ABDOU ALMASSARI",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -27755,7 +28348,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "ABDOU ALMASSARI",
+          "raw_author_name": "AHMED BAHAMEEM",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -27769,7 +28362,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "AHMED BAHAMEEM",
+          "raw_author_name": "MOHAMMED HAPTARI",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -27783,20 +28376,6 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "MOHAMMED HAPTARI",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5067218163",
-            "display_name": "Iyad S. Zalmout",
-            "orcid": "https://orcid.org/0000-0003-1874-801X"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
           "raw_author_name": "ABDULLAH MEMESH",
           "raw_affiliation_strings": [],
           "affiliations": []
@@ -27804,9 +28383,9 @@
         {
           "author_position": "last",
           "author": {
-            "id": null,
-            "display_name": "Iyad Zalmout",
-            "orcid": null
+            "id": "https://openalex.org/A5067218163",
+            "display_name": "Iyad S. Zalmout",
+            "orcid": "https://orcid.org/0000-0003-1874-801X"
           },
           "institutions": [],
           "countries": [],
@@ -27818,7 +28397,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 8,
+      "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5120763492"
       ],
@@ -27893,7 +28472,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-12-11T23:13:37.075516",
+      "updated_date": "2026-01-13T00:00:00",
       "created_date": "2025-12-11T00:00:00"
     }
   ]

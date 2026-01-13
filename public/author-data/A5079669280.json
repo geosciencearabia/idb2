@@ -372,7 +372,7 @@
       "publication_date": "2021-02-15",
       "ids": {
         "openalex": "https://openalex.org/W3132684617",
-        "doi": "https://doi.org/10.57945/manara.21598200.v1",
+        "doi": "https://doi.org/10.1038/s41598-021-83260-7",
         "mag": "3132684617",
         "pmid": "https://pubmed.ncbi.nlm.nih.gov/33589675"
       },
@@ -451,12 +451,12 @@
           "is_corresponding": true,
           "raw_author_name": "Sankaran Rajendran",
           "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar. srajendran@qu.edu.qa.",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar. srajendran@qu.edu.qa.",
               "institution_ids": [
                 "https://openalex.org/I60342839"
               ]
@@ -537,9 +537,16 @@
           "is_corresponding": false,
           "raw_author_name": "Hamad Al-Saad Al-Kuwari",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
               "institution_ids": [
@@ -661,12 +668,12 @@
           "is_corresponding": false,
           "raw_author_name": "Sobhi Nasir",
           "raw_affiliation_strings": [
-            "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman.",
+            "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123, Muscat, Oman.",
             "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123, Muscat, Oman"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman.",
+              "raw_affiliation_string": "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123, Muscat, Oman.",
               "institution_ids": [
                 "https://openalex.org/I47818738"
               ]
@@ -746,7 +753,7 @@
       "has_fulltext": true,
       "cited_by_count": 75,
       "citation_normalized_percentile": {
-        "value": 0.93029948,
+        "value": 0.93028709,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1203,9 +1210,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.44999998807907104,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.44999998807907104
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -1230,8 +1237,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 82,
       "referenced_works": [
@@ -1306,17 +1313,17 @@
         "https://openalex.org/W2054796881",
         "https://openalex.org/W2334587834",
         "https://openalex.org/W2885243874",
+        "https://openalex.org/W2606803469",
+        "https://openalex.org/W2559060710",
+        "https://openalex.org/W2567629124",
         "https://openalex.org/W1518917059",
         "https://openalex.org/W1504795531",
-        "https://openalex.org/W3004972526",
-        "https://openalex.org/W2381243594",
-        "https://openalex.org/W2606803469",
-        "https://openalex.org/W2388374450",
-        "https://openalex.org/W2567629124",
-        "https://openalex.org/W2417337824",
-        "https://openalex.org/W2559060710",
         "https://openalex.org/W1461657365",
-        "https://openalex.org/W2945878709"
+        "https://openalex.org/W2945878709",
+        "https://openalex.org/W2381243594",
+        "https://openalex.org/W2388374450",
+        "https://openalex.org/W2417337824",
+        "https://openalex.org/W3004972526"
       ],
       "related_works": [
         "https://openalex.org/W2899084033",
@@ -1353,7 +1360,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1441,9 +1448,16 @@
           "is_corresponding": true,
           "raw_author_name": "Sankaran Rajendran",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa.",
             "Environmental Science Center, Qatar University, 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar",
               "institution_ids": [
@@ -1477,9 +1491,16 @@
           "is_corresponding": false,
           "raw_author_name": "Ponnumony Vethamony",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar",
               "institution_ids": [
@@ -1513,9 +1534,16 @@
           "is_corresponding": false,
           "raw_author_name": "Fadhil N. Sadooni",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar",
               "institution_ids": [
@@ -1549,9 +1577,16 @@
           "is_corresponding": false,
           "raw_author_name": "Hamad Al-Saad Al-Kuwari",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar",
               "institution_ids": [
@@ -1585,9 +1620,16 @@
           "is_corresponding": false,
           "raw_author_name": "Jassim A. Al-Khayat",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, 2713, Doha, Qatar",
               "institution_ids": [
@@ -1621,9 +1663,16 @@
           "is_corresponding": false,
           "raw_author_name": "Vashist O. Seegobin",
           "raw_affiliation_strings": [
+            "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius.",
             "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius.",
+              "institution_ids": [
+                "https://openalex.org/I69072986"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius",
               "institution_ids": [
@@ -1657,9 +1706,16 @@
           "is_corresponding": false,
           "raw_author_name": "Himanshu Govil",
           "raw_affiliation_strings": [
+            "Department of Applied Geology, National Institute of Technology, Raipur, India.",
             "Department of Applied Geology, National Institute of Technology, Raipur, India"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Applied Geology, National Institute of Technology, Raipur, India.",
+              "institution_ids": [
+                "https://openalex.org/I38335241"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Applied Geology, National Institute of Technology, Raipur, India",
               "institution_ids": [
@@ -1693,9 +1749,16 @@
           "is_corresponding": false,
           "raw_author_name": "Sobhi Nasir",
           "raw_affiliation_strings": [
+            "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123, Muscat, Oman.",
             "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123, Muscat, Oman"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123, Muscat, Oman.",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            },
             {
               "raw_affiliation_string": "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123, Muscat, Oman",
               "institution_ids": [
@@ -1724,7 +1787,7 @@
       "has_fulltext": false,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.90276742,
+        "value": 0.90275014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2143,9 +2206,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7099999785423279,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7099999785423279
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -2170,8 +2233,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 70,
       "referenced_works": [
@@ -2231,19 +2294,19 @@
         "https://openalex.org/W3089410335",
         "https://openalex.org/W3043321134",
         "https://openalex.org/W2587991374",
-        "https://openalex.org/W2948166037",
-        "https://openalex.org/W2344620079",
-        "https://openalex.org/W2894065050",
-        "https://openalex.org/W2417337824",
         "https://openalex.org/W2973773508",
-        "https://openalex.org/W3132684617",
-        "https://openalex.org/W1965530293",
-        "https://openalex.org/W3092367177",
+        "https://openalex.org/W2948166037",
+        "https://openalex.org/W2894065050",
         "https://openalex.org/W1481720155",
-        "https://openalex.org/W3028602241",
-        "https://openalex.org/W2575947013",
         "https://openalex.org/W2801087535",
+        "https://openalex.org/W1965530293",
+        "https://openalex.org/W2344620079",
+        "https://openalex.org/W2417337824",
+        "https://openalex.org/W3132684617",
+        "https://openalex.org/W3092367177",
+        "https://openalex.org/W3028602241",
         "https://openalex.org/W2606803469",
+        "https://openalex.org/W2575947013",
         "https://openalex.org/W2784143888"
       ],
       "related_works": [
@@ -2285,7 +2348,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2807,8 +2870,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 54,
       "referenced_works": [
@@ -2993,9 +3056,16 @@
           "is_corresponding": true,
           "raw_author_name": "Rajendran Sankaran",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa.",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
               "institution_ids": [
@@ -3029,9 +3099,16 @@
           "is_corresponding": false,
           "raw_author_name": "Jassim A. Al-Khayat",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
               "institution_ids": [
@@ -3065,9 +3142,16 @@
           "is_corresponding": false,
           "raw_author_name": "Aravinth J",
           "raw_affiliation_strings": [
+            "Department of Electronics and Communication Engineering, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India.",
             "Department of Electronics and Communication Engineering, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Electronics and Communication Engineering, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India.",
+              "institution_ids": [
+                "https://openalex.org/I81556334"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Electronics and Communication Engineering, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India",
               "institution_ids": [
@@ -3101,9 +3185,16 @@
           "is_corresponding": false,
           "raw_author_name": "Mark Edward Chatting",
           "raw_affiliation_strings": [
+            "School of Civil Engineering University College Dublin, Ireland.",
             "School of Civil Engineering University College Dublin, Ireland"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "School of Civil Engineering University College Dublin, Ireland.",
+              "institution_ids": [
+                "https://openalex.org/I100930933"
+              ]
+            },
             {
               "raw_affiliation_string": "School of Civil Engineering University College Dublin, Ireland",
               "institution_ids": [
@@ -3137,9 +3228,16 @@
           "is_corresponding": false,
           "raw_author_name": "Fadhil N. Sadooni",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
               "institution_ids": [
@@ -3173,9 +3271,16 @@
           "is_corresponding": false,
           "raw_author_name": "Hamad Al-Saad Al-Kuwari",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
               "institution_ids": [
@@ -3204,11 +3309,11 @@
         "currency": "USD",
         "value_usd": 3870
       },
-      "fwci": 4.87216819,
+      "fwci": 5.0751752,
       "has_fulltext": true,
-      "cited_by_count": 24,
+      "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.95071303,
+        "value": 0.95385707,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3558,9 +3663,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -3585,8 +3690,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 119,
       "referenced_works": [
@@ -3705,10 +3810,10 @@
         "https://openalex.org/W3195211740",
         "https://openalex.org/W4225291170",
         "https://openalex.org/W4295204219",
-        "https://openalex.org/W4297143848",
         "https://openalex.org/W2295624237",
-        "https://openalex.org/W3208261418",
-        "https://openalex.org/W2034085189"
+        "https://openalex.org/W2034085189",
+        "https://openalex.org/W4297143848",
+        "https://openalex.org/W3208261418"
       ],
       "related_works": [
         "https://openalex.org/W2249491925",
@@ -4344,6 +4449,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 14
         },
@@ -4352,7 +4461,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4432,7 +4541,7 @@
             "US"
           ],
           "is_corresponding": true,
-          "raw_author_name": "University of Houston",
+          "raw_author_name": "Erica Esatyana",
           "raw_affiliation_strings": [
             "University of Houston"
           ],
@@ -4468,7 +4577,7 @@
             "US"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Erica Esatyana",
+          "raw_author_name": "A. Sakhaee-Pour",
           "raw_affiliation_strings": [
             "University of Houston"
           ],
@@ -4504,7 +4613,7 @@
             "QA"
           ],
           "is_corresponding": false,
-          "raw_author_name": "A. Sakhaee-Pour",
+          "raw_author_name": "Fadhil N. Sadooni",
           "raw_affiliation_strings": [
             "Qatar University"
           ],
@@ -4518,7 +4627,7 @@
           ]
         },
         {
-          "author_position": "middle",
+          "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
@@ -4540,7 +4649,7 @@
             "QA"
           ],
           "is_corresponding": false,
-          "raw_author_name": "University of Houston",
+          "raw_author_name": "Hamad Al-Saad Al-Kuwari",
           "raw_affiliation_strings": [
             "Qatar University"
           ],
@@ -4552,67 +4661,11 @@
               ]
             }
           ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Fadhil N. Sadooni",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Fadhil N. Sadooni",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "University of Houston",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "University of Houston",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Hamad Al-Saad Al-Kuwari",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": null,
-            "display_name": "Qatar University",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Qatar University",
-          "raw_affiliation_strings": [],
-          "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 8,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5017622517"
       ],
@@ -4625,7 +4678,7 @@
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.73681658,
+        "value": 0.73669052,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4887,8 +4940,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -4931,7 +4984,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T00:00:00",
       "created_date": "2020-10-01T00:00:00"
     },
     {
@@ -5463,9 +5516,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -5490,8 +5543,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 41,
       "referenced_works": [
@@ -6311,8 +6364,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 62,
       "referenced_works": [
@@ -7198,9 +7251,16 @@
           "is_corresponding": true,
           "raw_author_name": "Sankaran Rajendran",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa.",
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar",
               "institution_ids": [
@@ -7234,9 +7294,16 @@
           "is_corresponding": false,
           "raw_author_name": "V.M. Aboobacker",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar",
               "institution_ids": [
@@ -7270,9 +7337,16 @@
           "is_corresponding": false,
           "raw_author_name": "Vashist O. Seegobin",
           "raw_affiliation_strings": [
+            "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius.",
             "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius.",
+              "institution_ids": [
+                "https://openalex.org/I69072986"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Biosciences and Ocean Studies, University of Mauritius, Le Réduit, Mauritius",
               "institution_ids": [
@@ -7306,9 +7380,16 @@
           "is_corresponding": false,
           "raw_author_name": "Jassim A. Al Khayat",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar",
               "institution_ids": [
@@ -7342,9 +7423,16 @@
           "is_corresponding": false,
           "raw_author_name": "Nelson Rangel-Buitrago",
           "raw_affiliation_strings": [
+            "Programas de Física - Biología, Facultad de Ciencias Básicas, Universidad del Atlántico, Barranquilla, Colombia.",
             "Programas de Física - Biología, Facultad de Ciencias Básicas, Universidad del Atlántico, Barranquilla, Colombia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Programas de Física - Biología, Facultad de Ciencias Básicas, Universidad del Atlántico, Barranquilla, Colombia.",
+              "institution_ids": [
+                "https://openalex.org/I274899335"
+              ]
+            },
             {
               "raw_affiliation_string": "Programas de Física - Biología, Facultad de Ciencias Básicas, Universidad del Atlántico, Barranquilla, Colombia",
               "institution_ids": [
@@ -7378,9 +7466,16 @@
           "is_corresponding": false,
           "raw_author_name": "Hamad Al-Saad Al-Kuwari",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar",
               "institution_ids": [
@@ -7414,9 +7509,16 @@
           "is_corresponding": false,
           "raw_author_name": "Fadhil N. Sadooni",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar",
               "institution_ids": [
@@ -7450,9 +7552,16 @@
           "is_corresponding": false,
           "raw_author_name": "Ponnumony Vethamony",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.B. No. 2713, Doha, Qatar",
               "institution_ids": [
@@ -7481,7 +7590,7 @@
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.861398,
+        "value": 0.86140697,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7898,9 +8007,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -7920,8 +8029,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 109,
       "referenced_works": [
@@ -8024,16 +8133,16 @@
         "https://openalex.org/W3083960520",
         "https://openalex.org/W2762872589",
         "https://openalex.org/W2496575319",
-        "https://openalex.org/W138614076",
-        "https://openalex.org/W4236586261",
-        "https://openalex.org/W2894065050",
         "https://openalex.org/W2915505445",
-        "https://openalex.org/W1965530293",
-        "https://openalex.org/W106869032",
-        "https://openalex.org/W2626066084",
+        "https://openalex.org/W2894065050",
         "https://openalex.org/W3145666038",
+        "https://openalex.org/W2626066084",
         "https://openalex.org/W2613186856",
-        "https://openalex.org/W3005150339"
+        "https://openalex.org/W1965530293",
+        "https://openalex.org/W4236586261",
+        "https://openalex.org/W3005150339",
+        "https://openalex.org/W138614076",
+        "https://openalex.org/W106869032"
       ],
       "related_works": [
         "https://openalex.org/W2383111961",
@@ -8066,7 +8175,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8154,9 +8263,16 @@
           "is_corresponding": true,
           "raw_author_name": "Sankaran Rajendran",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
               "institution_ids": [
@@ -8190,9 +8306,16 @@
           "is_corresponding": false,
           "raw_author_name": "Ponnumony Vethamony",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
               "institution_ids": [
@@ -8226,9 +8349,16 @@
           "is_corresponding": false,
           "raw_author_name": "Fadhil N. Sadooni",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
               "institution_ids": [
@@ -8262,9 +8392,16 @@
           "is_corresponding": false,
           "raw_author_name": "Hamad Al-Saad Al-Kuwari",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
               "institution_ids": [
@@ -8298,9 +8435,16 @@
           "is_corresponding": false,
           "raw_author_name": "Jassim A. Al-Khayat",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box: 2713, Doha, Qatar",
               "institution_ids": [
@@ -8334,9 +8478,16 @@
           "is_corresponding": false,
           "raw_author_name": "Himanshu Govil",
           "raw_affiliation_strings": [
+            "Department of Applied Geology, National Institute of Technology, Raipur, India.",
             "Department of Applied Geology, National Institute of Technology, Raipur, India"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Applied Geology, National Institute of Technology, Raipur, India.",
+              "institution_ids": [
+                "https://openalex.org/I38335241"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Applied Geology, National Institute of Technology, Raipur, India",
               "institution_ids": [
@@ -8370,9 +8521,16 @@
           "is_corresponding": false,
           "raw_author_name": "Sobhi Nasir",
           "raw_affiliation_strings": [
+            "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman.",
             "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman.",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            },
             {
               "raw_affiliation_string": "UNESCO Chair for Ophiolite Studies, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
               "institution_ids": [
@@ -8405,7 +8563,7 @@
       "has_fulltext": true,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.77935273,
+        "value": 0.77931353,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8889,8 +9047,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -8921,10 +9079,10 @@
         "https://openalex.org/W6716528914",
         "https://openalex.org/W4236030968",
         "https://openalex.org/W3129040100",
+        "https://openalex.org/W2904334862",
         "https://openalex.org/W1504800374",
         "https://openalex.org/W2791736937",
-        "https://openalex.org/W2650017659",
-        "https://openalex.org/W2904334862"
+        "https://openalex.org/W2650017659"
       ],
       "related_works": [
         "https://openalex.org/W1604939135",
@@ -8961,7 +9119,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9535,8 +9693,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 41,
       "referenced_works": [
@@ -9704,9 +9862,16 @@
           "is_corresponding": false,
           "raw_author_name": "Zulfa Ali Al Disi",
           "raw_affiliation_strings": [
+            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar.",
             "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
               "institution_ids": [
@@ -9740,9 +9905,16 @@
           "is_corresponding": false,
           "raw_author_name": "Fadhil Sadooni",
           "raw_affiliation_strings": [
+            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar.",
             "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
               "institution_ids": [
@@ -9776,9 +9948,16 @@
           "is_corresponding": false,
           "raw_author_name": "Hamad Al-Saad Al-Kuwari",
           "raw_affiliation_strings": [
+            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar.",
             "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
               "institution_ids": [
@@ -9823,16 +10002,21 @@
           "is_corresponding": true,
           "raw_author_name": "Tomaso R.R. Bontognali",
           "raw_affiliation_strings": [
-            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
+            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar; Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland; Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland. Electronic address: tomaso.bontognali@space-x.ch.",
+            "Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland",
             "Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland",
-            "Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland"
+            "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar; Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland; Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland. Electronic address: tomaso.bontognali@space-x.ch.",
               "institution_ids": [
-                "https://openalex.org/I60342839"
+                "https://openalex.org/I1850255"
               ]
+            },
+            {
+              "raw_affiliation_string": "Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland",
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Physical Geography and Environmental Change Research Group, University of Basel, Klingelbergstrasse 27, 4056 Basel, Switzerland",
@@ -9841,8 +10025,10 @@
               ]
             },
             {
-              "raw_affiliation_string": "Space Exploration Institute, 68 Faubourg de l'Hopital, 2000, Neuchatel, Switzerland",
-              "institution_ids": []
+              "raw_affiliation_string": "Environmental Science Centre, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
             }
           ]
         }
@@ -9871,7 +10057,7 @@
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.79686486,
+        "value": 0.79609956,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10293,9 +10479,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8299999833106995,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -10320,8 +10506,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -10352,11 +10538,11 @@
         "https://openalex.org/W6680262711",
         "https://openalex.org/W4210851622",
         "https://openalex.org/W3173582197",
-        "https://openalex.org/W103394979",
+        "https://openalex.org/W3186584782",
+        "https://openalex.org/W3175154366",
         "https://openalex.org/W4283815056",
         "https://openalex.org/W2132638924",
-        "https://openalex.org/W3186584782",
-        "https://openalex.org/W3175154366"
+        "https://openalex.org/W103394979"
       ],
       "related_works": [
         "https://openalex.org/W2749878799",
@@ -10370,7 +10556,431 @@
         "https://openalex.org/W2009417770",
         "https://openalex.org/W2136351736"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "35": [
+          90
+        ],
+        "Calcium": [
+          0
+        ],
+        "sulfate": [
+          1
+        ],
+        "minerals": [
+          2
+        ],
+        "are": [
+          3
+        ],
+        "abundant": [
+          4
+        ],
+        "in": [
+          5,
+          16,
+          34,
+          46,
+          55,
+          105,
+          127,
+          135
+        ],
+        "nature": [
+          6
+        ],
+        "-": [
+          7,
+          13
+        ],
+        "on": [
+          8,
+          11
+        ],
+        "Earth": [
+          9
+        ],
+        "and": [
+          10,
+          14,
+          26,
+          162
+        ],
+        "Mars": [
+          12
+        ],
+        "important": [
+          15
+        ],
+        "several": [
+          17,
+          149
+        ],
+        "fields": [
+          18
+        ],
+        "of": [
+          19,
+          40,
+          44,
+          73,
+          80,
+          108,
+          148,
+          152
+        ],
+        "material": [
+          20
+        ],
+        "sciences.": [
+          21
+        ],
+        "With": [
+          22
+        ],
+        "respect": [
+          23
+        ],
+        "to": [
+          24
+        ],
+        "gypsum": [
+          25,
+          133
+        ],
+        "bassanite,": [
+          27
+        ],
+        "anhydrite": [
+          28,
+          45,
+          86,
+          153
+        ],
+        "represents": [
+          29
+        ],
+        "the": [
+          30,
+          35,
+          42,
+          47,
+          56,
+          78,
+          106,
+          123,
+          146
+        ],
+        "anhydrous": [
+          31
+        ],
+        "crystalline": [
+          32
+        ],
+        "phase": [
+          33,
+          67
+        ],
+        "CaSO<sub>4</sub>-H<sub>2</sub>O": [
+          36
+        ],
+        "system.": [
+          37
+        ],
+        "Despite": [
+          38
+        ],
+        "years": [
+          39
+        ],
+        "research,": [
+          41
+        ],
+        "formation": [
+          43
+        ],
+        "laboratory": [
+          48,
+          81
+        ],
+        "at": [
+          49,
+          89
+        ],
+        "low": [
+          50
+        ],
+        "temperature": [
+          51
+        ],
+        "remains": [
+          52
+        ],
+        "challenging": [
+          53
+        ],
+        "and,": [
+          54
+        ],
+        "geological": [
+          57
+        ],
+        "record,": [
+          58
+        ],
+        "this": [
+          59
+        ],
+        "mineral": [
+          60
+        ],
+        "is": [
+          61
+        ],
+        "mostly": [
+          62
+        ],
+        "interpreted": [
+          63
+        ],
+        "as": [
+          64
+        ],
+        "a": [
+          65,
+          96,
+          119,
+          142,
+          164
+        ],
+        "secondary": [
+          66
+        ],
+        "that": [
+          68,
+          85,
+          154,
+          168
+        ],
+        "form": [
+          69,
+          88
+        ],
+        "through": [
+          70,
+          95
+        ],
+        "metamorphic": [
+          71
+        ],
+        "dehydration": [
+          72
+        ],
+        "gypsum.": [
+          74
+        ],
+        "Here,": [
+          75
+        ],
+        "we": [
+          76
+        ],
+        "present": [
+          77
+        ],
+        "results": [
+          79
+        ],
+        "precipitation": [
+          82,
+          166
+        ],
+        "experiments": [
+          83,
+          102
+        ],
+        "showing": [
+          84
+        ],
+        "can": [
+          87
+        ],
+        "°C": [
+          91
+        ],
+        "from": [
+          92,
+          118
+        ],
+        "evaporated": [
+          93
+        ],
+        "seawater": [
+          94
+        ],
+        "microbially": [
+          97
+        ],
+        "influenced": [
+          98
+        ],
+        "mineralization": [
+          99
+        ],
+        "process.": [
+          100
+        ],
+        "The": [
+          101
+        ],
+        "were": [
+          103
+        ],
+        "conducted": [
+          104
+        ],
+        "presence": [
+          107
+        ],
+        "extracellular": [
+          109
+        ],
+        "polymeric": [
+          110
+        ],
+        "substances": [
+          111
+        ],
+        "(EPS)": [
+          112
+        ],
+        "produced": [
+          113
+        ],
+        "by": [
+          114,
+          159
+        ],
+        "bacterial": [
+          115
+        ],
+        "strains": [
+          116
+        ],
+        "isolated": [
+          117
+        ],
+        "modern": [
+          120
+        ],
+        "evaporitic": [
+          121
+        ],
+        "environment,": [
+          122
+        ],
+        "Dohat": [
+          124
+        ],
+        "Faishakh": [
+          125
+        ],
+        "sabkha": [
+          126
+        ],
+        "Qatar.": [
+          128
+        ],
+        "Without": [
+          129
+        ],
+        "organic": [
+          130
+        ],
+        "molecules,": [
+          131
+        ],
+        "only": [
+          132
+        ],
+        "formed": [
+          134
+        ],
+        "parallel": [
+          136
+        ],
+        "control": [
+          137
+        ],
+        "experiments.": [
+          138
+        ],
+        "This": [
+          139
+        ],
+        "finding": [
+          140
+        ],
+        "provides": [
+          141
+        ],
+        "possible": [
+          143
+        ],
+        "explanation": [
+          144
+        ],
+        "for": [
+          145
+        ],
+        "origin": [
+          147
+        ],
+        "natural": [
+          150
+        ],
+        "occurrences": [
+          151
+        ],
+        "cannot": [
+          155
+        ],
+        "be": [
+          156
+        ],
+        "satisfactorily": [
+          157
+        ],
+        "explained": [
+          158
+        ],
+        "existing": [
+          160
+        ],
+        "models": [
+          161
+        ],
+        "reveals": [
+          163
+        ],
+        "new": [
+          165
+        ],
+        "pathway": [
+          167
+        ],
+        "may": [
+          169
+        ],
+        "have": [
+          170
+        ],
+        "industrial": [
+          171
+        ],
+        "applications.": [
+          172
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -10381,7 +10991,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11100,9 +11710,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5799999833106995,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5799999833106995
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -11141,8 +11751,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 49,
       "referenced_works": [
@@ -11921,8 +12531,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 99,
       "referenced_works": [
@@ -12658,8 +13268,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -12817,9 +13427,16 @@
           "is_corresponding": true,
           "raw_author_name": "Sankaran Rajendran",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa.",
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar. Electronic address: srajendran@qu.edu.qa.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
               "institution_ids": [
@@ -12853,9 +13470,16 @@
           "is_corresponding": false,
           "raw_author_name": "Jassim A. Al-Khayat",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
               "institution_ids": [
@@ -12889,9 +13513,16 @@
           "is_corresponding": false,
           "raw_author_name": "S. Veerasingam",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
               "institution_ids": [
@@ -12925,9 +13556,16 @@
           "is_corresponding": false,
           "raw_author_name": "Sobhi Nasir",
           "raw_affiliation_strings": [
+            "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman.",
             "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman.",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            },
             {
               "raw_affiliation_string": "Earth Science Research Center, Sultan Qaboos University, Al-Khod, 123 Muscat, Oman",
               "institution_ids": [
@@ -12961,9 +13599,16 @@
           "is_corresponding": false,
           "raw_author_name": "P. Vethamony",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
               "institution_ids": [
@@ -12997,9 +13642,16 @@
           "is_corresponding": false,
           "raw_author_name": "Fadhil N. Sadooni",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
               "institution_ids": [
@@ -13033,9 +13685,16 @@
           "is_corresponding": false,
           "raw_author_name": "Hamad Al-Saad Al-Kuwari",
           "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar.",
             "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar.",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            },
             {
               "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
               "institution_ids": [
@@ -13064,7 +13723,7 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.84668714,
+        "value": 0.84658845,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13397,9 +14056,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -13411,8 +14070,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 61,
       "referenced_works": [
@@ -13469,13 +14128,13 @@
         "https://openalex.org/W2912391122",
         "https://openalex.org/W2035915844",
         "https://openalex.org/W6763469777",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W4229989261",
-        "https://openalex.org/W1572819095",
-        "https://openalex.org/W2894660745",
-        "https://openalex.org/W2619068045",
-        "https://openalex.org/W2525966815",
         "https://openalex.org/W2950421003",
+        "https://openalex.org/W2525966815",
+        "https://openalex.org/W2894660745",
+        "https://openalex.org/W4229989261",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2619068045",
+        "https://openalex.org/W1572819095",
         "https://openalex.org/W2326080678"
       ],
       "related_works": [
@@ -13513,7 +14172,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13579,7 +14238,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": true,
-          "raw_author_name": "University of Houston",
+          "raw_author_name": "Mehdi Alipour K",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -13593,7 +14252,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Mehdi Alipour K",
+          "raw_author_name": "Ahmed Kasha",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -13607,7 +14266,7 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "Ahmed Kasha",
+          "raw_author_name": "A. Sakhaee-Pour",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
@@ -13621,12 +14280,12 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "University of Houston",
+          "raw_author_name": "Fadhil N. Sadooni",
           "raw_affiliation_strings": [],
           "affiliations": []
         },
         {
-          "author_position": "middle",
+          "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5079669280",
             "display_name": "Hamad Al-Saad Al-Kuwari",
@@ -13635,84 +14294,14 @@
           "institutions": [],
           "countries": [],
           "is_corresponding": false,
-          "raw_author_name": "A. Sakhaee-Pour",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "University of Houston",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "University of Houston",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Fadhil N. Sadooni",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Fadhil N. Sadooni",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Qatar University",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Qatar University",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
           "raw_author_name": "Hamad Al-Saad Al-Kuwari",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": null,
-            "display_name": "Qatar University",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Qatar University",
           "raw_affiliation_strings": [],
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 10,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5024172852"
       ],
@@ -13723,7 +14312,7 @@
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.70880309,
+        "value": 0.70867118,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14076,16 +14665,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7300000190734863,
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15",
-          "score": 0.7300000190734863
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -14498,7 +15087,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T00:00:00",
       "created_date": "2022-10-01T00:00:00"
     },
     {
@@ -15238,8 +15827,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 65,
       "referenced_works": [
@@ -16591,8 +17180,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 83,
       "referenced_works": [
@@ -17793,8 +18382,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 36,
       "referenced_works": [
@@ -18988,16 +19577,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -20211,16 +20800,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6499999761581421,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6499999761581421
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -21231,7 +21820,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.77353015,
+        "value": 0.77017244,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21664,9 +22253,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -21688,8 +22277,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 54,
       "referenced_works": [
@@ -21745,8 +22334,8 @@
         "https://openalex.org/W4401900392",
         "https://openalex.org/W4381187334",
         "https://openalex.org/W4387375033",
-        "https://openalex.org/W4401044941",
-        "https://openalex.org/W4386020864"
+        "https://openalex.org/W4386020864",
+        "https://openalex.org/W4401044941"
       ],
       "related_works": [
         "https://openalex.org/W2145851293",
@@ -21767,7 +22356,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22229,16 +22818,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6800000071525574,
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6800000071525574
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 4,
       "referenced_works": [
@@ -23283,8 +23872,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 8,
       "referenced_works": [
@@ -24366,9 +24955,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24385,8 +24974,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -25438,8 +26027,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -26934,16 +27523,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.41999998688697815,
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12",
-          "score": 0.41999998688697815
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -28077,9 +28666,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -28091,8 +28680,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -29109,16 +29698,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.4399999976158142,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -29653,16 +30242,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.699999988079071,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.699999988079071
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -30053,8 +30642,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -30463,9 +31052,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5699999928474426,
           "display_name": "Affordable and clean energy",
-          "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5699999928474426
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -30477,8 +31066,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -30978,8 +31567,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -31513,16 +32102,16 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.7900000214576721,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7900000214576721
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 99,
       "referenced_works": [
@@ -31910,8 +32499,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -32199,8 +32788,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 45,
       "referenced_works": [
@@ -32534,8 +33123,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 27,
       "referenced_works": [
@@ -32851,8 +33440,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -33170,8 +33759,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -33495,8 +34084,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -33827,8 +34416,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -34152,8 +34741,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 55,
       "referenced_works": [
@@ -34497,8 +35086,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 76,
       "referenced_works": [
@@ -34829,8 +35418,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 2,
       "referenced_works": [

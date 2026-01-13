@@ -1686,9 +1686,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.8299999833106995,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -4377,9 +4377,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.7900000214576721,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -4950,9 +4950,16 @@
           "is_corresponding": false,
           "raw_author_name": "Dicky Harishidayat",
           "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Kingdom of Saudi Arabia. dickyharishidayat@gmail.com.",
             "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Kingdom of Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Kingdom of Saudi Arabia. dickyharishidayat@gmail.com.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Kingdom of Saudi Arabia",
               "institution_ids": [
@@ -4986,9 +4993,16 @@
           "is_corresponding": true,
           "raw_author_name": "Yakufu Niyazi",
           "raw_affiliation_strings": [
+            "Minderoo-UWA Deep-Sea Research Centre, School of Biological Sciences and UWA Oceans Institute, The University of Western Australia, Perth, WA, 6009, Australia. yakup.niyazi@uwa.edu.au.",
             "Minderoo-UWA Deep-Sea Research Centre, School of Biological Sciences and UWA Oceans Institute, The University of Western Australia, Perth, WA, 6009, Australia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Minderoo-UWA Deep-Sea Research Centre, School of Biological Sciences and UWA Oceans Institute, The University of Western Australia, Perth, WA, 6009, Australia. yakup.niyazi@uwa.edu.au.",
+              "institution_ids": [
+                "https://openalex.org/I177877127"
+              ]
+            },
             {
               "raw_affiliation_string": "Minderoo-UWA Deep-Sea Research Centre, School of Biological Sciences and UWA Oceans Institute, The University of Western Australia, Perth, WA, 6009, Australia",
               "institution_ids": [
@@ -5006,14 +5020,12 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210092225",
-              "display_name": "ET Enterprises (United Kingdom)",
-              "ror": "https://ror.org/00hsg6w24",
-              "country_code": "GB",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210092225"
-              ]
+              "id": null,
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": []
             },
             {
               "id": "https://openalex.org/I177877127",
@@ -5027,20 +5039,26 @@
             }
           ],
           "countries": [
-            "AU",
-            "GB"
+            "AU"
           ],
           "is_corresponding": false,
           "raw_author_name": "Heather A. Stewart",
           "raw_affiliation_strings": [
-            "Kelpie Geoscience, Enterprise Hub, Edinburgh, EH9 3BF, UK",
+            "Kelpie Geoscience, Enterprise Hub, Edinburgh, EH9 3BF, UK.",
+            "Minderoo-UWA Deep-Sea Research Centre, School of Biological Sciences and UWA Oceans Institute, The University of Western Australia, Perth, WA, 6009, Australia.",
             "Minderoo-UWA Deep-Sea Research Centre, School of Biological Sciences and UWA Oceans Institute, The University of Western Australia, Perth, WA, 6009, Australia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Kelpie Geoscience, Enterprise Hub, Edinburgh, EH9 3BF, UK",
+              "raw_affiliation_string": "Kelpie Geoscience, Enterprise Hub, Edinburgh, EH9 3BF, UK.",
               "institution_ids": [
-                "https://openalex.org/I4210092225"
+                null
+              ]
+            },
+            {
+              "raw_affiliation_string": "Minderoo-UWA Deep-Sea Research Centre, School of Biological Sciences and UWA Oceans Institute, The University of Western Australia, Perth, WA, 6009, Australia.",
+              "institution_ids": [
+                "https://openalex.org/I177877127"
               ]
             },
             {
@@ -5076,9 +5094,16 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Kingdom of Saudi Arabia.",
             "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Kingdom of Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Kingdom of Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, 31261, Dhahran, Kingdom of Saudi Arabia",
               "institution_ids": [
@@ -5112,9 +5137,16 @@
           "is_corresponding": false,
           "raw_author_name": "Alan J. Jamieson",
           "raw_affiliation_strings": [
+            "Minderoo-UWA Deep-Sea Research Centre, School of Biological Sciences and UWA Oceans Institute, The University of Western Australia, Perth, WA, 6009, Australia.",
             "Minderoo-UWA Deep-Sea Research Centre, School of Biological Sciences and UWA Oceans Institute, The University of Western Australia, Perth, WA, 6009, Australia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Minderoo-UWA Deep-Sea Research Centre, School of Biological Sciences and UWA Oceans Institute, The University of Western Australia, Perth, WA, 6009, Australia.",
+              "institution_ids": [
+                "https://openalex.org/I177877127"
+              ]
+            },
             {
               "raw_affiliation_string": "Minderoo-UWA Deep-Sea Research Centre, School of Biological Sciences and UWA Oceans Institute, The University of Western Australia, Perth, WA, 6009, Australia",
               "institution_ids": [
@@ -5125,7 +5157,7 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5078588753"
@@ -5147,7 +5179,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.90940914,
+        "value": 0.90798261,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5469,37 +5501,10 @@
           "raw_type": null
         },
         {
-          "id": "pmh:oai:doaj.org/article:0f40fd1b87474fb8b8f02a9a11b6fc36",
-          "is_oa": false,
-          "landing_page_url": "https://doaj.org/article/0f40fd1b87474fb8b8f02a9a11b6fc36",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Scientific Reports, Vol 14, Iss 1, Pp 1-15 (2024)",
-          "raw_type": "article"
-        },
-        {
           "id": "pmh:oai:pubmedcentral.nih.gov:11316078",
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11316078",
-          "pdf_url": null,
+          "pdf_url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11316078/pdf/41598_2024_Article_69536.pdf",
           "source": {
             "id": "https://openalex.org/S2764455111",
             "display_name": "PubMed Central",
@@ -5516,13 +5521,40 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": "Sci Rep",
           "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:0f40fd1b87474fb8b8f02a9a11b6fc36",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/0f40fd1b87474fb8b8f02a9a11b6fc36",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Scientific Reports, Vol 14, Iss 1, Pp 1-15 (2024)",
+          "raw_type": "article"
         }
       ],
       "best_oa_location": {
@@ -5562,9 +5594,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5899999737739563,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -5690,7 +5722,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-22T23:10:17.713674",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5779,16 +5811,9 @@
           "is_corresponding": true,
           "raw_author_name": "Lutfi Mulyadi Surachman",
           "raw_affiliation_strings": [
-            "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia. g201408060@kfupm.edu.sa."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia. g201408060@kfupm.edu.sa.",
               "institution_ids": [
@@ -5822,16 +5847,9 @@
           "is_corresponding": false,
           "raw_author_name": "Sanlin I. Kaka",
           "raw_affiliation_strings": [
-            "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
               "institution_ids": [
@@ -5865,16 +5883,9 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
-            "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "Geoscience Department, College of Petroleum Engineering and Geoscience, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
               "institution_ids": [
@@ -5907,7 +5918,7 @@
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.98370434,
+        "value": 0.98284705,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -6930,7 +6941,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7094,7 +7105,7 @@
         "max": 100
       },
       "biblio": {
-        "volume": "12",
+        "volume": null,
         "issue": null,
         "first_page": "74",
         "last_page": "86"
@@ -7246,9 +7257,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.800000011920929,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -7827,7 +7838,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9068,9 +9079,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.8399999737739563,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -13409,9 +13420,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.8899999856948853,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -14265,9 +14276,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7300000190734863,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -19096,9 +19107,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.800000011920929,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [
@@ -20045,9 +20056,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.44999998807907104,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -21077,14 +21088,14 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         },
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.46000000834465027,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -22162,9 +22173,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7099999785423279,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -22767,9 +22778,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24029,9 +24040,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.5099999904632568,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -31813,9 +31824,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -32603,9 +32614,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5400000214576721,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -35098,9 +35109,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -36747,6 +36758,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I194343955",
+              "display_name": "Pertamina (Indonesia)",
+              "ror": "https://ror.org/002hgm057",
+              "country_code": "ID",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I194343955"
+              ]
+            },
+            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -36758,14 +36779,29 @@
             }
           ],
           "countries": [
+            "ID",
             "SA"
           ],
           "is_corresponding": true,
           "raw_author_name": "Dicky Harishidayat",
           "raw_affiliation_strings": [
+            "Department of Exploration, Pertamina Hulu Energi, Jakarta, Indonesia. dickyharishidayat@gmail.com.",
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia. dickyharishidayat@gmail.com.",
             "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Exploration, Pertamina Hulu Energi, Jakarta, Indonesia. dickyharishidayat@gmail.com.",
+              "institution_ids": [
+                "https://openalex.org/I194343955"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia. dickyharishidayat@gmail.com.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
               "institution_ids": [
@@ -36799,9 +36835,16 @@
           "is_corresponding": false,
           "raw_author_name": "Saleh Al-Dossary",
           "raw_affiliation_strings": [
+            "Department of Exploration Application Services, Saudi Aramco, Dhahran, Kingdom of Saudi Arabia.",
             "Department of Exploration Application Services, Saudi Aramco, Dhahran, Kingdom of Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Exploration Application Services, Saudi Aramco, Dhahran, Kingdom of Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Exploration Application Services, Saudi Aramco, Dhahran, Kingdom of Saudi Arabia",
               "institution_ids": [
@@ -36835,9 +36878,16 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia.",
             "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
               "institution_ids": [
@@ -36848,12 +36898,13 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5006028315"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I194343955",
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
@@ -36870,7 +36921,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.88522329,
+        "value": 0.88370614,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -37144,33 +37195,6 @@
           "raw_type": null
         },
         {
-          "id": "pmh:oai:doaj.org/article:035cdf0f7cfb4f1f841d84e092114573",
-          "is_oa": false,
-          "landing_page_url": "https://doaj.org/article/035cdf0f7cfb4f1f841d84e092114573",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Scientific Reports, Vol 14, Iss 1, Pp 1-20 (2024)",
-          "raw_type": "article"
-        },
-        {
           "id": "pmh:oai:pubmedcentral.nih.gov:11500003",
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11500003",
@@ -37191,13 +37215,40 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": "Sci Rep",
           "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:035cdf0f7cfb4f1f841d84e092114573",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/035cdf0f7cfb4f1f841d84e092114573",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Scientific Reports, Vol 14, Iss 1, Pp 1-20 (2024)",
+          "raw_type": "article"
         }
       ],
       "best_oa_location": {
@@ -37237,9 +37288,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.5199999809265137,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -37349,13 +37400,13 @@
         "https://openalex.org/W2795437781",
         "https://openalex.org/W3038017363",
         "https://openalex.org/W2792722587",
-        "https://openalex.org/W4255729883",
-        "https://openalex.org/W2936162658",
-        "https://openalex.org/W2035508727",
-        "https://openalex.org/W2921000516",
-        "https://openalex.org/W2172687074",
         "https://openalex.org/W101633874",
-        "https://openalex.org/W4244035609"
+        "https://openalex.org/W2921000516",
+        "https://openalex.org/W2936162658",
+        "https://openalex.org/W4255729883",
+        "https://openalex.org/W4244035609",
+        "https://openalex.org/W2035508727",
+        "https://openalex.org/W2172687074"
       ],
       "related_works": [
         "https://openalex.org/W3007869563",
@@ -37376,7 +37427,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-12-27T23:08:20.325037",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40023,9 +40074,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7099999785423279,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -43055,9 +43106,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.550000011920929,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -50973,9 +51024,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.4300000071525574,
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -53019,9 +53070,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.8999999761581421,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [
@@ -54198,9 +54249,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -56193,9 +56244,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -60174,9 +60225,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7900000214576721,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -60939,9 +60990,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -63649,9 +63700,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.41999998688697815,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -65932,9 +65983,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6100000143051147,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -69637,9 +69688,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.8700000047683716,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [
@@ -70909,9 +70960,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6200000047683716,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -71060,16 +71111,9 @@
           "is_corresponding": true,
           "raw_author_name": "Almir Miftakhutdinov",
           "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
             "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia. g202009180@kfupm.edu.sa."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia. g202009180@kfupm.edu.sa.",
               "institution_ids": [
@@ -71103,16 +71147,9 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
             "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia.",
               "institution_ids": [
@@ -71145,7 +71182,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.95614572,
+        "value": 0.95473455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -71598,9 +71635,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -71649,8 +71686,8 @@
         "https://openalex.org/W4242157521",
         "https://openalex.org/W15242090",
         "https://openalex.org/W2158017230",
-        "https://openalex.org/W2605105641",
-        "https://openalex.org/W3099212436"
+        "https://openalex.org/W3099212436",
+        "https://openalex.org/W2605105641"
       ],
       "related_works": [
         "https://openalex.org/W2101796708",
@@ -71664,477 +71701,14 @@
         "https://openalex.org/W2820836388",
         "https://openalex.org/W2612158739"
       ],
-      "abstract_inverted_index": {
-        "5": [
-          122
-        ],
-        "10": [
-          55
-        ],
-        "52": [
-          45
-        ],
-        "380": [
-          62
-        ],
-        "This": [
-          0
-        ],
-        "study": [
-          1
-        ],
-        "investigates": [
-          2
-        ],
-        "the": [
-          3,
-          12,
-          82,
-          97,
-          125,
-          164
-        ],
-        "feasibility": [
-          4
-        ],
-        "of": [
-          5,
-          8,
-          15,
-          36,
-          43,
-          54,
-          61,
-          84,
-          87,
-          99,
-          119,
-          127,
-          133,
-          168,
-          171,
-          186
-        ],
-        "gravimetric": [
-          6
-        ],
-        "monitoring": [
-          7,
-          158
-        ],
-        "CO₂": [
-          9,
-          49,
-          70,
-          151,
-          169,
-          187
-        ],
-        "sequestration": [
-          10
-        ],
-        "in": [
-          11,
-          58,
-          96,
-          124,
-          137,
-          190
-        ],
-        "Ghawar": [
-          13
-        ],
-        "field": [
-          14
-        ],
-        "Saudi": [
-          16
-        ],
-        "Arabia": [
-          17
-        ],
-        "using": [
-          18
-        ],
-        "synthetic": [
-          19
-        ],
-        "modeling": [
-          20
-        ],
-        "based": [
-          21
-        ],
-        "on": [
-          22
-        ],
-        "geological": [
-          23
-        ],
-        "data": [
-          24
-        ],
-        "from": [
-          25
-        ],
-        "Biyadh": [
-          26
-        ],
-        "Sandstone": [
-          27
-        ],
-        "Formation.": [
-          28
-        ],
-        "The": [
-          29,
-          90,
-          131,
-          175
-        ],
-        "reservoir": [
-          30
-        ],
-        "is": [
-          31,
-          178
-        ],
-        "located": [
-          32
-        ],
-        "at": [
-          33,
-          51
-        ],
-        "a": [
-          34,
-          40,
-          52,
-          59,
-          85,
-          106,
-          155
-        ],
-        "depth": [
-          35
-        ],
-        "900-1000": [
-          37
-        ],
-        "m,": [
-          38
-        ],
-        "with": [
-          39,
-          116
-        ],
-        "formation": [
-          41,
-          48
-        ],
-        "temperature": [
-          42
-        ],
-        "approximately": [
-          44
-        ],
-        "°C": [
-          46
-        ],
-        "and": [
-          47,
-          78,
-          110,
-          149,
-          183
-        ],
-        "was": [
-          50
-        ],
-        "pressure": [
-          53
-        ],
-        "MPa,": [
-          56
-        ],
-        "resulting": [
-          57
-        ],
-        "density": [
-          60,
-          76
-        ],
-        "kg/m³.": [
-          63
-        ],
-        "We": [
-          64
-        ],
-        "compute": [
-          65
-        ],
-        "gravity": [
-          66,
-          94
-        ],
-        "anomalies": [
-          67,
-          95
-        ],
-        "for": [
-          68,
-          105,
-          180
-        ],
-        "various": [
-          69
-        ],
-        "plume": [
-          71,
-          108,
-          111
-        ],
-        "sizes,": [
-          72
-        ],
-        "considering": [
-          73
-        ],
-        "realistic": [
-          74
-        ],
-        "brine-CO₂": [
-          75
-        ],
-        "contrasts": [
-          77
-        ],
-        "observational": [
-          79
-        ],
-        "noise": [
-          80
-        ],
-        "through": [
-          81,
-          147
-        ],
-        "use": [
-          83
-        ],
-        "set": [
-          86
-        ],
-        "type": [
-          88
-        ],
-        "curves.": [
-          89
-        ],
-        "results": [
-          91
-        ],
-        "show": [
-          92
-        ],
-        "that": [
-          93,
-          160
-        ],
-        "range": [
-          98
-        ],
-        "0.5-1.5": [
-          100
-        ],
-        "mGal": [
-          101
-        ],
-        "are": [
-          102
-        ],
-        "detectable": [
-          103
-        ],
-        "even": [
-          104
-        ],
-        "moderate": [
-          107
-        ],
-        "size,": [
-          109
-        ],
-        "thickness": [
-          112
-        ],
-        "can": [
-          113
-        ],
-        "be": [
-          114
-        ],
-        "recovered": [
-          115
-        ],
-        "an": [
-          117
-        ],
-        "uncertainty": [
-          118
-        ],
-        "less": [
-          120
-        ],
-        "than": [
-          121
-        ],
-        "m": [
-          123
-        ],
-        "presence": [
-          126
-        ],
-        "2-4": [
-          128
-        ],
-        "µGal": [
-          129
-        ],
-        "noise.": [
-          130
-        ],
-        "significance": [
-          132
-        ],
-        "this": [
-          134
-        ],
-        "work": [
-          135
-        ],
-        "lies": [
-          136
-        ],
-        "its": [
-          138,
-          172
-        ],
-        "contribution": [
-          139
-        ],
-        "to": [
-          140,
-          143,
-          163
-        ],
-        "global": [
-          141
-        ],
-        "efforts": [
-          142
-        ],
-        "mitigate": [
-          144
-        ],
-        "climate": [
-          145
-        ],
-        "change": [
-          146
-        ],
-        "secure": [
-          148
-        ],
-        "verifiable": [
-          150
-        ],
-        "storage.": [
-          152
-        ],
-        "Gravimetry": [
-          153
-        ],
-        "offers": [
-          154
-        ],
-        "cost-effective,": [
-          156
-        ],
-        "non-invasive": [
-          157
-        ],
-        "solution": [
-          159
-        ],
-        "remains": [
-          161
-        ],
-        "sensitive": [
-          162
-        ],
-        "total": [
-          165
-        ],
-        "injected": [
-          166
-        ],
-        "mass": [
-          167
-        ],
-        "regardless": [
-          170
-        ],
-        "internal": [
-          173
-        ],
-        "distribution.": [
-          174
-        ],
-        "proposed": [
-          176
-        ],
-        "workflow": [
-          177
-        ],
-        "adaptable": [
-          179
-        ],
-        "real-time": [
-          181
-        ],
-        "assessment": [
-          182
-        ],
-        "long-term": [
-          184
-        ],
-        "verification": [
-          185
-        ],
-        "storage": [
-          188
-        ],
-        "performance": [
-          189
-        ],
-        "deep": [
-          191
-        ],
-        "saline": [
-          192
-        ],
-        "formations.": [
-          193
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-12-22T23:10:17.713674",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-07-29T00:00:00"
     },
     {
@@ -72630,9 +72204,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -73538,9 +73112,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.6399999856948853,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -75767,13 +75341,12 @@
           "is_corresponding": true,
           "raw_author_name": "Dicky Harishidayat",
           "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
-            "Pertamina Hulu Energi, South Jakarta, Indonesia. dickyharishidayat@gmail.com.",
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia. dickyharishidayat@gmail.com."
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia. dickyharishidayat@gmail.com.",
+            "Pertamina Hulu Energi, South Jakarta, Indonesia. dickyharishidayat@gmail.com."
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia. dickyharishidayat@gmail.com.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -75782,12 +75355,6 @@
               "raw_affiliation_string": "Pertamina Hulu Energi, South Jakarta, Indonesia. dickyharishidayat@gmail.com.",
               "institution_ids": [
                 "https://openalex.org/I194343955"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia. dickyharishidayat@gmail.com.",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
               ]
             }
           ]
@@ -75801,16 +75368,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -75818,6 +75375,16 @@
               "type": "company",
               "lineage": [
                 "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
               ]
             }
           ],
@@ -75827,21 +75394,14 @@
           "is_corresponding": false,
           "raw_author_name": "Abdulrahman Al-Shuhail",
           "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
-            "Geophysics Technology Division, EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia",
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia.",
             "Geophysics Technology Division, EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geophysics Technology Division, EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
               ]
             },
             {
@@ -75861,16 +75421,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -75878,6 +75428,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -75887,27 +75447,20 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
-            "Geophysics Technology Division, EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia",
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia."
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia.",
+            "Geophysics Technology Division, EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geophysics Technology Division, EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Kingdom of Saudi Arabia.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geophysics Technology Division, EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
               ]
             }
           ]
@@ -75937,7 +75490,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.80187329,
+        "value": 0.79750698,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -76273,9 +75826,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6800000071525574,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -76717,7 +76270,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -78358,9 +77911,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.5899999737739563,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -80012,9 +79565,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5799999833106995,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -80837,9 +80390,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -82689,9 +82242,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5799999833106995,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -83668,9 +83221,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -85964,9 +85517,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities",
           "score": 0.4099999964237213,
-          "display_name": "Reduced inequalities"
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
@@ -88539,9 +88092,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities",
           "score": 0.800000011920929,
-          "display_name": "Reduced inequalities"
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
@@ -89255,9 +88808,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities",
           "score": 0.7799999713897705,
-          "display_name": "Reduced inequalities"
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
@@ -90680,9 +90233,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.4300000071525574,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -91687,9 +91240,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -93856,9 +93409,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.4399999976158142,
-          "display_name": "Responsible consumption and production"
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -95436,9 +94989,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6899999976158142,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -99035,13 +98588,13 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.62326662,
+        "value": 0.62334381,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": "27",
+        "volume": null,
         "issue": null,
         "first_page": "206",
         "last_page": "209"
@@ -99271,9 +98824,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6000000238418579,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -99755,7 +99308,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -100228,9 +99781,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.8199999928474426,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -101091,9 +100644,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.550000011920929,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -102018,9 +101571,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6600000262260437,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -102726,9 +102279,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.75,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -103143,9 +102696,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.699999988079071,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -103581,9 +103134,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6000000238418579,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -104983,9 +104536,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
+          "display_name": "Affordable and clean energy",
           "score": 0.5099999904632568,
-          "display_name": "Affordable and clean energy"
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -108962,9 +108515,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -110985,9 +110538,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.5299999713897705,
-          "display_name": "Sustainable cities and communities"
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -111842,9 +111395,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4000000059604645,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -114105,9 +113658,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.46000000834465027,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -117760,9 +117313,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -119628,9 +119181,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -121423,9 +120976,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.4000000059604645,
-          "display_name": "Industry, innovation and infrastructure"
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -123954,9 +123507,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5899999737739563,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -124380,9 +123933,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.7200000286102295,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -124744,9 +124297,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -125163,9 +124716,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.800000011920929,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -125877,9 +125430,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities",
           "score": 0.6000000238418579,
-          "display_name": "Reduced inequalities"
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
@@ -126997,9 +126550,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -127535,9 +127088,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
           "score": 0.4699999988079071,
-          "display_name": "Industry, innovation and infrastructure"
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -129856,9 +129409,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
           "score": 0.699999988079071,
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -129972,16 +129525,9 @@
           "is_corresponding": true,
           "raw_author_name": "Paul Edigbue",
           "raw_affiliation_strings": [
-            "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
             "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. paulirikefe.edigbue@kfupm.edu.sa."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. paulirikefe.edigbue@kfupm.edu.sa.",
               "institution_ids": [
@@ -130015,16 +129561,9 @@
           "is_corresponding": false,
           "raw_author_name": "Hammed Oyekan",
           "raw_affiliation_strings": [
-            "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
             "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
               "institution_ids": [
@@ -130058,16 +129597,9 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
-            "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
             "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
               "institution_ids": [
@@ -130101,16 +129633,9 @@
           "is_corresponding": false,
           "raw_author_name": "Sherif Hanafy",
           "raw_affiliation_strings": [
-            "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
             "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
               "institution_ids": [
@@ -130143,7 +129668,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23402105,
+        "value": 0.23313922,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -130383,33 +129908,6 @@
           "raw_type": null
         },
         {
-          "id": "pmh:oai:doaj.org/article:7540c544f1304f7695b5bba4222da88f",
-          "is_oa": false,
-          "landing_page_url": "https://doaj.org/article/7540c544f1304f7695b5bba4222da88f",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Scientific Reports, Vol 14, Iss 1, Pp 1-11 (2024)",
-          "raw_type": "article"
-        },
-        {
           "id": "pmh:oai:pubmedcentral.nih.gov:11555255",
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11555255",
@@ -130430,13 +129928,40 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": "Sci Rep",
           "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:7540c544f1304f7695b5bba4222da88f",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/7540c544f1304f7695b5bba4222da88f",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Scientific Reports, Vol 14, Iss 1, Pp 1-11 (2024)",
+          "raw_type": "article"
         }
       ],
       "best_oa_location": {
@@ -130528,7 +130053,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-12-27T23:08:20.325037",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -132015,9 +131540,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation",
           "score": 0.699999988079071,
-          "display_name": "Clean water and sanitation"
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -133100,32 +132625,18 @@
           "is_corresponding": true,
           "raw_author_name": "Monther R. Alfuraidan",
           "raw_affiliation_strings": [
-            "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
-            "Interdisciplinary Center of Smart Mobility and Logistics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
-            "Interdisciplinary Center of Smart Mobility and Logistics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia.",
-            "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia."
+            "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia.",
+            "Interdisciplinary Center of Smart Mobility and Logistics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Center of Smart Mobility and Logistics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
+              "raw_affiliation_string": "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
             },
             {
               "raw_affiliation_string": "Interdisciplinary Center of Smart Mobility and Logistics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia.",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -133157,16 +132668,9 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
             "Geosciences Department, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia.",
               "institution_ids": [
@@ -133200,16 +132704,9 @@
           "is_corresponding": false,
           "raw_author_name": "Sherif M. Hanafy",
           "raw_affiliation_strings": [
-            "Geosciences Department, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
             "Geosciences Department, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "Geosciences Department, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia.",
               "institution_ids": [
@@ -133243,32 +132740,18 @@
           "is_corresponding": false,
           "raw_author_name": "Ibrahim O. Sarumi",
           "raw_affiliation_strings": [
-            "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
-            "Interdisciplinary Center for Refining and Advanced Chemicals, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
-            "Interdisciplinary Center for Refining and Advanced Chemicals, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia. ibrahim.sarumi@kfupm.edu.sa.",
-            "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia. ibrahim.sarumi@kfupm.edu.sa."
+            "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia. ibrahim.sarumi@kfupm.edu.sa.",
+            "Interdisciplinary Center for Refining and Advanced Chemicals, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia. ibrahim.sarumi@kfupm.edu.sa."
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Center for Refining and Advanced Chemicals, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
+              "raw_affiliation_string": "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia. ibrahim.sarumi@kfupm.edu.sa.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
             },
             {
               "raw_affiliation_string": "Interdisciplinary Center for Refining and Advanced Chemicals, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia. ibrahim.sarumi@kfupm.edu.sa.",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Mathematics, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia. ibrahim.sarumi@kfupm.edu.sa.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -133299,7 +132782,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16833767,
+        "value": 0.16728369,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -133704,9 +133187,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.4300000071525574,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -133748,10 +133231,10 @@
         "https://openalex.org/W1982753770",
         "https://openalex.org/W3035979779",
         "https://openalex.org/W4301746715",
-        "https://openalex.org/W3123807345",
         "https://openalex.org/W2040309439",
         "https://openalex.org/W2913515713",
-        "https://openalex.org/W3139940246"
+        "https://openalex.org/W3139940246",
+        "https://openalex.org/W3123807345"
       ],
       "related_works": [
         "https://openalex.org/W4391375266",
@@ -133765,486 +133248,9 @@
         "https://openalex.org/W2090715877",
         "https://openalex.org/W2572370460"
       ],
-      "abstract_inverted_index": {
-        "99": [
-          116
-        ],
-        "Shallow": [
-          0
-        ],
-        "seismic": [
-          1,
-          32,
-          70,
-          90,
-          103
-        ],
-        "surveys": [
-          2
-        ],
-        "can": [
-          3,
-          47,
-          186
-        ],
-        "play": [
-          4
-        ],
-        "an": [
-          5,
-          156
-        ],
-        "important": [
-          6
-        ],
-        "role": [
-          7
-        ],
-        "in": [
-          8,
-          72,
-          119,
-          135
-        ],
-        "sustainable": [
-          9,
-          25
-        ],
-        "urban": [
-          10
-        ],
-        "planning": [
-          11
-        ],
-        "as": [
-          12,
-          14
-        ],
-        "well": [
-          13
-        ],
-        "monitoring": [
-          15
-        ],
-        "of": [
-          16,
-          27,
-          56,
-          80,
-          85,
-          147,
-          182
-        ],
-        "geological": [
-          17
-        ],
-        "changes,": [
-          18
-        ],
-        "contributing": [
-          19
-        ],
-        "to": [
-          20,
-          68,
-          125,
-          161
-        ],
-        "climate": [
-          21
-        ],
-        "resilience": [
-          22
-        ],
-        "and": [
-          23,
-          38,
-          58,
-          101,
-          189
-        ],
-        "the": [
-          24,
-          54,
-          81,
-          86,
-          89,
-          109,
-          141,
-          148,
-          166
-        ],
-        "management": [
-          26
-        ],
-        "terrestrial": [
-          28
-        ],
-        "ecosystems.": [
-          29
-        ],
-        "A": [
-          30
-        ],
-        "typical": [
-          31
-        ],
-        "layout": [
-          33
-        ],
-        "involves": [
-          34
-        ],
-        "devices": [
-          35
-        ],
-        "(essentially": [
-          36
-        ],
-        "senders": [
-          37
-        ],
-        "receivers)": [
-          39
-        ],
-        "that": [
-          40
-        ],
-        "transmit": [
-          41
-        ],
-        "signals": [
-          42
-        ],
-        "among": [
-          43
-        ],
-        "themselves.": [
-          44
-        ],
-        "Such": [
-          45
-        ],
-        "layouts": [
-          46
-        ],
-        "be": [
-          48,
-          187
-        ],
-        "modeled": [
-          49
-        ],
-        "by": [
-          50,
-          151,
-          155
-        ],
-        "a": [
-          51,
-          65,
-          126,
-          131
-        ],
-        "graph": [
-          52,
-          87
-        ],
-        "using": [
-          53
-        ],
-        "notions": [
-          55
-        ],
-        "vertices": [
-          57
-        ],
-        "edges.": [
-          59
-        ],
-        "In": [
-          60,
-          159,
-          175
-        ],
-        "this": [
-          61
-        ],
-        "paper,": [
-          62
-        ],
-        "we": [
-          63
-        ],
-        "propose": [
-          64
-        ],
-        "regression": [
-          66
-        ],
-        "model": [
-          67,
-          113
-        ],
-        "estimate": [
-          69
-        ],
-        "velocity": [
-          71,
-          120,
-          144,
-          163
-        ],
-        "common": [
-          73
-        ],
-        "near": [
-          74
-        ],
-        "surface": [
-          75
-        ],
-        "settings": [
-          76
-        ],
-        "from": [
-          77
-        ],
-        "spectra": [
-          78
-        ],
-        "data": [
-          79
-        ],
-        "normalized": [
-          82
-        ],
-        "Laplacian": [
-          83
-        ],
-        "matrix": [
-          84
-        ],
-        "representing": [
-          88
-        ],
-        "layout.": [
-          91
-        ],
-        "The": [
-          92
-        ],
-        "method": [
-          93,
-          168
-        ],
-        "is": [
-          94
-        ],
-        "validated": [
-          95
-        ],
-        "through": [
-          96
-        ],
-        "tests": [
-          97
-        ],
-        "on": [
-          98
-        ],
-        "both": [
-          99
-        ],
-        "synthetic": [
-          100,
-          110
-        ],
-        "real": [
-          102,
-          127
-        ],
-        "datasets,": [
-          104
-        ],
-        "demonstrating": [
-          105
-        ],
-        "exceptional": [
-          106
-        ],
-        "accuracy.": [
-          107
-        ],
-        "For": [
-          108
-        ],
-        "dataset,": [
-          111
-        ],
-        "our": [
-          112
-        ],
-        "achieved": [
-          114
-        ],
-        "about": [
-          115
-        ],
-        "%": [
-          117
-        ],
-        "accuracy": [
-          118
-        ],
-        "estimation.": [
-          121
-        ],
-        "Remarkably,": [
-          122
-        ],
-        "when": [
-          123
-        ],
-        "applied": [
-          124
-        ],
-        "dataset": [
-          128
-        ],
-        "acquired": [
-          129
-        ],
-        "over": [
-          130
-        ],
-        "sabkha": [
-          132
-        ],
-        "(salty": [
-          133
-        ],
-        "soil)": [
-          134
-        ],
-        "eastern": [
-          136
-        ],
-        "Saudi": [
-          137
-        ],
-        "Arabia,": [
-          138
-        ],
-        "it": [
-          139,
-          177
-        ],
-        "estimated": [
-          140
-        ],
-        "second": [
-          142
-        ],
-        "layer's": [
-          143
-        ],
-        "within": [
-          145
-        ],
-        "0.3%": [
-          146
-        ],
-        "value": [
-          149
-        ],
-        "determined": [
-          150
-        ],
-        "traditional": [
-          152
-        ],
-        "methods,": [
-          153
-        ],
-        "performed": [
-          154
-        ],
-        "experienced": [
-          157
-        ],
-        "geophysicist.": [
-          158
-        ],
-        "comparison": [
-          160
-        ],
-        "conventional": [
-          162
-        ],
-        "analysis": [
-          164
-        ],
-        "approaches,": [
-          165
-        ],
-        "proposed": [
-          167
-        ],
-        "requires": [
-          169
-        ],
-        "only": [
-          170
-        ],
-        "one": [
-          171
-        ],
-        "or": [
-          172
-        ],
-        "few": [
-          173
-        ],
-        "traces.": [
-          174
-        ],
-        "addition,": [
-          176
-        ],
-        "does": [
-          178
-        ],
-        "not": [
-          179
-        ],
-        "require": [
-          180
-        ],
-        "picking": [
-          181
-        ],
-        "first": [
-          183
-        ],
-        "arrivals,": [
-          184
-        ],
-        "which": [
-          185
-        ],
-        "costly": [
-          188
-        ],
-        "often": [
-          190
-        ],
-        "inaccurate.": [
-          191
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -134333,32 +133339,18 @@
           "is_corresponding": true,
           "raw_author_name": "Ayman Al-Lehyani",
           "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. allehyani@kfupm.edu.sa.",
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. allehyani@kfupm.edu.sa."
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. allehyani@kfupm.edu.sa.",
+            "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. allehyani@kfupm.edu.sa."
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. allehyani@kfupm.edu.sa.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
             },
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. allehyani@kfupm.edu.sa.",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia. allehyani@kfupm.edu.sa.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -134390,32 +133382,18 @@
           "is_corresponding": false,
           "raw_author_name": "Hassan A. Eltom",
           "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia."
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
+            "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
             },
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -134447,19 +133425,12 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
             "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -134497,16 +133468,9 @@
           "is_corresponding": false,
           "raw_author_name": "Eassa Abdullah",
           "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
             "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
               "institution_ids": [
@@ -134540,24 +133504,10 @@
           "is_corresponding": false,
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-            "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
             "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
             "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia.",
               "institution_ids": [
@@ -134596,7 +133546,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16649321,
+        "value": 0.1649895,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -135067,9 +134017,625 @@
         "https://openalex.org/W2372969344",
         "https://openalex.org/W2377686199"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "3": [
+          129
+        ],
+        "64": [
+          144
+        ],
+        "Abstract": [
+          0
+        ],
+        "In": [
+          1
+        ],
+        "bioturbated": [
+          2,
+          95,
+          247
+        ],
+        "strata,": [
+          3,
+          96
+        ],
+        "defining": [
+          4
+        ],
+        "and": [
+          5,
+          49,
+          62,
+          75,
+          99,
+          125,
+          148,
+          159,
+          169,
+          256
+        ],
+        "obtaining": [
+          6
+        ],
+        "a": [
+          7,
+          71,
+          188,
+          217,
+          229,
+          253
+        ],
+        "representative": [
+          8
+        ],
+        "elementary": [
+          9
+        ],
+        "volume": [
+          10
+        ],
+        "for": [
+          11,
+          78
+        ],
+        "permeability": [
+          12,
+          21,
+          33,
+          43,
+          80,
+          93,
+          101,
+          141,
+          182,
+          210,
+          245
+        ],
+        "measurements": [
+          13,
+          40,
+          66,
+          102,
+          145,
+          211
+        ],
+        "presents": [
+          14
+        ],
+        "significant": [
+          15,
+          199
+        ],
+        "challenges.": [
+          16
+        ],
+        "To": [
+          17,
+          83
+        ],
+        "address": [
+          18
+        ],
+        "this,": [
+          19
+        ],
+        "spot": [
+          20,
+          42,
+          92,
+          244
+        ],
+        "is": [
+          22
+        ],
+        "often": [
+          23
+        ],
+        "used": [
+          24
+        ],
+        "as": [
+          25,
+          162,
+          164
+        ],
+        "an": [
+          26,
+          221
+        ],
+        "alternative": [
+          27,
+          258
+        ],
+        "method": [
+          28
+        ],
+        "to": [
+          29,
+          242,
+          259
+        ],
+        "estimate": [
+          30
+        ],
+        "the": [
+          31,
+          58,
+          85,
+          104,
+          109,
+          120,
+          126,
+          185,
+          205,
+          209,
+          213,
+          235,
+          250
+        ],
+        "bulk": [
+          32,
+          265
+        ],
+        "of": [
+          34,
+          41,
+          87,
+          140,
+          171,
+          237,
+          246
+        ],
+        "these": [
+          35
+        ],
+        "complex": [
+          36
+        ],
+        "strata.": [
+          37
+        ],
+        "However,": [
+          38
+        ],
+        "laboratory": [
+          39
+        ],
+        "require": [
+          44
+        ],
+        "steady-state": [
+          45
+        ],
+        "nitrogen": [
+          46
+        ],
+        "gas": [
+          47
+        ],
+        "injection": [
+          48
+        ],
+        "careful": [
+          50
+        ],
+        "sample": [
+          51
+        ],
+        "preparation": [
+          52
+        ],
+        "including": [
+          53
+        ],
+        "slab": [
+          54
+        ],
+        "cutting": [
+          55
+        ],
+        "which": [
+          56,
+          195
+        ],
+        "makes": [
+          57
+        ],
+        "process": [
+          59
+        ],
+        "both": [
+          60,
+          132
+        ],
+        "time-consuming": [
+          61
+        ],
+        "resource-intensive.": [
+          63
+        ],
+        "Alternatively,": [
+          64
+        ],
+        "field": [
+          65,
+          130
+        ],
+        "using": [
+          67,
+          116,
+          151,
+          238
+        ],
+        "portable": [
+          68,
+          88,
+          127,
+          239
+        ],
+        "devices": [
+          69,
+          89
+        ],
+        "offer": [
+          70
+        ],
+        "more": [
+          72
+        ],
+        "cost-effective,": [
+          73,
+          254
+        ],
+        "straightforward,": [
+          74
+        ],
+        "real-time": [
+          76,
+          257
+        ],
+        "approach": [
+          77
+        ],
+        "assessing": [
+          79
+        ],
+        "in": [
+          81,
+          90,
+          94,
+          112,
+          181,
+          249,
+          262
+        ],
+        "situ.": [
+          82
+        ],
+        "evaluate": [
+          84
+        ],
+        "accuracy": [
+          86
+        ],
+        "measuring": [
+          91
+        ],
+        "we": [
+          97
+        ],
+        "compare": [
+          98
+        ],
+        "contrast": [
+          100
+        ],
+        "on": [
+          103
+        ],
+        "same": [
+          105
+        ],
+        "rock": [
+          106
+        ],
+        "samples": [
+          107
+        ],
+        "(from": [
+          108
+        ],
+        "Hanifa": [
+          110
+        ],
+        "Formation": [
+          111
+        ],
+        "central": [
+          113
+        ],
+        "Saudi": [
+          114
+        ],
+        "Arabia)": [
+          115
+        ],
+        "two": [
+          117,
+          186,
+          214
+        ],
+        "different": [
+          118
+        ],
+        "techniques:": [
+          119
+        ],
+        "sophisticated": [
+          121
+        ],
+        "laboratory-based": [
+          122,
+          260
+        ],
+        "AutoScan": [
+          123
+        ],
+        "system": [
+          124
+        ],
+        "TinyPerm": [
+          128
+        ],
+        "device": [
+          131
+        ],
+        "from": [
+          133,
+          212
+        ],
+        "New": [
+          134
+        ],
+        "England": [
+          135
+        ],
+        "Research": [
+          136
+        ],
+        "(NER).": [
+          137
+        ],
+        "Two": [
+          138
+        ],
+        "sets": [
+          139
+        ],
+        "data": [
+          142
+        ],
+        "comprising": [
+          143
+        ],
+        "were": [
+          146
+        ],
+        "obtained": [
+          147
+        ],
+        "analyzed": [
+          149
+        ],
+        "graphically": [
+          150
+        ],
+        "Whisker": [
+          152
+        ],
+        "Box": [
+          153
+        ],
+        "Plots,": [
+          154,
+          161
+        ],
+        "Bland-Altman": [
+          155
+        ],
+        "Plot,": [
+          156
+        ],
+        "Curve": [
+          157
+        ],
+        "Matching,": [
+          158
+        ],
+        "Cross": [
+          160
+        ],
+        "well": [
+          163
+        ],
+        "statistically": [
+          165,
+          198
+        ],
+        "through": [
+          166
+        ],
+        "correlation": [
+          167,
+          206
+        ],
+        "analysis": [
+          168,
+          170,
+          176
+        ],
+        "variance": [
+          172
+        ],
+        "(ANOVA).": [
+          173
+        ],
+        "The": [
+          174
+        ],
+        "graphical": [
+          175
+        ],
+        "revealed": [
+          177
+        ],
+        "no": [
+          178,
+          197
+        ],
+        "substantial": [
+          179
+        ],
+        "difference": [
+          180,
+          200
+        ],
+        "measured": [
+          183
+        ],
+        "by": [
+          184,
+          192
+        ],
+        "methods,": [
+          187
+        ],
+        "finding": [
+          189
+        ],
+        "further": [
+          190
+        ],
+        "supported": [
+          191
+        ],
+        "ANOVA": [
+          193
+        ],
+        "results,": [
+          194
+        ],
+        "indicated": [
+          196
+        ],
+        "(P-value": [
+          201
+        ],
+        "&gt;": [
+          202
+        ],
+        "0.05).": [
+          203
+        ],
+        "Additionally,": [
+          204
+        ],
+        "plot": [
+          207
+        ],
+        "between": [
+          208
+        ],
+        "methods": [
+          215
+        ],
+        "yielded": [
+          216
+        ],
+        "straight": [
+          218
+        ],
+        "line": [
+          219
+        ],
+        "with": [
+          220
+        ],
+        "R": [
+          222
+        ],
+        "$$^2$$": [
+          223
+        ],
+        "value": [
+          224
+        ],
+        "greater": [
+          225
+        ],
+        "than": [
+          226
+        ],
+        "0.9,": [
+          227
+        ],
+        "demonstrating": [
+          228
+        ],
+        "strong": [
+          230
+        ],
+        "agreement.": [
+          231
+        ],
+        "This": [
+          232
+        ],
+        "study": [
+          233
+        ],
+        "highlights": [
+          234
+        ],
+        "potential": [
+          236
+        ],
+        "handheld": [
+          240
+        ],
+        "permeameters": [
+          241
+        ],
+        "measure": [
+          243
+        ],
+        "strata": [
+          248
+        ],
+        "field,": [
+          251
+        ],
+        "offering": [
+          252
+        ],
+        "accurate,": [
+          255
+        ],
+        "techniques": [
+          261
+        ],
+        "estimating": [
+          263
+        ],
+        "their": [
+          264
+        ],
+        "permeability.": [
+          266
+        ]
+      },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -135624,9 +135190,16 @@
           "is_corresponding": true,
           "raw_author_name": "Fernando Alonso-Marroquin",
           "raw_affiliation_strings": [
+            "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia. fernando.marroquin@kfupm.edu.sa.",
             "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia. fernando.marroquin@kfupm.edu.sa.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia",
               "institution_ids": [
@@ -135660,9 +135233,16 @@
           "is_corresponding": false,
           "raw_author_name": "Sarmad Zafar Khan",
           "raw_affiliation_strings": [
+            "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia.",
             "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia",
               "institution_ids": [
@@ -135696,9 +135276,16 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
+            "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia.",
             "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Centre for Integrative Petroleum Research, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia",
               "institution_ids": [
@@ -135732,9 +135319,16 @@
           "is_corresponding": false,
           "raw_author_name": "Peter Mora",
           "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia.",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia",
               "institution_ids": [
@@ -135768,9 +135362,16 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia.",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom of Saudi Arabia",
               "institution_ids": [
@@ -135803,7 +135404,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.3448096,
+        "value": 0.34021556,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -136110,9 +135711,9 @@
         "https://openalex.org/W2069762323",
         "https://openalex.org/W4400320376",
         "https://openalex.org/W2952967576",
+        "https://openalex.org/W3104468152",
         "https://openalex.org/W1985657867",
         "https://openalex.org/W4298268512",
-        "https://openalex.org/W3104468152",
         "https://openalex.org/W2040196754",
         "https://openalex.org/W2021342927"
       ],
@@ -136128,536 +135729,9 @@
         "https://openalex.org/W1999891779",
         "https://openalex.org/W2029513011"
       ],
-      "abstract_inverted_index": {
-        "This": [
-          0,
-          82,
-          184
-        ],
-        "study": [
-          1
-        ],
-        "presents": [
-          2
-        ],
-        "an": [
-          3,
-          48
-        ],
-        "analysis": [
-          4
-        ],
-        "of": [
-          5,
-          8,
-          67,
-          78,
-          98,
-          129,
-          141,
-          198,
-          202,
-          205,
-          217,
-          226
-        ],
-        "the": [
-          6,
-          34,
-          38,
-          87,
-          89,
-          95,
-          130,
-          154,
-          167,
-          192,
-          199,
-          203,
-          221
-        ],
-        "morphology": [
-          7
-        ],
-        "sand": [
-          9,
-          155,
-          206
-        ],
-        "particles": [
-          10,
-          178
-        ],
-        "and": [
-          11,
-          19,
-          30,
-          61,
-          73,
-          80,
-          114,
-          124,
-          208,
-          215,
-          234
-        ],
-        "their": [
-          12
-        ],
-        "contacts": [
-          13,
-          103,
-          109,
-          116
-        ],
-        "using": [
-          14
-        ],
-        "high-resolution": [
-          15
-        ],
-        "microcomputer": [
-          16
-        ],
-        "tomography": [
-          17
-        ],
-        "(CT)": [
-          18
-        ],
-        "scanning": [
-          20
-        ],
-        "electron": [
-          21
-        ],
-        "microscopy": [
-          22
-        ],
-        "(SEM).": [
-          23
-        ],
-        "Raw": [
-          24
-        ],
-        "3D": [
-          25,
-          42
-        ],
-        "images": [
-          26,
-          148
-        ],
-        "are": [
-          27,
-          132,
-          145,
-          157,
-          161,
-          169,
-          173,
-          180
-        ],
-        "filtered,": [
-          28
-        ],
-        "binarized,": [
-          29
-        ],
-        "smoothed": [
-          31
-        ],
-        "to": [
-          32,
-          111,
-          118,
-          134,
-          190
-        ],
-        "distinguish": [
-          33
-        ],
-        "granular": [
-          35,
-          43,
-          230
-        ],
-        "space": [
-          36,
-          44
-        ],
-        "from": [
-          37
-        ],
-        "void": [
-          39
-        ],
-        "space.": [
-          40
-        ],
-        "The": [
-          41,
-          53,
-          65,
-          212
-        ],
-        "is": [
-          45,
-          56,
-          70,
-          84,
-          185
-        ],
-        "segmented": [
-          46
-        ],
-        "via": [
-          47
-        ],
-        "advanced": [
-          49,
-          195
-        ],
-        "adaptive": [
-          50
-        ],
-        "watershed": [
-          51
-        ],
-        "algorithm.": [
-          52
-        ],
-        "grain": [
-          54,
-          69
-        ],
-        "segmentation": [
-          55
-        ],
-        "used": [
-          57
-        ],
-        "for": [
-          58,
-          194,
-          223
-        ],
-        "contact": [
-          59,
-          62,
-          120,
-          143,
-          196,
-          218,
-          227
-        ],
-        "detection": [
-          60
-        ],
-        "network": [
-          63
-        ],
-        "extraction.": [
-          64
-        ],
-        "topography": [
-          66,
-          83
-        ],
-        "each": [
-          68
-        ],
-        "diverse,": [
-          71
-        ],
-        "fascinating,": [
-          72
-        ],
-        "shaped": [
-          74
-        ],
-        "by": [
-          75
-        ],
-        "a": [
-          76,
-          135,
-          138,
-          186
-        ],
-        "landscape": [
-          77
-        ],
-        "ridges": [
-          79,
-          123
-        ],
-        "basins.": [
-          81,
-          126
-        ],
-        "reflected": [
-          85
-        ],
-        "in": [
-          86,
-          229
-        ],
-        "way": [
-          88,
-          222
-        ],
-        "grains": [
-          90
-        ],
-        "come": [
-          91
-        ],
-        "into": [
-          92
-        ],
-        "contact.": [
-          93
-        ],
-        "Unlike": [
-          94
-        ],
-        "common": [
-          96
-        ],
-        "conception": [
-          97
-        ],
-        "point": [
-          99
-        ],
-        "contacts,": [
-          100
-        ],
-        "we": [
-          101
-        ],
-        "observe": [
-          102
-        ],
-        "over": [
-          104
-        ],
-        "large": [
-          105
-        ],
-        "surface": [
-          106
-        ],
-        "areas,": [
-          107
-        ],
-        "concave-like": [
-          108
-        ],
-        "due": [
-          110,
-          117,
-          133
-        ],
-        "ridge-basin": [
-          112
-        ],
-        "interactions,": [
-          113
-        ],
-        "doughnut-like": [
-          115
-        ],
-        "incomplete": [
-          119
-        ],
-        "between": [
-          121
-        ],
-        "high": [
-          122
-        ],
-        "deep": [
-          125
-        ],
-        "Although": [
-          127
-        ],
-        "most": [
-          128
-        ],
-        "interactions": [
-          131,
-          144
-        ],
-        "single": [
-          136
-        ],
-        "contact,": [
-          137
-        ],
-        "significant": [
-          139
-        ],
-        "number": [
-          140
-        ],
-        "multiple": [
-          142
-        ],
-        "observed.": [
-          146
-        ],
-        "SEM": [
-          147
-        ],
-        "show": [
-          149
-        ],
-        "two": [
-          150
-        ],
-        "key": [
-          151
-        ],
-        "features:": [
-          152
-        ],
-        "First,": [
-          153
-        ],
-        "surfaces": [
-          156
-        ],
-        "not": [
-          158,
-          170
-        ],
-        "quartz-clean": [
-          159
-        ],
-        "but": [
-          160,
-          172
-        ],
-        "coated": [
-          162
-        ],
-        "with": [
-          163,
-          176,
-          182
-        ],
-        "clay": [
-          164
-        ],
-        "particles.": [
-          165
-        ],
-        "Second,": [
-          166
-        ],
-        "basins": [
-          168
-        ],
-        "empty": [
-          171
-        ],
-        "partially": [
-          174
-        ],
-        "filled": [
-          175
-        ],
-        "silt": [
-          177
-        ],
-        "that": [
-          179
-        ],
-        "cemented": [
-          181
-        ],
-        "clay.": [
-          183
-        ],
-        "comprehensive": [
-          187
-        ],
-        "experimental": [
-          188
-        ],
-        "investigation": [
-          189,
-          201
-        ],
-        "determine": [
-          191
-        ],
-        "basis": [
-          193
-        ],
-        "models": [
-          197
-        ],
-        "micromechanical": [
-          200
-        ],
-        "strength": [
-          204
-        ],
-        "aggregates": [
-          207
-        ],
-        "wave": [
-          209
-        ],
-        "propagation": [
-          210
-        ],
-        "herein.": [
-          211
-        ],
-        "proposed": [
-          213
-        ],
-        "micro-": [
-          214
-        ],
-        "nanocharacterization": [
-          216
-        ],
-        "morphologies": [
-          219
-        ],
-        "paves": [
-          220
-        ],
-        "future": [
-          224
-        ],
-        "investigations": [
-          225
-        ],
-        "interaction": [
-          228
-        ],
-        "materials": [
-          231
-        ],
-        "on": [
-          232
-        ],
-        "Earth": [
-          233
-        ],
-        "beyond.": [
-          235
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -139456,9 +138530,16 @@
           "is_corresponding": true,
           "raw_author_name": "Ahmad Muhammad",
           "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -139492,9 +138573,16 @@
           "is_corresponding": false,
           "raw_author_name": "Paul Edigbue",
           "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia. paulirikefe.edigbue@kfupm.edu.sa.",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia. paulirikefe.edigbue@kfupm.edu.sa.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -139528,9 +138616,16 @@
           "is_corresponding": false,
           "raw_author_name": "Sherif Hanafy",
           "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -139564,9 +138659,16 @@
           "is_corresponding": false,
           "raw_author_name": "Umair bin Waheed",
           "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -139600,9 +138702,16 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -139635,7 +138744,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.40613041,
+        "value": 0.40288539,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -139939,381 +139048,9 @@
         "https://openalex.org/W4302320831"
       ],
       "related_works": [],
-      "abstract_inverted_index": {
-        "This": [
-          0
-        ],
-        "study": [
-          1
-        ],
-        "presents": [
-          2
-        ],
-        "a": [
-          3,
-          40,
-          88,
-          147
-        ],
-        "novel": [
-          4
-        ],
-        "methodology": [
-          5
-        ],
-        "for": [
-          6,
-          150
-        ],
-        "estimating": [
-          7
-        ],
-        "accurate": [
-          8
-        ],
-        "Normal": [
-          9
-        ],
-        "Moveout": [
-          10
-        ],
-        "(NMO)": [
-          11
-        ],
-        "velocities": [
-          12
-        ],
-        "by": [
-          13,
-          75,
-          115,
-          122
-        ],
-        "utilizing": [
-          14
-        ],
-        "residual": [
-          15,
-          28
-        ],
-        "time": [
-          16
-        ],
-        "shifts": [
-          17
-        ],
-        "resulting": [
-          18
-        ],
-        "from": [
-          19,
-          33,
-          91,
-          103,
-          118
-        ],
-        "imperfect": [
-          20
-        ],
-        "NMO": [
-          21,
-          36,
-          110
-        ],
-        "corrections.": [
-          22
-        ],
-        "The": [
-          23,
-          51,
-          126
-        ],
-        "proposed": [
-          24,
-          52,
-          84
-        ],
-        "method": [
-          25,
-          85
-        ],
-        "uses": [
-          26
-        ],
-        "the": [
-          27,
-          48,
-          71,
-          79,
-          83,
-          92,
-          119,
-          129,
-          141
-        ],
-        "static": [
-          29
-        ],
-        "component": [
-          30,
-          46
-        ],
-        "that": [
-          31,
-          43,
-          113
-        ],
-        "results": [
-          32
-        ],
-        "using": [
-          34
-        ],
-        "incorrect": [
-          35
-        ],
-        "velocity": [
-          37,
-          42,
-          73,
-          80,
-          111
-        ],
-        "to": [
-          38,
-          98
-        ],
-        "estimate": [
-          39
-        ],
-        "better": [
-          41
-        ],
-        "minimizes": [
-          44,
-          128
-        ],
-        "this": [
-          45
-        ],
-        "of": [
-          47,
-          131
-        ],
-        "statics": [
-          49
-        ],
-        "solution.": [
-          50
-        ],
-        "algorithm": [
-          53,
-          127
-        ],
-        "is": [
-          54
-        ],
-        "tested": [
-          55
-        ],
-        "on": [
-          56
-        ],
-        "synthetic": [
-          57
-        ],
-        "and": [
-          58,
-          65,
-          138
-        ],
-        "real": [
-          59,
-          99
-        ],
-        "seismic": [
-          60,
-          101,
-          135
-        ],
-        "datasets": [
-          61
-        ],
-        "demonstrating": [
-          62
-        ],
-        "its": [
-          63
-        ],
-        "robustness": [
-          64
-        ],
-        "high": [
-          66
-        ],
-        "accuracy.": [
-          67
-        ],
-        "When": [
-          68
-        ],
-        "compared": [
-          69
-        ],
-        "with": [
-          70
-        ],
-        "best": [
-          72
-        ],
-        "obtained": [
-          74
-        ],
-        "an": [
-          76,
-          108,
-          123
-        ],
-        "experienced": [
-          77,
-          124
-        ],
-        "processor,": [
-          78
-        ],
-        "estimated": [
-          81,
-          109
-        ],
-        "via": [
-          82
-        ],
-        "shows": [
-          86
-        ],
-        "only": [
-          87,
-          116
-        ],
-        "0.05%": [
-          89
-        ],
-        "deviation": [
-          90
-        ],
-        "true": [
-          93
-        ],
-        "model": [
-          94
-        ],
-        "velocity.": [
-          95
-        ],
-        "Furthermore,": [
-          96
-        ],
-        "application": [
-          97
-        ],
-        "2D": [
-          100
-        ],
-        "data": [
-          102
-        ],
-        "East": [
-          104
-        ],
-        "Texas": [
-          105
-        ],
-        "resulted": [
-          106
-        ],
-        "in": [
-          107,
-          153
-        ],
-        "value": [
-          112,
-          120
-        ],
-        "differed": [
-          114
-        ],
-        "0.6%": [
-          117
-        ],
-        "derived": [
-          121
-        ],
-        "processor.": [
-          125
-        ],
-        "effects": [
-          130
-        ],
-        "human": [
-          132
-        ],
-        "error,": [
-          133
-        ],
-        "enhances": [
-          134
-        ],
-        "event": [
-          136
-        ],
-        "flattening,": [
-          137
-        ],
-        "ultimately": [
-          139
-        ],
-        "improves": [
-          140
-        ],
-        "signal-to-noise": [
-          142
-        ],
-        "ratio": [
-          143
-        ],
-        "(SNR),": [
-          144
-        ],
-        "making": [
-          145
-        ],
-        "it": [
-          146
-        ],
-        "valuable": [
-          148
-        ],
-        "tool": [
-          149
-        ],
-        "subsurface": [
-          151
-        ],
-        "imaging": [
-          152
-        ],
-        "complex": [
-          154
-        ],
-        "geological": [
-          155
-        ],
-        "environments.": [
-          156
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -140575,9 +139312,16 @@
           "is_corresponding": true,
           "raw_author_name": "Ahmed Eleslambouly",
           "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates. ak.eleslambouly@gmail.com.",
             "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates. ak.eleslambouly@gmail.com.",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates",
               "institution_ids": [
@@ -140611,9 +139355,16 @@
           "is_corresponding": false,
           "raw_author_name": "Mohammed Y. Ali",
           "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates.",
             "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates.",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates",
               "institution_ids": [
@@ -140647,9 +139398,16 @@
           "is_corresponding": false,
           "raw_author_name": "Fateh Bouchaala",
           "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates.",
             "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates.",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates",
               "institution_ids": [
@@ -140683,9 +139441,16 @@
           "is_corresponding": false,
           "raw_author_name": "Ammar El-Husseiny",
           "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -140719,9 +139484,16 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullatif Al-Shuhail",
           "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -140755,9 +139527,16 @@
           "is_corresponding": false,
           "raw_author_name": "Sherif M. Hanafy",
           "raw_affiliation_strings": [
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
             "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
@@ -140791,9 +139570,16 @@
           "is_corresponding": false,
           "raw_author_name": "Jun Matsushima",
           "raw_affiliation_strings": [
+            "Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, Japan.",
             "Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, Japan"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, Japan.",
+              "institution_ids": [
+                "https://openalex.org/I74801974"
+              ]
+            },
             {
               "raw_affiliation_string": "Graduate School of Frontier Sciences, The University of Tokyo, Tokyo, Japan",
               "institution_ids": [
@@ -141075,7 +139861,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-12-30T23:08:21.542490",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-11-28T00:00:00"
     },
     {

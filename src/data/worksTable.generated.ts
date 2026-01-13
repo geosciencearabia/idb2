@@ -2398,8 +2398,7 @@ export const worksTable: WorkTableRecord[] = [
       "Justin V. Strauss",
       "Adhipa Herlambang",
       "Abdulwahab Muhammad Bello",
-      "Khalid Al–Ramadan",
-      "Khalid Al-Ramadan"
+      "Khalid Al–Ramadan"
     ],
     "title": "SEDIMENTARY STYLE &amp; RELATED FACIES ARCHITECTURE IN FAULT-ASSOCIATED MIX CLASTIC-CARBONATE SYSTEMS OF ISOLATED BASINS: AN EXAMPLE FROM EDIACARAN DHAIQA BASIN IN SAUDI ARABIA",
     "publicationDate": "2023-01-01",
@@ -8457,6 +8456,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Ministry of Earth Sciences",
+      "National Centre for Antarctic and Ocean Research",
       "King Fahd University of Petroleum and Minerals"
     ]
   },
@@ -11127,7 +11127,6 @@ export const worksTable: WorkTableRecord[] = [
       "Maria Kirchenbaur",
       "Scott Whattam",
       "Mark K. Reagan",
-      "Julian A. Pearce",
       "Julian A. Pearce"
     ],
     "title": "CHEMOSTRATIGRAPHY OF SUBDUCTION INITIATION: IODP EXPEDITION 352 BONINITE AND FAB",
@@ -11444,7 +11443,6 @@ export const worksTable: WorkTableRecord[] = [
       "Wendy R. Nelson",
       "Julie Prytulak",
       "Kenji Shimizu",
-      "Scott Whattam",
       "Scott Whattam"
     ],
     "title": "FINE-SCALE SHIPBOARD RESOLUTION AMONG MAFIC IGNEOUS ROCK SEQUENCES RECOVERED DURING OCEAN DRILLING: QUANTITATIVE PXRF DETERMINATION OF KEY ELEMENTS ON ROCK SURFACES AND POWDERS DURING IODP EXPEDITION 352",
@@ -11475,7 +11473,6 @@ export const worksTable: WorkTableRecord[] = [
       "Robert J. Stern",
       "Scott Whattam",
       "Taras Gerya",
-      "James Pindell",
       "James Pindell"
     ],
     "title": "<b> </b>TWO-STAGE SUBDUCTION INITIATION AROUND THE CARIBBEAN PLUMEHEAD PLATE<b> </b>",
@@ -26765,8 +26762,8 @@ export const worksTable: WorkTableRecord[] = [
       "Radiation Dose and Imaging"
     ],
     "institutions": [
-      "Gombe State University",
       "Universiti Sains Malaysia",
+      "Gombe State University",
       "Federal University Lafia",
       "King Fahd University of Petroleum and Minerals",
       "Sokoto State University",
@@ -27575,7 +27572,9 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Khalifa University of Science and Technology",
       "BP (United Kingdom)",
-      "Abu Dhabi National Oil (United Arab Emirates)"
+      "Abu Dhabi National Oil (United Arab Emirates)",
+      "Abu Dhabi Health Services",
+      "Halliburton (United Kingdom)"
     ]
   },
   {
@@ -27941,7 +27940,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Khalifa University of Science and Technology",
-      "University of Petroleum"
+      "Halliburton (United Kingdom)"
     ]
   },
   {
@@ -30536,6 +30535,7 @@ export const worksTable: WorkTableRecord[] = [
       "Geochemistry and Elemental Analysis"
     ],
     "institutions": [
+      "Saudi Aramco Medical Services Organization",
       "Saudi Aramco (Saudi Arabia)",
       "King Fahd University of Petroleum and Minerals",
       "China University of Geosciences"
@@ -31006,6 +31006,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "Bruker (United States)",
+      "Fluidda (Belgium)",
       "Saudi Aramco (Saudi Arabia)"
     ]
   },
@@ -32246,7 +32247,6 @@ export const worksTable: WorkTableRecord[] = [
       "Abduljamiu O. Amao",
       "Daffa Arrofi",
       "Asmaa Korin",
-      "Michael Anthony Kaminski",
       "Michael Anthony Kaminski"
     ],
     "title": "SURFACE WARMING CONCERNS IN THE INTERTIDAL COASTAL AREA OF ARABIAN GULF AND HOW RESILIENT THE LIVING COMMUNITIES WITHIN",
@@ -33351,7 +33351,6 @@ export const worksTable: WorkTableRecord[] = [
       "Bassam Tawabini",
       "Abduljamiu O. Amao",
       "Asmaa Korin",
-      "Michael Anthony Kaminski",
       "Michael Anthony Kaminski"
     ],
     "title": "REVIEWING THE MODERN LARGER BENTHIC FORAMINIFERA DIVERSITY AND DEFORMITIES IN THE HYPERSALINE ARABIAN GULF: WHAT DO WE KNOW BASED ON ECOLOGICAL UPDATES?",
@@ -33381,7 +33380,6 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthors": [
       "Abduljamiu O. Amao",
       "Khalid Al–Ramadan",
-      "Fabrizio Frontalini",
       "Fabrizio Frontalini"
     ],
     "title": "ESTABLISHING A THERMOTOLERANT BENTHIC FORAMINIFERA DATABASE USING A STACKED SPECIES DISTRIBUTION MODEL",
@@ -33511,7 +33509,6 @@ export const worksTable: WorkTableRecord[] = [
       "Pamela Hallock",
       "Eqbal Al-Enezi",
       "Amr S. Zaky",
-      "Fabrizio Frontalini",
       "Fabrizio Frontalini"
     ],
     "title": "BENTHIC FORAMINIFERA IN THE ARABIAN GULF: REVEALING UNEXPECTED DIVERSITY IN AN EXTREME ENVIRONMENT",
@@ -33601,11 +33598,7 @@ export const worksTable: WorkTableRecord[] = [
       "Mutiu Adelodun Akinpelu",
       "Abduljamiu O. Amao",
       "Ash-Shu’ara Marafa Salman",
-      "David S Gabriel",
-      "Ash-Shu’ara Marafa Salman",
-      "Department of Civil Engineering, Kwara State University, Malete, Kwara State, Nigeria",
-      "Daniel Sunday Gabriel",
-      "Department of Civil Engineering, University of Calgary, Canada"
+      "David S Gabriel"
     ],
     "title": "Sustainable self-compacting concrete: A study on the combined effects of waste glass powder and metakaolin as cement replacements",
     "publicationDate": "2025-01-01",
@@ -33772,8 +33765,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "firstAuthorLastName": "Amao",
     "allAuthors": [
-      "Abduljamiu O. Amao",
-      "Abduljamiu Amao"
+      "Abduljamiu O. Amao"
     ],
     "title": "Predicting Climate Change Impacts on Temperature-Sensitive Benthic Foraminifera in the Arabian Gulf: Species Distribution Models Across SSP Scenarios",
     "publicationDate": "2025-01-01",
@@ -36574,7 +36566,6 @@ export const worksTable: WorkTableRecord[] = [
       "Aviandy W. Ismanto",
       "Septriandi A. Chan",
       "Osman Abdullatif",
-      "Michael A. Kaminski",
       "Michael A. Kaminski"
     ],
     "title": "MICROFACIES AND DEPOSITIONAL ENVIRONMENTS OF THE BATHONIAN-BAJOCIAN MIDDLE DHRUMA CARBONATES, CENTRAL SAUDI ARABIA",
@@ -36763,8 +36754,7 @@ export const worksTable: WorkTableRecord[] = [
       "Michael A. Kaminski",
       "Michael A. Kaminski",
       "Osman Abdullatif",
-      "Osman Abdullatif",
-      "Osman M. Abdullatif"
+      "Osman Abdullatif"
     ],
     "title": "STABLE ISOTOPE CHEMOSTRATIGRAPHY OF A BIOTURBATED MIDDLE JURASSIC CARBONATE SEQUENCE, CENTRAL SAUDI ARABIA: PALEOTEMPERATURE RECONSTRUCTION, DEPOSITION ENVIRONMENT AND DIAGENETIC INTERPRETATIONS",
     "publicationDate": "2019-01-01",
@@ -39719,6 +39709,7 @@ export const worksTable: WorkTableRecord[] = [
       "Taiz University",
       "Bahria University",
       "Universiti Teknologi Petronas",
+      "University of Malaya",
       "King Saud University"
     ]
   },
@@ -43065,11 +43056,7 @@ export const worksTable: WorkTableRecord[] = [
       "Wan Hasiah Abdullah",
       "Mohammed Hail Hakimi",
       "lsmail el-Forjani Shushan",
-      "Abdul Hadi Abdul Rahman",
-      "lsmail el-Forjani Shushan",
-      "Department of Earth Sciences & Environment, Elmergib University, Elkhomes, Libya",
-      "Abdul Hadi Abdul Rahman",
-      "Department of Geoscience and Petroleum Engineering, Universiti Teknologi Petronas, Tronoh, Perak, Malaysia"
+      "Abdul Hadi Abdul Rahman"
     ],
     "title": "Petroleum source rock characteristics of marine versus coastal settings: A comparative study between Madbi Formation of Masila Basin, Yemen and Nyalau Formation of Sarawak, Malaysia",
     "publicationDate": "2017-06-01",
@@ -43376,13 +43363,7 @@ export const worksTable: WorkTableRecord[] = [
       "Mohammed Hail Hakimi",
       "Ali Y. Kahal",
       "Waqas Naseem",
-      "Hijaz Kamal Hasnan",
-      "Hijaz Kamal Hasnan",
-      "Department of Geology, Institute of Science, Banaras Hindu University, Varanasi 221005, India",
-      "Department of Petroleum Engineering and GeoEngineering, Rajiv Gandhi Institute of Petroleum Technology, Jais 229304, India",
-      "Institute of Geology and Petroleum Technologies, Kazan Federal University, Kazan 420008, Russia",
-      "Geology and Geophysics Department, King Saud University, Riyadh 11451, Saudi Arabia",
-      "Department of Geology, University of Poonch, Rawalakot 12350, Pakistan"
+      "Hijaz Kamal Hasnan"
     ],
     "title": "Evaluating the hydrocarbon generation potential of the Paleocene–Eocene carbonaceous rocks in the Barmer and Bikaner-Nagaur Basins, western Rajasthan, India",
     "publicationDate": "2025-01-01",
@@ -43789,8 +43770,8 @@ export const worksTable: WorkTableRecord[] = [
       "Petroleum Processing and Analysis"
     ],
     "institutions": [
-      "Taiz University",
       "Kazan Federal University",
+      "Taiz University",
       "Yarmouk University",
       "University of Malaya",
       "King Saud University",
@@ -44419,10 +44400,7 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthors": [
       "Mohammed Hail Hakimi",
       "Wan Hasiah Abdullah",
-      "Mohamed Ragab Shalaby",
-      "Department of Geology, University of Malaya, 50603 Kuala Lumpur",
-      "Mohamed R. Shalaby",
-      "Department of Geology, University of Malaya, 50603 Kuala Lumpur"
+      "Mohamed Ragab Shalaby"
     ],
     "title": "Organic geochemistry and thermal maturity of the Madbi Formation, East Shabowah Oilfields, Masila Basin, Yemen",
     "publicationDate": "2010-12-01",
@@ -44609,12 +44587,7 @@ export const worksTable: WorkTableRecord[] = [
       "Ameen A. Al‐Muntaser",
       "Mohammed Hail Hakimi",
       "Xiang Zhou",
-      "Mikhail A. Varfolomeev",
-      "Geology Department, Faculty of Applied Science, Taiz University,",
-      "X. Zhou",
-      "Department of Petroleum Engineering, Kazan Federal University",
-      "M.A. Varfolomeev",
-      "Department of Petroleum Engineering, Kazan Federal University"
+      "Mikhail A. Varfolomeev"
     ],
     "title": "Estimation of unconventional tight oil reservoir potential using geochemical, mineralogical and petrographical characteristics of the Domanik Formation from North Samara region in the Volga-Ural Basin, Russia",
     "publicationDate": "2023-10-18",
@@ -45498,11 +45471,7 @@ export const worksTable: WorkTableRecord[] = [
       "Aref Lashin",
       "Mohammed Almobarky",
       "Afikah Rahim",
-      "Rahim Afikah",
-      "Department of Petroleum Engineering, Kazan Federal University, Kazan 420008, Russia",
-      "Department of Geoscience, Universiti Teknologi PETRONAS, Seri Iskandar 32610, Malaysia",
-      "King Saud University, College of Engineering-Petroleum and Natural Gas Engineering Department, Riyadh 11421, Saudi Arabia",
-      "Department of Geotecnics & Transportation, Faculty of Civil Engineering, Universiti Teknologi Malaysia, Johor Bahru 81310, Malaysia"
+      "Rahim Afikah"
     ],
     "title": "Organic geochemistry and basin modeling of the Eocene Mangahewa source rock system in the Pohokura oilfield, Taranaki Basin (New Zealand) and their indication of oil and gas potential",
     "publicationDate": "2024-12-12",
@@ -45937,6 +45906,7 @@ export const worksTable: WorkTableRecord[] = [
       "Kazan Federal University",
       "University of Babylon",
       "University of Petroleum",
+      "Sana'a University",
       "Zarubezhneft",
       "Taiz University"
     ]
@@ -49150,13 +49120,15 @@ export const worksTable: WorkTableRecord[] = [
       "Geological formations and processes"
     ],
     "institutions": [
-      "Universität Hamburg",
+      "Hamburg Institut (Germany)",
       "Woods Hole Oceanographic Institution",
+      "Universität Hamburg",
       "GEOMAR Helmholtz Centre for Ocean Research Kiel",
-      "Williams (United Kingdom)",
       "University of Manchester",
+      "Williams (United Kingdom)",
       "King Abdullah University of Science and Technology",
       "Kiel University",
+      "Sudan Academy of Sciences",
       "Red Sea University"
     ]
   },
@@ -66382,14 +66354,16 @@ export const worksTable: WorkTableRecord[] = [
       "Université de Poitiers",
       "Swedish Museum of Natural History",
       "University of Southern Denmark",
+      "Odense Municipality",
       "Université de Lille",
-      "Université de Lorraine",
       "Centre de Recherches Pétrographiques et Géochimiques",
-      "Institut de Paléontologie Humaine",
+      "Université de Lorraine",
       "Histoire Naturelle de l’Homme Préhistorique",
+      "Institut de Paléontologie Humaine",
+      "Institut de Recherche pour le Développement",
       "Institut de minéralogie, de physique des matériaux et de cosmochimie",
       "Sorbonne Université",
-      "Institut de Recherche pour le Développement",
+      "Université Paris Cité",
       "Université de Rennes",
       "Géosciences Rennes",
       "Stockholm University",
@@ -66398,7 +66372,7 @@ export const worksTable: WorkTableRecord[] = [
       "Laboratoire d’HYdrologie et de GEochimie",
       "Études-Recherches-Matériaux (France)",
       "Ifremer",
-      "Leibniz Centre for Tropical Marine Research",
+      "University of Bremen",
       "National Agency for National Parks",
       "University of California, Riverside"
     ]
@@ -71601,8 +71575,8 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis"
     ],
     "institutions": [
-      "Stanford University",
       "Planetary Science Institute",
+      "Stanford University",
       "Virginia Tech",
       "King Fahd University of Petroleum and Minerals",
       "Trinity University",
@@ -71754,8 +71728,7 @@ export const worksTable: WorkTableRecord[] = [
       "Luis A. González",
       "Eugene C. Rankey",
       "Stephen T. Hasiotis",
-      "Dave L. Cantrell",
-      "Dave Cantrell"
+      "Dave L. Cantrell"
     ],
     "title": "MIDDLE – UPPER JURASSIC (UPPER CALLOVIAN TO LOWER KIMMERIDGIAN) CARBON ISOTOPE CHEMOSTRATIGRAPHY FROM CENTRAL SAUDI ARABIA",
     "publicationDate": "2016-01-01",
@@ -71787,8 +71760,7 @@ export const worksTable: WorkTableRecord[] = [
       "Stephen T. Hasiotis",
       "Eugene C. Rankey",
       "Luis A. González",
-      "Dave L. Cantrell",
-      "Dave Cantrell"
+      "Dave L. Cantrell"
     ],
     "title": "INTEGRATION OF HIGH-RESOLUTION SEQUENCE STRATIGRAPHY AND ICHNOLOGY OF JURASSIC (OXFORDIAN) HANIFA FORMATION, CENTRAL SAUDI ARABIA: OUTCROP STUDY FOR RESERVOIR QUALITY PREDICTION",
     "publicationDate": "2016-01-01",
@@ -71897,8 +71869,7 @@ export const worksTable: WorkTableRecord[] = [
       "Khalid Al-Ramadan",
       "Michele Morsilli",
       "Daniel J. Lehrmann",
-      "Jonathan L. Payne",
-      "Jonathan Payne"
+      "Jonathan L. Payne"
     ],
     "title": "A 514-MILLION-YEAR RECORD OF SKELETAL CONTENT IN MARINE LIMESTONES",
     "publicationDate": "2022-01-01",
@@ -71935,8 +71906,7 @@ export const worksTable: WorkTableRecord[] = [
       "Dave L. Cantrell",
       "Daniel J. Lehrmann",
       "Michele Morsilli",
-      "Jonathan L. Payne",
-      "Jonathan Payne"
+      "Jonathan L. Payne"
     ],
     "title": "SEASHELLS THROUGH TIME: A PHANEROZOIC RECORD OF THE ABUNDANCE OF SKELETAL ORGANISMS",
     "publicationDate": "2023-01-01",
@@ -71975,8 +71945,7 @@ export const worksTable: WorkTableRecord[] = [
       "Dave L. Cantrell",
       "Michele Morsilli",
       "Daniel J. Lehrmann",
-      "Jonathan L. Payne",
-      "Jonathan Payne"
+      "Jonathan L. Payne"
     ],
     "title": "LA-ICPMS STUDY REVEALS LARGE VARIATIONS IN THE REDOX AND DIAGENESIS SENSITIVE TRACE METALS IN SEDIMENTARY CARBONATES AT ~30-MICRON SCALE",
     "publicationDate": "2024-01-01",
@@ -72054,8 +72023,7 @@ export const worksTable: WorkTableRecord[] = [
       "Khalid Al–Ramadan",
       "Dave L. Cantrell",
       "Daniel J. Lehrmann",
-      "Jonathan L. Payne",
-      "Jonathan Payne"
+      "Jonathan L. Payne"
     ],
     "title": "Seafloor through time: A quantitative assessment of the composition of sedimentary carbonates across the Phanerozoic",
     "publicationDate": "2025-01-01",
@@ -72486,8 +72454,8 @@ export const worksTable: WorkTableRecord[] = [
       "Marine Biology and Ecology Research"
     ],
     "institutions": [
-      "University of Kansas",
       "Natural History Museum",
+      "University of Kansas",
       "British Geological Survey"
     ]
   },
@@ -76347,7 +76315,6 @@ export const worksTable: WorkTableRecord[] = [
       "Jan A.I. Hennissen",
       "Edward Hough",
       "Christopher H. Vane",
-      "Michael H. Stephenson",
       "Michael H. Stephenson"
     ],
     "title": "CHARACTERIZATION OF AMORPHOUS ORGANIC MATTER (AOM) IN ORGANIC-RICH SHALES OF THE CARBONIFEROUS PENNINE BASIN (UNITED KINGDOM)",
@@ -79497,8 +79464,7 @@ export const worksTable: WorkTableRecord[] = [
       "Michele Morsilli",
       "Pulkit Singh",
       "Jonathan L. Payne",
-      "Daniel J. Lehrmann",
-      "Daniel Lehrmann"
+      "Daniel J. Lehrmann"
     ],
     "title": "SEDIMENTOLOGIC AND PALEOCLIMATE EVALUATION OF END-PERMIAN EXTINCTION AND MIXED SILICICLASTIC CARBONATE DEPOSITION WITHIN THE KHUFF FORMATION IN CENTRAL SAUDI ARABIA",
     "publicationDate": "2021-01-01",
@@ -82956,29 +82922,31 @@ export const worksTable: WorkTableRecord[] = [
       "Evolution and Paleontology Studies"
     ],
     "institutions": [
-      "Oxford Archaeology",
       "University of Oxford",
       "Max Planck Institute for the Science of Human History",
+      "Oxford Archaeology",
       "Griffith University",
       "Australian National University",
+      "United States Geological Survey",
       "Saudi Aramco (Saudi Arabia)",
       "King's College London",
-      "University of Bergen",
       "Royal Holloway University of London",
+      "University of Bergen",
       "National Research Center on Human Evolution",
       "University of Cambridge",
+      "Department of Archaeology",
       "Natural History Museum",
-      "University of Kent",
       "Max Planck Institute for Evolutionary Anthropology",
+      "University of Kent",
       "Liverpool John Moores University",
       "Western University",
-      "UNSW Sydney",
       "Environmental Earth Sciences",
+      "UNSW Sydney",
       "University of Queensland",
       "King Saud University",
       "Hazara University",
-      "National Museum of Natural History",
-      "Smithsonian Institution"
+      "Smithsonian Institution",
+      "National Museum of Natural History"
     ]
   },
   {
@@ -83595,16 +83563,21 @@ export const worksTable: WorkTableRecord[] = [
     "citations": 0,
     "topics": [],
     "institutions": [
-      "University of Cologne",
       "University of Malta",
+      "University of Cologne",
       "Griffith University",
+      "Ministry of Culture",
       "University of Pittsburgh",
       "Saudi Aramco (Saudi Arabia)",
       "Durham University",
+      "University of Liverpool",
       "Max Planck Institute for the Science of Human History",
       "Max Planck Institute of Geoanthropology",
       "University of Queensland",
       "King's College London",
+      "United States Geological Survey",
+      "China Geological Survey",
+      "Queensland Department of Environment and Science",
       "Landesamt für Archäologie Sachsen",
       "Max Planck Institute for Chemistry",
       "King Saud University",
@@ -83633,8 +83606,7 @@ export const worksTable: WorkTableRecord[] = [
       "Ahmed A. Bahameem",
       "Mohammed A. Haptari",
       "Abdullah Memesh",
-      "Iyad S. Zalmout",
-      "Iyad Zalmout"
+      "Iyad S. Zalmout"
     ],
     "title": "Paleontology of the Jurassic Amran Formation in Jazan Region, SW Saudi Arabia",
     "publicationDate": "2025-01-01",
@@ -83843,6 +83815,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Graz",
+      "Noble (United States)",
       "Oklahoma State University",
       "King Abdulaziz University",
       "Norwegian Geological Survey",
@@ -91677,8 +91650,8 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of Adelaide",
       "PTT Public Company Limited (Thailand)",
-      "Ghent University",
       "Chiang Mai University",
+      "Ghent University",
       "Curtin University",
       "Chulalongkorn University"
     ]
@@ -92375,7 +92348,6 @@ export const worksTable: WorkTableRecord[] = [
       "Morgan Blades",
       "Sarah Gilbert",
       "Jacob A. Mulder",
-      "Kathryn Amos",
       "Kathryn Amos"
     ],
     "title": "Mid- to Late Neoproterozoic Development and Provenance of the Adelaide Superbasin",
@@ -95157,7 +95129,6 @@ export const worksTable: WorkTableRecord[] = [
       "Juraj Farkaš",
       "Morgan Blades",
       "Morgan Blades",
-      "Jarred Lloyd",
       "Jarred Lloyd",
       "Jarred Lloyd"
     ],
@@ -103458,8 +103429,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
-      "University of Western Australia",
-      "ET Enterprises (United Kingdom)"
+      "University of Western Australia"
     ]
   },
   {
@@ -104483,6 +104453,7 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrology and Sediment Transport Processes"
     ],
     "institutions": [
+      "Pertamina (Indonesia)",
       "King Fahd University of Petroleum and Minerals",
       "Saudi Aramco (Saudi Arabia)"
     ]
@@ -109928,6 +109899,45 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4281768127",
+    "doi": "https://doi.org/10.1038/s41598-022-13186-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5054681283",
+      "A5050486511",
+      "A5036557426",
+      "A5051278160",
+      "A5078355178"
+    ],
+    "firstAuthorLastName": "Koeshidayatullah",
+    "allAuthors": [
+      "Ardiansyah Koeshidayatullah",
+      "Nawwar Al-Sinawi",
+      "Peter K. Swart",
+      "Adrian J. Boyce",
+      "Jonathan Redfern",
+      "Cathy Hollis"
+    ],
+    "title": "Coevolution of diagenetic fronts and fluid-fracture pathways",
+    "publicationDate": "2022-06-03",
+    "year": 2022,
+    "venue": "Scientific Reports",
+    "citations": 11,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Paleontology and Stratigraphy of Fossils",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Manchester",
+      "University of Miami",
+      "Scottish Universities Environmental Research Centre"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4408145121",
     "doi": "https://doi.org/10.1109/access.2025.3547931",
     "program": "",
@@ -110376,6 +110386,7 @@ export const worksTable: WorkTableRecord[] = [
       "Reservoir Engineering and Simulation Methods"
     ],
     "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
       "King Fahd University of Petroleum and Minerals"
     ]
   },
@@ -110558,45 +110569,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Peshawar",
       "Peking University",
       "Institute of Geochemistry"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4281768127",
-    "doi": "https://doi.org/10.1038/s41598-022-13186-1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5054681283",
-      "A5050486511",
-      "A5036557426",
-      "A5051278160",
-      "A5078355178"
-    ],
-    "firstAuthorLastName": "Koeshidayatullah",
-    "allAuthors": [
-      "Ardiansyah Koeshidayatullah",
-      "Nawwar Al-Sinawi",
-      "Peter K. Swart",
-      "Adrian J. Boyce",
-      "Jonathan Redfern",
-      "Cathy Hollis"
-    ],
-    "title": "Coevolution of diagenetic fronts and fluid-fracture pathways",
-    "publicationDate": "2022-06-03",
-    "year": 2022,
-    "venue": "Scientific Reports",
-    "citations": 10,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Paleontology and Stratigraphy of Fossils",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Manchester",
-      "University of Miami",
-      "Scottish Universities Environmental Research Centre"
     ]
   },
   {
@@ -111033,9 +111005,8 @@ export const worksTable: WorkTableRecord[] = [
       "St. Lawrence University",
       "King Fahd University of Petroleum and Minerals",
       "China University of Geosciences (Beijing)",
-      "Xinjiang Institute of Ecology and Geography",
-      "Institute of Ecology and Geography",
       "Chinese Academy of Sciences",
+      "Xinjiang Institute of Ecology and Geography",
       "University of Exeter",
       "University of Peshawar",
       "Hebei GEO University"
@@ -111508,8 +111479,7 @@ export const worksTable: WorkTableRecord[] = [
       "Elizabeth J. Trower",
       "Benjamin P. Smith",
       "Ardiansyah Koeshidayatullah",
-      "Jonathan L. Payne",
-      "Jonathan Payne"
+      "Jonathan L. Payne"
     ],
     "title": "DO MARINE OOID SIZES RECORD PHANEROZOIC SEAWATER CARBONATE CHEMISTRY?",
     "publicationDate": "2022-01-01",
@@ -111546,8 +111516,8 @@ export const worksTable: WorkTableRecord[] = [
       "Hydraulic Fracturing and Reservoir Analysis"
     ],
     "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "Saudi Aramco (Saudi Arabia)"
+      "Saudi Aramco (Saudi Arabia)",
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -111570,8 +111540,7 @@ export const worksTable: WorkTableRecord[] = [
       "Fiona Whitaker",
       "Ardiansyah Koeshidayatullah",
       "Jack Stacey",
-      "Cole A. McCormick",
-      "Cole McCormick"
+      "Cole A. McCormick"
     ],
     "title": "HYDROTHERMAL DOLOMITIZATION: NEW TECHNIQUES SHED LIGHT ON AN OLD PARADIGM",
     "publicationDate": "2023-01-01",
@@ -111614,7 +111583,6 @@ export const worksTable: WorkTableRecord[] = [
       "Ardiansyah Koeshidayatullah",
       "Paul Johnston",
       "Christopher J. Collom",
-      "Cathy Hollis",
       "Cathy Hollis"
     ],
     "title": "MG-RICH BRINE SEEPS IN THE BURGESS SHALE LAGERSTÄTTE CONSTRAINED BY DOLOMITE U–PB GEOCHRONOLOGY",
@@ -112120,8 +112088,7 @@ export const worksTable: WorkTableRecord[] = [
       "Daniel J. Lehrmann",
       "Michele Morsilli",
       "Ardiansyah Koeshidayatullah",
-      "Jonathan L. Payne",
-      "Jonathan Payne"
+      "Jonathan L. Payne"
     ],
     "title": "Bivalve Fossils of the Earliest Triassic in Central Saudi Arabia: Systematic Paleontology and Paleobiological Analysis",
     "publicationDate": "2025-01-01",
@@ -112751,11 +112718,11 @@ export const worksTable: WorkTableRecord[] = [
       "Microbial Community Ecology and Physiology"
     ],
     "institutions": [
-      "The Scarborough Hospital",
       "University of Toronto",
-      "International Space Science Institute",
-      "ETH Zurich",
+      "The Scarborough Hospital",
       "Qatar University",
+      "ETH Zurich",
+      "International Space Science Institute",
       "Jet Propulsion Laboratory",
       "ExxonMobil (Qatar)",
       "ExxonMobil (United States)"
@@ -112856,7 +112823,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-09-06",
     "year": 2023,
     "venue": "The Science of The Total Environment",
-    "citations": 24,
+    "citations": 25,
     "topics": [
       "Flood Risk Assessment and Management",
       "Hydrology and Watershed Management Studies",
@@ -112884,11 +112851,7 @@ export const worksTable: WorkTableRecord[] = [
       "Erica Esatyana",
       "A. Sakhaee-Pour",
       "Fadhil Sadooni",
-      "Hamad Al-Saad Al-Kuwari",
-      "Fadhil N. Sadooni",
-      "University of Houston",
-      "Hamad Al-Saad Al-Kuwari",
-      "Qatar University"
+      "Hamad Al-Saad Al-Kuwari"
     ],
     "title": "Nanoindentation of Shale Cuttings and Its Application to Core Measurements",
     "publicationDate": "2020-09-22",
@@ -113021,8 +112984,9 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Qatar University",
-      "The Scarborough Hospital",
       "University of Toronto",
+      "The Scarborough Hospital",
+      "Department of Biological Sciences",
       "University of Windsor"
     ]
   },
@@ -113949,12 +113913,7 @@ export const worksTable: WorkTableRecord[] = [
       "Ahmed Kasha",
       "A. Sakhaee-Pour",
       "Fadhil Sadooni",
-      "Hamad Al-Saad Al-Kuwari",
-      "University of Houston",
-      "Fadhil N. Sadooni",
-      "Qatar University",
-      "Hamad Al-Saad Al-Kuwari",
-      "Qatar University"
+      "Hamad Al-Saad Al-Kuwari"
     ],
     "title": "Empirical Relation for Capillary Pressure in Shale",
     "publicationDate": "2022-09-29",
@@ -114105,7 +114064,9 @@ export const worksTable: WorkTableRecord[] = [
       "Qatar University",
       "University of Regensburg",
       "Pontifícia Universidade Católica do Rio Grande do Sul",
-      "Universidade Estadual da Paraíba"
+      "Universidade Federal da Paraíba",
+      "Universidade Estadual da Paraíba",
+      "Centro Universitário de João Pessoa"
     ]
   },
   {
@@ -114784,6 +114745,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Qatar University",
+      "Petroleum Technology Research Centre",
       "University of Regina"
     ]
   },
@@ -116035,7 +115997,8 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Qatar University",
-      "University of Regina"
+      "University of Regina",
+      "Petroleum Technology Research Centre"
     ]
   },
   {
@@ -116173,8 +116136,8 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Qatar University",
-      "International Space Science Institute",
-      "University of Basel"
+      "University of Basel",
+      "International Space Science Institute"
     ]
   },
   {
@@ -117150,9 +117113,9 @@ export const worksTable: WorkTableRecord[] = [
       "Saudi Aramco (Saudi Arabia)",
       "Saudi Aramco (United States)",
       "University of Iceland",
+      "Géosciences Environnement Toulouse",
       "Centre National de la Recherche Scientifique",
-      "Observatoire Midi-Pyrénées",
-      "Géosciences Environnement Toulouse"
+      "Observatoire Midi-Pyrénées"
     ]
   },
   {
@@ -119266,28 +119229,27 @@ export const worksTable: WorkTableRecord[] = [
       "Geological formations and processes"
     ],
     "institutions": [
+      "The University of Texas at Austin",
       "University of Geneva",
       "California Institute of Technology",
-      "The University of Texas at Austin",
       "King Abdullah University of Science and Technology",
       "ETH Zurich",
       "Helmholtz Centre Potsdam - GFZ German Research Centre for Geosciences",
       "Max Planck Institute for Meteorology",
       "University of Milano-Bicocca",
-      "University of British Columbia",
       "University of the Fraser Valley",
+      "University of British Columbia",
       "New York University",
       "Alexandria University",
       "Centre National de la Recherche Scientifique",
-      "Institut Terre & Environnement de Strasbourg",
       "Université de Strasbourg",
+      "National Museum of Natural History",
+      "Smithsonian Institution",
       "Griffith University",
       "University of Queensland",
-      "Smithsonian Institution",
-      "National Museum of Natural History",
+      "Institut de Recherche pour le Développement",
       "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement",
       "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement",
-      "Institut de Recherche pour le Développement",
       "Aix-Marseille Université",
       "Ain Shams University"
     ]
@@ -133358,8 +133320,8 @@ export const worksTable: WorkTableRecord[] = [
       "Coagulation, Bradykinin, Polyphosphates, and Angioedema"
     ],
     "institutions": [
-      "University of Sydney",
-      "Woolcock Institute of Medical Research"
+      "Woolcock Institute of Medical Research",
+      "University of Sydney"
     ]
   },
   {
@@ -133970,8 +133932,7 @@ export const worksTable: WorkTableRecord[] = [
       "Cancer, Stress, Anesthesia, and Immune Response"
     ],
     "institutions": [
-      "University of Sydney",
-      "UNSW Sydney"
+      "University of Sydney"
     ]
   },
   {
@@ -134993,7 +134954,6 @@ export const worksTable: WorkTableRecord[] = [
       "Chen Shen",
       "Mark D. Schmitz",
       "Peter R. Johnson",
-      "Galen Halverson",
       "Galen Halverson"
     ],
     "title": "CYCLOSTRATIGRAPHY OF THE MIDDLE EDIACARAN UPPER JIBALAH GROUP, EASTERN ARABIAN SHIELD, SAUDI ARABIA",
@@ -135046,7 +135006,6 @@ export const worksTable: WorkTableRecord[] = [
       "Peter R. Johnson",
       "Steven Goderis",
       "Philippe Claeys",
-      "Patricia Vickers-Rich",
       "Patricia Vickers-Rich"
     ],
     "title": "A HYDROTHERMAL ORIGIN OF THE STRONTIUM ISOTOPE ANOMALIES IN EDIACARAN CARBONATES OF SAUDI ARABIA",

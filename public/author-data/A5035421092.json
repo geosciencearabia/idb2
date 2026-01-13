@@ -4059,9 +4059,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -5301,9 +5301,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6059,13 +6059,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I159176309",
-              "display_name": "Universität Hamburg",
-              "ror": "https://ror.org/00g30e956",
+              "id": "https://openalex.org/I4210136595",
+              "display_name": "Hamburg Institut (Germany)",
+              "ror": "https://ror.org/03t0n2419",
               "country_code": "DE",
-              "type": "education",
+              "type": "company",
               "lineage": [
-                "https://openalex.org/I159176309"
+                "https://openalex.org/I4210136595"
               ]
             },
             {
@@ -6077,6 +6077,16 @@
               "lineage": [
                 "https://openalex.org/I66958751"
               ]
+            },
+            {
+              "id": "https://openalex.org/I159176309",
+              "display_name": "Universität Hamburg",
+              "ror": "https://ror.org/00g30e956",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I159176309"
+              ]
             }
           ],
           "countries": [
@@ -6086,14 +6096,22 @@
           "is_corresponding": true,
           "raw_author_name": "Jonas Preine",
           "raw_affiliation_strings": [
-            "Department of Geology and Geophysics, Woods Hole Oceanographic Institution, Woods Hole, MA, 02543, USA",
+            "Department of Geology and Geophysics, Woods Hole Oceanographic Institution, Woods Hole, MA, 02543, USA. Jonas.Preine@uni-hamburg.de.",
+            "Institute of Geophysics, University of Hamburg, Bundesstrasse 55, 20146, Hamburg, Germany. Jonas.Preine@uni-hamburg.de.",
             "Institute of Geophysics, University of Hamburg, Bundesstrasse 55, 20146, Hamburg, Germany"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Geology and Geophysics, Woods Hole Oceanographic Institution, Woods Hole, MA, 02543, USA",
+              "raw_affiliation_string": "Department of Geology and Geophysics, Woods Hole Oceanographic Institution, Woods Hole, MA, 02543, USA. Jonas.Preine@uni-hamburg.de.",
               "institution_ids": [
                 "https://openalex.org/I66958751"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institute of Geophysics, University of Hamburg, Bundesstrasse 55, 20146, Hamburg, Germany. Jonas.Preine@uni-hamburg.de.",
+              "institution_ids": [
+                "https://openalex.org/I159176309",
+                "https://openalex.org/I4210136595"
               ]
             },
             {
@@ -6130,9 +6148,16 @@
           "is_corresponding": false,
           "raw_author_name": "Nico Augustin",
           "raw_affiliation_strings": [
+            "GEOMAR Helmholtz Centre for Ocean Research Kiel, Wischofstraße 1-3, 24148, Kiel, Germany.",
             "GEOMAR Helmholtz Centre for Ocean Research Kiel, Wischofstraße 1-3, 24148, Kiel, Germany"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "GEOMAR Helmholtz Centre for Ocean Research Kiel, Wischofstraße 1-3, 24148, Kiel, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I34403800"
+              ]
+            },
             {
               "raw_affiliation_string": "GEOMAR Helmholtz Centre for Ocean Research Kiel, Wischofstraße 1-3, 24148, Kiel, Germany",
               "institution_ids": [
@@ -6150,16 +6175,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210152686",
-              "display_name": "Williams (United Kingdom)",
-              "ror": "https://ror.org/05jzxm583",
-              "country_code": "GB",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210152686"
-              ]
-            },
-            {
               "id": "https://openalex.org/I28407311",
               "display_name": "University of Manchester",
               "ror": "https://ror.org/027m9bs27",
@@ -6167,6 +6182,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I28407311"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210152686",
+              "display_name": "Williams (United Kingdom)",
+              "ror": "https://ror.org/05jzxm583",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210152686"
               ]
             }
           ],
@@ -6176,9 +6201,16 @@
           "is_corresponding": false,
           "raw_author_name": "Neil C. Mitchell",
           "raw_affiliation_strings": [
+            "Department of Earth and Environmental Sciences, University of Manchester, Williamson Building, Oxford Road, Machester, M13 9PL, UK.",
             "Department of Earth and Environmental Sciences, University of Manchester, Williamson Building, Oxford Road, Machester, M13 9PL, UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth and Environmental Sciences, University of Manchester, Williamson Building, Oxford Road, Machester, M13 9PL, UK.",
+              "institution_ids": [
+                "https://openalex.org/I28407311"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth and Environmental Sciences, University of Manchester, Williamson Building, Oxford Road, Machester, M13 9PL, UK",
               "institution_ids": [
@@ -6213,9 +6245,16 @@
           "is_corresponding": false,
           "raw_author_name": "Froukje M. van der Zwan",
           "raw_affiliation_strings": [
+            "King Abdullah University for Science and Technology KAUST, Thuwal, Saudi Arabia.",
             "King Abdullah University for Science and Technology KAUST, Thuwal, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdullah University for Science and Technology KAUST, Thuwal, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
             {
               "raw_affiliation_string": "King Abdullah University for Science and Technology KAUST, Thuwal, Saudi Arabia",
               "institution_ids": [
@@ -6250,9 +6289,16 @@
           "is_corresponding": false,
           "raw_author_name": "Annne-C Wölfl",
           "raw_affiliation_strings": [
+            "GEOMAR Helmholtz Centre for Ocean Research Kiel, Wischofstraße 1-3, 24148, Kiel, Germany.",
             "GEOMAR Helmholtz Centre for Ocean Research Kiel, Wischofstraße 1-3, 24148, Kiel, Germany"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "GEOMAR Helmholtz Centre for Ocean Research Kiel, Wischofstraße 1-3, 24148, Kiel, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I34403800"
+              ]
+            },
             {
               "raw_affiliation_string": "GEOMAR Helmholtz Centre for Ocean Research Kiel, Wischofstraße 1-3, 24148, Kiel, Germany",
               "institution_ids": [
@@ -6286,9 +6332,16 @@
           "is_corresponding": false,
           "raw_author_name": "Martin Schade",
           "raw_affiliation_strings": [
+            "University of Kiel, Kiel, Germany.",
             "University of Kiel, Kiel, Germany"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "University of Kiel, Kiel, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I32021983"
+              ]
+            },
             {
               "raw_affiliation_string": "University of Kiel, Kiel, Germany",
               "institution_ids": [
@@ -6306,6 +6359,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210156887",
+              "display_name": "Sudan Academy of Sciences",
+              "ror": "https://ror.org/058v0t886",
+              "country_code": "SD",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210156887"
+              ]
+            },
+            {
               "id": null,
               "display_name": null,
               "ror": null,
@@ -6320,9 +6383,16 @@
           "is_corresponding": false,
           "raw_author_name": "Yousif A. Izzeldin",
           "raw_affiliation_strings": [
+            "Awasconrc, Gereif W, H4, Bld 376, POB 410, Khartoum, Sudan.",
             "Awasconrc, Gereif W, H4, Bld 376, POB 410, Khartoum, Sudan"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Awasconrc, Gereif W, H4, Bld 376, POB 410, Khartoum, Sudan.",
+              "institution_ids": [
+                "https://openalex.org/I4210156887"
+              ]
+            },
             {
               "raw_affiliation_string": "Awasconrc, Gereif W, H4, Bld 376, POB 410, Khartoum, Sudan",
               "institution_ids": [
@@ -6356,9 +6426,16 @@
           "is_corresponding": false,
           "raw_author_name": "Mudather A. M. Osman",
           "raw_affiliation_strings": [
+            "Institute of Marine Research, Red Sea University, Port Sudan, Sudan.",
             "Institute of Marine Research, Red Sea University, Port Sudan, Sudan"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Marine Research, Red Sea University, Port Sudan, Sudan.",
+              "institution_ids": [
+                "https://openalex.org/I90097577"
+              ]
+            },
             {
               "raw_affiliation_string": "Institute of Marine Research, Red Sea University, Port Sudan, Sudan",
               "institution_ids": [
@@ -6392,9 +6469,16 @@
           "is_corresponding": false,
           "raw_author_name": "Christian Hübscher",
           "raw_affiliation_strings": [
+            "Institute of Geophysics, University of Hamburg, Bundesstrasse 55, 20146, Hamburg, Germany.",
             "Institute of Geophysics, University of Hamburg, Bundesstrasse 55, 20146, Hamburg, Germany"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geophysics, University of Hamburg, Bundesstrasse 55, 20146, Hamburg, Germany.",
+              "institution_ids": [
+                "https://openalex.org/I159176309"
+              ]
+            },
             {
               "raw_affiliation_string": "Institute of Geophysics, University of Hamburg, Bundesstrasse 55, 20146, Hamburg, Germany",
               "institution_ids": [
@@ -6411,8 +6495,9 @@
         "https://openalex.org/A5085921571"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I159176309",
-        "https://openalex.org/I66958751"
+        "https://openalex.org/I4210136595",
+        "https://openalex.org/I66958751",
+        "https://openalex.org/I159176309"
       ],
       "apc_list": {
         "value": 1890,
@@ -6428,7 +6513,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.92993265,
+        "value": 0.92813251,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6896,9 +6981,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6967,14 +7052,360 @@
         "https://openalex.org/W2080117799",
         "https://openalex.org/W2525971369"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "The": [
+          1,
+          118
+        ],
+        "Red": [
+          2,
+          29,
+          44,
+          140
+        ],
+        "Sea": [
+          3,
+          30,
+          45,
+          141
+        ],
+        "Rift": [
+          4,
+          46
+        ],
+        "is": [
+          5
+        ],
+        "an": [
+          6
+        ],
+        "ultra-slow": [
+          7
+        ],
+        "spreading": [
+          8
+        ],
+        "rift": [
+          9,
+          55
+        ],
+        "filled": [
+          10
+        ],
+        "with": [
+          11
+        ],
+        "Miocene": [
+          12
+        ],
+        "salt": [
+          13
+        ],
+        "and": [
+          14,
+          42,
+          66
+        ],
+        "younger": [
+          15
+        ],
+        "sediments.": [
+          16
+        ],
+        "While": [
+          17
+        ],
+        "volcanic": [
+          18,
+          90,
+          107,
+          122
+        ],
+        "features": [
+          19,
+          123
+        ],
+        "can": [
+          20,
+          82
+        ],
+        "be": [
+          21,
+          83
+        ],
+        "observed": [
+          22
+        ],
+        "in": [
+          23,
+          26,
+          35,
+          39,
+          102,
+          124
+        ],
+        "exposed": [
+          24
+        ],
+        "areas": [
+          25
+        ],
+        "the": [
+          27,
+          36,
+          40,
+          53,
+          86,
+          94,
+          103,
+          125,
+          129,
+          139
+        ],
+        "southern": [
+          28
+        ],
+        "Rift,": [
+          31
+        ],
+        "evidence": [
+          32
+        ],
+        "of": [
+          33,
+          70,
+          121,
+          132,
+          138
+        ],
+        "volcanism": [
+          34,
+          114
+        ],
+        "sediment-blanketed": [
+          37
+        ],
+        "regions": [
+          38,
+          127
+        ],
+        "central": [
+          41
+        ],
+        "northern": [
+          43
+        ],
+        "has": [
+          47
+        ],
+        "been": [
+          48
+        ],
+        "lacking,": [
+          49
+        ],
+        "leaving": [
+          50
+        ],
+        "open": [
+          51
+        ],
+        "whether": [
+          52
+        ],
+        "mid-ocean": [
+          54
+        ],
+        "axis": [
+          56
+        ],
+        "continues": [
+          57
+        ],
+        "beneath": [
+          58,
+          85
+        ],
+        "them.": [
+          59
+        ],
+        "Here,": [
+          60
+        ],
+        "we": [
+          61
+        ],
+        "present": [
+          62
+        ],
+        "new": [
+          63
+        ],
+        "multichannel": [
+          64
+        ],
+        "seismic": [
+          65
+        ],
+        "high-resolution": [
+          67
+        ],
+        "bathymetric": [
+          68
+        ],
+        "data": [
+          69,
+          75
+        ],
+        "these": [
+          71
+        ],
+        "blanketed": [
+          72
+        ],
+        "regions.": [
+          73
+        ],
+        "Our": [
+          74
+        ],
+        "reveals": [
+          76
+        ],
+        "multiple": [
+          77
+        ],
+        "instances": [
+          78
+        ],
+        "where": [
+          79
+        ],
+        "oceanic": [
+          80,
+          133
+        ],
+        "crust": [
+          81,
+          134
+        ],
+        "traced": [
+          84
+        ],
+        "evaporite": [
+          87
+        ],
+        "cover,": [
+          88
+        ],
+        "forming": [
+          89
+        ],
+        "edifices": [
+          91
+        ],
+        "protruding": [
+          92
+        ],
+        "through": [
+          93
+        ],
+        "sediment": [
+          95,
+          104
+        ],
+        "cover.": [
+          96
+        ],
+        "We": [
+          97
+        ],
+        "identify": [
+          98
+        ],
+        "abundant": [
+          99
+        ],
+        "circular": [
+          100
+        ],
+        "depressions": [
+          101
+        ],
+        "cover": [
+          105
+        ],
+        "as": [
+          106
+        ],
+        "craters,": [
+          108
+        ],
+        "which": [
+          109
+        ],
+        "formed": [
+          110
+        ],
+        "by": [
+          111
+        ],
+        "deep-sea": [
+          112
+        ],
+        "explosive": [
+          113
+        ],
+        "or": [
+          115
+        ],
+        "caldera": [
+          116
+        ],
+        "collapses.": [
+          117
+        ],
+        "common": [
+          119
+        ],
+        "occurrence": [
+          120
+        ],
+        "sediment-covered": [
+          126
+        ],
+        "supports": [
+          128
+        ],
+        "continuous": [
+          130
+        ],
+        "formation": [
+          131
+        ],
+        "along": [
+          135
+        ],
+        "large": [
+          136
+        ],
+        "parts": [
+          137
+        ],
+        "Rift.": [
+          142
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-12-22T23:10:17.713674",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7402,9 +7833,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10123,9 +10554,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11087,9 +11518,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14352,9 +14783,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16363,9 +16794,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -17296,9 +17727,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5099999904632568,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -18187,9 +18618,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -18992,9 +19423,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -19784,9 +20215,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20516,9 +20947,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20907,9 +21338,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.75,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -21413,9 +21844,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -23297,9 +23728,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -24110,9 +24541,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -25003,9 +25434,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -25895,9 +26326,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -27265,9 +27696,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -27925,9 +28356,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7799999713897705,
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -28350,9 +28781,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -28843,9 +29274,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -30321,9 +30752,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],

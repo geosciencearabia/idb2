@@ -1315,9 +1315,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2407,9 +2407,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4699999988079071,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3276,9 +3276,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3733,7 +3733,7 @@
       "publication_date": "2014-06-25",
       "ids": {
         "openalex": "https://openalex.org/W2115272001",
-        "doi": "https://doi.org/10.3929/ethz-b-000096965",
+        "doi": "https://doi.org/10.1371/journal.pone.0099438",
         "mag": "2115272001",
         "pmid": "https://pubmed.ncbi.nlm.nih.gov/24963687"
       },
@@ -3834,12 +3834,12 @@
           "is_corresponding": true,
           "raw_author_name": "Abderrazak El Albani",
           "raw_affiliation_strings": [
-            "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France",
+            "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France.",
             "IC2MP - Institut de Chimie des Milieux et Matériaux de Poitiers (Université de Poitiers – 4 rue Michel brunet – Bâtiment B27 – TSA 51106 – 86073 Poitiers Cedex 9 - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France",
+              "raw_affiliation_string": "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France.",
               "institution_ids": [
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210087837",
@@ -3864,6 +3864,14 @@
           },
           "institutions": [
             {
+              "id": null,
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": []
+            },
+            {
               "id": "https://openalex.org/I2801711128",
               "display_name": "Swedish Museum of Natural History",
               "ror": "https://ror.org/05k323c76",
@@ -3872,14 +3880,6 @@
               "lineage": [
                 "https://openalex.org/I2801711128"
               ]
-            },
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
             }
           ],
           "countries": [
@@ -3888,12 +3888,12 @@
           "is_corresponding": false,
           "raw_author_name": "Stefan Bengtson",
           "raw_affiliation_strings": [
-            "Department of Palaeozoology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden",
+            "Department of Palaeozoology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden.",
             "Department of Palaeozoology, Swedish Museumof Natural History, Box 50007, SE- (France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Palaeozoology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden",
+              "raw_affiliation_string": "Department of Palaeozoology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden.",
               "institution_ids": [
                 "https://openalex.org/I2801711128"
               ]
@@ -3923,6 +3923,16 @@
               "lineage": [
                 "https://openalex.org/I177969490"
               ]
+            },
+            {
+              "id": "https://openalex.org/I2801484278",
+              "display_name": "Odense Municipality",
+              "ror": "https://ror.org/025csd220",
+              "country_code": "DK",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I2801484278"
+              ]
             }
           ],
           "countries": [
@@ -3931,13 +3941,15 @@
           "is_corresponding": false,
           "raw_author_name": "Donald E. Canfield",
           "raw_affiliation_strings": [
-            "Nordic Center for Earth Evolution, Odense M, Denmark",
+            "Nordic Center for Earth Evolution, Odense M, Denmark.",
             "NORDCEE - Nordic Centre of Earth Evolution (University of Southern Denmark - Campusvej 55 - 5230 Odense M - Denmark)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Nordic Center for Earth Evolution, Odense M, Denmark",
-              "institution_ids": []
+              "raw_affiliation_string": "Nordic Center for Earth Evolution, Odense M, Denmark.",
+              "institution_ids": [
+                "https://openalex.org/I2801484278"
+              ]
             },
             {
               "raw_affiliation_string": "NORDCEE - Nordic Centre of Earth Evolution (University of Southern Denmark - Campusvej 55 - 5230 Odense M - Denmark)",
@@ -3956,16 +3968,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
               "id": "https://openalex.org/I2279609970",
               "display_name": "Université de Lille",
               "ror": "https://ror.org/02kzqn938",
@@ -3973,6 +3975,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I2279609970"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
               ]
             }
           ],
@@ -3982,12 +3994,12 @@
           "is_corresponding": false,
           "raw_author_name": "Armelle Riboulleau",
           "raw_affiliation_strings": [
-            "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France",
+            "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France.",
             "Géosystèmes - UMR 8157 (UMR 8157 - Cité Scientifique Bâtiment SN5 - 59655 VILLENEUVE D'ASCQ CEDEX  - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France",
+              "raw_affiliation_string": "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France.",
               "institution_ids": [
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I1294671590"
@@ -4008,6 +4020,22 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210102569",
+              "display_name": "Centre de Recherches Pétrographiques et Géochimiques",
+              "ror": "https://ror.org/011nqat45",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210102569",
+                "https://openalex.org/I4210148025",
+                "https://openalex.org/I4387156182",
+                "https://openalex.org/I90183372",
+                "https://openalex.org/I90183372"
+              ]
+            },
+            {
               "id": "https://openalex.org/I90183372",
               "display_name": "Université de Lorraine",
               "ror": "https://ror.org/04vfs2w97",
@@ -4026,22 +4054,6 @@
               "lineage": [
                 "https://openalex.org/I1294671590"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210102569",
-              "display_name": "Centre de Recherches Pétrographiques et Géochimiques",
-              "ror": "https://ror.org/011nqat45",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I4210102569",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4387156182",
-                "https://openalex.org/I90183372",
-                "https://openalex.org/I90183372"
-              ]
             }
           ],
           "countries": [
@@ -4050,14 +4062,13 @@
           "is_corresponding": false,
           "raw_author_name": "Claire Rollion Bard",
           "raw_affiliation_strings": [
-            "Centre de Recherches Pétrographiques et Géochimiques, CNRS UMR 7358, Vandoeuvre-lès-Nancy, France",
+            "Centre de Recherches Pétrographiques et Géochimiques, CNRS UMR 7358, Vandoeuvre-lès-Nancy, France.",
             "CRPG - Centre de Recherches Pétrographiques et Géochimiques (CNRS / Université de Lorraine, 15 rue Notre-Dame des Pauvres, 54500 Vandoeuvre-les-Nancy - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Centre de Recherches Pétrographiques et Géochimiques, CNRS UMR 7358, Vandoeuvre-lès-Nancy, France",
+              "raw_affiliation_string": "Centre de Recherches Pétrographiques et Géochimiques, CNRS UMR 7358, Vandoeuvre-lès-Nancy, France.",
               "institution_ids": [
-                "https://openalex.org/I4210102569",
                 "https://openalex.org/I1294671590"
               ]
             },
@@ -4100,16 +4111,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210135999",
-              "display_name": "Institut de Paléontologie Humaine",
-              "ror": "https://ror.org/03zt3va85",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210135999"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210091225",
               "display_name": "Histoire Naturelle de l’Homme Préhistorique",
               "ror": "https://ror.org/00c3ta789",
@@ -4123,6 +4124,16 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210123595"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210135999",
+              "display_name": "Institut de Paléontologie Humaine",
+              "ror": "https://ror.org/03zt3va85",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210135999"
+              ]
             }
           ],
           "countries": [
@@ -4131,24 +4142,23 @@
           "is_corresponding": false,
           "raw_author_name": "Roberto Macchiarelli",
           "raw_affiliation_strings": [
-            "Département Géosciences, Université de Poitiers, Poitiers, France",
-            "Département de Préhistoire, UMR 7194 CNRS, Muséum National d'Histoire Naturelle, Paris, France",
+            "Département Géosciences, Université de Poitiers, Poitiers, France; Département de Préhistoire, UMR 7194 CNRS, Muséum National d'Histoire Naturelle, Paris, France.",
+            "HNHP - Histoire naturelle de l'Homme préhistorique (Institut de Paléontologie Humaine - 1, rue René Panhard - 75013 Paris - France)",
             "Département Géosciences [Université de Poitiers] (Université de Poitiers - UFR SFA\r\n6 rue Michel Brunet - Bât B35\r\nTSA 51106\r\n86073 POITIERS Cedex 9, France - France)",
-            "MNHN - Muséum national d'Histoire naturelle (57, rue Cuvier - 75231 Paris Cedex 05 - France)",
-            "HNHP - Histoire naturelle de l'Homme préhistorique (Institut de Paléontologie Humaine - 1, rue René Panhard - 75013 Paris - France)"
+            "MNHN - Muséum national d'Histoire naturelle (57, rue Cuvier - 75231 Paris Cedex 05 - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Département Géosciences, Université de Poitiers, Poitiers, France",
-              "institution_ids": [
-                "https://openalex.org/I32881790"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Département de Préhistoire, UMR 7194 CNRS, Muséum National d'Histoire Naturelle, Paris, France",
+              "raw_affiliation_string": "Département Géosciences, Université de Poitiers, Poitiers, France; Département de Préhistoire, UMR 7194 CNRS, Muséum National d'Histoire Naturelle, Paris, France.",
               "institution_ids": [
                 "https://openalex.org/I4210091225",
                 "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "HNHP - Histoire naturelle de l'Homme préhistorique (Institut de Paléontologie Humaine - 1, rue René Panhard - 75013 Paris - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210135999"
               ]
             },
             {
@@ -4160,12 +4170,6 @@
             {
               "raw_affiliation_string": "MNHN - Muséum national d'Histoire naturelle (57, rue Cuvier - 75231 Paris Cedex 05 - France)",
               "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "HNHP - Histoire naturelle de l'Homme préhistorique (Institut de Paléontologie Humaine - 1, rue René Panhard - 75013 Paris - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210135999"
-              ]
             }
           ]
         },
@@ -4177,6 +4181,16 @@
             "orcid": null
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
             {
               "id": "https://openalex.org/I32881790",
               "display_name": "Université de Poitiers",
@@ -4200,16 +4214,6 @@
                 "https://openalex.org/I4210087837",
                 "https://openalex.org/I4210128300"
               ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
             }
           ],
           "countries": [
@@ -4218,12 +4222,12 @@
           "is_corresponding": false,
           "raw_author_name": "Lauriss Ngombi Pemba",
           "raw_affiliation_strings": [
-            "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France",
+            "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France.",
             "IC2MP - Institut de Chimie des Milieux et Matériaux de Poitiers (Université de Poitiers – 4 rue Michel brunet – Bâtiment B27 – TSA 51106 – 86073 Poitiers Cedex 9 - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France",
+              "raw_affiliation_string": "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France.",
               "institution_ids": [
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210087837",
@@ -4248,6 +4252,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I177969490",
+              "display_name": "University of Southern Denmark",
+              "ror": "https://ror.org/03yrrjy16",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I177969490"
+              ]
+            },
+            {
               "id": null,
               "display_name": null,
               "ror": null,
@@ -4264,16 +4278,6 @@
               "lineage": [
                 "https://openalex.org/I2801711128"
               ]
-            },
-            {
-              "id": "https://openalex.org/I177969490",
-              "display_name": "University of Southern Denmark",
-              "ror": "https://ror.org/03yrrjy16",
-              "country_code": "DK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I177969490"
-              ]
             }
           ],
           "countries": [
@@ -4283,27 +4287,16 @@
           "is_corresponding": false,
           "raw_author_name": "Emma Hammarlund",
           "raw_affiliation_strings": [
-            "Department of Palaeozoology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden",
-            "Nordic Center for Earth Evolution, Odense M, Denmark",
-            "NORDCEE - Nordic Centre of Earth Evolution (University of Southern Denmark - Campusvej 55 - 5230 Odense M - Denmark)",
+            "Department of Palaeozoology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden; Nordic Center for Earth Evolution, Odense M, Denmark.",
             "NRM - Swedish Museum of Natural History (Frescativägen 40, P.O. Box 50007, 10405 Stockholm - Sweden)",
-            "Department of Palaeozoology, Swedish Museumof Natural History, Box 50007, SE- (France)"
+            "Department of Palaeozoology, Swedish Museumof Natural History, Box 50007, SE- (France)",
+            "NORDCEE - Nordic Centre of Earth Evolution (University of Southern Denmark - Campusvej 55 - 5230 Odense M - Denmark)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Palaeozoology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden",
+              "raw_affiliation_string": "Department of Palaeozoology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden; Nordic Center for Earth Evolution, Odense M, Denmark.",
               "institution_ids": [
                 "https://openalex.org/I2801711128"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Nordic Center for Earth Evolution, Odense M, Denmark",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "NORDCEE - Nordic Centre of Earth Evolution (University of Southern Denmark - Campusvej 55 - 5230 Odense M - Denmark)",
-              "institution_ids": [
-                "https://openalex.org/I177969490"
               ]
             },
             {
@@ -4317,6 +4310,12 @@
               "institution_ids": [
                 null
               ]
+            },
+            {
+              "raw_affiliation_string": "NORDCEE - Nordic Centre of Earth Evolution (University of Southern Denmark - Campusvej 55 - 5230 Odense M - Denmark)",
+              "institution_ids": [
+                "https://openalex.org/I177969490"
+              ]
             }
           ]
         },
@@ -4328,16 +4327,6 @@
             "orcid": "https://orcid.org/0000-0001-7767-3762"
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
             {
               "id": "https://openalex.org/I32881790",
               "display_name": "Université de Poitiers",
@@ -4361,6 +4350,16 @@
                 "https://openalex.org/I4210087837",
                 "https://openalex.org/I4210128300"
               ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
             }
           ],
           "countries": [
@@ -4369,12 +4368,12 @@
           "is_corresponding": false,
           "raw_author_name": "Alain Meunier",
           "raw_affiliation_strings": [
-            "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France",
+            "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France.",
             "IC2MP - Institut de Chimie des Milieux et Matériaux de Poitiers (Université de Poitiers – 4 rue Michel brunet – Bâtiment B27 – TSA 51106 – 86073 Poitiers Cedex 9 - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France",
+              "raw_affiliation_string": "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France.",
               "institution_ids": [
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210087837",
@@ -4399,20 +4398,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210087837",
-              "display_name": "Institut de Chimie des Milieux et des Matériaux de Poitiers",
-              "ror": "https://ror.org/001n7ee52",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I32881790",
-                "https://openalex.org/I4210087837",
-                "https://openalex.org/I4210128300"
-              ]
-            },
-            {
               "id": "https://openalex.org/I1294671590",
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
@@ -4431,6 +4416,20 @@
               "lineage": [
                 "https://openalex.org/I32881790"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210087837",
+              "display_name": "Institut de Chimie des Milieux et des Matériaux de Poitiers",
+              "ror": "https://ror.org/001n7ee52",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I32881790",
+                "https://openalex.org/I4210087837",
+                "https://openalex.org/I4210128300"
+              ]
             }
           ],
           "countries": [
@@ -4439,12 +4438,12 @@
           "is_corresponding": false,
           "raw_author_name": "Idalina Moubiya Mouele",
           "raw_affiliation_strings": [
-            "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France",
+            "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France.",
             "IC2MP - Institut de Chimie des Milieux et Matériaux de Poitiers (Université de Poitiers – 4 rue Michel brunet – Bâtiment B27 – TSA 51106 – 86073 Poitiers Cedex 9 - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France",
+              "raw_affiliation_string": "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France.",
               "institution_ids": [
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210087837",
@@ -4468,6 +4467,19 @@
             "orcid": "https://orcid.org/0000-0002-0553-0137"
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I4210166444",
+              "display_name": "Institut de Recherche pour le Développement",
+              "ror": "https://ror.org/05q3vnk25",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210166444"
+              ]
+            },
             {
               "id": "https://openalex.org/I4210145605",
               "display_name": "Institut de minéralogie, de physique des matériaux et de cosmochimie",
@@ -4498,16 +4510,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210166444",
-              "display_name": "Institut de Recherche pour le Développement",
-              "ror": "https://ror.org/05q3vnk25",
+              "id": "https://openalex.org/I204730241",
+              "display_name": "Université Paris Cité",
+              "ror": "https://ror.org/05f82e368",
               "country_code": "FR",
-              "type": "funder",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210166444"
+                "https://openalex.org/I204730241"
               ]
             }
           ],
@@ -4517,15 +4526,15 @@
           "is_corresponding": false,
           "raw_author_name": "Karim Benzerara",
           "raw_affiliation_strings": [
-            "IMPMC, Sorbonne Universités, UMR 7590, MNHN - UPMC - IRD UMR 206, Paris, France",
+            "IMPMC, Sorbonne Universités, UMR 7590, MNHN - UPMC - IRD UMR 206, Paris, France.",
             "IMPMC - Institut de minéralogie, de physique des matériaux et de cosmochimie (Tour 23 - Barre 22-23 - 4e étage - BC 115 - 4 place Jussieu - 75252 Paris - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "IMPMC, Sorbonne Universités, UMR 7590, MNHN - UPMC - IRD UMR 206, Paris, France",
+              "raw_affiliation_string": "IMPMC, Sorbonne Universités, UMR 7590, MNHN - UPMC - IRD UMR 206, Paris, France.",
               "institution_ids": [
                 "https://openalex.org/I39804081",
-                "https://openalex.org/I4210145605",
+                "https://openalex.org/I204730241",
                 "https://openalex.org/I4210166444"
               ]
             },
@@ -4556,6 +4565,19 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4210166444",
+              "display_name": "Institut de Recherche pour le Développement",
+              "ror": "https://ror.org/05q3vnk25",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I2802818602",
+                "https://openalex.org/I4210090127",
+                "https://openalex.org/I4210131494",
+                "https://openalex.org/I4210166444"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210145605",
               "display_name": "Institut de minéralogie, de physique des matériaux et de cosmochimie",
               "ror": "https://ror.org/05abgg682",
@@ -4575,16 +4597,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210166444",
-              "display_name": "Institut de Recherche pour le Développement",
-              "ror": "https://ror.org/05q3vnk25",
+              "id": "https://openalex.org/I204730241",
+              "display_name": "Université Paris Cité",
+              "ror": "https://ror.org/05f82e368",
               "country_code": "FR",
-              "type": "funder",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210166444"
+                "https://openalex.org/I204730241"
               ]
             }
           ],
@@ -4594,15 +4613,15 @@
           "is_corresponding": false,
           "raw_author_name": "Sylvain Bernard",
           "raw_affiliation_strings": [
-            "IMPMC, Sorbonne Universités, UMR 7590, MNHN - UPMC - IRD UMR 206, Paris, France",
+            "IMPMC, Sorbonne Universités, UMR 7590, MNHN - UPMC - IRD UMR 206, Paris, France.",
             "IMPMC - Institut de minéralogie, de physique des matériaux et de cosmochimie (Tour 23 - Barre 22-23 - 4e étage - BC 115 - 4 place Jussieu - 75252 Paris - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "IMPMC, Sorbonne Universités, UMR 7590, MNHN - UPMC - IRD UMR 206, Paris, France",
+              "raw_affiliation_string": "IMPMC, Sorbonne Universités, UMR 7590, MNHN - UPMC - IRD UMR 206, Paris, France.",
               "institution_ids": [
                 "https://openalex.org/I39804081",
-                "https://openalex.org/I4210145605",
+                "https://openalex.org/I204730241",
                 "https://openalex.org/I4210166444"
               ]
             },
@@ -4664,15 +4683,14 @@
           "is_corresponding": false,
           "raw_author_name": "Philippe Boulvais",
           "raw_affiliation_strings": [
-            "Département Géosciences, UMR 6118, Université de Rennes, Rennes, France",
+            "Département Géosciences, UMR 6118, Université de Rennes, Rennes, France.",
             "GR - Géosciences Rennes (Bâtiment 15 - Université de Rennes 1 - Campus de Beaulieu -263 Av du général Leclerc- CS 74205 - 35042 Rennes Cedex - France - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Département Géosciences, UMR 6118, Université de Rennes, Rennes, France",
+              "raw_affiliation_string": "Département Géosciences, UMR 6118, Université de Rennes, Rennes, France.",
               "institution_ids": [
-                "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802"
+                "https://openalex.org/I4210096833"
               ]
             },
             {
@@ -4735,14 +4753,13 @@
           "is_corresponding": false,
           "raw_author_name": "Marc Chaussidon",
           "raw_affiliation_strings": [
-            "Centre de Recherches Pétrographiques et Géochimiques, CNRS UMR 7358, Vandoeuvre-lès-Nancy, France",
+            "Centre de Recherches Pétrographiques et Géochimiques, CNRS UMR 7358, Vandoeuvre-lès-Nancy, France.",
             "CRPG - Centre de Recherches Pétrographiques et Géochimiques (CNRS / Université de Lorraine, 15 rue Notre-Dame des Pauvres, 54500 Vandoeuvre-les-Nancy - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Centre de Recherches Pétrographiques et Géochimiques, CNRS UMR 7358, Vandoeuvre-lès-Nancy, France",
+              "raw_affiliation_string": "Centre de Recherches Pétrographiques et Géochimiques, CNRS UMR 7358, Vandoeuvre-lès-Nancy, France.",
               "institution_ids": [
-                "https://openalex.org/I4210102569",
                 "https://openalex.org/I1294671590"
               ]
             },
@@ -4791,12 +4808,12 @@
           "is_corresponding": false,
           "raw_author_name": "Christian Cesari",
           "raw_affiliation_strings": [
-            "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France",
+            "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France.",
             "Géosystèmes - UMR 8157 (UMR 8157 - Cité Scientifique Bâtiment SN5 - 59655 VILLENEUVE D'ASCQ CEDEX  - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France",
+              "raw_affiliation_string": "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France.",
               "institution_ids": [
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I1294671590"
@@ -4816,6 +4833,16 @@
             "orcid": "https://orcid.org/0000-0001-5686-6725"
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
             {
               "id": "https://openalex.org/I32881790",
               "display_name": "Université de Poitiers",
@@ -4839,16 +4866,6 @@
                 "https://openalex.org/I4210087837",
                 "https://openalex.org/I4210128300"
               ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
             }
           ],
           "countries": [
@@ -4857,12 +4874,12 @@
           "is_corresponding": false,
           "raw_author_name": "Claude Fontaine",
           "raw_affiliation_strings": [
-            "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France",
+            "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France.",
             "IC2MP - Institut de Chimie des Milieux et Matériaux de Poitiers (Université de Poitiers – 4 rue Michel brunet – Bâtiment B27 – TSA 51106 – 86073 Poitiers Cedex 9 - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France",
+              "raw_affiliation_string": "Institut IC2MP, UMR 7285 CNRS-INSU, Université de Poitiers, Poitiers, France.",
               "institution_ids": [
                 "https://openalex.org/I32881790",
                 "https://openalex.org/I4210087837",
@@ -4911,12 +4928,12 @@
           "is_corresponding": false,
           "raw_author_name": "Ernest Chi-Fru",
           "raw_affiliation_strings": [
-            "Stockholm University, Department of Geological Sciences, SE-106 91, Stockhom, Sweden",
+            "Stockholm University, Department of Geological Sciences, SE-106 91, Stockhom, Sweden.",
             "Department of Geological Sciences (Stockholm University, SE-106 91, Stockhom - Switzerland)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Stockholm University, Department of Geological Sciences, SE-106 91, Stockhom, Sweden",
+              "raw_affiliation_string": "Stockholm University, Department of Geological Sciences, SE-106 91, Stockhom, Sweden.",
               "institution_ids": [
                 "https://openalex.org/I161593684"
               ]
@@ -4965,12 +4982,12 @@
           "is_corresponding": false,
           "raw_author_name": "Juan Manuel Garcia Ruiz",
           "raw_affiliation_strings": [
-            "Instituto Andaluz de Ciencias de la Tierra, CSIC-Universidad de Granada, 18100 Armilla, Granada, Spain",
+            "Instituto Andaluz de Ciencias de la Tierra, CSIC-Universidad de Granada, 18100 Armilla, Granada, Spain.",
             "IACT - Instituto Andaluz de Ciencias de la Tierra (Facultad de Granada, Campus Fuentenueva, ES-18002 Granada - Spain)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Instituto Andaluz de Ciencias de la Tierra, CSIC-Universidad de Granada, 18100 Armilla, Granada, Spain",
+              "raw_affiliation_string": "Instituto Andaluz de Ciencias de la Tierra, CSIC-Universidad de Granada, 18100 Armilla, Granada, Spain.",
               "institution_ids": [
                 "https://openalex.org/I4210095677",
                 "https://openalex.org/I173304897"
@@ -4993,6 +5010,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143832",
               "display_name": "Laboratoire d’HYdrologie et de GEochimie",
               "ror": "https://ror.org/03y81da23",
@@ -5005,16 +5032,6 @@
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I68947357"
               ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
             }
           ],
           "countries": [
@@ -5023,12 +5040,12 @@
           "is_corresponding": false,
           "raw_author_name": "François Gauthier-Lafaye",
           "raw_affiliation_strings": [
-            "Laboratoire d'Hydrologie et de Géochimie de Strasbourg, UMR 7517 CNRS, Strasbourg, France",
+            "Laboratoire d'Hydrologie et de Géochimie de Strasbourg, UMR 7517 CNRS, Strasbourg, France.",
             "LHyGeS - Laboratoire d'Hydrologie et de Géochimie de Strasbourg (1 rue Blessig, F-67084 Strasbourg Cedex - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Laboratoire d'Hydrologie et de Géochimie de Strasbourg, UMR 7517 CNRS, Strasbourg, France",
+              "raw_affiliation_string": "Laboratoire d'Hydrologie et de Géochimie de Strasbourg, UMR 7517 CNRS, Strasbourg, France.",
               "institution_ids": [
                 "https://openalex.org/I4210143832",
                 "https://openalex.org/I1294671590"
@@ -5067,12 +5084,12 @@
           "is_corresponding": false,
           "raw_author_name": "Arnaud Mazurier",
           "raw_affiliation_strings": [
-            "Société Etudes Recherches Matériaux, CRI Biopole, Poitiers, France",
+            "Société Etudes Recherches Matériaux, CRI Biopole, Poitiers, France.",
             "Société ERM = ERM Company - ERM Études Recherches Matériaux (ERM POITIERS - Biopôle - 4, rue Carol Heitz - 86000 Poitiers - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Société Etudes Recherches Matériaux, CRI Biopole, Poitiers, France",
+              "raw_affiliation_string": "Société Etudes Recherches Matériaux, CRI Biopole, Poitiers, France.",
               "institution_ids": [
                 "https://openalex.org/I4210110575"
               ]
@@ -5093,16 +5110,6 @@
             "orcid": "https://orcid.org/0000-0002-7715-3772"
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            },
             {
               "id": "https://openalex.org/I4210096833",
               "display_name": "Géosciences Rennes",
@@ -5127,6 +5134,16 @@
                 "https://openalex.org/I56067802",
                 "https://openalex.org/I56067802"
               ]
+            },
+            {
+              "id": "https://openalex.org/I56067802",
+              "display_name": "Université de Rennes",
+              "ror": "https://ror.org/015m7wh34",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I56067802"
+              ]
             }
           ],
           "countries": [
@@ -5135,15 +5152,14 @@
           "is_corresponding": false,
           "raw_author_name": "Anne Catherine Pierson-Wickmann",
           "raw_affiliation_strings": [
-            "Département Géosciences, UMR 6118, Université de Rennes, Rennes, France",
+            "Département Géosciences, UMR 6118, Université de Rennes, Rennes, France.",
             "GR - Géosciences Rennes (Bâtiment 15 - Université de Rennes 1 - Campus de Beaulieu -263 Av du général Leclerc- CS 74205 - 35042 Rennes Cedex - France - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Département Géosciences, UMR 6118, Université de Rennes, Rennes, France",
+              "raw_affiliation_string": "Département Géosciences, UMR 6118, Université de Rennes, Rennes, France.",
               "institution_ids": [
-                "https://openalex.org/I4210096833",
-                "https://openalex.org/I56067802"
+                "https://openalex.org/I4210096833"
               ]
             },
             {
@@ -5180,12 +5196,12 @@
           "is_corresponding": false,
           "raw_author_name": "Olivier Rouxel",
           "raw_affiliation_strings": [
-            "IFREMER, Department of Physical Resources and Deep-Sea Ecosystems Technopôle Brest-Iroise, Plouzané, France",
+            "IFREMER, Department of Physical Resources and Deep-Sea Ecosystems Technopôle Brest-Iroise, Plouzané, France.",
             "IFREMER - Institut Français de Recherche pour l'Exploitation de la Mer (France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "IFREMER, Department of Physical Resources and Deep-Sea Ecosystems Technopôle Brest-Iroise, Plouzané, France",
+              "raw_affiliation_string": "IFREMER, Department of Physical Resources and Deep-Sea Ecosystems Technopôle Brest-Iroise, Plouzané, France.",
               "institution_ids": [
                 "https://openalex.org/I154202486"
               ]
@@ -5207,16 +5223,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
               "id": "https://openalex.org/I2279609970",
               "display_name": "Université de Lille",
               "ror": "https://ror.org/02kzqn938",
@@ -5224,6 +5230,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I2279609970"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
               ]
             }
           ],
@@ -5233,12 +5249,12 @@
           "is_corresponding": false,
           "raw_author_name": "Alain Trentesaux",
           "raw_affiliation_strings": [
-            "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France",
+            "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France.",
             "Géosystèmes - UMR 8157 (UMR 8157 - Cité Scientifique Bâtiment SN5 - 59655 VILLENEUVE D'ASCQ CEDEX  - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France",
+              "raw_affiliation_string": "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France.",
               "institution_ids": [
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I1294671590"
@@ -5259,16 +5275,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
               "id": "https://openalex.org/I2279609970",
               "display_name": "Université de Lille",
               "ror": "https://ror.org/02kzqn938",
@@ -5276,6 +5282,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I2279609970"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
               ]
             }
           ],
@@ -5285,12 +5301,12 @@
           "is_corresponding": false,
           "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [
-            "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France",
+            "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France.",
             "Géosystèmes - UMR 8157 (UMR 8157 - Cité Scientifique Bâtiment SN5 - 59655 VILLENEUVE D'ASCQ CEDEX  - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France",
+              "raw_affiliation_string": "Laboratoire Géosystèmes, UMR 8217 CNRS, Université Lille 1, Villeneuve d'Ascq, France.",
               "institution_ids": [
                 "https://openalex.org/I2279609970",
                 "https://openalex.org/I1294671590"
@@ -5311,14 +5327,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I2799883060",
-              "display_name": "Leibniz Centre for Tropical Marine Research",
-              "ror": "https://ror.org/019w00969",
+              "id": "https://openalex.org/I180437899",
+              "display_name": "University of Bremen",
+              "ror": "https://ror.org/04ers2y35",
               "country_code": "DE",
-              "type": "facility",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I2799883060",
-                "https://openalex.org/I315704651"
+                "https://openalex.org/I180437899"
               ]
             }
           ],
@@ -5328,14 +5343,14 @@
           "is_corresponding": false,
           "raw_author_name": "Gerard J. M. Versteegh",
           "raw_affiliation_strings": [
-            "Marum Center for Marine Environmental Sciences, Bremen, Germany",
+            "Marum Center for Marine Environmental Sciences, Bremen, Germany.",
             "MARM - Center for Marine Environmental Sciences [Bremen] (Leobener Strasse, 28359 Bremen - Germany)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Marum Center for Marine Environmental Sciences, Bremen, Germany",
+              "raw_affiliation_string": "Marum Center for Marine Environmental Sciences, Bremen, Germany.",
               "institution_ids": [
-                "https://openalex.org/I2799883060"
+                "https://openalex.org/I180437899"
               ]
             },
             {
@@ -5369,12 +5384,12 @@
           "is_corresponding": false,
           "raw_author_name": "Lee White",
           "raw_affiliation_strings": [
-            "Agence Nationale des Parcs Nationaux, BP. 20379, Libreville, Gabon",
+            "Agence Nationale des Parcs Nationaux, BP. 20379, Libreville, Gabon.",
             "Agence Nationale des Parcs Nationaux, (BP 30 379 Libreville, Gabon - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Agence Nationale des Parcs Nationaux, BP. 20379, Libreville, Gabon",
+              "raw_affiliation_string": "Agence Nationale des Parcs Nationaux, BP. 20379, Libreville, Gabon.",
               "institution_ids": [
                 "https://openalex.org/I4210138521"
               ]
@@ -5412,12 +5427,12 @@
           "is_corresponding": false,
           "raw_author_name": "Martin Whitehouse",
           "raw_affiliation_strings": [
-            "Laboratory for Isotope Geology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden",
+            "Laboratory for Isotope Geology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden.",
             "Laboratory for Isotope Geology (Sweden)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Laboratory for Isotope Geology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden",
+              "raw_affiliation_string": "Laboratory for Isotope Geology and Nordic Center for Earth Evolution, Swedish Museum of Natural History, Stockholm, Sweden.",
               "institution_ids": [
                 "https://openalex.org/I2801711128"
               ]
@@ -5453,12 +5468,12 @@
           "is_corresponding": false,
           "raw_author_name": "Andrey Bekker",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of California, Riverside, Riverside, California, United States of America",
+            "Department of Earth Sciences, University of California, Riverside, Riverside, California, United States of America.",
             "Department of Earth Sciences [Riverside] (University of California Riverside, 900 University Ave., Riverside, CA 92521  - United States)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Earth Sciences, University of California, Riverside, Riverside, California, United States of America",
+              "raw_affiliation_string": "Department of Earth Sciences, University of California, Riverside, Riverside, California, United States of America.",
               "institution_ids": [
                 "https://openalex.org/I103635307"
               ]
@@ -5497,7 +5512,7 @@
       "has_fulltext": false,
       "cited_by_count": 113,
       "citation_normalized_percentile": {
-        "value": 0.99247374,
+        "value": 0.99248089,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6468,9 +6483,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6545,18 +6560,18 @@
         "https://openalex.org/W2111653707",
         "https://openalex.org/W2014040966",
         "https://openalex.org/W1991081474",
-        "https://openalex.org/W630962641",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W566083668",
-        "https://openalex.org/W1599178669",
-        "https://openalex.org/W1554081900",
+        "https://openalex.org/W2047215671",
         "https://openalex.org/W1587340106",
         "https://openalex.org/W1592810603",
-        "https://openalex.org/W4389727893",
-        "https://openalex.org/W2047215671",
-        "https://openalex.org/W1915898372",
+        "https://openalex.org/W1554081900",
+        "https://openalex.org/W1599178669",
+        "https://openalex.org/W630962641",
+        "https://openalex.org/W566083668",
+        "https://openalex.org/W2138157155",
         "https://openalex.org/W2807803402",
-        "https://openalex.org/W2138157155"
+        "https://openalex.org/W4389727893",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W1915898372"
       ],
       "related_works": [
         "https://openalex.org/W2741845737",
@@ -7069,7 +7084,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7678,9 +7693,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5600000023841858,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8597,9 +8612,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.6700000166893005,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -9350,9 +9365,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.41999998688697815,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10883,9 +10898,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11554,9 +11569,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5400000214576721,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -12458,9 +12473,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -13274,9 +13289,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14100,9 +14115,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5600000023841858,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -15819,9 +15834,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7799999713897705,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17655,9 +17670,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -18322,9 +18337,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.6200000047683716,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -19089,9 +19104,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.6700000166893005,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -20402,9 +20417,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20842,9 +20857,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6100000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -22154,9 +22169,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -23143,9 +23158,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -23889,9 +23904,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -24522,9 +24537,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -25274,9 +25289,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.699999988079071,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -27009,9 +27024,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -28802,9 +28817,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -29813,9 +29828,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7799999713897705,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -31655,9 +31670,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -32233,9 +32248,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -32955,9 +32970,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -33637,9 +33652,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -34249,9 +34264,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -34901,9 +34916,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5299999713897705,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -35688,9 +35703,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -36487,9 +36502,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -37137,9 +37152,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.6600000262260437,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -37847,9 +37862,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4699999988079071,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -39601,9 +39616,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5899999737739563,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -40776,9 +40791,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -41267,9 +41282,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -41964,9 +41979,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.9100000262260437,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -42851,9 +42866,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -43706,9 +43721,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -44254,9 +44269,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5699999928474426,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -45529,9 +45544,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -47640,9 +47655,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -48377,9 +48392,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4699999988079071,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -49197,9 +49212,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5899999737739563,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -49805,9 +49820,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -51179,9 +51194,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -51787,9 +51802,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -53721,9 +53736,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -54426,9 +54441,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7900000214576721,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -55521,9 +55536,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -56697,9 +56712,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -57157,16 +57172,9 @@
           "is_corresponding": true,
           "raw_author_name": "Marco Vecoli",
           "raw_affiliation_strings": [
-            "Institut für Geologische Wissenschaften, Martin-Luther Universität, MLU Halle/Wittenberg, Domstrasse 5, D-06108 Halle (Saale), Germany",
             "Institut für Geologische Wissenschaften, Martin-Luther Universität, MLU Halle/Wittenberg, Domstrasse 5, D-06108 (Saale), Halle, Germany"
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Institut für Geologische Wissenschaften, Martin-Luther Universität, MLU Halle/Wittenberg, Domstrasse 5, D-06108 Halle (Saale), Germany",
-              "institution_ids": [
-                "https://openalex.org/I68956291"
-              ]
-            },
             {
               "raw_affiliation_string": "Institut für Geologische Wissenschaften, Martin-Luther Universität, MLU Halle/Wittenberg, Domstrasse 5, D-06108 (Saale), Halle, Germany",
               "institution_ids": [
@@ -57238,7 +57246,7 @@
       "has_fulltext": false,
       "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.95146054,
+        "value": 0.95150283,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -57543,9 +57551,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -57653,33 +57661,33 @@
         "https://openalex.org/W2167844526",
         "https://openalex.org/W2898448282",
         "https://openalex.org/W1973194039",
-        "https://openalex.org/W3000101881",
-        "https://openalex.org/W359689399",
-        "https://openalex.org/W2466881079",
-        "https://openalex.org/W2751482271",
-        "https://openalex.org/W2753647789",
-        "https://openalex.org/W2803189466",
-        "https://openalex.org/W2944361179",
-        "https://openalex.org/W2074820021",
-        "https://openalex.org/W116317051",
-        "https://openalex.org/W2909246129",
-        "https://openalex.org/W3111523459",
-        "https://openalex.org/W60414342",
-        "https://openalex.org/W2050580822",
-        "https://openalex.org/W359202993",
-        "https://openalex.org/W3007035870",
-        "https://openalex.org/W3115461955",
-        "https://openalex.org/W2591818728",
-        "https://openalex.org/W2597931178",
-        "https://openalex.org/W367173865",
-        "https://openalex.org/W2103511323",
-        "https://openalex.org/W1998031637",
-        "https://openalex.org/W2063278745",
         "https://openalex.org/W4285719527",
+        "https://openalex.org/W3115461955",
+        "https://openalex.org/W3000101881",
+        "https://openalex.org/W3111523459",
+        "https://openalex.org/W1998031637",
+        "https://openalex.org/W3007035870",
         "https://openalex.org/W4296332607",
+        "https://openalex.org/W116317051",
+        "https://openalex.org/W367173865",
+        "https://openalex.org/W359689399",
+        "https://openalex.org/W359202993",
+        "https://openalex.org/W1821333585",
         "https://openalex.org/W596897292",
+        "https://openalex.org/W60414342",
+        "https://openalex.org/W2063278745",
+        "https://openalex.org/W2074820021",
+        "https://openalex.org/W2103511323",
+        "https://openalex.org/W2944361179",
+        "https://openalex.org/W2591818728",
+        "https://openalex.org/W2803189466",
+        "https://openalex.org/W2597931178",
+        "https://openalex.org/W2751482271",
         "https://openalex.org/W2749954383",
-        "https://openalex.org/W1821333585"
+        "https://openalex.org/W2753647789",
+        "https://openalex.org/W2909246129",
+        "https://openalex.org/W2466881079",
+        "https://openalex.org/W2050580822"
       ],
       "related_works": [
         "https://openalex.org/W2583878401",
@@ -57736,7 +57744,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -57824,12 +57832,12 @@
           "is_corresponding": true,
           "raw_author_name": "J. Samuelsson",
           "raw_affiliation_strings": [
-            "Research Unit Palaeontology, Department of Geology and Pedology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
+            "Research Unit Palaeontology, Department of Geology and Pedology, Ghent University, Krijgslaan 281/S8, B-9000, Ghent, Belgium",
             "Research Unit Palaeontology Department of Geology and Pedology, Ghent University Krijgslaan 281/S8 B-9000 Ghent, Belgium"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Research Unit Palaeontology, Department of Geology and Pedology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
+              "raw_affiliation_string": "Research Unit Palaeontology, Department of Geology and Pedology, Ghent University, Krijgslaan 281/S8, B-9000, Ghent, Belgium",
               "institution_ids": [
                 "https://openalex.org/I32597200"
               ]
@@ -57941,7 +57949,7 @@
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.82504298,
+        "value": 0.8250129,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58253,9 +58261,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -58298,15 +58306,15 @@
         "https://openalex.org/W3007035870",
         "https://openalex.org/W569050622",
         "https://openalex.org/W2898448282",
-        "https://openalex.org/W596897292",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2749954383",
-        "https://openalex.org/W2074820021",
         "https://openalex.org/W1821333585",
-        "https://openalex.org/W3002222432",
+        "https://openalex.org/W596897292",
         "https://openalex.org/W415358279",
+        "https://openalex.org/W2074820021",
         "https://openalex.org/W3111523459",
-        "https://openalex.org/W2800478200"
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W3002222432",
+        "https://openalex.org/W2800478200",
+        "https://openalex.org/W2749954383"
       ],
       "related_works": [
         "https://openalex.org/W2017550441",
@@ -58343,7 +58351,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58819,9 +58827,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7200000286102295,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -59772,9 +59780,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -60928,9 +60936,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -61960,9 +61968,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.46000000834465027,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -62828,9 +62836,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6499999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -63957,9 +63965,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -66821,9 +66829,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.6800000071525574,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -67610,9 +67618,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -68299,9 +68307,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5400000214576721,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -68804,9 +68812,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -70084,9 +70092,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.49000000953674316,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -70459,9 +70467,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -71490,9 +71498,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7599999904632568,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -72629,9 +72637,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -73133,9 +73141,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -73927,9 +73935,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -74714,9 +74722,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.46000000834465027,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -77013,9 +77021,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -78606,9 +78614,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.44999998807907104,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -79760,9 +79768,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.800000011920929,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -80099,9 +80107,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -80436,9 +80444,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.47999998927116394,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -80797,9 +80805,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -81312,9 +81320,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -82304,9 +82312,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.9100000262260437,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -82642,9 +82650,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -83045,9 +83053,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7900000214576721,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -83825,9 +83833,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -84611,9 +84619,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -85082,9 +85090,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6499999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -85488,9 +85496,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4000000059604645,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -86746,9 +86754,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -87468,9 +87476,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -87842,9 +87850,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5400000214576721,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -89416,9 +89424,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -89824,9 +89832,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.41999998688697815,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -90645,9 +90653,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6000000238418579,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -91111,9 +91119,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.699999988079071,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -91887,9 +91895,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.46000000834465027,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -92821,9 +92829,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5299999713897705,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -94603,9 +94611,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -95391,9 +95399,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7799999713897705,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -97979,9 +97987,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

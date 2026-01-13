@@ -4952,9 +4952,16 @@
           "is_corresponding": true,
           "raw_author_name": "Daffa Arrofi",
           "raw_affiliation_strings": [
+            "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia.",
             "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
@@ -4988,9 +4995,16 @@
           "is_corresponding": false,
           "raw_author_name": "Israa S. Abu-Mahfouz",
           "raw_affiliation_strings": [
+            "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia. israa.abumahfouz@kfupm.edu.sa.",
             "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia. israa.abumahfouz@kfupm.edu.sa.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
@@ -5024,9 +5038,16 @@
           "is_corresponding": false,
           "raw_author_name": "Sinatrya Diko Prayudi",
           "raw_affiliation_strings": [
+            "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia.",
             "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geoscience, College of Petroleum and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
@@ -5059,7 +5080,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.91151295,
+        "value": 0.9107906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5405,33 +5426,6 @@
           "raw_type": null
         },
         {
-          "id": "pmh:oai:doaj.org/article:d1c4297b84a8451aa04d7935978f6857",
-          "is_oa": false,
-          "landing_page_url": "https://doaj.org/article/d1c4297b84a8451aa04d7935978f6857",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Scientific Reports, Vol 14, Iss 1, Pp 1-23 (2024)",
-          "raw_type": "article"
-        },
-        {
           "id": "pmh:oai:pubmedcentral.nih.gov:11480404",
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/11480404",
@@ -5452,13 +5446,40 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": "Sci Rep",
           "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:d1c4297b84a8451aa04d7935978f6857",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/d1c4297b84a8451aa04d7935978f6857",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Scientific Reports, Vol 14, Iss 1, Pp 1-23 (2024)",
+          "raw_type": "article"
         }
       ],
       "best_oa_location": {
@@ -5616,7 +5637,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19188,16 +19209,9 @@
           "is_corresponding": true,
           "raw_author_name": "Muhammad Usman",
           "raw_affiliation_strings": [
-            "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
             "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia. muhammad.usman.1@kaust.edu.sa."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
             {
               "raw_affiliation_string": "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia. muhammad.usman.1@kaust.edu.sa.",
               "institution_ids": [
@@ -19231,16 +19245,9 @@
           "is_corresponding": false,
           "raw_author_name": "Maria Ardila-Sanchez",
           "raw_affiliation_strings": [
-            "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
             "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
             {
               "raw_affiliation_string": "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.",
               "institution_ids": [
@@ -19274,16 +19281,9 @@
           "is_corresponding": false,
           "raw_author_name": "Erdem Idiz",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences, University of Oxford, Oxford, UK",
             "Department of Earth Sciences, University of Oxford, Oxford, UK."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, Oxford, UK",
-              "institution_ids": [
-                "https://openalex.org/I40120149"
-              ]
-            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, Oxford, UK.",
               "institution_ids": [
@@ -19317,16 +19317,9 @@
           "is_corresponding": false,
           "raw_author_name": "Israa S. Abu-Mahfouz",
           "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
             {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia.",
               "institution_ids": [
@@ -19360,16 +19353,9 @@
           "is_corresponding": false,
           "raw_author_name": "Frans van Buchem",
           "raw_affiliation_strings": [
-            "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
             "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
             {
               "raw_affiliation_string": "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.",
               "institution_ids": [
@@ -19403,16 +19389,9 @@
           "is_corresponding": false,
           "raw_author_name": "Volker Vahrenkamp",
           "raw_affiliation_strings": [
-            "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
             "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia."
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
             {
               "raw_affiliation_string": "Physical Science and Engineering Division (PSE), King Abdullah University of Science and Technology, Thuwal, Saudi Arabia.",
               "institution_ids": [
@@ -19445,7 +19424,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.97536967,
+        "value": 0.97431236,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -20555,7 +20534,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29653,7 +29632,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.96399051,
+        "value": 0.96320751,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -30050,8 +30029,8 @@
         "https://openalex.org/W6846334932",
         "https://openalex.org/W6631261986",
         "https://openalex.org/W4399169417",
-        "https://openalex.org/W3208261418",
         "https://openalex.org/W3114571695",
+        "https://openalex.org/W3208261418",
         "https://openalex.org/W3124798206"
       ],
       "related_works": [
@@ -30066,502 +30045,14 @@
         "https://openalex.org/W2884517432",
         "https://openalex.org/W2188340990"
       ],
-      "abstract_inverted_index": {
-        "Geothermal": [
-          0
-        ],
-        "energy": [
-          1
-        ],
-        "holds": [
-          2
-        ],
-        "significant": [
-          3
-        ],
-        "potential": [
-          4,
-          117
-        ],
-        "as": [
-          5,
-          178
-        ],
-        "a": [
-          6,
-          24,
-          124,
-          173
-        ],
-        "sustainable": [
-          7,
-          147
-        ],
-        "and": [
-          8,
-          30,
-          51,
-          72,
-          76,
-          95,
-          200
-        ],
-        "clean": [
-          9
-        ],
-        "source,": [
-          10
-        ],
-        "yet": [
-          11
-        ],
-        "efficient": [
-          12
-        ],
-        "exploration": [
-          13,
-          139
-        ],
-        "methodologies": [
-          14
-        ],
-        "remain": [
-          15
-        ],
-        "critical": [
-          16
-        ],
-        "for": [
-          17,
-          27,
-          39,
-          158
-        ],
-        "identifying": [
-          18,
-          199
-        ],
-        "viable": [
-          19
-        ],
-        "sites.": [
-          20
-        ],
-        "This": [
-          21,
-          106,
-          134
-        ],
-        "paper": [
-          22
-        ],
-        "presents": [
-          23
-        ],
-        "novel": [
-          25
-        ],
-        "protocol": [
-          26,
-          169
-        ],
-        "the": [
-          28,
-          62,
-          87,
-          90,
-          128,
-          143,
-          152
-        ],
-        "identification": [
-          29
-        ],
-        "analysis": [
-          31,
-          109
-        ],
-        "of": [
-          32,
-          97,
-          127,
-          151,
-          167,
-          176,
-          184
-        ],
-        "structural": [
-          33,
-          67,
-          93,
-          108,
-          202
-        ],
-        "lineaments": [
-          34,
-          94
-        ],
-        "in": [
-          35,
-          140,
-          198,
-          204
-        ],
-        "geothermal": [
-          36,
-          41,
-          78,
-          103,
-          118,
-          132,
-          138,
-          164,
-          205
-        ],
-        "fields,": [
-          37
-        ],
-        "crucial": [
-          38
-        ],
-        "coherent": [
-          40
-        ],
-        "exploration.": [
-          42
-        ],
-        "The": [
-          43
-        ],
-        "approach": [
-          44,
-          136,
-          153,
-          191
-        ],
-        "integrates": [
-          45
-        ],
-        "surface": [
-          46
-        ],
-        "data": [
-          47,
-          52
-        ],
-        "from": [
-          48,
-          53,
-          83,
-          189
-        ],
-        "remote": [
-          49
-        ],
-        "sensing": [
-          50
-        ],
-        "airborne": [
-          54
-        ],
-        "magnetic": [
-          55
-        ],
-        "geophysical": [
-          56
-        ],
-        "surveys": [
-          57
-        ],
-        "that": [
-          58
-        ],
-        "provide": [
-          59
-        ],
-        "information": [
-          60,
-          82
-        ],
-        "on": [
-          61,
-          102
-        ],
-        "subsurface": [
-          63
-        ],
-        "structures,": [
-          64
-        ],
-        "to": [
-          65,
-          115,
-          123,
-          172
-        ],
-        "analyze": [
-          66
-        ],
-        "lineament": [
-          68
-        ],
-        "density": [
-          69
-        ],
-        "analysis,": [
-          70
-        ],
-        "orientation,": [
-          71
-        ],
-        "high": [
-          73,
-          98,
-          193
-        ],
-        "permeable": [
-          74
-        ],
-        "zones,": [
-          75
-        ],
-        "assess": [
-          77
-        ],
-        "potential.": [
-          79
-        ],
-        "By": [
-          80
-        ],
-        "combining": [
-          81
-        ],
-        "these": [
-          84
-        ],
-        "two": [
-          85
-        ],
-        "sources,": [
-          86
-        ],
-        "study": [
-          88
-        ],
-        "demonstrates": [
-          89
-        ],
-        "relationships": [
-          91
-        ],
-        "between": [
-          92
-        ],
-        "areas": [
-          96
-        ],
-        "permeability,": [
-          99
-        ],
-        "shedding": [
-          100
-        ],
-        "light": [
-          101
-        ],
-        "resource": [
-          104
-        ],
-        "distribution.": [
-          105
-        ],
-        "twofold": [
-          107
-        ],
-        "not": [
-          110,
-          181
-        ],
-        "only": [
-          111
-        ],
-        "enhances": [
-          112
-        ],
-        "our": [
-          113
-        ],
-        "ability": [
-          114
-        ],
-        "identify": [
-          116
-        ],
-        "sites": [
-          119
-        ],
-        "but": [
-          120
-        ],
-        "also": [
-          121
-        ],
-        "contributes": [
-          122
-        ],
-        "deeper": [
-          125
-        ],
-        "understanding": [
-          126
-        ],
-        "geological": [
-          129,
-          161
-        ],
-        "factors": [
-          130
-        ],
-        "influencing": [
-          131
-        ],
-        "reservoirs.": [
-          133
-        ],
-        "integrated": [
-          135
-        ],
-        "advances": [
-          137
-        ],
-        "line": [
-          141
-        ],
-        "with": [
-          142
-        ],
-        "global": [
-          144
-        ],
-        "shift": [
-          145
-        ],
-        "towards": [
-          146
-        ],
-        "energy.•The": [
-          148
-        ],
-        "straightforward": [
-          149
-        ],
-        "nature": [
-          150
-        ],
-        "enables": [
-          154
-        ],
-        "its": [
-          155
-        ],
-        "versatile": [
-          156
-        ],
-        "application": [
-          157,
-          166
-        ],
-        "predicting": [
-          159
-        ],
-        "various": [
-          160
-        ],
-        "processes": [
-          162
-        ],
-        "beyond": [
-          163
-        ],
-        "exploration.•The": [
-          165
-        ],
-        "this": [
-          168,
-          190
-        ],
-        "is": [
-          170
-        ],
-        "accessible": [
-          171
-        ],
-        "broader": [
-          174
-        ],
-        "audience": [
-          175
-        ],
-        "researchers,": [
-          177
-        ],
-        "it": [
-          179
-        ],
-        "does": [
-          180
-        ],
-        "require": [
-          182
-        ],
-        "knowledge": [
-          183
-        ],
-        "programming": [
-          185
-        ],
-        "language.•The": [
-          186
-        ],
-        "results": [
-          187
-        ],
-        "obtained": [
-          188
-        ],
-        "demonstrate": [
-          192
-        ],
-        "predictive": [
-          194
-        ],
-        "performance,": [
-          195
-        ],
-        "underscoring": [
-          196
-        ],
-        "reliability": [
-          197
-        ],
-        "analyzing": [
-          201
-        ],
-        "elements": [
-          203
-        ],
-        "fields.": [
-          206
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-12-27T23:08:20.325037",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48549,9 +48040,16 @@
           "is_corresponding": false,
           "raw_author_name": "Akbar N. Wicaksono",
           "raw_affiliation_strings": [
+            "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia.",
             "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
             {
               "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia",
               "institution_ids": [
@@ -48569,16 +48067,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
               "id": "https://openalex.org/I71920554",
               "display_name": "King Abdullah University of Science and Technology",
               "ror": "https://ror.org/01q3tbs38",
@@ -48586,6 +48074,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
               ]
             }
           ],
@@ -48595,20 +48093,34 @@
           "is_corresponding": true,
           "raw_author_name": "Israa S. Abu-Mahfouz",
           "raw_affiliation_strings": [
-            "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia",
-            "Department of Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran 31261, Saudi Arabia"
+            "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia.",
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran 31261, Saudi Arabia.",
+            "Department of Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran 31261, Saudi Arabia",
+            "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia",
+              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia.",
               "institution_ids": [
                 "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran 31261, Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
               ]
             },
             {
               "raw_affiliation_string": "Department of Geosciences, King Fahd University of Petroleum and Minerals (KFUPM), Dhahran 31261, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
               ]
             }
           ]
@@ -48638,9 +48150,16 @@
           "is_corresponding": false,
           "raw_author_name": "Erdem Idiz",
           "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, Oxford OX1 3AN, UK.",
             "Department of Earth Sciences, University of Oxford, Oxford OX1 3AN, UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, Oxford OX1 3AN, UK.",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, Oxford OX1 3AN, UK",
               "institution_ids": [
@@ -48674,9 +48193,16 @@
           "is_corresponding": false,
           "raw_author_name": "Joe Cartwright",
           "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Oxford, Oxford OX1 3AN, UK.",
             "Department of Earth Sciences, University of Oxford, Oxford OX1 3AN, UK"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, Oxford OX1 3AN, UK.",
+              "institution_ids": [
+                "https://openalex.org/I40120149"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, University of Oxford, Oxford OX1 3AN, UK",
               "institution_ids": [
@@ -48710,9 +48236,16 @@
           "is_corresponding": false,
           "raw_author_name": "J. Carlos Santamarina",
           "raw_affiliation_strings": [
+            "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia.",
             "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
             {
               "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia",
               "institution_ids": [
@@ -48746,9 +48279,16 @@
           "is_corresponding": false,
           "raw_author_name": "Volker C. Vahrenkamp",
           "raw_affiliation_strings": [
+            "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia.",
             "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia.",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
             {
               "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Centre, King Abdullah University of Science & Technology (KAUST), Thuwal, 23955 Saudi Arabia",
               "institution_ids": [
@@ -48765,8 +48305,8 @@
         "https://openalex.org/A5079903196"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I71920554"
+        "https://openalex.org/I71920554",
+        "https://openalex.org/I134085113"
       ],
       "apc_list": {
         "value": 500,
@@ -48782,7 +48322,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.46992234,
+        "value": 0.46982163,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49239,7 +48779,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-07T23:20:04.922697",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {

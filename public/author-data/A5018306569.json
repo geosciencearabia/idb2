@@ -467,9 +467,16 @@
           "is_corresponding": true,
           "raw_author_name": "Mohamed Soufiane Jouini",
           "raw_affiliation_strings": [
+            "Department of Mathematics, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates. mohamed.jouini@ku.ac.ae.",
             "Department of Mathematics, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mathematics, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates. mohamed.jouini@ku.ac.ae.",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Mathematics, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
               "institution_ids": [
@@ -487,16 +494,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I20303223",
-              "display_name": "BP (United Kingdom)",
-              "ror": "https://ror.org/01zctcs90",
-              "country_code": "GB",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I20303223"
-              ]
-            },
-            {
               "id": "https://openalex.org/I176601375",
               "display_name": "Khalifa University of Science and Technology",
               "ror": "https://ror.org/05hffr360",
@@ -504,6 +501,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I176601375"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I20303223",
+              "display_name": "BP (United Kingdom)",
+              "ror": "https://ror.org/01zctcs90",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I20303223"
               ]
             }
           ],
@@ -514,14 +521,21 @@
           "is_corresponding": false,
           "raw_author_name": "Abdulquadri O. Alabere",
           "raw_affiliation_strings": [
-            "BP Exploration, Chertsey Road, Sunbury-On-Thames, Middlesex, TW16 7LN, UK",
+            "BP Exploration, Chertsey Road, Sunbury-On-Thames, Middlesex, TW16 7LN, UK.",
+            "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates.",
             "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "BP Exploration, Chertsey Road, Sunbury-On-Thames, Middlesex, TW16 7LN, UK",
+              "raw_affiliation_string": "BP Exploration, Chertsey Road, Sunbury-On-Thames, Middlesex, TW16 7LN, UK.",
               "institution_ids": [
                 "https://openalex.org/I20303223"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates.",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
               ]
             },
             {
@@ -557,9 +571,16 @@
           "is_corresponding": false,
           "raw_author_name": "Mohammad Alsuwaidi",
           "raw_affiliation_strings": [
+            "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates.",
             "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates.",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
               "institution_ids": [
@@ -585,6 +606,20 @@
               "lineage": [
                 "https://openalex.org/I97699614"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210099383",
+              "display_name": "Abu Dhabi Health Services",
+              "ror": "https://ror.org/016bjqk65",
+              "country_code": "AE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I2801466683",
+                "https://openalex.org/I4210087867",
+                "https://openalex.org/I4210091532",
+                "https://openalex.org/I4210099383",
+                "https://openalex.org/I4210121446"
+              ]
             }
           ],
           "countries": [
@@ -593,9 +628,16 @@
           "is_corresponding": false,
           "raw_author_name": "Sadoon Morad",
           "raw_affiliation_strings": [
+            "Sukhoor Consulting Company, Abu Dhabi, United Arab Emirates.",
             "Sukhoor Consulting Company, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Sukhoor Consulting Company, Abu Dhabi, United Arab Emirates.",
+              "institution_ids": [
+                "https://openalex.org/I4210099383"
+              ]
+            },
             {
               "raw_affiliation_string": "Sukhoor Consulting Company, Abu Dhabi, United Arab Emirates",
               "institution_ids": [
@@ -629,9 +671,16 @@
           "is_corresponding": false,
           "raw_author_name": "Fateh Bouchaala",
           "raw_affiliation_strings": [
+            "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates.",
             "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates.",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Petroleum Geosciences, Khalifa University, P.O. Box 127788, Abu Dhabi, United Arab Emirates",
               "institution_ids": [
@@ -655,17 +704,35 @@
               "country_code": null,
               "type": null,
               "lineage": []
+            },
+            {
+              "id": "https://openalex.org/I36527812",
+              "display_name": "Halliburton (United Kingdom)",
+              "ror": "https://ror.org/01jn7ba52",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I36527812",
+                "https://openalex.org/I4210137549"
+              ]
             }
           ],
           "countries": [
-            "AE"
+            "GB"
           ],
           "is_corresponding": false,
           "raw_author_name": "Osama A. Al Jallad",
           "raw_affiliation_strings": [
+            "Halliburton Service in the Middle East and Asia Pacific Areas, P.O. Box 57, Abu Dhabi, United Arab Emirates.",
             "Halliburton Service in the Middle East and Asia Pacific Areas, P.O. Box 57, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Halliburton Service in the Middle East and Asia Pacific Areas, P.O. Box 57, Abu Dhabi, United Arab Emirates.",
+              "institution_ids": [
+                "https://openalex.org/I36527812"
+              ]
+            },
             {
               "raw_affiliation_string": "Halliburton Service in the Middle East and Asia Pacific Areas, P.O. Box 57, Abu Dhabi, United Arab Emirates",
               "institution_ids": [
@@ -698,7 +765,7 @@
       "has_fulltext": true,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.94922163,
+        "value": 0.94864444,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1204,8 +1271,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.4399999976158142,
           "display_name": "Life below water"
         }
       ],
@@ -1226,8 +1293,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 47,
       "referenced_works": [
@@ -1302,7 +1369,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2025-12-21T23:12:01.093139",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2079,8 +2146,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5199999809265137,
           "display_name": "Life below water"
         }
       ],
@@ -2098,8 +2165,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 75,
       "referenced_works": [
@@ -3032,16 +3099,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -3864,16 +3931,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4099999964237213,
           "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -5076,8 +5143,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -5090,8 +5157,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 96,
       "referenced_works": [
@@ -5943,8 +6010,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -5979,8 +6046,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 70,
       "referenced_works": [
@@ -7138,8 +7205,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/9",
+          "score": 0.41999998688697815,
           "display_name": "Industry, innovation and infrastructure"
         }
       ],
@@ -7152,8 +7219,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 97,
       "referenced_works": [
@@ -7991,8 +8058,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 64,
       "referenced_works": [
@@ -8881,8 +8948,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -8895,8 +8962,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 124,
       "referenced_works": [
@@ -9135,9 +9202,16 @@
           "is_corresponding": true,
           "raw_author_name": "Hind Sulieman",
           "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
             "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
               "institution_ids": [
@@ -9171,26 +9245,12 @@
           "is_corresponding": true,
           "raw_author_name": "Mohamed Soufiane Jouini",
           "raw_affiliation_strings": [
-            "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates,",
-            "Department of Mathematics, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates,",
-            "and Hydrogen, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates,",
+            "Department of Mathematics, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
             "Department of Mathematics, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates,",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Mathematics, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates,",
-              "institution_ids": [
-                "https://openalex.org/I176601375"
-              ]
-            },
-            {
-              "raw_affiliation_string": "and Hydrogen, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates,",
+              "raw_affiliation_string": "Department of Mathematics, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
               "institution_ids": [
                 "https://openalex.org/I176601375"
               ]
@@ -9228,9 +9288,16 @@
           "is_corresponding": true,
           "raw_author_name": "Mohammad Alsuwaidi",
           "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
             "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
               "institution_ids": [
@@ -9264,9 +9331,16 @@
           "is_corresponding": true,
           "raw_author_name": "Emad W. Al-Shalabi",
           "raw_affiliation_strings": [
+            "Department of Chemical and Petroleum Engineering, Research and Innovation Center on CO2 and Hydrogen, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
             "Department of Chemical and Petroleum Engineering, Research and Innovation Center on CO2 and Hydrogen, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemical and Petroleum Engineering, Research and Innovation Center on CO2 and Hydrogen, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates.",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Chemical and Petroleum Engineering, Research and Innovation Center on CO2 and Hydrogen, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
               "institution_ids": [
@@ -9284,30 +9358,31 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
+              "id": "https://openalex.org/I36527812",
+              "display_name": "Halliburton (United Kingdom)",
+              "ror": "https://ror.org/01jn7ba52",
+              "country_code": "GB",
+              "type": "company",
               "lineage": [
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I36527812",
+                "https://openalex.org/I4210137549"
               ]
             }
           ],
           "countries": [
-            "ID"
+            "GB"
           ],
           "is_corresponding": true,
           "raw_author_name": "Osama A. Al Jallad",
           "raw_affiliation_strings": [
-            "Department of Chemical and Petroleum Engineering, Research and Innovation Center on CO",
+            "Halliburton Service in the Middle East and Asia Pacific Areas, Abu Dhabi, United Arab Emirates.",
             "Halliburton Service in the Middle East and Asia Pacific Areas, Abu Dhabi, United Arab Emirates"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Chemical and Petroleum Engineering, Research and Innovation Center on CO",
+              "raw_affiliation_string": "Halliburton Service in the Middle East and Asia Pacific Areas, Abu Dhabi, United Arab Emirates.",
               "institution_ids": [
-                "https://openalex.org/I4210118538"
+                "https://openalex.org/I36527812"
               ]
             },
             {
@@ -9329,7 +9404,7 @@
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I176601375",
-        "https://openalex.org/I4210118538"
+        "https://openalex.org/I36527812"
       ],
       "apc_list": {
         "value": 1805,
@@ -9345,7 +9420,7 @@
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.95648542,
+        "value": 0.95588672,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9850,8 +9925,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -10463,7 +10538,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11112,8 +11187,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 95,
       "referenced_works": [
@@ -11811,16 +11886,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 69,
       "referenced_works": [
@@ -13093,16 +13168,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 47,
       "referenced_works": [
@@ -14193,8 +14268,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -14215,8 +14290,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 92,
       "referenced_works": [
@@ -15053,16 +15128,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 33,
       "referenced_works": [
@@ -16410,16 +16485,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 42,
       "referenced_works": [
@@ -17352,8 +17427,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -17393,8 +17468,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 89,
       "referenced_works": [
@@ -18144,8 +18219,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426,
           "display_name": "Life below water"
         }
       ],
@@ -18166,8 +18241,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 166,
       "referenced_works": [
@@ -19118,16 +19193,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 56,
       "referenced_works": [
@@ -20314,16 +20389,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 120,
       "referenced_works": [
@@ -20998,8 +21073,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 92,
       "referenced_works": [
@@ -21531,8 +21606,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.7799999713897705,
           "display_name": "Climate action"
         }
       ],
@@ -21545,8 +21620,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 105,
       "referenced_works": [
@@ -22322,8 +22397,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -22351,8 +22426,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 115,
       "referenced_works": [
@@ -23562,16 +23637,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/7",
+          "score": 0.5699999928474426,
           "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 86,
       "referenced_works": [
@@ -24934,8 +25009,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.41999998688697815,
           "display_name": "Climate action"
         }
       ],
@@ -24948,8 +25023,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 130,
       "referenced_works": [
@@ -25722,8 +25797,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 3,
       "referenced_works": [
@@ -27024,8 +27099,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -27688,16 +27763,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -28970,16 +29045,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.46000000834465027,
           "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -30123,16 +30198,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -31070,16 +31145,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.6700000166893005,
           "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -31620,16 +31695,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6700000166893005,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.6700000166893005,
           "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -32486,16 +32561,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 33,
       "referenced_works": [
@@ -33251,16 +33326,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.44999998807907104,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 46,
       "referenced_works": [
@@ -34193,16 +34268,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -35535,16 +35610,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -36610,8 +36685,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -36632,8 +36707,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 107,
       "referenced_works": [
@@ -37032,8 +37107,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 25,
       "referenced_works": [
@@ -38224,8 +38299,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 95,
       "referenced_works": [
@@ -38561,8 +38636,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -38872,8 +38947,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -39501,8 +39576,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 58,
       "referenced_works": [
