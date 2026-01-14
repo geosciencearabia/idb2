@@ -1455,9 +1455,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -1971,16 +1971,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210103418",
-              "display_name": "Noble (United States)",
-              "ror": "https://ror.org/0125vzh18",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210103418"
-              ]
-            },
-            {
               "id": "https://openalex.org/I115475287",
               "display_name": "Oklahoma State University",
               "ror": "https://ror.org/01g9vbr38",
@@ -1988,6 +1978,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I115475287"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210103418",
+              "display_name": "Noble (United States)",
+              "ror": "https://ror.org/0125vzh18",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210103418"
               ]
             }
           ],
@@ -2281,19 +2281,8 @@
             "display_name": "Peter R. Johnson",
             "orcid": "https://orcid.org/0000-0002-4697-3882"
           },
-          "institutions": [
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "P.R. Johnson",
           "raw_affiliation_strings": [
@@ -2303,9 +2292,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "6016 SW Haines Street, Portland, OR 97219, USA.",
-              "institution_ids": [
-                null
-              ]
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "6016 SW Haines Street, Portland, OR 97219, USA",
@@ -2408,16 +2395,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I182078086",
-              "display_name": "University of Dar es Salaam",
-              "ror": "https://ror.org/0479aed98",
-              "country_code": "TZ",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I182078086"
-              ]
-            },
-            {
               "id": "https://openalex.org/I209822943",
               "display_name": "Ministry of Agriculture, Food Security and Cooperatives",
               "ror": "https://ror.org/00qgwdb66",
@@ -2425,6 +2402,16 @@
               "type": "government",
               "lineage": [
                 "https://openalex.org/I209822943"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I182078086",
+              "display_name": "University of Dar es Salaam",
+              "ror": "https://ror.org/0479aed98",
+              "country_code": "TZ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I182078086"
               ]
             }
           ],
@@ -2511,16 +2498,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I204778367",
-              "display_name": "Norwegian University of Science and Technology",
-              "ror": "https://ror.org/05xg72x27",
-              "country_code": "NO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I204778367"
-              ]
-            },
-            {
               "id": "https://openalex.org/I1296551785",
               "display_name": "Norwegian Geological Survey",
               "ror": "https://ror.org/036dwbr90",
@@ -2528,6 +2505,16 @@
               "type": "funder",
               "lineage": [
                 "https://openalex.org/I1296551785"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I204778367",
+              "display_name": "Norwegian University of Science and Technology",
+              "ror": "https://ror.org/05xg72x27",
+              "country_code": "NO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I204778367"
               ]
             }
           ],
@@ -2586,7 +2573,7 @@
       "has_fulltext": false,
       "cited_by_count": 740,
       "citation_normalized_percentile": {
-        "value": 0.99906614,
+        "value": 0.99906325,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3035,9 +3022,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -3340,30 +3327,30 @@
         "https://openalex.org/W2084842832",
         "https://openalex.org/W2092418442",
         "https://openalex.org/W1991538474",
+        "https://openalex.org/W2093914738",
         "https://openalex.org/W1993405291",
-        "https://openalex.org/W1835512843",
-        "https://openalex.org/W1870699677",
-        "https://openalex.org/W2024980606",
-        "https://openalex.org/W2021121324",
-        "https://openalex.org/W2027166346",
         "https://openalex.org/W2065604763",
         "https://openalex.org/W1977819707",
-        "https://openalex.org/W2171746390",
-        "https://openalex.org/W2200148551",
-        "https://openalex.org/W2316142567",
-        "https://openalex.org/W2150913154",
-        "https://openalex.org/W2089096512",
-        "https://openalex.org/W2092063385",
-        "https://openalex.org/W2093914738",
+        "https://openalex.org/W1998082272",
         "https://openalex.org/W66543630",
         "https://openalex.org/W967093683",
+        "https://openalex.org/W2089096512",
+        "https://openalex.org/W2092063385",
         "https://openalex.org/W2325527499",
         "https://openalex.org/W2612961338",
         "https://openalex.org/W2520181569",
         "https://openalex.org/W2989049194",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W3010544617",
-        "https://openalex.org/W1998082272"
+        "https://openalex.org/W2024980606",
+        "https://openalex.org/W2021121324",
+        "https://openalex.org/W2027166346",
+        "https://openalex.org/W2171746390",
+        "https://openalex.org/W2200148551",
+        "https://openalex.org/W2316142567",
+        "https://openalex.org/W2150913154",
+        "https://openalex.org/W1835512843",
+        "https://openalex.org/W1870699677"
       ],
       "related_works": [
         "https://openalex.org/W3023144356",
@@ -3996,9 +3983,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -4367,19 +4354,8 @@
             "display_name": "Peter R. Johnson",
             "orcid": "https://orcid.org/0000-0002-4697-3882"
           },
-          "institutions": [
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -4393,9 +4369,7 @@
             },
             {
               "raw_affiliation_string": "Saudi Geological Survey#N#PO Box 54141, Jiddah 21514, Saudi Arabia#N#petergeo@dmp.net.sa",
-              "institution_ids": [
-                null
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -4456,7 +4430,7 @@
       "has_fulltext": false,
       "cited_by_count": 470,
       "citation_normalized_percentile": {
-        "value": 0.97501551,
+        "value": 0.97501692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4715,9 +4689,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -4869,24 +4843,24 @@
         "https://openalex.org/W1988135703",
         "https://openalex.org/W2090378451",
         "https://openalex.org/W76481000",
-        "https://openalex.org/W2002383464",
-        "https://openalex.org/W1998082272",
-        "https://openalex.org/W1573851682",
-        "https://openalex.org/W172805368",
-        "https://openalex.org/W9007931",
-        "https://openalex.org/W165478125",
+        "https://openalex.org/W2037518309",
+        "https://openalex.org/W2030818891",
         "https://openalex.org/W2107320391",
-        "https://openalex.org/W1531592844",
-        "https://openalex.org/W1624931202",
-        "https://openalex.org/W2298570460",
-        "https://openalex.org/W1545247753",
-        "https://openalex.org/W178806646",
         "https://openalex.org/W1974620875",
+        "https://openalex.org/W1998082272",
+        "https://openalex.org/W2002383464",
         "https://openalex.org/W2091021333",
         "https://openalex.org/W2162123627",
+        "https://openalex.org/W2298570460",
+        "https://openalex.org/W9007931",
         "https://openalex.org/W635842236",
-        "https://openalex.org/W2037518309",
-        "https://openalex.org/W2030818891"
+        "https://openalex.org/W165478125",
+        "https://openalex.org/W178806646",
+        "https://openalex.org/W172805368",
+        "https://openalex.org/W1545247753",
+        "https://openalex.org/W1573851682",
+        "https://openalex.org/W1531592844",
+        "https://openalex.org/W1624931202"
       ],
       "related_works": [
         "https://openalex.org/W4297821202",
@@ -5453,7 +5427,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T21:40:15.123406",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5858,9 +5832,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -6536,9 +6510,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -7333,9 +7307,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8100000023841858,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -9069,9 +9043,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -10536,9 +10510,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -11411,14 +11385,6 @@
               "lineage": [
                 "https://openalex.org/I1330063522"
               ]
-            },
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
             }
           ],
           "countries": [
@@ -11439,9 +11405,7 @@
             },
             {
               "raw_affiliation_string": "Geological Consulting, Johnson and Vranas Associates Ltd, Washington, USA",
-              "institution_ids": [
-                null
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -11502,7 +11466,7 @@
       "has_fulltext": false,
       "cited_by_count": 92,
       "citation_normalized_percentile": {
-        "value": 0.92896043,
+        "value": 0.9290177,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11780,9 +11744,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -11846,12 +11810,12 @@
         "https://openalex.org/W2063931846",
         "https://openalex.org/W2145047298",
         "https://openalex.org/W2014534744",
-        "https://openalex.org/W2571262864",
-        "https://openalex.org/W2518005364",
-        "https://openalex.org/W2037518309",
-        "https://openalex.org/W2015599546",
         "https://openalex.org/W2011346948",
-        "https://openalex.org/W2502437442"
+        "https://openalex.org/W2015599546",
+        "https://openalex.org/W2518005364",
+        "https://openalex.org/W2571262864",
+        "https://openalex.org/W2502437442",
+        "https://openalex.org/W2037518309"
       ],
       "related_works": [
         "https://openalex.org/W3010994964",
@@ -11928,7 +11892,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T21:40:15.123406",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12496,9 +12460,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -13238,9 +13202,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -15268,9 +15232,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -16476,9 +16440,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -17726,9 +17690,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -18333,9 +18297,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -18983,9 +18947,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -19551,9 +19515,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -20361,9 +20325,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -21004,7 +20968,7 @@
       "has_fulltext": false,
       "cited_by_count": 82,
       "citation_normalized_percentile": {
-        "value": 0.94364304,
+        "value": 0.94338667,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21854,9 +21818,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
+          "display_name": "Good health and well-being",
           "id": "https://metadata.un.org/sdg/3",
-          "display_name": "Good health and well-being"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -21867,53 +21831,53 @@
       },
       "referenced_works_count": 47,
       "referenced_works": [
+        "https://openalex.org/W1999843107",
+        "https://openalex.org/W1996696073",
+        "https://openalex.org/W2008728858",
+        "https://openalex.org/W1993745694",
+        "https://openalex.org/W2002284972",
         "https://openalex.org/W2045638184",
+        "https://openalex.org/W2087968375",
+        "https://openalex.org/W2081920904",
+        "https://openalex.org/W2086394533",
+        "https://openalex.org/W2079341044",
+        "https://openalex.org/W2337807480",
+        "https://openalex.org/W2162469604",
+        "https://openalex.org/W2320801976",
+        "https://openalex.org/W2169949930",
+        "https://openalex.org/W2321102167",
+        "https://openalex.org/W1978414064",
+        "https://openalex.org/W1987492687",
+        "https://openalex.org/W1988004821",
+        "https://openalex.org/W1982060405",
+        "https://openalex.org/W1989260226",
+        "https://openalex.org/W1519606021",
+        "https://openalex.org/W1902650061",
+        "https://openalex.org/W1839043230",
+        "https://openalex.org/W2051661228",
+        "https://openalex.org/W2072173344",
+        "https://openalex.org/W2069212006",
+        "https://openalex.org/W2139297598",
+        "https://openalex.org/W2153952304",
+        "https://openalex.org/W2156900509",
+        "https://openalex.org/W2152814087",
+        "https://openalex.org/W2029537954",
+        "https://openalex.org/W2033552173",
+        "https://openalex.org/W2031954841",
         "https://openalex.org/W2093885182",
         "https://openalex.org/W2109836174",
         "https://openalex.org/W2107792698",
         "https://openalex.org/W2097490698",
         "https://openalex.org/W2095387539",
         "https://openalex.org/W2092570126",
-        "https://openalex.org/W2087968375",
-        "https://openalex.org/W2081920904",
-        "https://openalex.org/W2086394533",
-        "https://openalex.org/W2079341044",
-        "https://openalex.org/W1999843107",
-        "https://openalex.org/W1996696073",
-        "https://openalex.org/W2008728858",
-        "https://openalex.org/W1993745694",
-        "https://openalex.org/W2002284972",
-        "https://openalex.org/W1519606021",
-        "https://openalex.org/W1902650061",
-        "https://openalex.org/W1839043230",
-        "https://openalex.org/W2162469604",
-        "https://openalex.org/W2320801976",
-        "https://openalex.org/W2169949930",
-        "https://openalex.org/W2321102167",
-        "https://openalex.org/W1963912955",
-        "https://openalex.org/W2072173344",
-        "https://openalex.org/W2069212006",
         "https://openalex.org/W2111923806",
         "https://openalex.org/W2111482500",
         "https://openalex.org/W2131131671",
         "https://openalex.org/W2118739051",
         "https://openalex.org/W2118304778",
         "https://openalex.org/W2117778867",
-        "https://openalex.org/W2029537954",
-        "https://openalex.org/W2033552173",
-        "https://openalex.org/W2031954841",
-        "https://openalex.org/W2139297598",
-        "https://openalex.org/W2153952304",
-        "https://openalex.org/W2156900509",
-        "https://openalex.org/W2152814087",
         "https://openalex.org/W1977123504",
-        "https://openalex.org/W1978414064",
-        "https://openalex.org/W1987492687",
-        "https://openalex.org/W1988004821",
-        "https://openalex.org/W1982060405",
-        "https://openalex.org/W1989260226",
-        "https://openalex.org/W2051661228",
-        "https://openalex.org/W2337807480"
+        "https://openalex.org/W1963912955"
       ],
       "related_works": [
         "https://openalex.org/W1153449584",
@@ -22462,9 +22426,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -23093,9 +23057,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -23197,856 +23161,6 @@
         {
           "year": 2013,
           "cited_by_count": 5
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2055763048",
-      "doi": "https://doi.org/10.1016/j.lithos.2010.08.024",
-      "title": "Geochemical, U–Pb zircon, and Nd isotope investigations of the Neoproterozoic Ghawjah Metavolcanic rocks, Northwestern Saudi Arabia",
-      "display_name": "Geochemical, U–Pb zircon, and Nd isotope investigations of the Neoproterozoic Ghawjah Metavolcanic rocks, Northwestern Saudi Arabia",
-      "publication_year": 2010,
-      "publication_date": "2010-09-02",
-      "ids": {
-        "openalex": "https://openalex.org/W2055763048",
-        "doi": "https://doi.org/10.1016/j.lithos.2010.08.024",
-        "mag": "2055763048"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.lithos.2010.08.024",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.lithos.2010.08.024",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S107629180",
-          "display_name": "Lithos",
-          "issn_l": "0024-4937",
-          "issn": [
-            "0024-4937",
-            "1872-6143"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Lithos",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5072203156",
-            "display_name": "Kamal A. Ali",
-            "orcid": "https://orcid.org/0000-0002-7332-7843"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I162577319",
-              "display_name": "The University of Texas at Dallas",
-              "ror": "https://ror.org/049emcs32",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Kamal A. Ali",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA",
-            "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA",
-              "institution_ids": [
-                "https://openalex.org/I162577319"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA.",
-              "institution_ids": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5035240990",
-            "display_name": "Robert J. Stern",
-            "orcid": "https://orcid.org/0000-0002-8083-4632"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I162577319",
-              "display_name": "The University of Texas at Dallas",
-              "ror": "https://ror.org/049emcs32",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Robert J. Stern",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA",
-            "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA",
-              "institution_ids": [
-                "https://openalex.org/I162577319"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA.",
-              "institution_ids": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5088101750",
-            "display_name": "William I. Manton",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I162577319",
-              "display_name": "The University of Texas at Dallas",
-              "ror": "https://ror.org/049emcs32",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "William I. Manton",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA",
-            "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA",
-              "institution_ids": [
-                "https://openalex.org/I162577319"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA.",
-              "institution_ids": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5008927496",
-            "display_name": "Jun‐Ichi Kimura",
-            "orcid": "https://orcid.org/0000-0002-2677-515X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1315852903",
-              "display_name": "Japan Agency for Marine-Earth Science and Technology",
-              "ror": "https://ror.org/059qg2m13",
-              "country_code": "JP",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1315852903"
-              ]
-            }
-          ],
-          "countries": [
-            "JP"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jun-Ichi Kimura",
-          "raw_affiliation_strings": [
-            "Japan Agency for Marine Science and Technology (JAMSTEC), 2-15 Natsushima-cho, Yokosuka 237-0061, Japan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Japan Agency for Marine Science and Technology (JAMSTEC), 2-15 Natsushima-cho, Yokosuka 237-0061, Japan",
-              "institution_ids": [
-                "https://openalex.org/I1315852903"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5068579961",
-            "display_name": "Martin J. Whitehouse",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2801711128",
-              "display_name": "Swedish Museum of Natural History",
-              "ror": "https://ror.org/05k323c76",
-              "country_code": "SE",
-              "type": "archive",
-              "lineage": [
-                "https://openalex.org/I2801711128"
-              ]
-            }
-          ],
-          "countries": [
-            "SE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Martin J. Whitehouse",
-          "raw_affiliation_strings": [
-            "Swedish Museum of Natural History, Laboratory for Isotope Geology, Box 50007, SE-104 05 Stockholm, Sweden",
-            "Swedish Museum of Natural History, Laboratory for Isotope Geology , Box 50007, SE-104 05, Stockholm, Sweden"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Swedish Museum of Natural History, Laboratory for Isotope Geology, Box 50007, SE-104 05 Stockholm, Sweden",
-              "institution_ids": [
-                "https://openalex.org/I2801711128"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Swedish Museum of Natural History, Laboratory for Isotope Geology , Box 50007, SE-104 05, Stockholm, Sweden",
-              "institution_ids": [
-                "https://openalex.org/I2801711128"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5056577179",
-            "display_name": "Sumit K. Mukherjee",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210153514",
-              "display_name": "BP (United States)",
-              "ror": "https://ror.org/051659894",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I20303223",
-                "https://openalex.org/I4210153514"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Sumit K. Mukherjee",
-          "raw_affiliation_strings": [
-            "BP America Exploration & Production Company, Houston TX, USA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BP America Exploration & Production Company, Houston TX, USA",
-              "institution_ids": [
-                "https://openalex.org/I4210153514"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5103098706",
-            "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Peter R. Johnson",
-          "raw_affiliation_strings": [
-            "Geological Consultant, 1242 Tenth Street, NW Washington DC 20001-4214, USA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geological Consultant, 1242 Tenth Street, NW Washington DC 20001-4214, USA",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5007548281",
-            "display_name": "William R. Griffin",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I162577319",
-              "display_name": "The University of Texas at Dallas",
-              "ror": "https://ror.org/049emcs32",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "William R. Griffin",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA",
-            "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA",
-              "institution_ids": [
-                "https://openalex.org/I162577319"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geosciences, University of Texas at Dallas, Richardson, TX 75080, USA.",
-              "institution_ids": [
-                "https://openalex.org/I162577319"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5072203156"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I162577319"
-      ],
-      "apc_list": {
-        "value": 3350,
-        "currency": "USD",
-        "value_usd": 3350
-      },
-      "apc_paid": null,
-      "fwci": 3.69541025,
-      "has_fulltext": false,
-      "cited_by_count": 67,
-      "citation_normalized_percentile": {
-        "value": 0.93353899,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "120",
-        "issue": "3-4",
-        "first_page": "379",
-        "last_page": "392"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10001",
-        "display_name": "Geological and Geochemical Analysis",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10413",
-          "display_name": "High-pressure geophysics and materials",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10110",
-          "display_name": "earthquake and tectonic studies",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.894669771194458
-        },
-        {
-          "id": "https://openalex.org/keywords/zircon",
-          "display_name": "Zircon",
-          "score": 0.8718694448471069
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.7983607649803162
-        },
-        {
-          "id": "https://openalex.org/keywords/volcanic-rock",
-          "display_name": "Volcanic rock",
-          "score": 0.7446368932723999
-        },
-        {
-          "id": "https://openalex.org/keywords/andesite",
-          "display_name": "Andesite",
-          "score": 0.5318505167961121
-        },
-        {
-          "id": "https://openalex.org/keywords/igneous-rock",
-          "display_name": "Igneous rock",
-          "score": 0.49087148904800415
-        },
-        {
-          "id": "https://openalex.org/keywords/terrane",
-          "display_name": "Terrane",
-          "score": 0.4738089144229889
-        },
-        {
-          "id": "https://openalex.org/keywords/crust",
-          "display_name": "Crust",
-          "score": 0.46995046734809875
-        },
-        {
-          "id": "https://openalex.org/keywords/partial-melting",
-          "display_name": "Partial melting",
-          "score": 0.43781131505966187
-        },
-        {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.3737414479255676
-        },
-        {
-          "id": "https://openalex.org/keywords/volcano",
-          "display_name": "Volcano",
-          "score": 0.2550264596939087
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.08538571000099182
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.07300323247909546
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.894669771194458
-        },
-        {
-          "id": "https://openalex.org/C2778849375",
-          "wikidata": "https://www.wikidata.org/wiki/Q178928",
-          "display_name": "Zircon",
-          "level": 2,
-          "score": 0.8718694448471069
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.7983607649803162
-        },
-        {
-          "id": "https://openalex.org/C192241223",
-          "wikidata": "https://www.wikidata.org/wiki/Q108689",
-          "display_name": "Volcanic rock",
-          "level": 3,
-          "score": 0.7446368932723999
-        },
-        {
-          "id": "https://openalex.org/C36986328",
-          "wikidata": "https://www.wikidata.org/wiki/Q181908",
-          "display_name": "Andesite",
-          "level": 4,
-          "score": 0.5318505167961121
-        },
-        {
-          "id": "https://openalex.org/C42787717",
-          "wikidata": "https://www.wikidata.org/wiki/Q42045",
-          "display_name": "Igneous rock",
-          "level": 2,
-          "score": 0.49087148904800415
-        },
-        {
-          "id": "https://openalex.org/C150999391",
-          "wikidata": "https://www.wikidata.org/wiki/Q509037",
-          "display_name": "Terrane",
-          "level": 3,
-          "score": 0.4738089144229889
-        },
-        {
-          "id": "https://openalex.org/C2776698055",
-          "wikidata": "https://www.wikidata.org/wiki/Q4232578",
-          "display_name": "Crust",
-          "level": 2,
-          "score": 0.46995046734809875
-        },
-        {
-          "id": "https://openalex.org/C79572550",
-          "wikidata": "https://www.wikidata.org/wiki/Q2054924",
-          "display_name": "Partial melting",
-          "level": 3,
-          "score": 0.43781131505966187
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.3737414479255676
-        },
-        {
-          "id": "https://openalex.org/C120806208",
-          "wikidata": "https://www.wikidata.org/wiki/Q8072",
-          "display_name": "Volcano",
-          "level": 2,
-          "score": 0.2550264596939087
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.08538571000099182
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.07300323247909546
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.lithos.2010.08.024",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.lithos.2010.08.024",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S107629180",
-            "display_name": "Lithos",
-            "issn_l": "0024-4937",
-            "issn": [
-              "0024-4937",
-              "1872-6143"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Lithos",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "referenced_works_count": 87,
-      "referenced_works": [
-        "https://openalex.org/W2064546576",
-        "https://openalex.org/W1989000069",
-        "https://openalex.org/W2161010888",
-        "https://openalex.org/W2026324572",
-        "https://openalex.org/W2126029945",
-        "https://openalex.org/W2045412784",
-        "https://openalex.org/W2013617939",
-        "https://openalex.org/W2056065853",
-        "https://openalex.org/W1975540972",
-        "https://openalex.org/W2101710099",
-        "https://openalex.org/W2009295375",
-        "https://openalex.org/W2030984189",
-        "https://openalex.org/W2068403951",
-        "https://openalex.org/W2077850576",
-        "https://openalex.org/W2057208829",
-        "https://openalex.org/W2000568598",
-        "https://openalex.org/W2036174339",
-        "https://openalex.org/W2047364329",
-        "https://openalex.org/W6646442915",
-        "https://openalex.org/W6660866920",
-        "https://openalex.org/W2137159697",
-        "https://openalex.org/W1996055672",
-        "https://openalex.org/W1987501517",
-        "https://openalex.org/W2151727220",
-        "https://openalex.org/W2057248218",
-        "https://openalex.org/W1975765355",
-        "https://openalex.org/W2034472228",
-        "https://openalex.org/W6667244746",
-        "https://openalex.org/W2166896288",
-        "https://openalex.org/W1977603807",
-        "https://openalex.org/W2054000349",
-        "https://openalex.org/W2065485203",
-        "https://openalex.org/W2021325645",
-        "https://openalex.org/W2063937191",
-        "https://openalex.org/W2125089359",
-        "https://openalex.org/W2042731771",
-        "https://openalex.org/W1971376046",
-        "https://openalex.org/W2081403281",
-        "https://openalex.org/W2325019720",
-        "https://openalex.org/W2043043810",
-        "https://openalex.org/W2091463725",
-        "https://openalex.org/W1963707156",
-        "https://openalex.org/W6638959008",
-        "https://openalex.org/W2161188118",
-        "https://openalex.org/W2139788788",
-        "https://openalex.org/W1968685730",
-        "https://openalex.org/W1616662968",
-        "https://openalex.org/W6629173316",
-        "https://openalex.org/W2082527909",
-        "https://openalex.org/W2123985829",
-        "https://openalex.org/W2119695127",
-        "https://openalex.org/W1978638081",
-        "https://openalex.org/W2129795443",
-        "https://openalex.org/W1996303120",
-        "https://openalex.org/W2081729613",
-        "https://openalex.org/W2174216460",
-        "https://openalex.org/W2127039475",
-        "https://openalex.org/W2029292238",
-        "https://openalex.org/W2164351497",
-        "https://openalex.org/W2150913154",
-        "https://openalex.org/W2095633464",
-        "https://openalex.org/W2011145781",
-        "https://openalex.org/W2013340586",
-        "https://openalex.org/W1980070520",
-        "https://openalex.org/W2084527765",
-        "https://openalex.org/W6680654199",
-        "https://openalex.org/W1978980784",
-        "https://openalex.org/W2023644752",
-        "https://openalex.org/W1999448338",
-        "https://openalex.org/W2037232404",
-        "https://openalex.org/W2063208379",
-        "https://openalex.org/W2063931846",
-        "https://openalex.org/W1975932010",
-        "https://openalex.org/W2598242035",
-        "https://openalex.org/W2081926816",
-        "https://openalex.org/W3031517411",
-        "https://openalex.org/W1491179359",
-        "https://openalex.org/W626080420",
-        "https://openalex.org/W2138522501",
-        "https://openalex.org/W1840617620",
-        "https://openalex.org/W361747394",
-        "https://openalex.org/W1870699677",
-        "https://openalex.org/W2065471838",
-        "https://openalex.org/W2041448778",
-        "https://openalex.org/W2069015452",
-        "https://openalex.org/W14108998",
-        "https://openalex.org/W2394687692"
-      ],
-      "related_works": [
-        "https://openalex.org/W2345954533",
-        "https://openalex.org/W2152390997",
-        "https://openalex.org/W3046009944",
-        "https://openalex.org/W1491854118",
-        "https://openalex.org/W4362619727",
-        "https://openalex.org/W3159245945",
-        "https://openalex.org/W4232432360",
-        "https://openalex.org/W2755476939",
-        "https://openalex.org/W2354849465",
-        "https://openalex.org/W4235707174"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 8
         },
         {
           "year": 2012,
@@ -24451,9 +23565,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "display_name": "Peace, Justice and strong institutions",
           "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, Justice and strong institutions"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [
@@ -25904,9 +25018,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -27056,9 +26170,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -29022,9 +28136,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -29849,9 +28963,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -30958,9 +30072,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -32908,688 +32022,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1983410598",
-      "doi": "https://doi.org/10.1016/0952-0600(88)90006-3",
-      "title": "Potentiation of the contractile effects of neuropeptides in human bronchus by an enkephalinase inhibitor",
-      "display_name": "Potentiation of the contractile effects of neuropeptides in human bronchus by an enkephalinase inhibitor",
-      "publication_year": 1988,
-      "publication_date": "1988-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1983410598",
-        "doi": "https://doi.org/10.1016/0952-0600(88)90006-3",
-        "mag": "1983410598",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/2980283"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/0952-0600(88)90006-3",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/0952-0600(88)90006-3",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S24419355",
-          "display_name": "Pulmonary Pharmacology",
-          "issn_l": "0952-0600",
-          "issn": [
-            "0952-0600",
-            "1522-9637"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310319955",
-          "host_organization_name": "Academic Press",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319955",
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Academic Press",
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Pulmonary Pharmacology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5108455726",
-            "display_name": "Judith L. Black",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I129604602",
-              "display_name": "University of Sydney",
-              "ror": "https://ror.org/0384j8v12",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "J.L. Black",
-          "raw_affiliation_strings": [
-            "Department of Pharmacology, University of Sydney, NSW Australia.",
-            "Department of Pharmacology, University of Sydney, NSW, Australia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Pharmacology, University of Sydney, NSW Australia.",
-              "institution_ids": [
-                "https://openalex.org/I129604602"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Pharmacology, University of Sydney, NSW, Australia",
-              "institution_ids": [
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5103098706",
-            "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I129604602",
-              "display_name": "University of Sydney",
-              "ror": "https://ror.org/0384j8v12",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "P.R.A. Johnson",
-          "raw_affiliation_strings": [
-            "Department of Pharmacology, University of Sydney, NSW Australia 2006"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Pharmacology, University of Sydney, NSW Australia 2006",
-              "institution_ids": [
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5089281384",
-            "display_name": "Carol Armour",
-            "orcid": "https://orcid.org/0000-0002-2930-2227"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I129604602",
-              "display_name": "University of Sydney",
-              "ror": "https://ror.org/0384j8v12",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "C.L. Armour",
-          "raw_affiliation_strings": [
-            "Department of Pharmacology, University of Sydney, NSW Australia 2006"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Pharmacology, University of Sydney, NSW Australia 2006",
-              "institution_ids": [
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5108455726"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I129604602"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 2.46971833,
-      "has_fulltext": false,
-      "cited_by_count": 52,
-      "citation_normalized_percentile": {
-        "value": 0.88938213,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "1",
-        "issue": "1",
-        "first_page": "21",
-        "last_page": "23"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10814",
-        "display_name": "Neuropeptides and Animal Physiology",
-        "score": 0.9059000015258789,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2804",
-          "display_name": "Cellular and Molecular Neuroscience"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/28",
-          "display_name": "Neuroscience"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/1",
-          "display_name": "Life Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10814",
-          "display_name": "Neuropeptides and Animal Physiology",
-          "score": 0.9059000015258789,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2804",
-            "display_name": "Cellular and Molecular Neuroscience"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/28",
-            "display_name": "Neuroscience"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/enkephalinase",
-          "display_name": "Enkephalinase",
-          "score": 0.9560248851776123
-        },
-        {
-          "id": "https://openalex.org/keywords/neuropeptide",
-          "display_name": "Neuropeptide",
-          "score": 0.7551229000091553
-        },
-        {
-          "id": "https://openalex.org/keywords/long-term-potentiation",
-          "display_name": "Long-term potentiation",
-          "score": 0.691478431224823
-        },
-        {
-          "id": "https://openalex.org/keywords/neprilysin",
-          "display_name": "Neprilysin",
-          "score": 0.5505490899085999
-        },
-        {
-          "id": "https://openalex.org/keywords/oligopeptide",
-          "display_name": "Oligopeptide",
-          "score": 0.47258174419403076
-        },
-        {
-          "id": "https://openalex.org/keywords/pharmacology",
-          "display_name": "Pharmacology",
-          "score": 0.38374394178390503
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.3800670802593231
-        },
-        {
-          "id": "https://openalex.org/keywords/peptide",
-          "display_name": "Peptide",
-          "score": 0.316694438457489
-        },
-        {
-          "id": "https://openalex.org/keywords/medicine",
-          "display_name": "Medicine",
-          "score": 0.22791844606399536
-        },
-        {
-          "id": "https://openalex.org/keywords/enzyme",
-          "display_name": "Enzyme",
-          "score": 0.16388532519340515
-        },
-        {
-          "id": "https://openalex.org/keywords/biochemistry",
-          "display_name": "Biochemistry",
-          "score": 0.15778058767318726
-        },
-        {
-          "id": "https://openalex.org/keywords/enkephalin",
-          "display_name": "Enkephalin",
-          "score": 0.09311464428901672
-        },
-        {
-          "id": "https://openalex.org/keywords/receptor",
-          "display_name": "Receptor",
-          "score": 0.07681182026863098
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2780919550",
-          "wikidata": "https://www.wikidata.org/wiki/Q5379024",
-          "display_name": "Enkephalinase",
-          "level": 5,
-          "score": 0.9560248851776123
-        },
-        {
-          "id": "https://openalex.org/C118303440",
-          "wikidata": "https://www.wikidata.org/wiki/Q419968",
-          "display_name": "Neuropeptide",
-          "level": 3,
-          "score": 0.7551229000091553
-        },
-        {
-          "id": "https://openalex.org/C25274449",
-          "wikidata": "https://www.wikidata.org/wiki/Q1805481",
-          "display_name": "Long-term potentiation",
-          "level": 3,
-          "score": 0.691478431224823
-        },
-        {
-          "id": "https://openalex.org/C104826730",
-          "wikidata": "https://www.wikidata.org/wiki/Q414232",
-          "display_name": "Neprilysin",
-          "level": 3,
-          "score": 0.5505490899085999
-        },
-        {
-          "id": "https://openalex.org/C13935069",
-          "wikidata": "https://www.wikidata.org/wiki/Q2157266",
-          "display_name": "Oligopeptide",
-          "level": 3,
-          "score": 0.47258174419403076
-        },
-        {
-          "id": "https://openalex.org/C98274493",
-          "wikidata": "https://www.wikidata.org/wiki/Q128406",
-          "display_name": "Pharmacology",
-          "level": 1,
-          "score": 0.38374394178390503
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.3800670802593231
-        },
-        {
-          "id": "https://openalex.org/C2779281246",
-          "wikidata": "https://www.wikidata.org/wiki/Q172847",
-          "display_name": "Peptide",
-          "level": 2,
-          "score": 0.316694438457489
-        },
-        {
-          "id": "https://openalex.org/C71924100",
-          "wikidata": "https://www.wikidata.org/wiki/Q11190",
-          "display_name": "Medicine",
-          "level": 0,
-          "score": 0.22791844606399536
-        },
-        {
-          "id": "https://openalex.org/C181199279",
-          "wikidata": "https://www.wikidata.org/wiki/Q8047",
-          "display_name": "Enzyme",
-          "level": 2,
-          "score": 0.16388532519340515
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0.15778058767318726
-        },
-        {
-          "id": "https://openalex.org/C2777803847",
-          "wikidata": "https://www.wikidata.org/wiki/Q325101",
-          "display_name": "Enkephalin",
-          "level": 4,
-          "score": 0.09311464428901672
-        },
-        {
-          "id": "https://openalex.org/C170493617",
-          "wikidata": "https://www.wikidata.org/wiki/Q208467",
-          "display_name": "Receptor",
-          "level": 2,
-          "score": 0.07681182026863098
-        },
-        {
-          "id": "https://openalex.org/C2781063702",
-          "wikidata": "https://www.wikidata.org/wiki/Q427523",
-          "display_name": "Opioid",
-          "level": 3,
-          "score": 0
-        }
-      ],
-      "mesh": [
-        {
-          "descriptor_ui": "D001980",
-          "descriptor_name": "Bronchi",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016085",
-          "descriptor_name": "Bronchoconstrictor Agents",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004357",
-          "descriptor_name": "Drug Synergism",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006020",
-          "descriptor_name": "Glycopeptides",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D066298",
-          "descriptor_name": "In Vitro Techniques",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009119",
-          "descriptor_name": "Muscle Contraction",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009130",
-          "descriptor_name": "Muscle, Smooth",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D015260",
-          "descriptor_name": "Neprilysin",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009479",
-          "descriptor_name": "Neuropeptides",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001980",
-          "descriptor_name": "Bronchi",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016085",
-          "descriptor_name": "Bronchoconstrictor Agents",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D004357",
-          "descriptor_name": "Drug Synergism",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006020",
-          "descriptor_name": "Glycopeptides",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D066298",
-          "descriptor_name": "In Vitro Techniques",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009119",
-          "descriptor_name": "Muscle Contraction",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009130",
-          "descriptor_name": "Muscle, Smooth",
-          "qualifier_ui": "Q000187",
-          "qualifier_name": "drug effects",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D015260",
-          "descriptor_name": "Neprilysin",
-          "qualifier_ui": "Q000037",
-          "qualifier_name": "antagonists & inhibitors",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009479",
-          "descriptor_name": "Neuropeptides",
-          "qualifier_ui": "Q000494",
-          "qualifier_name": "pharmacology",
-          "is_major_topic": false
-        }
-      ],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/0952-0600(88)90006-3",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/0952-0600(88)90006-3",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S24419355",
-            "display_name": "Pulmonary Pharmacology",
-            "issn_l": "0952-0600",
-            "issn": [
-              "0952-0600",
-              "1522-9637"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/P4310319955",
-            "host_organization_name": "Academic Press",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319955",
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Academic Press",
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Pulmonary Pharmacology",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:2980283",
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/2980283",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Pulmonary pharmacology",
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.49000000953674316,
-          "id": "https://metadata.un.org/sdg/3",
-          "display_name": "Good health and well-being"
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320334705",
-          "display_name": "National Health and Medical Research Council",
-          "ror": "https://ror.org/011kf5r70"
-        },
-        {
-          "id": "https://openalex.org/F4320334737",
-          "display_name": "National Medical Research Council",
-          "ror": "https://ror.org/04x3cxs03"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "referenced_works_count": 9,
-      "referenced_works": [
-        "https://openalex.org/W6662596597",
-        "https://openalex.org/W1995408834",
-        "https://openalex.org/W2075223176",
-        "https://openalex.org/W2415920514",
-        "https://openalex.org/W2030271290",
-        "https://openalex.org/W1994106070",
-        "https://openalex.org/W2411704980",
-        "https://openalex.org/W2047496837",
-        "https://openalex.org/W2051989565"
-      ],
-      "related_works": [
-        "https://openalex.org/W2206137024",
-        "https://openalex.org/W2183091402",
-        "https://openalex.org/W1999077600",
-        "https://openalex.org/W4239825813",
-        "https://openalex.org/W2206830250",
-        "https://openalex.org/W1971961846",
-        "https://openalex.org/W1510985594",
-        "https://openalex.org/W2011557687",
-        "https://openalex.org/W1987378020",
-        "https://openalex.org/W2030699707"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2017,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-01-13T01:12:25.745995",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W1604867301",
       "doi": "https://doi.org/10.1029/gd019p0323",
       "title": "Basement fragments, accreted tectonostratigraphic terranes, and overlap sequences: Elements in the tectonic evolution of the Arabian Shield",
@@ -33654,19 +32086,8 @@
             "display_name": "Peter R. Johnson",
             "orcid": "https://orcid.org/0000-0002-4697-3882"
           },
-          "institutions": [
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
-            }
-          ],
-          "countries": [
-            "US"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "Peter R. Johnson",
           "raw_affiliation_strings": [
@@ -33675,9 +32096,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Jv Associates, Ltd., 1242 Tenth St. N.W., Washington, Dc 20001, Usa",
-              "institution_ids": [
-                null
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -33727,16 +32146,7 @@
             "display_name": "Elizabeth Smith",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
-            }
-          ],
+          "institutions": [],
           "countries": [],
           "is_corresponding": false,
           "raw_author_name": "E. Alan Smith",
@@ -33746,9 +32156,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Riofinex Limited, London W1r 5Pa, England",
-              "institution_ids": [
-                null
-              ]
+              "institution_ids": []
             }
           ]
         }
@@ -33766,7 +32174,7 @@
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.86078886,
+        "value": 0.86111111,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34050,12 +32458,12 @@
         "https://openalex.org/W2081248227",
         "https://openalex.org/W2008056984",
         "https://openalex.org/W2072137185",
-        "https://openalex.org/W955809699",
+        "https://openalex.org/W1496688790",
         "https://openalex.org/W1998354960",
         "https://openalex.org/W2009931199",
         "https://openalex.org/W999681338",
+        "https://openalex.org/W955809699",
         "https://openalex.org/W181364181",
-        "https://openalex.org/W1496688790",
         "https://openalex.org/W631520832",
         "https://openalex.org/W2246690139"
       ],
@@ -34102,7 +32510,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T21:40:15.123406",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35862,9 +34270,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
@@ -36437,9 +34845,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -37743,9 +36151,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -39142,9 +37550,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
@@ -39422,7 +37830,7 @@
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.90037841,
+        "value": 0.90068352,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -40238,9 +38646,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
+          "display_name": "Gender equality",
           "id": "https://metadata.un.org/sdg/5",
-          "display_name": "Gender equality"
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -40647,9 +39055,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -40718,1651 +39126,6 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2048987162",
-      "doi": "https://doi.org/10.1183/09031936.05.00016905",
-      "title": "<i>In vitro</i>studies of lymphangioleiomyomatosis",
-      "display_name": "<i>In vitro</i>studies of lymphangioleiomyomatosis",
-      "publication_year": 2005,
-      "publication_date": "2005-10-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2048987162",
-        "doi": "https://doi.org/10.1183/09031936.05.00016905",
-        "mag": "2048987162",
-        "pmid": "https://pubmed.ncbi.nlm.nih.gov/16204585"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1183/09031936.05.00016905",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1183/09031936.05.00016905",
-        "pdf_url": "https://erj.ersjournals.com/content/erj/26/4/569.full.pdf",
-        "source": {
-          "id": "https://openalex.org/S4210207896",
-          "display_name": "European Respiratory Journal",
-          "issn_l": "0903-1936",
-          "issn": [
-            "0903-1936",
-            "1399-3003"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310317833",
-          "host_organization_name": "European Respiratory Society",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310317833"
-          ],
-          "host_organization_lineage_names": [
-            "European Respiratory Society"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "European Respiratory Journal",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "pubmed"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://erj.ersjournals.com/content/erj/26/4/569.full.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5108455726",
-            "display_name": "Judith L. Black",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I129604602",
-              "display_name": "University of Sydney",
-              "ror": "https://ror.org/0384j8v12",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "J. L. Black",
-          "raw_affiliation_strings": [
-            "Dept of Pharmacology, University of Sydney, NSW 2006, and Transplant Unit, St Vincents Hospital, Sydney, Australia. judblack@med.usyd.edu.au"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Dept of Pharmacology, University of Sydney, NSW 2006, and Transplant Unit, St Vincents Hospital, Sydney, Australia. judblack@med.usyd.edu.au",
-              "institution_ids": [
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5082828606",
-            "display_name": "Qi Ge",
-            "orcid": "https://orcid.org/0000-0002-1748-9768"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I129604602",
-              "display_name": "University of Sydney",
-              "ror": "https://ror.org/0384j8v12",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129604602"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2800858616",
-              "display_name": "Woolcock Institute of Medical Research",
-              "ror": "https://ror.org/04hy0x592",
-              "country_code": "AU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I2799732068",
-                "https://openalex.org/I2800858616",
-                "https://openalex.org/I99043593"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Q. Ge",
-          "raw_affiliation_strings": [
-            "Dept of Pharmacology, and",
-            "Woolcock Institute of Medical Research, University of Sydney, and"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Dept of Pharmacology, and",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Woolcock Institute of Medical Research, University of Sydney, and",
-              "institution_ids": [
-                "https://openalex.org/I2800858616",
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5073221407",
-            "display_name": "Sarah Boustany",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I129604602",
-              "display_name": "University of Sydney",
-              "ror": "https://ror.org/0384j8v12",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129604602"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2800858616",
-              "display_name": "Woolcock Institute of Medical Research",
-              "ror": "https://ror.org/04hy0x592",
-              "country_code": "AU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I2799732068",
-                "https://openalex.org/I2800858616",
-                "https://openalex.org/I99043593"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "S. Boustany",
-          "raw_affiliation_strings": [
-            "Dept of Pharmacology, and",
-            "Woolcock Institute of Medical Research, University of Sydney, and"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Dept of Pharmacology, and",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Woolcock Institute of Medical Research, University of Sydney, and",
-              "institution_ids": [
-                "https://openalex.org/I2800858616",
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5103098706",
-            "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "P. R. A. Johnson",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5109878101",
-            "display_name": "M. H. Poniris",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M. H. Poniris",
-          "raw_affiliation_strings": [
-            "Dept of Pharmacology, and"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Dept of Pharmacology, and",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5036921698",
-            "display_name": "Allan R. Glanville",
-            "orcid": "https://orcid.org/0000-0002-2986-4027"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210087284",
-              "display_name": "St Vincent's Hospital Sydney",
-              "ror": "https://ror.org/000ed3w25",
-              "country_code": "AU",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I4210087284"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "A. R. Glanville",
-          "raw_affiliation_strings": [
-            "Transplant Unit, St Vincents Hospital Darlinghurst, Sydney, Australia."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Transplant Unit, St Vincents Hospital Darlinghurst, Sydney, Australia.",
-              "institution_ids": [
-                "https://openalex.org/I4210087284"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074742233",
-            "display_name": "Brian G. Oliver",
-            "orcid": "https://orcid.org/0000-0002-7122-9262"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "B. G. G. Oliver",
-          "raw_affiliation_strings": [
-            "Dept of Pharmacology, and"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Dept of Pharmacology, and",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5113657194",
-            "display_name": "L. M. Moir",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2800858616",
-              "display_name": "Woolcock Institute of Medical Research",
-              "ror": "https://ror.org/04hy0x592",
-              "country_code": "AU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I2799732068",
-                "https://openalex.org/I2800858616",
-                "https://openalex.org/I99043593"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I129604602",
-              "display_name": "University of Sydney",
-              "ror": "https://ror.org/0384j8v12",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "L. M. Moir",
-          "raw_affiliation_strings": [
-            "Dept of Pharmacology, and",
-            "Woolcock Institute of Medical Research, University of Sydney, and"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Dept of Pharmacology, and",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Woolcock Institute of Medical Research, University of Sydney, and",
-              "institution_ids": [
-                "https://openalex.org/I2800858616",
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5072324055",
-            "display_name": "Janette K. Burgess",
-            "orcid": "https://orcid.org/0000-0001-9868-9966"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I129604602",
-              "display_name": "University of Sydney",
-              "ror": "https://ror.org/0384j8v12",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129604602"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I2800858616",
-              "display_name": "Woolcock Institute of Medical Research",
-              "ror": "https://ror.org/04hy0x592",
-              "country_code": "AU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I2799732068",
-                "https://openalex.org/I2800858616",
-                "https://openalex.org/I99043593"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "J. K. Burgess",
-          "raw_affiliation_strings": [
-            "Dept of Pharmacology, and",
-            "Woolcock Institute of Medical Research, University of Sydney, and",
-            "Department of Pharmacology and The Woolcock Institute of Medical Research, University of Sydney, NSW 2006, Australia."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Dept of Pharmacology, and",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "Woolcock Institute of Medical Research, University of Sydney, and",
-              "institution_ids": [
-                "https://openalex.org/I2800858616",
-                "https://openalex.org/I129604602"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Pharmacology and The Woolcock Institute of Medical Research, University of Sydney, NSW 2006, Australia.",
-              "institution_ids": [
-                "https://openalex.org/I2800858616",
-                "https://openalex.org/I129604602"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 9,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5108455726"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I129604602"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.36602238,
-      "has_fulltext": true,
-      "cited_by_count": 11,
-      "citation_normalized_percentile": {
-        "value": 0.58864017,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "26",
-        "issue": "4",
-        "first_page": "569",
-        "last_page": "576"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12049",
-        "display_name": "Tuberous Sclerosis Complex Research",
-        "score": 0.9998000264167786,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2737",
-          "display_name": "Physiology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/27",
-          "display_name": "Medicine"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/4",
-          "display_name": "Health Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12049",
-          "display_name": "Tuberous Sclerosis Complex Research",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2737",
-            "display_name": "Physiology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/27",
-            "display_name": "Medicine"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/4",
-            "display_name": "Health Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12278",
-          "display_name": "Vascular Tumors and Angiosarcomas",
-          "score": 0.98089998960495,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2730",
-            "display_name": "Oncology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/27",
-            "display_name": "Medicine"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/4",
-            "display_name": "Health Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14102",
-          "display_name": "Corporate Governance and Law",
-          "score": 0.9807000160217285,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1408",
-            "display_name": "Strategy and Management"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/14",
-            "display_name": "Business, Management and Accounting"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/lymphangioleiomyomatosis",
-          "display_name": "Lymphangioleiomyomatosis",
-          "score": 0.7900675535202026
-        },
-        {
-          "id": "https://openalex.org/keywords/in-vitro",
-          "display_name": "In vitro",
-          "score": 0.6771494746208191
-        },
-        {
-          "id": "https://openalex.org/keywords/medicine",
-          "display_name": "Medicine",
-          "score": 0.36776551604270935
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.30701136589050293
-        },
-        {
-          "id": "https://openalex.org/keywords/pathology",
-          "display_name": "Pathology",
-          "score": 0.25992685556411743
-        },
-        {
-          "id": "https://openalex.org/keywords/tuberous-sclerosis",
-          "display_name": "Tuberous sclerosis",
-          "score": 0.1815519630908966
-        },
-        {
-          "id": "https://openalex.org/keywords/genetics",
-          "display_name": "Genetics",
-          "score": 0.16225826740264893
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2779997425",
-          "wikidata": "https://www.wikidata.org/wiki/Q1878759",
-          "display_name": "Lymphangioleiomyomatosis",
-          "level": 3,
-          "score": 0.7900675535202026
-        },
-        {
-          "id": "https://openalex.org/C202751555",
-          "wikidata": "https://www.wikidata.org/wiki/Q221681",
-          "display_name": "In vitro",
-          "level": 2,
-          "score": 0.6771494746208191
-        },
-        {
-          "id": "https://openalex.org/C71924100",
-          "wikidata": "https://www.wikidata.org/wiki/Q11190",
-          "display_name": "Medicine",
-          "level": 0,
-          "score": 0.36776551604270935
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.30701136589050293
-        },
-        {
-          "id": "https://openalex.org/C142724271",
-          "wikidata": "https://www.wikidata.org/wiki/Q7208",
-          "display_name": "Pathology",
-          "level": 1,
-          "score": 0.25992685556411743
-        },
-        {
-          "id": "https://openalex.org/C2778980267",
-          "wikidata": "https://www.wikidata.org/wiki/Q1362721",
-          "display_name": "Tuberous sclerosis",
-          "level": 2,
-          "score": 0.1815519630908966
-        },
-        {
-          "id": "https://openalex.org/C54355233",
-          "wikidata": "https://www.wikidata.org/wiki/Q7162",
-          "display_name": "Genetics",
-          "level": 1,
-          "score": 0.16225826740264893
-        }
-      ],
-      "mesh": [
-        {
-          "descriptor_ui": "D000293",
-          "descriptor_name": "Adolescent",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000328",
-          "descriptor_name": "Adult",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000368",
-          "descriptor_name": "Aged",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000951",
-          "descriptor_name": "Antigens, Neoplasm",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001249",
-          "descriptor_name": "Asthma",
-          "qualifier_ui": "Q000378",
-          "qualifier_name": "metabolism",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001249",
-          "descriptor_name": "Asthma",
-          "qualifier_ui": "Q000503",
-          "qualifier_name": "physiopathology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002478",
-          "descriptor_name": "Cells, Cultured",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D055513",
-          "descriptor_name": "Connective Tissue Growth Factor",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D051546",
-          "descriptor_name": "Cyclooxygenase 2",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D015232",
-          "descriptor_name": "Dinoprostone",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016326",
-          "descriptor_name": "Extracellular Matrix Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005260",
-          "descriptor_name": "Female",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006133",
-          "descriptor_name": "Growth Substances",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D017874",
-          "descriptor_name": "Immediate-Early Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016023",
-          "descriptor_name": "Integrins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D036341",
-          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008168",
-          "descriptor_name": "Lung",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D018192",
-          "descriptor_name": "Lymphangioleiomyomatosis",
-          "qualifier_ui": "Q000378",
-          "qualifier_name": "metabolism",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D018192",
-          "descriptor_name": "Lymphangioleiomyomatosis",
-          "qualifier_ui": "Q000503",
-          "qualifier_name": "physiopathology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008297",
-          "descriptor_name": "Male",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D058950",
-          "descriptor_name": "Melanoma-Specific Antigens",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008875",
-          "descriptor_name": "Middle Aged",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D032389",
-          "descriptor_name": "Myocytes, Smooth Muscle",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009363",
-          "descriptor_name": "Neoplasm Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016212",
-          "descriptor_name": "Transforming Growth Factor beta",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D042461",
-          "descriptor_name": "Vascular Endothelial Growth Factor A",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000293",
-          "descriptor_name": "Adolescent",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000328",
-          "descriptor_name": "Adult",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000368",
-          "descriptor_name": "Aged",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000951",
-          "descriptor_name": "Antigens, Neoplasm",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001249",
-          "descriptor_name": "Asthma",
-          "qualifier_ui": "Q000378",
-          "qualifier_name": "metabolism",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001249",
-          "descriptor_name": "Asthma",
-          "qualifier_ui": "Q000503",
-          "qualifier_name": "physiopathology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002478",
-          "descriptor_name": "Cells, Cultured",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D055513",
-          "descriptor_name": "Connective Tissue Growth Factor",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D051546",
-          "descriptor_name": "Cyclooxygenase 2",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D015232",
-          "descriptor_name": "Dinoprostone",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016326",
-          "descriptor_name": "Extracellular Matrix Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005260",
-          "descriptor_name": "Female",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006133",
-          "descriptor_name": "Growth Substances",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D017874",
-          "descriptor_name": "Immediate-Early Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016023",
-          "descriptor_name": "Integrins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D036341",
-          "descriptor_name": "Intercellular Signaling Peptides and Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008168",
-          "descriptor_name": "Lung",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D018192",
-          "descriptor_name": "Lymphangioleiomyomatosis",
-          "qualifier_ui": "Q000378",
-          "qualifier_name": "metabolism",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D018192",
-          "descriptor_name": "Lymphangioleiomyomatosis",
-          "qualifier_ui": "Q000503",
-          "qualifier_name": "physiopathology",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008297",
-          "descriptor_name": "Male",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D058950",
-          "descriptor_name": "Melanoma-Specific Antigens",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008875",
-          "descriptor_name": "Middle Aged",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D032389",
-          "descriptor_name": "Myocytes, Smooth Muscle",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009363",
-          "descriptor_name": "Neoplasm Proteins",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D016212",
-          "descriptor_name": "Transforming Growth Factor beta",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D042461",
-          "descriptor_name": "Vascular Endothelial Growth Factor A",
-          "qualifier_ui": "Q000096",
-          "qualifier_name": "biosynthesis",
-          "is_major_topic": false
-        }
-      ],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1183/09031936.05.00016905",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1183/09031936.05.00016905",
-          "pdf_url": "https://erj.ersjournals.com/content/erj/26/4/569.full.pdf",
-          "source": {
-            "id": "https://openalex.org/S4210207896",
-            "display_name": "European Respiratory Journal",
-            "issn_l": "0903-1936",
-            "issn": [
-              "0903-1936",
-              "1399-3003"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310317833",
-            "host_organization_name": "European Respiratory Society",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310317833"
-            ],
-            "host_organization_lineage_names": [
-              "European Respiratory Society"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "European Respiratory Journal",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmid:16204585",
-          "is_oa": false,
-          "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/16204585",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306525036",
-            "display_name": "PubMed",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "The European respiratory journal",
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1183/09031936.05.00016905",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1183/09031936.05.00016905",
-        "pdf_url": "https://erj.ersjournals.com/content/erj/26/4/569.full.pdf",
-        "source": {
-          "id": "https://openalex.org/S4210207896",
-          "display_name": "European Respiratory Journal",
-          "issn_l": "0903-1936",
-          "issn": [
-            "0903-1936",
-            "1399-3003"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310317833",
-          "host_organization_name": "European Respiratory Society",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310317833"
-          ],
-          "host_organization_lineage_names": [
-            "European Respiratory Society"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "European Respiratory Journal",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "referenced_works_count": 17,
-      "referenced_works": [
-        "https://openalex.org/W2100499764",
-        "https://openalex.org/W2123193568",
-        "https://openalex.org/W2170936754",
-        "https://openalex.org/W2031650264",
-        "https://openalex.org/W2102318070",
-        "https://openalex.org/W2124192288",
-        "https://openalex.org/W2114339366",
-        "https://openalex.org/W2145193108",
-        "https://openalex.org/W2118304778",
-        "https://openalex.org/W1963912955",
-        "https://openalex.org/W2124673812",
-        "https://openalex.org/W2051661228",
-        "https://openalex.org/W1968575852",
-        "https://openalex.org/W2038600137",
-        "https://openalex.org/W1996170913",
-        "https://openalex.org/W2023370394",
-        "https://openalex.org/W2508841648"
-      ],
-      "related_works": [
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W3031052312",
-        "https://openalex.org/W4389568370",
-        "https://openalex.org/W3032375762",
-        "https://openalex.org/W1995515455",
-        "https://openalex.org/W2080531066",
-        "https://openalex.org/W2586801360",
-        "https://openalex.org/W3108674512",
-        "https://openalex.org/W1506200166",
-        "https://openalex.org/W1489783725"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          93,
-          95,
-          143,
-          148
-        ],
-        "Lymphangioleiomyomatosis": [
-          0
-        ],
-        "(LAM)": [
-          1
-        ],
-        "is": [
-          2
-        ],
-        "associated": [
-          3,
-          159
-        ],
-        "with": [
-          4,
-          39,
-          51,
-          79,
-          160,
-          226
-        ],
-        "abnormal": [
-          5,
-          30,
-          213
-        ],
-        "airway": [
-          6,
-          33
-        ],
-        "smooth": [
-          7,
-          34
-        ],
-        "muscle": [
-          8,
-          35
-        ],
-        "that": [
-          9,
-          217
-        ],
-        "leads": [
-          10
-        ],
-        "to": [
-          11,
-          191,
-          220
-        ],
-        "the": [
-          12,
-          71,
-          80,
-          107,
-          164
-        ],
-        "characteristic": [
-          13
-        ],
-        "pathology": [
-          14
-        ],
-        "of": [
-          15,
-          21,
-          32,
-          70,
-          84,
-          89,
-          109,
-          124,
-          163,
-          167,
-          173
-        ],
-        "lung": [
-          16,
-          22
-        ],
-        "nodule": [
-          17
-        ],
-        "formation": [
-          18
-        ],
-        "and": [
-          19,
-          45,
-          60,
-          82,
-          101,
-          106,
-          120,
-          156,
-          222
-        ],
-        "destruction": [
-          20
-        ],
-        "tissue.": [
-          23
-        ],
-        "The": [
-          24,
-          68,
-          170
-        ],
-        "current": [
-          25
-        ],
-        "authors": [
-          26
-        ],
-        "have": [
-          27
-        ],
-        "previously": [
-          28
-        ],
-        "identified": [
-          29
-        ],
-        "behaviour": [
-          31
-        ],
-        "cells": [
-          36,
-          44,
-          126,
-          132,
-          181,
-          201,
-          211
-        ],
-        "from": [
-          37,
-          49,
-          130
-        ],
-        "patients": [
-          38,
-          50,
-          119,
-          225
-        ],
-        "asthma.": [
-          40
-        ],
-        "In": [
-          41,
-          208
-        ],
-        "this": [
-          42,
-          157
-        ],
-        "study,": [
-          43
-        ],
-        "tissue": [
-          46,
-          103,
-          175
-        ],
-        "sections": [
-          47
-        ],
-        "derived": [
-          48
-        ],
-        "LAM": [
-          52,
-          118,
-          125,
-          154,
-          200
-        ],
-        "(n": [
-          53,
-          57,
-          63
-        ],
-        "=": [
-          54,
-          58,
-          64
-        ],
-        "7),": [
-          55
-        ],
-        "asthma": [
-          56,
-          180,
-          204
-        ],
-        "8),": [
-          59
-        ],
-        "nonasthmatic": [
-          61
-        ],
-        "controls": [
-          62
-        ],
-        "9)": [
-          65
-        ],
-        "were": [
-          66,
-          150,
-          182
-        ],
-        "compared.": [
-          67
-        ],
-        "presence": [
-          69
-        ],
-        "antigen": [
-          72
-        ],
-        "human": [
-          73
-        ],
-        "melanosome": [
-          74
-        ],
-        "(HM)B-45": [
-          75
-        ],
-        "was": [
-          76,
-          114,
-          127,
-          134,
-          158,
-          196
-        ],
-        "investigated,": [
-          77
-        ],
-        "along": [
-          78
-        ],
-        "proliferation": [
-          81
-        ],
-        "release": [
-          83,
-          88
-        ],
-        "extracellular": [
-          85
-        ],
-        "matrix": [
-          86
-        ],
-        "proteins,": [
-          87
-        ],
-        "endogenous": [
-          90,
-          146
-        ],
-        "prostaglandin": [
-          91
-        ],
-        "E": [
-          92
-        ],
-        "(PGE": [
-          94
-        ],
-        "),": [
-          96
-        ],
-        "vascular": [
-          97
-        ],
-        "endothelial": [
-          98
-        ],
-        "growth": [
-          99,
-          104,
-          176,
-          193
-        ],
-        "factor": [
-          100,
-          177
-        ],
-        "connective": [
-          102,
-          174
-        ],
-        "factor,": [
-          105
-        ],
-        "expression": [
-          108,
-          162
-        ],
-        "integrins.": [
-          110
-        ],
-        "Positive": [
-          111
-        ],
-        "HMB-45": [
-          112
-        ],
-        "staining": [
-          113
-        ],
-        "found": [
-          115
-        ],
-        "in": [
-          116,
-          153,
-          179,
-          185,
-          189,
-          199,
-          215,
-          224
-        ],
-        "all": [
-          117
-        ],
-        "no": [
-          121
-        ],
-        "controls.": [
-          122
-        ],
-        "Proliferation": [
-          123
-        ],
-        "not": [
-          128,
-          183
-        ],
-        "different": [
-          129
-        ],
-        "control": [
-          131,
-          206
-        ],
-        "nor": [
-          133
-        ],
-        "its": [
-          135
-        ],
-        "inhibition": [
-          136
-        ],
-        "by": [
-          137
-        ],
-        "β-agonists,": [
-          138
-        ],
-        "corticosteroids,": [
-          139
-        ],
-        "rapamycin": [
-          140
-        ],
-        "or": [
-          141,
-          205
-        ],
-        "PGE": [
-          142,
-          147
-        ],
-        ".": [
-          144
-        ],
-        "However,": [
-          145
-        ],
-        "levels": [
-          149,
-          172
-        ],
-        "markedly": [
-          151,
-          197
-        ],
-        "decreased": [
-          152,
-          161
-        ],
-        "cells,": [
-          155
-        ],
-        "inducible": [
-          165
-        ],
-        "form": [
-          166
-        ],
-        "cyclooxygenase": [
-          168
-        ],
-        "(COX-2).": [
-          169
-        ],
-        "increased": [
-          171
-        ],
-        "seen": [
-          178
-        ],
-        "observed": [
-          184
-        ],
-        "LAM.": [
-          186
-        ],
-        "Elastin": [
-          187
-        ],
-        "mRNA": [
-          188
-        ],
-        "response": [
-          190
-        ],
-        "transforming": [
-          192
-        ],
-        "factor-β": [
-          194
-        ],
-        "stimulation": [
-          195
-        ],
-        "lower": [
-          198
-        ],
-        "than": [
-          202
-        ],
-        "either": [
-          203
-        ],
-        "cells.": [
-          207
-        ],
-        "conclusion,": [
-          209
-        ],
-        "lymphangioleiomyomatosis": [
-          210
-        ],
-        "exhibit": [
-          212
-        ],
-        "properties": [
-          214
-        ],
-        "vitro": [
-          216
-        ],
-        "may": [
-          218
-        ],
-        "contribute": [
-          219
-        ],
-        "pathophysiology": [
-          221
-        ],
-        "symptomatology": [
-          223
-        ],
-        "lymphangioleiomyomatosis.": [
-          227
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42860,9 +39623,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -45885,9 +42648,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -46836,16 +43599,7 @@
             "display_name": "Peter R. Johnson",
             "orcid": "https://orcid.org/0000-0002-4697-3882"
           },
-          "institutions": [
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
-            }
-          ],
+          "institutions": [],
           "countries": [],
           "is_corresponding": false,
           "raw_author_name": "P. R. Johnson",
@@ -46855,9 +43609,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Assistant Professor of Pedology, Associate Professor of Soil Mineralogy, and Assistant in Pedology, respectively.",
-              "institution_ids": [
-                null
-              ]
+              "institution_ids": []
             }
           ]
         }
@@ -46879,7 +43631,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.93552439,
+        "value": 0.93556485,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47150,9 +43902,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -47394,7 +44146,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T21:40:15.123406",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47757,9 +44509,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -48414,19 +45166,8 @@
             "display_name": "Per Leanderson",
             "orcid": "https://orcid.org/0000-0001-6724-7305"
           },
-          "institutions": [
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": true,
           "raw_author_name": "P. James LeAnderson",
           "raw_affiliation_strings": [
@@ -48435,9 +45176,7 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Deputy Ministry for Mineral Resources, Jiddah, Saudi Arabia",
-              "institution_ids": [
-                null
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -48497,7 +45236,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.17752333,
+        "value": 0.17710438,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49362,7 +46101,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T21:40:15.123406",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49763,9 +46502,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -50857,9 +47596,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -51465,9 +48204,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -53348,9 +50087,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -53871,9 +50610,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -59515,9 +56254,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -60292,371 +57031,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3170022927",
-      "doi": null,
-      "title": "Possible Recent Volcanic Activity on the East Pacific Rise at 9° 32'N",
-      "display_name": "Possible Recent Volcanic Activity on the East Pacific Rise at 9° 32'N",
-      "publication_year": 2002,
-      "publication_date": "2002-12-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3170022927",
-        "mag": "3170022927"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "mag:3170022927",
-        "is_oa": false,
-        "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2002AGUFM.V52A1283K/abstract",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306501062",
-          "display_name": "AGU Fall Meeting Abstracts",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": null,
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "AGU Fall Meeting Abstracts",
-        "raw_type": null
-      },
-      "type": "article",
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5114248445",
-            "display_name": "T Kurokawa",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "T Kurokawa",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5077563794",
-            "display_name": "Margo H. Edwards",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Margo H. Edwards",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5103098706",
-            "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Peter R. Johnson",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5089269182",
-            "display_name": "Daniel J. Fornari",
-            "orcid": "https://orcid.org/0000-0002-2121-9357"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Daniel J. Fornari",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5084979688",
-            "display_name": "M. R. Perfit",
-            "orcid": "https://orcid.org/0000-0002-1399-8928"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M. R. Perfit",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5021125003",
-            "display_name": "Hans Schouten",
-            "orcid": "https://orcid.org/0000-0002-2913-2643"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Hans Schouten",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5020258837",
-            "display_name": "Maurice A. Tivey",
-            "orcid": "https://orcid.org/0000-0003-0821-1155"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Maurice A. Tivey",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 7,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5114248445"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.65286145,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "2002",
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "score": 0.9187999963760376,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.9187999963760376,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11588",
-          "display_name": "Atmospheric and Environmental Gas Dynamics",
-          "score": 0.9060999751091003,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6387600302696228
-        },
-        {
-          "id": "https://openalex.org/keywords/volcano",
-          "display_name": "Volcano",
-          "score": 0.6257758140563965
-        },
-        {
-          "id": "https://openalex.org/keywords/physical-geography",
-          "display_name": "Physical geography",
-          "score": 0.3268672823905945
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.26782649755477905
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.24655407667160034
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6387600302696228
-        },
-        {
-          "id": "https://openalex.org/C120806208",
-          "wikidata": "https://www.wikidata.org/wiki/Q8072",
-          "display_name": "Volcano",
-          "level": 2,
-          "score": 0.6257758140563965
-        },
-        {
-          "id": "https://openalex.org/C100970517",
-          "wikidata": "https://www.wikidata.org/wiki/Q52107",
-          "display_name": "Physical geography",
-          "level": 1,
-          "score": 0.3268672823905945
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.26782649755477905
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.24655407667160034
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "mag:3170022927",
-          "is_oa": false,
-          "landing_page_url": "http://ui.adsabs.harvard.edu/abs/2002AGUFM.V52A1283K/abstract",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306501062",
-            "display_name": "AGU Fall Meeting Abstracts",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": null,
-          "raw_source_name": "AGU Fall Meeting Abstracts",
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2995415884",
-        "https://openalex.org/W3032615458",
-        "https://openalex.org/W3041253471",
-        "https://openalex.org/W3084491053",
-        "https://openalex.org/W3047943790",
-        "https://openalex.org/W3123253991",
-        "https://openalex.org/W3095688358",
-        "https://openalex.org/W3003502799",
-        "https://openalex.org/W3026873602",
-        "https://openalex.org/W3087321756",
-        "https://openalex.org/W3126012016",
-        "https://openalex.org/W2995490028",
-        "https://openalex.org/W3023035383",
-        "https://openalex.org/W2994311446",
-        "https://openalex.org/W3086803808",
-        "https://openalex.org/W3134344715",
-        "https://openalex.org/W2985541918",
-        "https://openalex.org/W2995369623",
-        "https://openalex.org/W3163848346",
-        "https://openalex.org/W3016697355"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [],
-      "updated_date": "2025-10-10T17:16:08.811792",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W612166122",
       "doi": null,
       "title": "Augustus Alt: barren lands in a baron's hands",
@@ -60885,762 +57259,6 @@
       "abstract_inverted_index": null,
       "counts_by_year": [],
       "updated_date": "2025-11-06T04:12:42.849631",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W76976277",
-      "doi": null,
-      "title": "Geology and Petrophysics of the Ozouri Group, Central Gabon",
-      "display_name": "Geology and Petrophysics of the Ozouri Group, Central Gabon",
-      "publication_year": 1996,
-      "publication_date": "1996-08-01",
-      "ids": {
-        "openalex": "https://openalex.org/W76976277",
-        "mag": "76976277"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "mag:76976277",
-        "is_oa": false,
-        "landing_page_url": "http://www.osti.gov/scitech/biblio/421081",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S144020083",
-          "display_name": "AAPG Bulletin",
-          "issn_l": "0149-1423",
-          "issn": [
-            "0149-1423",
-            "1522-1423",
-            "1558-9153"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310316082",
-          "host_organization_name": "American Association of Petroleum Geologists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316082"
-          ],
-          "host_organization_lineage_names": [
-            "American Association of Petroleum Geologists"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": null,
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "AAPG Bulletin",
-        "raw_type": null
-      },
-      "type": "article",
-      "indexed_in": [],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5112599381",
-            "display_name": "L. A. Dunne",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "L. A. Dunne",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5103098706",
-            "display_name": "Peter R. Johnson",
-            "orcid": "https://orcid.org/0000-0002-4697-3882"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Peter R. Johnson",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5022529926",
-            "display_name": "S. B. Desantis",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S. B. Desantis",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5112599381"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.00706556,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "80",
-        "issue": "8",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 0.993399977684021,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.993399977684021,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9855999946594238,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9818000197410583,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9333561658859253
-        },
-        {
-          "id": "https://openalex.org/keywords/petrophysics",
-          "display_name": "Petrophysics",
-          "score": 0.8607727885246277
-        },
-        {
-          "id": "https://openalex.org/keywords/lithology",
-          "display_name": "Lithology",
-          "score": 0.7421462535858154
-        },
-        {
-          "id": "https://openalex.org/keywords/group",
-          "display_name": "Group (periodic table)",
-          "score": 0.6995349526405334
-        },
-        {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.46634334325790405
-        },
-        {
-          "id": "https://openalex.org/keywords/continental-margin",
-          "display_name": "Continental margin",
-          "score": 0.46332260966300964
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.4598380923271179
-        },
-        {
-          "id": "https://openalex.org/keywords/drilling",
-          "display_name": "Drilling",
-          "score": 0.4526980221271515
-        },
-        {
-          "id": "https://openalex.org/keywords/margin",
-          "display_name": "Margin (machine learning)",
-          "score": 0.42138487100601196
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.383047491312027
-        },
-        {
-          "id": "https://openalex.org/keywords/porosity",
-          "display_name": "Porosity",
-          "score": 0.13739269971847534
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.12900874018669128
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.09163790941238403
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9333561658859253
-        },
-        {
-          "id": "https://openalex.org/C46293882",
-          "wikidata": "https://www.wikidata.org/wiki/Q2080707",
-          "display_name": "Petrophysics",
-          "level": 3,
-          "score": 0.8607727885246277
-        },
-        {
-          "id": "https://openalex.org/C122792734",
-          "wikidata": "https://www.wikidata.org/wiki/Q6538759",
-          "display_name": "Lithology",
-          "level": 2,
-          "score": 0.7421462535858154
-        },
-        {
-          "id": "https://openalex.org/C2781311116",
-          "wikidata": "https://www.wikidata.org/wiki/Q83306",
-          "display_name": "Group (periodic table)",
-          "level": 2,
-          "score": 0.6995349526405334
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.46634334325790405
-        },
-        {
-          "id": "https://openalex.org/C201867031",
-          "wikidata": "https://www.wikidata.org/wiki/Q3290577",
-          "display_name": "Continental margin",
-          "level": 3,
-          "score": 0.46332260966300964
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.4598380923271179
-        },
-        {
-          "id": "https://openalex.org/C25197100",
-          "wikidata": "https://www.wikidata.org/wiki/Q890886",
-          "display_name": "Drilling",
-          "level": 2,
-          "score": 0.4526980221271515
-        },
-        {
-          "id": "https://openalex.org/C774472",
-          "wikidata": "https://www.wikidata.org/wiki/Q6760393",
-          "display_name": "Margin (machine learning)",
-          "level": 2,
-          "score": 0.42138487100601196
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.383047491312027
-        },
-        {
-          "id": "https://openalex.org/C6648577",
-          "wikidata": "https://www.wikidata.org/wiki/Q622669",
-          "display_name": "Porosity",
-          "level": 2,
-          "score": 0.13739269971847534
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.12900874018669128
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.09163790941238403
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C119857082",
-          "wikidata": "https://www.wikidata.org/wiki/Q2539",
-          "display_name": "Machine learning",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C78519656",
-          "wikidata": "https://www.wikidata.org/wiki/Q101333",
-          "display_name": "Mechanical engineering",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "mag:76976277",
-          "is_oa": false,
-          "landing_page_url": "http://www.osti.gov/scitech/biblio/421081",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S144020083",
-            "display_name": "AAPG Bulletin",
-            "issn_l": "0149-1423",
-            "issn": [
-              "0149-1423",
-              "1522-1423",
-              "1558-9153"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310316082",
-            "host_organization_name": "American Association of Petroleum Geologists",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316082"
-            ],
-            "host_organization_lineage_names": [
-              "American Association of Petroleum Geologists"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": null,
-          "is_accepted": false,
-          "is_published": null,
-          "raw_source_name": "AAPG Bulletin",
-          "raw_type": null
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2140988822",
-        "https://openalex.org/W1598631873",
-        "https://openalex.org/W2086655407",
-        "https://openalex.org/W1993764622",
-        "https://openalex.org/W2055996071",
-        "https://openalex.org/W1988915485",
-        "https://openalex.org/W152796988",
-        "https://openalex.org/W3134395696",
-        "https://openalex.org/W2120411138",
-        "https://openalex.org/W2903009978",
-        "https://openalex.org/W2470337368",
-        "https://openalex.org/W2104593180",
-        "https://openalex.org/W2139965315",
-        "https://openalex.org/W3109079643",
-        "https://openalex.org/W354610548",
-        "https://openalex.org/W3209037789",
-        "https://openalex.org/W2313078172",
-        "https://openalex.org/W2389350223",
-        "https://openalex.org/W2144393023",
-        "https://openalex.org/W2948786344"
-      ],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          85
-        ],
-        "Ozouri": [
-          1,
-          70,
-          115
-        ],
-        "Group": [
-          2
-        ],
-        "in": [
-          3,
-          94
-        ],
-        "Gabon": [
-          4
-        ],
-        "is": [
-          5,
-          37,
-          53,
-          71
-        ],
-        "comprised": [
-          6
-        ],
-        "of": [
-          7,
-          50,
-          60,
-          78,
-          100
-        ],
-        "finely": [
-          8
-        ],
-        "textured": [
-          9
-        ],
-        "siliceous": [
-          10,
-          39
-        ],
-        "dolomitic": [
-          11
-        ],
-        "and": [
-          12,
-          19,
-          28,
-          40,
-          81,
-          97
-        ],
-        "calcareous": [
-          13
-        ],
-        "claystones,": [
-          14
-        ],
-        "shales,": [
-          15
-        ],
-        "limestones,": [
-          16
-        ],
-        "dolomites,": [
-          17
-        ],
-        "porcellanite": [
-          18
-        ],
-        "cherts.": [
-          20
-        ],
-        "It": [
-          21,
-          36,
-          52
-        ],
-        "was": [
-          22
-        ],
-        "deposited": [
-          23
-        ],
-        "during": [
-          24
-        ],
-        "the": [
-          25,
-          46,
-          61,
-          69,
-          74,
-          95,
-          101,
-          114
-        ],
-        "Late": [
-          26
-        ],
-        "Paleocene": [
-          27
-        ],
-        "Early": [
-          29
-        ],
-        "Eocene": [
-          30
-        ],
-        "on": [
-          31,
-          73
-        ],
-        "a": [
-          32
-        ],
-        "transgressive": [
-          33
-        ],
-        "continental": [
-          34
-        ],
-        "margin.": [
-          35
-        ],
-        "highly": [
-          38
-        ],
-        "organically": [
-          41
-        ],
-        "rich,": [
-          42
-        ],
-        "with": [
-          43
-        ],
-        "affinities": [
-          44
-        ],
-        "to": [
-          45,
-          92,
-          109
-        ],
-        "Miocene": [
-          47
-        ],
-        "Monterey": [
-          48
-        ],
-        "Formation": [
-          49
-        ],
-        "California.": [
-          51
-        ],
-        "often": [
-          54
-        ],
-        "fractured": [
-          55
-        ],
-        "by": [
-          56
-        ],
-        "deeper": [
-          57
-        ],
-        "structural": [
-          58
-        ],
-        "movement": [
-          59
-        ],
-        "underlying": [
-          62
-        ],
-        "Ezanga": [
-          63
-        ],
-        "salt.": [
-          64
-        ],
-        "Economic": [
-          65
-        ],
-        "oil": [
-          66
-        ],
-        "production": [
-          67,
-          112
-        ],
-        "from": [
-          68,
-          113
-        ],
-        "dependent": [
-          72
-        ],
-        "most": [
-          75,
-          86
-        ],
-        "effective": [
-          76
-        ],
-        "combination": [
-          77,
-          88
-        ],
-        "matrix": [
-          79
-        ],
-        "(storage)": [
-          80
-        ],
-        "fracture": [
-          82
-        ],
-        "(deliverability)": [
-          83
-        ],
-        "porosity.": [
-          84
-        ],
-        "efficient": [
-          87
-        ],
-        "can": [
-          89,
-          106
-        ],
-        "be": [
-          90,
-          107
-        ],
-        "related": [
-          91
-        ],
-        "variations": [
-          93
-        ],
-        "lithologic": [
-          96
-        ],
-        "petrophysical": [
-          98
-        ],
-        "characteristics": [
-          99
-        ],
-        "formation.": [
-          102
-        ],
-        "Horizontal": [
-          103
-        ],
-        "drilling": [
-          104
-        ],
-        "techniques": [
-          105
-        ],
-        "utilized": [
-          108
-        ],
-        "fully": [
-          110
-        ],
-        "exploit": [
-          111
-        ],
-        "Group.": [
-          116
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2025-10-10T17:16:08.811792",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -63315,9 +58933,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -64899,9 +60517,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -66637,9 +62255,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -67946,9 +63564,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -68113,7 +63731,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.10623472,
+        "value": 0.106405,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68408,7 +64026,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-13T00:00:00",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2020-11-09T00:00:00"
     },
     {
@@ -68692,7 +64310,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11261872,
+        "value": 0.1128932,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -68936,7 +64554,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-13T00:00:00",
+      "updated_date": "2026-01-13T01:12:25.745995",
       "created_date": "2020-11-09T00:00:00"
     },
     {
@@ -69264,9 +64882,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
+          "display_name": "Quality Education",
           "id": "https://metadata.un.org/sdg/4",
-          "display_name": "Quality Education"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -73517,9 +69135,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],

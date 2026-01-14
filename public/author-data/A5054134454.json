@@ -931,16 +931,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 48,
       "referenced_works": [
@@ -1891,1369 +1891,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W1970514128",
-      "doi": "https://doi.org/10.1130/0091-7613(1996)024<0055:neflpf>2.3.co;2",
-      "title": "New evidence for land plants from the lower Middle Ordovician of Saudi Arabia",
-      "display_name": "New evidence for land plants from the lower Middle Ordovician of Saudi Arabia",
-      "publication_year": 1996,
-      "publication_date": "1996-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W1970514128",
-        "doi": "https://doi.org/10.1130/0091-7613(1996)024<0055:neflpf>2.3.co;2",
-        "mag": "1970514128"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1130/0091-7613(1996)024<0055:neflpf>2.3.co;2",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1130/0091-7613(1996)024<0055:neflpf>2.3.co;2",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S56162041",
-          "display_name": "Geology",
-          "issn_l": "0091-7613",
-          "issn": [
-            "0091-7613",
-            "1943-2682"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319845",
-          "host_organization_name": "Geological Society of America",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319845"
-          ],
-          "host_organization_lineage_names": [
-            "Geological Society of America"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5073496917",
-            "display_name": "Paul K. Strother",
-            "orcid": "https://orcid.org/0000-0003-0550-1704"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I103531236",
-              "display_name": "Boston College",
-              "ror": "https://ror.org/02n2fzt79",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I103531236"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Paul K. Strother",
-          "raw_affiliation_strings": [
-            "Boston College Department of Geology and Geophysics, Weston Observatory, Weston, Massachusetts 02193"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Boston College Department of Geology and Geophysics, Weston Observatory, Weston, Massachusetts 02193",
-              "institution_ids": [
-                "https://openalex.org/I103531236"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5054134454",
-            "display_name": "S. Al-Hajri",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Said Al-Hajri",
-          "raw_affiliation_strings": [
-            "Saudi Aramco, P.O. Box 2141, Dhahran 31311, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco, P.O. Box 2141, Dhahran 31311, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5011369024",
-            "display_name": "Alfred Traverse",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I130769515",
-              "display_name": "Pennsylvania State University",
-              "ror": "https://ror.org/04p491231",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I130769515"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Alfred Traverse",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, Pennsylvania State University, University Park, Pennsylvania 16802",
-            "Department of Geosciences Pennsylvania State University University Park, Pennsylvania 16802"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, Pennsylvania State University, University Park, Pennsylvania 16802",
-              "institution_ids": [
-                "https://openalex.org/I130769515"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geosciences Pennsylvania State University University Park, Pennsylvania 16802",
-              "institution_ids": [
-                "https://openalex.org/I130769515"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5073496917"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I103531236"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 4.47403778,
-      "has_fulltext": false,
-      "cited_by_count": 180,
-      "citation_normalized_percentile": {
-        "value": 0.94843049,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 97,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "24",
-        "issue": "1",
-        "first_page": "55",
-        "last_page": "55"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10385",
-        "display_name": "Plant Diversity and Evolution",
-        "score": 0.9911999702453613,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1105",
-          "display_name": "Ecology, Evolution, Behavior and Systematics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/11",
-          "display_name": "Agricultural and Biological Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/1",
-          "display_name": "Life Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10385",
-          "display_name": "Plant Diversity and Evolution",
-          "score": 0.9911999702453613,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1105",
-            "display_name": "Ecology, Evolution, Behavior and Systematics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/11",
-            "display_name": "Agricultural and Biological Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9815999865531921,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9746000170707703,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/ordovician",
-          "display_name": "Ordovician",
-          "score": 0.8482993245124817
-        },
-        {
-          "id": "https://openalex.org/keywords/citation",
-          "display_name": "Citation",
-          "score": 0.7132868766784668
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5898864269256592
-        },
-        {
-          "id": "https://openalex.org/keywords/icon",
-          "display_name": "Icon",
-          "score": 0.5486796498298645
-        },
-        {
-          "id": "https://openalex.org/keywords/traverse",
-          "display_name": "Traverse",
-          "score": 0.5404340624809265
-        },
-        {
-          "id": "https://openalex.org/keywords/library-science",
-          "display_name": "Library science",
-          "score": 0.4210747182369232
-        },
-        {
-          "id": "https://openalex.org/keywords/download",
-          "display_name": "Download",
-          "score": 0.4164081811904907
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.4113916754722595
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.3877691328525543
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.238949716091156
-        },
-        {
-          "id": "https://openalex.org/keywords/world-wide-web",
-          "display_name": "World Wide Web",
-          "score": 0.22275415062904358
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.19479572772979736
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C91442348",
-          "wikidata": "https://www.wikidata.org/wiki/Q62100",
-          "display_name": "Ordovician",
-          "level": 2,
-          "score": 0.8482993245124817
-        },
-        {
-          "id": "https://openalex.org/C2778805511",
-          "wikidata": "https://www.wikidata.org/wiki/Q1713",
-          "display_name": "Citation",
-          "level": 2,
-          "score": 0.7132868766784668
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5898864269256592
-        },
-        {
-          "id": "https://openalex.org/C2778447006",
-          "wikidata": "https://www.wikidata.org/wiki/Q1156474",
-          "display_name": "Icon",
-          "level": 2,
-          "score": 0.5486796498298645
-        },
-        {
-          "id": "https://openalex.org/C176809094",
-          "wikidata": "https://www.wikidata.org/wiki/Q15401496",
-          "display_name": "Traverse",
-          "level": 2,
-          "score": 0.5404340624809265
-        },
-        {
-          "id": "https://openalex.org/C161191863",
-          "wikidata": "https://www.wikidata.org/wiki/Q199655",
-          "display_name": "Library science",
-          "level": 1,
-          "score": 0.4210747182369232
-        },
-        {
-          "id": "https://openalex.org/C2780154274",
-          "wikidata": "https://www.wikidata.org/wiki/Q7126717",
-          "display_name": "Download",
-          "level": 2,
-          "score": 0.4164081811904907
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.4113916754722595
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.3877691328525543
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.238949716091156
-        },
-        {
-          "id": "https://openalex.org/C136764020",
-          "wikidata": "https://www.wikidata.org/wiki/Q466",
-          "display_name": "World Wide Web",
-          "level": 1,
-          "score": 0.22275415062904358
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.19479572772979736
-        },
-        {
-          "id": "https://openalex.org/C13280743",
-          "wikidata": "https://www.wikidata.org/wiki/Q131089",
-          "display_name": "Geodesy",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C199360897",
-          "wikidata": "https://www.wikidata.org/wiki/Q9143",
-          "display_name": "Programming language",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1130/0091-7613(1996)024<0055:neflpf>2.3.co;2",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1130/0091-7613(1996)024<0055:neflpf>2.3.co;2",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S56162041",
-            "display_name": "Geology",
-            "issn_l": "0091-7613",
-            "issn": [
-              "0091-7613",
-              "1943-2682"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319845",
-            "host_organization_name": "Geological Society of America",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319845"
-            ],
-            "host_organization_lineage_names": [
-              "Geological Society of America"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life in Land",
-          "score": 0.5,
-          "id": "https://metadata.un.org/sdg/15"
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320306076",
-          "display_name": "National Science Foundation",
-          "ror": "https://ror.org/021nxhr62"
-        },
-        {
-          "id": "https://openalex.org/F4320310419",
-          "display_name": "Pennsylvania State University",
-          "ror": "https://ror.org/04p491231"
-        },
-        {
-          "id": "https://openalex.org/F4320324706",
-          "display_name": "Saudi Aramco",
-          "ror": "https://ror.org/03ypap427"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W1989860390",
-        "https://openalex.org/W4317402492",
-        "https://openalex.org/W1999504760",
-        "https://openalex.org/W2368522891",
-        "https://openalex.org/W2091534660",
-        "https://openalex.org/W2603572007",
-        "https://openalex.org/W2056293580",
-        "https://openalex.org/W1998813094",
-        "https://openalex.org/W6309456",
-        "https://openalex.org/W2161669846"
-      ],
-      "abstract_inverted_index": {
-        "24": [
-          98,
-          154
-        ],
-        "1996": [
-          4
-        ],
-        "2017": [
-          108
-        ],
-        "16802": [
-          84
-        ],
-        "Research": [
-          0
-        ],
-        "Article|": [
-          1
-        ],
-        "January": [
-          2
-        ],
-        "01,": [
-          3
-        ],
-        "New": [
-          5,
-          139
-        ],
-        "evidence": [
-          6,
-          140
-        ],
-        "for": [
-          7,
-          37,
-          61,
-          86,
-          141
-        ],
-        "land": [
-          8,
-          142,
-          211
-        ],
-        "plants": [
-          9,
-          143,
-          212,
-          274
-        ],
-        "from": [
-          10,
-          144,
-          201,
-          272
-        ],
-        "the": [
-          11,
-          145,
-          229,
-          256,
-          287,
-          307
-        ],
-        "lower": [
-          12,
-          146
-        ],
-        "Middle": [
-          13,
-          147,
-          197
-        ],
-        "Ordovician": [
-          14,
-          148,
-          198
-        ],
-        "of": [
-          15,
-          27,
-          76,
-          149,
-          196,
-          207,
-          209,
-          219,
-          228,
-          237,
-          283
-        ],
-        "Saudi": [
-          16,
-          58,
-          150,
-          202
-        ],
-        "Arabia": [
-          17,
-          59,
-          203
-        ],
-        "Paul": [
-          18,
-          21,
-          132
-        ],
-        "K.": [
-          19,
-          22,
-          133
-        ],
-        "Strother;": [
-          20
-        ],
-        "Strother": [
-          23
-        ],
-        "1Boston": [
-          24
-        ],
-        "College": [
-          25
-        ],
-        "Department": [
-          26
-        ],
-        "Geology": [
-          28,
-          96,
-          152
-        ],
-        "and": [
-          29,
-          215,
-          262
-        ],
-        "Geophysics,": [
-          30
-        ],
-        "Weston": [
-          31
-        ],
-        "Observatory,": [
-          32
-        ],
-        "Weston,": [
-          33
-        ],
-        "Massachusetts": [
-          34
-        ],
-        "02193": [
-          35
-        ],
-        "Search": [
-          36,
-          60,
-          85,
-          129,
-          174,
-          181,
-          191,
-          193
-        ],
-        "other": [
-          38,
-          62,
-          87
-        ],
-        "works": [
-          39,
-          63,
-          88
-        ],
-        "by": [
-          40,
-          64,
-          89,
-          296
-        ],
-        "this": [
-          41,
-          65,
-          90,
-          238,
-          246,
-          323
-        ],
-        "author": [
-          42,
-          66,
-          91
-        ],
-        "on:": [
-          43,
-          67,
-          92
-        ],
-        "GSW": [
-          44,
-          68,
-          93
-        ],
-        "Google": [
-          45,
-          69,
-          94
-        ],
-        "Scholar": [
-          46,
-          70,
-          95
-        ],
-        "Said": [
-          47,
-          49,
-          135
-        ],
-        "Al-Hajri;": [
-          48
-        ],
-        "Al-Hajri": [
-          50
-        ],
-        "2Saudi": [
-          51
-        ],
-        "Aramco,": [
-          52
-        ],
-        "P.O.": [
-          53
-        ],
-        "Box": [
-          54
-        ],
-        "2141,": [
-          55
-        ],
-        "Dhahran": [
-          56
-        ],
-        "31311,": [
-          57
-        ],
-        "Alfred": [
-          71,
-          73,
-          137
-        ],
-        "Traverse": [
-          72,
-          74
-        ],
-        "3Department": [
-          75
-        ],
-        "Geosciences,": [
-          77
-        ],
-        "Pennsylvania": [
-          78,
-          83
-        ],
-        "State": [
-          79
-        ],
-        "University,": [
-          80
-        ],
-        "University": [
-          81
-        ],
-        "Park,": [
-          82
-        ],
-        "(1996)": [
-          97
-        ],
-        "(1):": [
-          99,
-          155
-        ],
-        "55–58.": [
-          100,
-          156
-        ],
-        "https://doi.org/10.1130/0091-7613(1996)024<0055:NEFLPF>2.3.CO;2": [
-          101,
-          158
-        ],
-        "Article": [
-          102
-        ],
-        "history": [
-          103
-        ],
-        "first": [
-          104
-        ],
-        "online:": [
-          105
-        ],
-        "02": [
-          106
-        ],
-        "Jun": [
-          107
-        ],
-        "Cite": [
-          109
-        ],
-        "View": [
-          110
-        ],
-        "This": [
-          111,
-          299
-        ],
-        "Citation": [
-          112,
-          115,
-          131
-        ],
-        "Add": [
-          113
-        ],
-        "to": [
-          114,
-          310,
-          322,
-          327
-        ],
-        "Manager": [
-          116
-        ],
-        "Share": [
-          117,
-          119
-        ],
-        "Icon": [
-          118,
-          125
-        ],
-        "Facebook": [
-          120
-        ],
-        "Twitter": [
-          121
-        ],
-        "LinkedIn": [
-          122
-        ],
-        "MailTo": [
-          123
-        ],
-        "Tools": [
-          124,
-          126
-        ],
-        "Get": [
-          127
-        ],
-        "Permissions": [
-          128
-        ],
-        "Site": [
-          130
-        ],
-        "Strother,": [
-          134
-        ],
-        "Al-Hajri,": [
-          136
-        ],
-        "Traverse;": [
-          138
-        ],
-        "Arabia.": [
-          151
-        ],
-        "1996;;": [
-          153
-        ],
-        "doi:": [
-          157
-        ],
-        "Download": [
-          159
-        ],
-        "citation": [
-          160
-        ],
-        "file:": [
-          161
-        ],
-        "Ris": [
-          162
-        ],
-        "(Zotero)": [
-          163
-        ],
-        "Refmanager": [
-          164
-        ],
-        "EasyBib": [
-          165
-        ],
-        "Bookends": [
-          166
-        ],
-        "Mendeley": [
-          167
-        ],
-        "Papers": [
-          168
-        ],
-        "EndNote": [
-          169
-        ],
-        "RefWorks": [
-          170
-        ],
-        "BibTex": [
-          171
-        ],
-        "toolbar": [
-          172,
-          177
-        ],
-        "search": [
-          173,
-          178,
-          179,
-          187
-        ],
-        "Dropdown": [
-          175
-        ],
-        "Menu": [
-          176
-        ],
-        "input": [
-          180,
-          182
-        ],
-        "auto": [
-          183
-        ],
-        "suggest": [
-          184
-        ],
-        "filter": [
-          185
-        ],
-        "your": [
-          186,
-          328
-        ],
-        "All": [
-          188
-        ],
-        "ContentBy": [
-          189
-        ],
-        "SocietyGeology": [
-          190
-        ],
-        "Advanced": [
-          192
-        ],
-        "Abstract": [
-          194
-        ],
-        "Macerations": [
-          195
-        ],
-        "(Llanvirnian)": [
-          199
-        ],
-        "shales": [
-          200
-        ],
-        "yield": [
-          204
-        ],
-        "an": [
-          205
-        ],
-        "assemblage": [
-          206,
-          289
-        ],
-        "spores": [
-          208,
-          236,
-          242
-        ],
-        "probable": [
-          210
-        ],
-        "(cryptospores),": [
-          213
-        ],
-        "acritarchs,": [
-          214
-        ],
-        "chitinozoa.": [
-          216
-        ],
-        "The": [
-          217
-        ],
-        "production": [
-          218
-        ],
-        "sporopollenin-containing,": [
-          220
-        ],
-        "sporelike": [
-          221
-        ],
-        "tetrads": [
-          222,
-          254,
-          261
-        ],
-        "is": [
-          223,
-          301
-        ],
-        "considered": [
-          224
-        ],
-        "a": [
-          225,
-          276
-        ],
-        "fundamental": [
-          226
-        ],
-        "character": [
-          227
-        ],
-        "embryophytes,": [
-          230
-        ],
-        "because": [
-          231
-        ],
-        "no": [
-          232
-        ],
-        "extant": [
-          233
-        ],
-        "algae": [
-          234
-        ],
-        "produce": [
-          235
-        ],
-        "type.": [
-          239
-        ],
-        "No": [
-          240
-        ],
-        "trilete": [
-          241,
-          258
-        ],
-        "were": [
-          243,
-          269
-        ],
-        "found": [
-          244
-        ],
-        "at": [
-          245,
-          275
-        ],
-        "horizon,": [
-          247
-        ],
-        "reinforcing": [
-          248
-        ],
-        "previous": [
-          249
-        ],
-        "assertions": [
-          250
-        ],
-        "that": [
-          251
-        ],
-        "obligate": [
-          252
-        ],
-        "meiotic": [
-          253
-        ],
-        "predate": [
-          255
-        ],
-        "earliest": [
-          257
-        ],
-        "spores.": [
-          259
-        ],
-        "Sporomorph": [
-          260
-        ],
-        "dyads,": [
-          263
-        ],
-        "in": [
-          264
-        ],
-        "conjunction": [
-          265
-        ],
-        "with": [
-          266
-        ],
-        "cuticlelike": [
-          267
-        ],
-        "fragments,": [
-          268
-        ],
-        "probably": [
-          270
-        ],
-        "derived": [
-          271
-        ],
-        "terrestrial": [
-          273
-        ],
-        "bryophyte": [
-          277
-        ],
-        "grade.": [
-          278
-        ],
-        "Although": [
-          279
-        ],
-        "there": [
-          280
-        ],
-        "are": [
-          281
-        ],
-        "reports": [
-          282
-        ],
-        "possibly": [
-          284
-        ],
-        "older": [
-          285
-        ],
-        "cryptospores,": [
-          286
-        ],
-        "Hanadir": [
-          288
-        ],
-        "described": [
-          290
-        ],
-        "herein": [
-          291
-        ],
-        "clearly": [
-          292
-        ],
-        "establishes": [
-          293
-        ],
-        "their": [
-          294
-        ],
-        "presence": [
-          295
-        ],
-        "Llanvirnian": [
-          297
-        ],
-        "time.": [
-          298
-        ],
-        "content": [
-          300
-        ],
-        "PDF": [
-          302,
-          308
-        ],
-        "only.": [
-          303
-        ],
-        "Please": [
-          304
-        ],
-        "click": [
-          305
-        ],
-        "on": [
-          306
-        ],
-        "icon": [
-          309
-        ],
-        "access.": [
-          311,
-          337
-        ],
-        "First": [
-          312
-        ],
-        "Page": [
-          313
-        ],
-        "Preview": [
-          314
-        ],
-        "Close": [
-          315
-        ],
-        "Modal": [
-          316
-        ],
-        "You": [
-          317
-        ],
-        "do": [
-          318
-        ],
-        "not": [
-          319
-        ],
-        "have": [
-          320,
-          336
-        ],
-        "access": [
-          321
-        ],
-        "content,": [
-          324
-        ],
-        "please": [
-          325
-        ],
-        "speak": [
-          326
-        ],
-        "institutional": [
-          329
-        ],
-        "administrator": [
-          330
-        ],
-        "if": [
-          331
-        ],
-        "you": [
-          332,
-          334
-        ],
-        "feel": [
-          333
-        ],
-        "should": [
-          335
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 11
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 10
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 8
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2056293580",
       "doi": "https://doi.org/10.1016/0034-6667(95)00040-5",
       "title": "Biostratigraphy of the Ordovician chitinozoa of northwestern Saudi Arabia",
@@ -3674,8 +2311,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7900000214576721,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -3688,8 +2325,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -4335,16 +2972,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 39,
       "referenced_works": [
@@ -4980,16 +3617,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6200000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 24,
       "referenced_works": [
@@ -6120,16 +4757,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.699999988079071,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 91,
       "referenced_works": [
@@ -6562,8 +5199,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -7115,8 +5752,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.6600000262260437,
+          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -7129,8 +5766,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 45,
       "referenced_works": [
@@ -7718,16 +6355,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 54,
       "referenced_works": [
@@ -8392,8 +7029,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8421,8 +7058,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 40,
       "referenced_works": [
@@ -8931,16 +7568,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5699999928474426,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 33,
       "referenced_works": [
@@ -9524,8 +8161,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -9538,8 +8175,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 13,
       "referenced_works": [
@@ -9955,8 +8592,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -10333,8 +8970,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -10810,16 +9447,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -11347,8 +9984,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -12138,16 +10775,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 102,
       "referenced_works": [
@@ -12557,8 +11194,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -12905,8 +11542,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -13356,16 +11993,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -13817,16 +12454,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -14316,8 +12953,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 6,
       "referenced_works": [
@@ -14743,8 +13380,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -15074,16 +13711,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.6000000238418579,
+          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -15425,16 +14062,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4300000071525574,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -15596,19 +14233,8 @@
             "display_name": "K. Najim",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Kitany Najim",
           "raw_affiliation_strings": [
@@ -15622,9 +14248,7 @@
             },
             {
               "raw_affiliation_string": "Petroleum Development Oman,",
-              "institution_ids": [
-                null
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -15635,19 +14259,8 @@
             "display_name": "S. Al-Hajri",
             "orcid": null
           },
-          "institutions": [
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Said Al-Hajri",
           "raw_affiliation_strings": [
@@ -15661,9 +14274,7 @@
             },
             {
               "raw_affiliation_string": "Petroleum Development Oman,",
-              "institution_ids": [
-                null
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -15674,19 +14285,8 @@
             "display_name": "James H. Clark",
             "orcid": "https://orcid.org/0000-0002-5860-2480"
           },
-          "institutions": [
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
+          "institutions": [],
+          "countries": [],
           "is_corresponding": false,
           "raw_author_name": "James Clark",
           "raw_affiliation_strings": [
@@ -15700,9 +14300,7 @@
             },
             {
               "raw_affiliation_string": "Petroleum Development Oman,",
-              "institution_ids": [
-                null
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -15763,7 +14361,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13130107,
+        "value": 0.13123709,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16018,16 +14616,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Partnerships for the goals",
           "score": 0.4099999964237213,
+          "display_name": "Partnerships for the goals",
           "id": "https://metadata.un.org/sdg/17"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 6,
       "referenced_works": [
@@ -16681,7 +15279,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-13T21:40:15.123406",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17078,16 +15676,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -17372,16 +15970,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.550000011920929,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -17948,8 +16546,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -18916,8 +17514,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -19381,16 +17979,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.41999998688697815,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -19792,16 +18390,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.41999998688697815,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -20157,16 +18755,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.46000000834465027,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -20499,16 +19097,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.5299999713897705,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],

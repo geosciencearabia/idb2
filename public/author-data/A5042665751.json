@@ -785,9 +785,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "score": 0.4300000071525574,
           "display_name": "Life in Land",
-          "score": 0.4300000071525574
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -804,8 +804,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 117,
       "referenced_works": [
@@ -1393,16 +1393,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 84,
       "referenced_works": [
@@ -1551,1243 +1551,6 @@
         },
         {
           "year": 2014,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2620854490",
-      "doi": "https://doi.org/10.2118/188092-ms",
-      "title": "Modelling Temporal and Spatial Sedimentary Architectural Complexity in Mixed Aeolian-Fluvial Reservoir Successions",
-      "display_name": "Modelling Temporal and Spatial Sedimentary Architectural Complexity in Mixed Aeolian-Fluvial Reservoir Successions",
-      "publication_year": 2017,
-      "publication_date": "2017-04-24",
-      "ids": {
-        "openalex": "https://openalex.org/W2620854490",
-        "doi": "https://doi.org/10.2118/188092-ms",
-        "mag": "2620854490"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2118/188092-ms",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2118/188092-ms",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306530684",
-          "display_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
-        "raw_type": "proceedings-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5042665751",
-            "display_name": "Mohammed Al‐Masrahy",
-            "orcid": "https://orcid.org/0000-0002-8396-3923"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Mohammed Al-Masrahy",
-          "raw_affiliation_strings": [
-            "Reservoir Characterization Department, Saudi Aramco"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Reservoir Characterization Department, Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5042665751"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.93591408,
-      "has_fulltext": false,
-      "cited_by_count": 10,
-      "citation_normalized_percentile": {
-        "value": 0.73594607,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 98
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12383",
-        "display_name": "Aeolian processes and effects",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12383",
-          "display_name": "Aeolian processes and effects",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8517026901245117
-        },
-        {
-          "id": "https://openalex.org/keywords/fluvial",
-          "display_name": "Fluvial",
-          "score": 0.8049441576004028
-        },
-        {
-          "id": "https://openalex.org/keywords/aeolian-processes",
-          "display_name": "Aeolian processes",
-          "score": 0.7887702584266663
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.7662806510925293
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.5502833724021912
-        },
-        {
-          "id": "https://openalex.org/keywords/landform",
-          "display_name": "Landform",
-          "score": 0.46294865012168884
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.3994878828525543
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.09221282601356506
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8517026901245117
-        },
-        {
-          "id": "https://openalex.org/C112959462",
-          "wikidata": "https://www.wikidata.org/wiki/Q1434465",
-          "display_name": "Fluvial",
-          "level": 3,
-          "score": 0.8049441576004028
-        },
-        {
-          "id": "https://openalex.org/C180093795",
-          "wikidata": "https://www.wikidata.org/wiki/Q215839",
-          "display_name": "Aeolian processes",
-          "level": 2,
-          "score": 0.7887702584266663
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.7662806510925293
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.5502833724021912
-        },
-        {
-          "id": "https://openalex.org/C108497213",
-          "wikidata": "https://www.wikidata.org/wiki/Q271669",
-          "display_name": "Landform",
-          "level": 2,
-          "score": 0.46294865012168884
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.3994878828525543
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.09221282601356506
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2118/188092-ms",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2118/188092-ms",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306530684",
-            "display_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "SPE Kingdom of Saudi Arabia Annual Technical Symposium and Exhibition",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.5799999833106995
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320324706",
-          "display_name": "Saudi Aramco",
-          "ror": "https://ror.org/03ypap427"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "referenced_works_count": 43,
-      "referenced_works": [
-        "https://openalex.org/W2119193558",
-        "https://openalex.org/W2004408791",
-        "https://openalex.org/W6635468776",
-        "https://openalex.org/W1999436875",
-        "https://openalex.org/W6673170975",
-        "https://openalex.org/W1976412682",
-        "https://openalex.org/W2166813790",
-        "https://openalex.org/W6650975854",
-        "https://openalex.org/W6633020367",
-        "https://openalex.org/W6645144923",
-        "https://openalex.org/W6631596386",
-        "https://openalex.org/W2029849835",
-        "https://openalex.org/W1994210295",
-        "https://openalex.org/W1992283268",
-        "https://openalex.org/W2068072860",
-        "https://openalex.org/W2118606184",
-        "https://openalex.org/W1980518189",
-        "https://openalex.org/W2485056805",
-        "https://openalex.org/W1906506370",
-        "https://openalex.org/W1520751961",
-        "https://openalex.org/W6681380754",
-        "https://openalex.org/W6673307459",
-        "https://openalex.org/W4400081453",
-        "https://openalex.org/W2154837711",
-        "https://openalex.org/W4233054231",
-        "https://openalex.org/W85408944",
-        "https://openalex.org/W2008383141",
-        "https://openalex.org/W6677529551",
-        "https://openalex.org/W2079131276",
-        "https://openalex.org/W2249912291",
-        "https://openalex.org/W6662990218",
-        "https://openalex.org/W2114118799",
-        "https://openalex.org/W2060615989",
-        "https://openalex.org/W405677607",
-        "https://openalex.org/W2504353116",
-        "https://openalex.org/W2119062511",
-        "https://openalex.org/W624593021",
-        "https://openalex.org/W1591747868",
-        "https://openalex.org/W234700136",
-        "https://openalex.org/W2003739426",
-        "https://openalex.org/W2145772493",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W1529493629"
-      ],
-      "related_works": [
-        "https://openalex.org/W2177755041",
-        "https://openalex.org/W3090609072",
-        "https://openalex.org/W2374768109",
-        "https://openalex.org/W1678589637",
-        "https://openalex.org/W2726564871",
-        "https://openalex.org/W2897138763",
-        "https://openalex.org/W41369105",
-        "https://openalex.org/W4385658230",
-        "https://openalex.org/W3195681951",
-        "https://openalex.org/W4309630868"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Studies": [
-          1
-        ],
-        "of": [
-          2,
-          19,
-          22,
-          24,
-          37,
-          53,
-          74,
-          83,
-          101,
-          109,
-          113,
-          130,
-          147,
-          150,
-          178,
-          185,
-          189,
-          219,
-          224,
-          248,
-          251,
-          268,
-          271,
-          287,
-          311,
-          328,
-          347,
-          358,
-          366,
-          374
-        ],
-        "modern": [
-          3,
-          102
-        ],
-        "desert": [
-          4,
-          25,
-          43,
-          333
-        ],
-        "dune": [
-          5
-        ],
-        "fields": [
-          6
-        ],
-        "allow": [
-          7
-        ],
-        "geologists": [
-          8
-        ],
-        "to": [
-          9,
-          32,
-          143,
-          166,
-          297
-        ],
-        "draw": [
-          10
-        ],
-        "conclusions": [
-          11
-        ],
-        "about": [
-          12
-        ],
-        "the": [
-          13,
-          17,
-          34,
-          48,
-          51,
-          126,
-          144,
-          174,
-          186,
-          215,
-          243,
-          279,
-          288,
-          304,
-          309,
-          321
-        ],
-        "controls": [
-          14
-        ],
-        "that": [
-          15,
-          62,
-          79,
-          139,
-          274
-        ],
-        "govern": [
-          16
-        ],
-        "development": [
-          18,
-          52
-        ],
-        "spatial": [
-          20,
-          289
-        ],
-        "patterns": [
-          21
-        ],
-        "arrangement": [
-          23,
-          36
-        ],
-        "landforms.": [
-          26
-        ],
-        "This": [
-          27,
-          45,
-          69
-        ],
-        "knowledge": [
-          28
-        ],
-        "can": [
-          29,
-          63,
-          284
-        ],
-        "be": [
-          30,
-          64,
-          237,
-          276,
-          285,
-          363
-        ],
-        "applied": [
-          31,
-          65,
-          157,
-          302
-        ],
-        "predict": [
-          33
-        ],
-        "likely": [
-          35,
-          216,
-          296,
-          379
-        ],
-        "architectural": [
-          38
-        ],
-        "elements": [
-          39
-        ],
-        "in": [
-          40,
-          66,
-          134,
-          141,
-          203,
-          278
-        ],
-        "preserved": [
-          41,
-          269
-        ],
-        "ancient": [
-          42,
-          104,
-          114,
-          280
-        ],
-        "successions.": [
-          44
-        ],
-        "serves": [
-          46
-        ],
-        "as": [
-          47
-        ],
-        "basis": [
-          49
-        ],
-        "for": [
-          50,
-          125,
-          171,
-          264,
-          331,
-          378
-        ],
-        "more": [
-          54
-        ],
-        "sophisticated": [
-          55
-        ],
-        "facies,": [
-          56
-        ],
-        "architectural-element": [
-          57
-        ],
-        "and": [
-          58,
-          103,
-          106,
-          128,
-          152,
-          161,
-          194,
-          206,
-          235,
-          245,
-          253,
-          256,
-          266,
-          299,
-          323,
-          325,
-          350,
-          372
-        ],
-        "sequence": [
-          59
-        ],
-        "stratigraphic": [
-          60,
-          131,
-          183,
-          222,
-          281,
-          370
-        ],
-        "models": [
-          61,
-          78,
-          94,
-          123,
-          307,
-          361
-        ],
-        "reservoir": [
-          67,
-          313,
-          380
-        ],
-        "geology.": [
-          68
-        ],
-        "study": [
-          70
-        ],
-        "presents": [
-          71
-        ],
-        "a": [
-          72,
-          117,
-          148,
-          230,
-          356
-        ],
-        "series": [
-          73,
-          149
-        ],
-        "ten": [
-          75,
-          92
-        ],
-        "bespoke": [
-          76,
-          359
-        ],
-        "facies": [
-          77,
-          122,
-          306,
-          352,
-          360
-        ],
-        "demonstrate": [
-          80
-        ],
-        "different": [
-          81
-        ],
-        "types": [
-          82,
-          226,
-          250
-        ],
-        "aeolian-fluvial": [
-          84
-        ],
-        "interaction": [
-          85,
-          196
-        ],
-        "documented": [
-          86
-        ],
-        "from": [
-          87,
-          192,
-          316
-        ],
-        "dune-field": [
-          88,
-          136
-        ],
-        "margin": [
-          89,
-          137
-        ],
-        "settings.": [
-          90
-        ],
-        "These": [
-          91
-        ],
-        "semi-quantitative": [
-          93
-        ],
-        "have": [
-          95
-        ],
-        "been": [
-          96
-        ],
-        "developed": [
-          97,
-          305
-        ],
-        "based": [
-          98
-        ],
-        "on": [
-          99,
-          229
-        ],
-        "analysis": [
-          100
-        ],
-        "systems,": [
-          105
-        ],
-        "via": [
-          107
-        ],
-        "comparison": [
-          108
-        ],
-        "literature-derived": [
-          110
-        ],
-        "case-study": [
-          111
-        ],
-        "examples": [
-          112
-        ],
-        "successions": [
-          115,
-          138,
-          163,
-          318
-        ],
-        "using": [
-          116,
-          239
-        ],
-        "meta-analysis": [
-          118
-        ],
-        "approach.": [
-          119
-        ],
-        "The": [
-          120
-        ],
-        "presented": [
-          121
-        ],
-        "account": [
-          124
-        ],
-        "nature": [
-          127,
-          244
-        ],
-        "origin": [
-          129
-        ],
-        "complexity": [
-          132
-        ],
-        "present": [
-          133
-        ],
-        "aeolian": [
-          135,
-          160,
-          193,
-          252,
-          349
-        ],
-        "arose": [
-          140
-        ],
-        "response": [
-          142
-        ],
-        "combined": [
-          145
-        ],
-        "interplay": [
-          146
-        ],
-        "autogenic": [
-          151
-        ],
-        "allogenic": [
-          153
-        ],
-        "controls.": [
-          154
-        ],
-        "From": [
-          155
-        ],
-        "an": [
-          156
-        ],
-        "perspective,": [
-          158
-        ],
-        "mixed": [
-          159,
-          348
-        ],
-        "fluvial": [
-          162,
-          195,
-          254,
-          351
-        ],
-        "are": [
-          164,
-          295
-        ],
-        "known": [
-          165
-        ],
-        "form": [
-          167,
-          188
-        ],
-        "several": [
-          168
-        ],
-        "major": [
-          169
-        ],
-        "reservoirs": [
-          170,
-          345
-        ],
-        "hydrocarbons,": [
-          172
-        ],
-        "including": [
-          173
-        ],
-        "Permian": [
-          175
-        ],
-        "Unayzah": [
-          176
-        ],
-        "Formation": [
-          177
-        ],
-        "Saudi": [
-          179
-        ],
-        "Arabia.": [
-          180
-        ],
-        "However,": [
-          181
-        ],
-        "quantitative": [
-          182
-        ],
-        "prediction": [
-          184,
-          265,
-          310
-        ],
-        "three-dimensional": [
-          187
-        ],
-        "heterogeneities": [
-          190,
-          223
-        ],
-        "arising": [
-          191
-        ],
-        "is": [
-          197,
-          262,
-          353
-        ],
-        "notoriously": [
-          198
-        ],
-        "difficult:": [
-          199
-        ],
-        "(i)": [
-          200
-        ],
-        "interactions": [
-          201,
-          273,
-          294
-        ],
-        "observed": [
-          202
-        ],
-        "one-dimensional": [
-          204
-        ],
-        "core": [
-          205
-        ],
-        "well-log": [
-          207
-        ],
-        "data": [
-          208
-        ],
-        "typically": [
-          209,
-          227
-        ],
-        "do": [
-          210
-        ],
-        "not": [
-          211
-        ],
-        "yield": [
-          212
-        ],
-        "information": [
-          213
-        ],
-        "regarding": [
-          214
-        ],
-        "lateral": [
-          217,
-          324
-        ],
-        "extent": [
-          218
-        ],
-        "sand-bodies;": [
-          220
-        ],
-        "(ii)": [
-          221
-        ],
-        "these": [
-          225
-        ],
-        "occur": [
-          228,
-          298
-        ],
-        "scale": [
-          231,
-          290
-        ],
-        "below": [
-          232
-        ],
-        "seismic": [
-          233
-        ],
-        "resolution": [
-          234
-        ],
-        "cannot": [
-          236
-        ],
-        "imaged": [
-          238
-        ],
-        "such": [
-          240,
-          272,
-          293
-        ],
-        "techniques.": [
-          241
-        ],
-        "Understanding": [
-          242
-        ],
-        "surface": [
-          246
-        ],
-        "expression": [
-          247
-        ],
-        "various": [
-          249
-        ],
-        "interaction,": [
-          255
-        ],
-        "considering": [
-          257
-        ],
-        "their": [
-          258
-        ],
-        "resultant": [
-          259
-        ],
-        "sedimentological": [
-          260
-        ],
-        "expression,": [
-          261
-        ],
-        "important": [
-          263
-        ],
-        "interpretation": [
-          267
-        ],
-        "deposits": [
-          270
-        ],
-        "might": [
-          275
-        ],
-        "recognized": [
-          277
-        ],
-        "record.": [
-          282
-        ],
-        "Assessment": [
-          283
-        ],
-        "made": [
-          286
-        ],
-        "over": [
-          291
-        ],
-        "which": [
-          292,
-          367,
-          375
-        ],
-        "this": [
-          300
-        ],
-        "has": [
-          301,
-          376
-        ],
-        "significance;": [
-          303
-        ],
-        "facilitate": [
-          308
-        ],
-        "net": [
-          312
-        ],
-        "sandbody": [
-          314
-        ],
-        "dimensions": [
-          315
-        ],
-        "subsurface": [
-          317
-        ],
-        "by": [
-          319
-        ],
-        "constraining": [
-          320
-        ],
-        "geometry": [
-          322
-        ],
-        "vertical": [
-          326
-        ],
-        "connectivity": [
-          327
-        ],
-        "sand": [
-          329
-        ],
-        "bodies": [
-          330
-        ],
-        "specific": [
-          332
-        ],
-        "system": [
-          334
-        ],
-        "types.": [
-          335
-        ],
-        "Assuming": [
-          336
-        ],
-        "layer-cake": [
-          337
-        ],
-        "correlations": [
-          338
-        ],
-        "between": [
-          339
-        ],
-        "neighbouring": [
-          340
-        ],
-        "wells": [
-          341
-        ],
-        "within": [
-          342
-        ],
-        "stratigraphically": [
-          343
-        ],
-        "complex": [
-          344
-        ],
-        "composed": [
-          346
-        ],
-        "inappropriate;": [
-          354
-        ],
-        "instead,": [
-          355
-        ],
-        "range": [
-          357
-        ],
-        "should": [
-          362
-        ],
-        "utilized,": [
-          364
-        ],
-        "each": [
-          365,
-          373
-        ],
-        "considers": [
-          368
-        ],
-        "possible": [
-          369
-        ],
-        "configurations": [
-          371
-        ],
-        "implications": [
-          377
-        ],
-        "performance.": [
-          381
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
           "cited_by_count": 1
         }
       ],
@@ -3252,8 +2015,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 4,
       "referenced_works": [
@@ -4710,8 +3473,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 62,
       "referenced_works": [
@@ -5091,16 +3854,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.5,
           "display_name": "Climate action",
-          "score": 0.5
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 38,
       "referenced_works": [
@@ -5541,16 +4304,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5899999737739563,
           "display_name": "Life below water",
-          "score": 0.5899999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 55,
       "referenced_works": [
@@ -7063,8 +5826,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 127,
       "referenced_works": [
@@ -8330,8 +7093,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -9553,16 +8316,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 117,
       "referenced_works": [
@@ -11032,8 +9795,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 1,
       "referenced_works": [
@@ -11878,8 +10641,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -12927,16 +11690,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -13740,8 +12503,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 13,
       "referenced_works": [
@@ -15020,8 +13783,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 18,
       "referenced_works": [

@@ -1129,8 +1129,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -1673,1291 +1673,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4387268437",
-      "doi": "https://doi.org/10.1190/tle42100676.1",
-      "title": "Acquiring and processing deep dual-well DAS walkaway VSP in an onshore desert environment",
-      "display_name": "Acquiring and processing deep dual-well DAS walkaway VSP in an onshore desert environment",
-      "publication_year": 2023,
-      "publication_date": "2023-10-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4387268437",
-        "doi": "https://doi.org/10.1190/tle42100676.1"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1190/tle42100676.1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1190/tle42100676.1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210172657",
-          "display_name": "The Leading Edge",
-          "issn_l": "1070-485X",
-          "issn": [
-            "1070-485X",
-            "1938-3789"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310316678",
-          "host_organization_name": "Society of Exploration Geophysicists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316678"
-          ],
-          "host_organization_lineage_names": [
-            "Society of Exploration Geophysicists"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "The Leading Edge",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5102799927",
-            "display_name": "Ali Aldawood",
-            "orcid": "https://orcid.org/0000-0002-9535-0825"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Ali Aldawood",
-          "raw_affiliation_strings": [
-            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
-            "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5020766559",
-            "display_name": "A. Shaiban",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ali Shaiban",
-          "raw_affiliation_strings": [
-            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
-            "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5052123503",
-            "display_name": "Ezzedeen Alfataierge",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ezzedeen Alfataierge",
-          "raw_affiliation_strings": [
-            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
-            "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5067998463",
-            "display_name": "Andrey Bakulin",
-            "orcid": "https://orcid.org/0000-0002-6638-7821"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA",
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Andrey Bakulin",
-          "raw_affiliation_strings": [
-            "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
-            "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia.."
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "1 EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia. E-mail: ali.dawood.18@aramco.com; saihat1408@gmail.com; ezzedeen.alfataierge@aramco.com; a_bakulin@yahoo.com.",
-              "institution_ids": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia..",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5102799927"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769",
-        "https://openalex.org/I4210143841"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.69539633,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.81204003,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "42",
-        "issue": "10",
-        "first_page": "676",
-        "last_page": "682"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11757",
-        "display_name": "Seismic Waves and Analysis",
-        "score": 0.9998000264167786,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9991000294685364,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10205",
-          "display_name": "Advanced Fiber Optic Sensors",
-          "score": 0.9965000152587891,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2208",
-            "display_name": "Electrical and Electronic Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geophone",
-          "display_name": "Geophone",
-          "score": 0.8101921081542969
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6584998369216919
-        },
-        {
-          "id": "https://openalex.org/keywords/vertical-seismic-profile",
-          "display_name": "Vertical seismic profile",
-          "score": 0.6208333373069763
-        },
-        {
-          "id": "https://openalex.org/keywords/offset",
-          "display_name": "Offset (computer science)",
-          "score": 0.4853054881095886
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.4802168309688568
-        },
-        {
-          "id": "https://openalex.org/keywords/distributed-acoustic-sensing",
-          "display_name": "Distributed acoustic sensing",
-          "score": 0.4595012664794922
-        },
-        {
-          "id": "https://openalex.org/keywords/acoustics",
-          "display_name": "Acoustics",
-          "score": 0.37934762239456177
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.23715811967849731
-        },
-        {
-          "id": "https://openalex.org/keywords/fiber-optic-sensor",
-          "display_name": "Fiber optic sensor",
-          "score": 0.20208021998405457
-        },
-        {
-          "id": "https://openalex.org/keywords/optical-fiber",
-          "display_name": "Optical fiber",
-          "score": 0.17859479784965515
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.14248815178871155
-        },
-        {
-          "id": "https://openalex.org/keywords/telecommunications",
-          "display_name": "Telecommunications",
-          "score": 0.11912262439727783
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.10727143287658691
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C54187759",
-          "wikidata": "https://www.wikidata.org/wiki/Q361564",
-          "display_name": "Geophone",
-          "level": 2,
-          "score": 0.8101921081542969
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6584998369216919
-        },
-        {
-          "id": "https://openalex.org/C89787772",
-          "wikidata": "https://www.wikidata.org/wiki/Q7922855",
-          "display_name": "Vertical seismic profile",
-          "level": 2,
-          "score": 0.6208333373069763
-        },
-        {
-          "id": "https://openalex.org/C175291020",
-          "wikidata": "https://www.wikidata.org/wiki/Q1156822",
-          "display_name": "Offset (computer science)",
-          "level": 2,
-          "score": 0.4853054881095886
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.4802168309688568
-        },
-        {
-          "id": "https://openalex.org/C158543913",
-          "wikidata": "https://www.wikidata.org/wiki/Q5283133",
-          "display_name": "Distributed acoustic sensing",
-          "level": 4,
-          "score": 0.4595012664794922
-        },
-        {
-          "id": "https://openalex.org/C24890656",
-          "wikidata": "https://www.wikidata.org/wiki/Q82811",
-          "display_name": "Acoustics",
-          "level": 1,
-          "score": 0.37934762239456177
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.23715811967849731
-        },
-        {
-          "id": "https://openalex.org/C21651689",
-          "wikidata": "https://www.wikidata.org/wiki/Q1397427",
-          "display_name": "Fiber optic sensor",
-          "level": 3,
-          "score": 0.20208021998405457
-        },
-        {
-          "id": "https://openalex.org/C194232370",
-          "wikidata": "https://www.wikidata.org/wiki/Q162",
-          "display_name": "Optical fiber",
-          "level": 2,
-          "score": 0.17859479784965515
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.14248815178871155
-        },
-        {
-          "id": "https://openalex.org/C76155785",
-          "wikidata": "https://www.wikidata.org/wiki/Q418",
-          "display_name": "Telecommunications",
-          "level": 1,
-          "score": 0.11912262439727783
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.10727143287658691
-        },
-        {
-          "id": "https://openalex.org/C199360897",
-          "wikidata": "https://www.wikidata.org/wiki/Q9143",
-          "display_name": "Programming language",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1190/tle42100676.1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1190/tle42100676.1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210172657",
-            "display_name": "The Leading Edge",
-            "issn_l": "1070-485X",
-            "issn": [
-              "1070-485X",
-              "1938-3789"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310316678",
-            "host_organization_name": "Society of Exploration Geophysicists",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316678"
-            ],
-            "host_organization_lineage_names": [
-              "Society of Exploration Geophysicists"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "The Leading Edge",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life in Land",
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/15"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "referenced_works_count": 16,
-      "referenced_works": [
-        "https://openalex.org/W3094660067",
-        "https://openalex.org/W3198608370",
-        "https://openalex.org/W4367607080",
-        "https://openalex.org/W2487692127",
-        "https://openalex.org/W2314500625",
-        "https://openalex.org/W2895786783",
-        "https://openalex.org/W1500184085",
-        "https://openalex.org/W1900713400",
-        "https://openalex.org/W1973019180",
-        "https://openalex.org/W1981192978",
-        "https://openalex.org/W1981594324",
-        "https://openalex.org/W2146625715",
-        "https://openalex.org/W3091227770",
-        "https://openalex.org/W4210484148",
-        "https://openalex.org/W3033836918",
-        "https://openalex.org/W2993286645"
-      ],
-      "related_works": [
-        "https://openalex.org/W2890726081",
-        "https://openalex.org/W3194371498",
-        "https://openalex.org/W2188665978",
-        "https://openalex.org/W2943079831",
-        "https://openalex.org/W3120988699",
-        "https://openalex.org/W2761976043",
-        "https://openalex.org/W2328970774",
-        "https://openalex.org/W2965075064",
-        "https://openalex.org/W4200485858",
-        "https://openalex.org/W2900348381"
-      ],
-      "abstract_inverted_index": {
-        "4": [
-          20,
-          127,
-          277
-        ],
-        "15": [
-          270
-        ],
-        "16": [
-          97
-        ],
-        "24": [
-          84
-        ],
-        "Abstract": [
-          0
-        ],
-        "This": [
-          1
-        ],
-        "study": [
-          2
-        ],
-        "describes": [
-          3
-        ],
-        "the": [
-          4,
-          30,
-          66,
-          73,
-          94,
-          107,
-          155,
-          169,
-          177,
-          183,
-          192,
-          211,
-          216,
-          229,
-          235,
-          240,
-          248,
-          251
-        ],
-        "first": [
-          5
-        ],
-        "successful": [
-          6
-        ],
-        "dual-well": [
-          7,
-          252
-        ],
-        "distributed": [
-          8
-        ],
-        "acoustic": [
-          9
-        ],
-        "sensing": [
-          10
-        ],
-        "(DAS)": [
-          11
-        ],
-        "vertical": [
-          12,
-          266
-        ],
-        "seismic": [
-          13,
-          122,
-          179
-        ],
-        "profiling": [
-          14
-        ],
-        "(VSP)": [
-          15
-        ],
-        "walkaway": [
-          16,
-          41
-        ],
-        "acquisition": [
-          17,
-          114
-        ],
-        "in": [
-          18,
-          24,
-          29,
-          106,
-          137,
-          154
-        ],
-        "two": [
-          19,
-          104,
-          134,
-          170,
-          241
-        ],
-        "km": [
-          21,
-          142
-        ],
-        "deep": [
-          22,
-          242
-        ],
-        "wells": [
-          23,
-          138,
-          171
-        ],
-        "an": [
-          25,
-          173,
-          264
-        ],
-        "onshore": [
-          26,
-          243
-        ],
-        "desert": [
-          27
-        ],
-        "environment": [
-          28
-        ],
-        "Middle": [
-          31
-        ],
-        "East.": [
-          32
-        ],
-        "A": [
-          33,
-          53,
-          194
-        ],
-        "dual-fiber": [
-          34
-        ],
-        "interrogator": [
-          35
-        ],
-        "enabled": [
-          36,
-          116,
-          200
-        ],
-        "efficient": [
-          37
-        ],
-        "recording": [
-          38,
-          254
-        ],
-        "of": [
-          39,
-          83,
-          112,
-          191,
-          197,
-          219,
-          250,
-          268,
-          272
-        ],
-        "high-channel-count": [
-          40
-        ],
-        "VSP": [
-          42,
-          185,
-          259
-        ],
-        "that": [
-          43,
-          69,
-          139
-        ],
-        "was": [
-          44,
-          58,
-          70,
-          86,
-          131
-        ],
-        "suitable": [
-          45
-        ],
-        "for": [
-          46,
-          161
-        ],
-        "robust": [
-          47,
-          162
-        ],
-        "velocity": [
-          48,
-          208,
-          231
-        ],
-        "model": [
-          49,
-          232
-        ],
-        "building": [
-          50
-        ],
-        "and": [
-          51,
-          180,
-          214
-        ],
-        "imaging.": [
-          52
-        ],
-        "good": [
-          54,
-          76
-        ],
-        "signal-to-noise": [
-          55
-        ],
-        "ratio": [
-          56
-        ],
-        "(S/N)": [
-          57
-        ],
-        "achieved": [
-          59
-        ],
-        "due": [
-          60
-        ],
-        "to": [
-          61,
-          119,
-          125,
-          176,
-          204,
-          233,
-          255,
-          275
-        ],
-        "three": [
-          62
-        ],
-        "main": [
-          63
-        ],
-        "factors.": [
-          64
-        ],
-        "First,": [
-          65
-        ],
-        "fiber": [
-          67
-        ],
-        "cable": [
-          68
-        ],
-        "deployed": [
-          71,
-          136
-        ],
-        "outside": [
-          72
-        ],
-        "tubing": [
-          74
-        ],
-        "provided": [
-          75
-        ],
-        "receiver": [
-          77,
-          91
-        ],
-        "coupling.": [
-          78
-        ],
-        "Second,": [
-          79
-        ],
-        "a": [
-          80,
-          89,
-          206,
-          257
-        ],
-        "gauge": [
-          81
-        ],
-        "length": [
-          82
-        ],
-        "m": [
-          85,
-          271
-        ],
-        "used": [
-          87,
-          228
-        ],
-        "as": [
-          88
-        ],
-        "natural": [
-          90
-        ],
-        "array,": [
-          92
-        ],
-        "boosting": [
-          93
-        ],
-        "S/N.": [
-          95
-        ],
-        "Finally,": [
-          96
-        ],
-        "sweeps": [
-          98
-        ],
-        "per": [
-          99
-        ],
-        "shotpoint": [
-          100
-        ],
-        "were": [
-          101
-        ],
-        "performed": [
-          102
-        ],
-        "using": [
-          103
-        ],
-        "vibrators": [
-          105
-        ],
-        "source": [
-          108
-        ],
-        "array.": [
-          109
-        ],
-        "The": [
-          110,
-          165,
-          245
-        ],
-        "selection": [
-          111
-        ],
-        "optimal": [
-          113
-        ],
-        "parameters": [
-          115
-        ],
-        "on-tubing": [
-          117
-        ],
-        "fibers": [
-          118,
-          135
-        ],
-        "record": [
-          120
-        ],
-        "high-quality": [
-          121,
-          146
-        ],
-        "signals": [
-          123
-        ],
-        "down": [
-          124,
-          274
-        ],
-        "about": [
-          126,
-          269,
-          276
-        ],
-        "km.": [
-          128,
-          278
-        ],
-        "Each": [
-          129
-        ],
-        "shot": [
-          130
-        ],
-        "recorded": [
-          132
-        ],
-        "by": [
-          133
-        ],
-        "are": [
-          140
-        ],
-        "1.5": [
-          141
-        ],
-        "apart.": [
-          143
-        ],
-        "Even": [
-          144
-        ],
-        "with": [
-          145,
-          182,
-          263
-        ],
-        "casing": [
-          147
-        ],
-        "cementation,": [
-          148
-        ],
-        "DAS": [
-          149,
-          220,
-          253
-        ],
-        "records": [
-          150
-        ],
-        "exhibited": [
-          151
-        ],
-        "reduced": [
-          152
-        ],
-        "sensitivity/coupling": [
-          153
-        ],
-        "shallower": [
-          156
-        ],
-        "section,": [
-          157
-        ],
-        "requiring": [
-          158
-        ],
-        "low-pass": [
-          159
-        ],
-        "filtering": [
-          160
-        ],
-        "first-break": [
-          163
-        ],
-        "picking.": [
-          164
-        ],
-        "corridor": [
-          166,
-          187
-        ],
-        "stacks": [
-          167
-        ],
-        "at": [
-          168,
-          189,
-          222,
-          239
-        ],
-        "show": [
-          172
-        ],
-        "excellent": [
-          174
-        ],
-        "tie": [
-          175
-        ],
-        "surface": [
-          178
-        ],
-        "agree": [
-          181
-        ],
-        "zero-offset": [
-          184
-        ],
-        "geophone": [
-          186
-        ],
-        "stack": [
-          188
-        ],
-        "one": [
-          190
-        ],
-        "wells.": [
-          193,
-          244
-        ],
-        "massive": [
-          195
-        ],
-        "ensemble": [
-          196
-        ],
-        "first-arrival": [
-          198
-        ],
-        "picks": [
-          199
-        ],
-        "multioffset": [
-          201
-        ],
-        "traveltime": [
-          202
-        ],
-        "inversion": [
-          203
-        ],
-        "reconstruct": [
-          205
-        ],
-        "reliable": [
-          207
-        ],
-        "profile,": [
-          209
-        ],
-        "approaching": [
-          210
-        ],
-        "sonic": [
-          212
-        ],
-        "log": [
-          213
-        ],
-        "overcoming": [
-          215
-        ],
-        "lower": [
-          217
-        ],
-        "sensitivity": [
-          218
-        ],
-        "measurement": [
-          221
-        ],
-        "higher": [
-          223
-        ],
-        "well": [
-          224
-        ],
-        "deviation": [
-          225
-        ],
-        "angles.": [
-          226
-        ],
-        "We": [
-          227
-        ],
-        "inverted": [
-          230
-        ],
-        "migrate": [
-          234
-        ],
-        "upgoing": [
-          236
-        ],
-        "reflection": [
-          237
-        ],
-        "response": [
-          238
-        ],
-        "results": [
-          246
-        ],
-        "demonstrate": [
-          247
-        ],
-        "ability": [
-          249
-        ],
-        "obtain": [
-          256
-        ],
-        "high-resolution": [
-          258
-        ],
-        "subsurface": [
-          260
-        ],
-        "migrated": [
-          261
-        ],
-        "section": [
-          262
-        ],
-        "estimated": [
-          265
-        ],
-        "resolution": [
-          267
-        ],
-        "reflections": [
-          273
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-12-11T00:21:10.989143",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4401207399",
       "doi": "https://doi.org/10.1190/tle43080494.1",
       "title": "On-demand high-resolution areal scouting via unmanned aerial vehicles enables sustainable near-surface geoscience data acquisition",
@@ -3135,6 +1850,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            },
+            {
               "id": "https://openalex.org/I62856769",
               "display_name": "Saudi Aramco (United States)",
               "ror": "https://ror.org/035n7q728",
@@ -3143,16 +1868,6 @@
               "lineage": [
                 "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -3200,14 +1915,6 @@
                 "https://openalex.org/I4210143841",
                 "https://openalex.org/I62856769"
               ]
-            },
-            {
-              "id": null,
-              "display_name": null,
-              "ror": null,
-              "country_code": null,
-              "type": null,
-              "lineage": []
             }
           ],
           "countries": [
@@ -3228,9 +1935,7 @@
             },
             {
               "raw_affiliation_string": "Aramco Innovations LLC, Moscow, Russia..",
-              "institution_ids": [
-                null
-              ]
+              "institution_ids": []
             }
           ]
         },
@@ -3307,7 +2012,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.77945132,
+        "value": 0.77789205,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3587,16 +2292,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -4197,7 +2902,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2025-12-11T00:21:10.989143",
+      "updated_date": "2026-01-13T21:40:15.123406",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4674,8 +3379,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 6,
       "referenced_works": [
@@ -5771,8 +4476,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 16,
       "referenced_works": [
@@ -6629,8 +5334,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 19,
       "referenced_works": [
@@ -7389,8 +6094,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -8315,16 +7020,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 3,
       "referenced_works": [
@@ -9616,8 +8321,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -10259,8 +8964,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 7,
       "referenced_works": [
@@ -10653,8 +9358,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 14,
       "referenced_works": [
@@ -11615,16 +10320,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/12"
+          "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -12539,16 +11244,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -13108,8 +11813,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 4,
       "referenced_works": [
@@ -13984,8 +12689,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 5,
       "referenced_works": [
@@ -14980,16 +13685,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -15936,16 +14641,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 5,
       "referenced_works": [
@@ -17102,8 +15807,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -17482,16 +16187,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8100000023841858,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -18097,8 +16802,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -18754,8 +17459,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -19301,16 +18006,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -20475,8 +19180,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 7,
       "referenced_works": [
@@ -21228,16 +19933,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.6399999856948853,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -21533,16 +20238,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -22065,8 +20770,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -22879,8 +21584,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "referenced_works_count": 7,
       "referenced_works": [
