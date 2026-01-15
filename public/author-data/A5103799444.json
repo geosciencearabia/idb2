@@ -640,26 +640,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I32597200",
-              "display_name": "Ghent University",
-              "ror": "https://ror.org/00cv9y106",
-              "country_code": "BE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I32597200"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -670,89 +650,53 @@
               ]
             },
             {
-              "id": "https://openalex.org/I157674565",
-              "display_name": "University of Liège",
-              "ror": "https://ror.org/00afp2z80",
+              "id": "https://openalex.org/I32597200",
+              "display_name": "Ghent University",
+              "ror": "https://ror.org/00cv9y106",
               "country_code": "BE",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I157674565"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210157108",
-              "display_name": "Institut Universitaire Européen de la Mer",
-              "ror": "https://ror.org/04pfr1b11",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4412460332"
+                "https://openalex.org/I32597200"
               ]
             }
           ],
           "countries": [
             "BE",
-            "FR",
             "SA"
           ],
           "is_corresponding": true,
           "raw_author_name": "Philippe Steemans",
           "raw_affiliation_strings": [
-            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
-            "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
-            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France."
+            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
+            "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-              "institution_ids": [
-                "https://openalex.org/I157674565"
-              ]
+              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
+              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
               "institution_ids": [
                 "https://openalex.org/I32597200"
               ]
             },
             {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
               ]
             },
             {
-              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-              "institution_ids": [
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France.",
-              "institution_ids": [
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
+              "institution_ids": []
             }
           ]
         },
@@ -765,16 +709,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I32597200",
               "display_name": "Ghent University",
               "ror": "https://ror.org/00cv9y106",
@@ -785,99 +719,53 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210157108",
-              "display_name": "Institut Universitaire Européen de la Mer",
-              "ror": "https://ror.org/04pfr1b11",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4412460332"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I157674565",
-              "display_name": "University of Liège",
-              "ror": "https://ror.org/00afp2z80",
-              "country_code": "BE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I157674565"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
+                "https://openalex.org/I4210143841"
               ]
             }
           ],
           "countries": [
             "BE",
-            "FR",
             "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Alain Le Hérissé",
           "raw_affiliation_strings": [
-            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
-            "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
-            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France."
+            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
+            "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-              "institution_ids": [
-                "https://openalex.org/I157674565"
-              ]
+              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
+              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
               "institution_ids": [
                 "https://openalex.org/I32597200"
               ]
             },
             {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
               ]
             },
             {
-              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-              "institution_ids": [
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France.",
-              "institution_ids": [
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
+              "institution_ids": []
             }
           ]
         },
@@ -890,16 +778,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I157674565",
-              "display_name": "University of Liège",
-              "ror": "https://ror.org/00afp2z80",
-              "country_code": "BE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I157674565"
-              ]
-            },
-            {
               "id": "https://openalex.org/I32597200",
               "display_name": "Ghent University",
               "ror": "https://ror.org/00cv9y106",
@@ -907,33 +785,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I32597200"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210157108",
-              "display_name": "Institut Universitaire Européen de la Mer",
-              "ror": "https://ror.org/04pfr1b11",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4412460332"
               ]
             },
             {
@@ -945,64 +796,45 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
             }
           ],
           "countries": [
             "BE",
-            "FR",
             "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "John Melvin",
           "raw_affiliation_strings": [
-            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
-            "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
-            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France."
+            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
+            "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-              "institution_ids": [
-                "https://openalex.org/I157674565"
-              ]
+              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
+              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
               "institution_ids": [
                 "https://openalex.org/I32597200"
               ]
             },
             {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
               ]
             },
             {
-              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-              "institution_ids": [
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France.",
-              "institution_ids": [
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
+              "institution_ids": []
             }
           ]
         },
@@ -1015,20 +847,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210157108",
-              "display_name": "Institut Universitaire Européen de la Mer",
-              "ror": "https://ror.org/04pfr1b11",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4412460332"
+                "https://openalex.org/I4210143841"
               ]
             },
             {
@@ -1040,94 +865,45 @@
               "lineage": [
                 "https://openalex.org/I32597200"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I157674565",
-              "display_name": "University of Liège",
-              "ror": "https://ror.org/00afp2z80",
-              "country_code": "BE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I157674565"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
             }
           ],
           "countries": [
             "BE",
-            "FR",
             "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Merrell A. Miller",
           "raw_affiliation_strings": [
-            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
-            "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
-            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France."
+            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
+            "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-              "institution_ids": [
-                "https://openalex.org/I157674565"
-              ]
+              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
+              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
               "institution_ids": [
                 "https://openalex.org/I32597200"
               ]
             },
             {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
               ]
             },
             {
-              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-              "institution_ids": [
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France.",
-              "institution_ids": [
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
+              "institution_ids": []
             }
           ]
         },
@@ -1140,26 +916,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I32597200",
-              "display_name": "Ghent University",
-              "ror": "https://ror.org/00cv9y106",
-              "country_code": "BE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I32597200"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I157674565",
-              "display_name": "University of Liège",
-              "ror": "https://ror.org/00afp2z80",
-              "country_code": "BE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I157674565"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -1170,89 +926,53 @@
               ]
             },
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
+              "id": "https://openalex.org/I32597200",
+              "display_name": "Ghent University",
+              "ror": "https://ror.org/00cv9y106",
+              "country_code": "BE",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210157108",
-              "display_name": "Institut Universitaire Européen de la Mer",
-              "ror": "https://ror.org/04pfr1b11",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4412460332"
+                "https://openalex.org/I32597200"
               ]
             }
           ],
           "countries": [
             "BE",
-            "FR",
             "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Florentin Paris",
           "raw_affiliation_strings": [
-            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
-            "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
-            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France."
+            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
+            "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-              "institution_ids": [
-                "https://openalex.org/I157674565"
-              ]
+              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
+              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
               "institution_ids": [
                 "https://openalex.org/I32597200"
               ]
             },
             {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
               ]
             },
             {
-              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-              "institution_ids": [
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France.",
-              "institution_ids": [
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
+              "institution_ids": []
             }
           ]
         },
@@ -1265,33 +985,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I157674565",
-              "display_name": "University of Liège",
-              "ror": "https://ror.org/00afp2z80",
+              "id": "https://openalex.org/I32597200",
+              "display_name": "Ghent University",
+              "ror": "https://ror.org/00cv9y106",
               "country_code": "BE",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I157674565"
+                "https://openalex.org/I32597200"
               ]
             },
             {
@@ -1303,81 +1003,45 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210157108",
-              "display_name": "Institut Universitaire Européen de la Mer",
-              "ror": "https://ror.org/04pfr1b11",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4412460332"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I32597200",
-              "display_name": "Ghent University",
-              "ror": "https://ror.org/00cv9y106",
-              "country_code": "BE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I32597200"
-              ]
             }
           ],
           "countries": [
             "BE",
-            "FR",
             "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Jacques Verniers",
           "raw_affiliation_strings": [
-            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
-            "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
-            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France."
+            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
+            "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-              "institution_ids": [
-                "https://openalex.org/I157674565"
-              ]
+              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
+              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
               "institution_ids": [
                 "https://openalex.org/I32597200"
               ]
             },
             {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
               ]
             },
             {
-              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-              "institution_ids": [
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France.",
-              "institution_ids": [
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
+              "institution_ids": []
             }
           ]
         },
@@ -1400,43 +1064,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I56067802",
-              "display_name": "Université de Rennes",
-              "ror": "https://ror.org/015m7wh34",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I56067802"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210157108",
-              "display_name": "Institut Universitaire Européen de la Mer",
-              "ror": "https://ror.org/04pfr1b11",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210148025",
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4412460332"
-              ]
-            },
-            {
               "id": "https://openalex.org/I32597200",
               "display_name": "Ghent University",
               "ror": "https://ror.org/00cv9y106",
@@ -1445,90 +1072,67 @@
               "lineage": [
                 "https://openalex.org/I32597200"
               ]
-            },
-            {
-              "id": "https://openalex.org/I157674565",
-              "display_name": "University of Liège",
-              "ror": "https://ror.org/00afp2z80",
-              "country_code": "BE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I157674565"
-              ]
             }
           ],
           "countries": [
             "BE",
-            "FR",
             "SA"
           ],
           "is_corresponding": true,
           "raw_author_name": "Charles H. Wellman",
           "raw_affiliation_strings": [
-            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
-            "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
-            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France."
+            "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+            "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
+            "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
+            "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+            "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium.",
-              "institution_ids": [
-                "https://openalex.org/I157674565"
-              ]
+              "raw_affiliation_string": "Palaeobotany, B-18, University of Liège, 4000 Liège, Belgium",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium.",
+              "raw_affiliation_string": "Research Unit Palaeontology, Ghent University, Krijgslaan 281/S8, B-9000 Ghent, Belgium",
               "institution_ids": [
                 "https://openalex.org/I32597200"
               ]
             },
             {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia.",
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, 31311, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210143841"
               ]
             },
             {
-              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France.",
-              "institution_ids": [
-                "https://openalex.org/I4210157108",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Brest, UMR 6538 du CNRS, Institut Universitaire Européen de la Mer, 6 Avenue le Gorgeu, 29238 Brest-cedex 3, France",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France.",
-              "institution_ids": [
-                "https://openalex.org/I56067802",
-                "https://openalex.org/I1294671590"
-              ]
+              "raw_affiliation_string": "Université de Rennes 1, UMR 6118 du CNRS, 35042 Rennes-cedex, France",
+              "institution_ids": []
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 3,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5044489988",
         "https://openalex.org/A5058654714"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I32597200",
-        "https://openalex.org/I56067802",
         "https://openalex.org/I4210143841",
-        "https://openalex.org/I157674565",
-        "https://openalex.org/I1294671590",
-        "https://openalex.org/I4210157108"
+        "https://openalex.org/I32597200"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 15.48403209,
+      "fwci": 15.25962583,
       "has_fulltext": false,
       "cited_by_count": 267,
       "citation_normalized_percentile": {
-        "value": 0.9943801,
+        "value": 0.99427202,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2079,9 +1683,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -2491,7 +2095,7 @@
         },
         {
           "year": 2016,
-          "cited_by_count": 19
+          "cited_by_count": 20
         },
         {
           "year": 2015,
@@ -2907,9 +2511,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4140,9 +3744,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4786,9 +4390,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5371,9 +4975,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5799999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7321,9 +6925,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7922,9 +7526,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6299999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9531,9 +9135,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11275,9 +10879,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11882,9 +11486,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4000000059604645,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -15217,9 +14821,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16422,9 +16026,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17496,9 +17100,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -18857,11 +18461,11 @@
           "is_corresponding": true,
           "raw_author_name": "Trond B Jensen",
           "raw_affiliation_strings": [
-            "ConocoPhillips Alaska Inc."
+            "ConocoPhillips Alaska Inc"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "ConocoPhillips Alaska Inc.",
+              "raw_affiliation_string": "ConocoPhillips Alaska Inc",
               "institution_ids": [
                 "https://openalex.org/I24101674"
               ]
@@ -18893,11 +18497,11 @@
           "is_corresponding": false,
           "raw_author_name": "Laird Little",
           "raw_affiliation_strings": [
-            "ConocoPhillips Alaska Inc."
+            "ConocoPhillips Alaska Inc"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "ConocoPhillips Alaska Inc.",
+              "raw_affiliation_string": "ConocoPhillips Alaska Inc",
               "institution_ids": [
                 "https://openalex.org/I24101674"
               ]
@@ -18929,11 +18533,11 @@
           "is_corresponding": false,
           "raw_author_name": "John Melvin",
           "raw_affiliation_strings": [
-            "ConocoPhillips Alaska Inc."
+            "ConocoPhillips Alaska Inc"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "ConocoPhillips Alaska Inc.",
+              "raw_affiliation_string": "ConocoPhillips Alaska Inc",
               "institution_ids": [
                 "https://openalex.org/I24101674"
               ]
@@ -18965,11 +18569,11 @@
           "is_corresponding": false,
           "raw_author_name": "Eric Reinbold",
           "raw_affiliation_strings": [
-            "ConocoPhillips Alaska Inc."
+            "ConocoPhillips Alaska Inc"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "ConocoPhillips Alaska Inc.",
+              "raw_affiliation_string": "ConocoPhillips Alaska Inc",
               "institution_ids": [
                 "https://openalex.org/I24101674"
               ]
@@ -19001,11 +18605,11 @@
           "is_corresponding": false,
           "raw_author_name": "David Jamieson",
           "raw_affiliation_strings": [
-            "ConocoPhillips Alaska Inc."
+            "ConocoPhillips Alaska Inc"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "ConocoPhillips Alaska Inc.",
+              "raw_affiliation_string": "ConocoPhillips Alaska Inc",
               "institution_ids": [
                 "https://openalex.org/I24101674"
               ]
@@ -19037,11 +18641,11 @@
           "is_corresponding": false,
           "raw_author_name": "Wen Shi",
           "raw_affiliation_strings": [
-            "ConocoPhillips Alaska Inc."
+            "ConocoPhillips Alaska Inc"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "ConocoPhillips Alaska Inc.",
+              "raw_affiliation_string": "ConocoPhillips Alaska Inc",
               "institution_ids": [
                 "https://openalex.org/I24101674"
               ]
@@ -19340,9 +18944,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Industry, innovation and infrastructure",
           "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/9"
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -19369,11 +18973,11 @@
         "https://openalex.org/W4233608172",
         "https://openalex.org/W2517180087",
         "https://openalex.org/W6611293222",
-        "https://openalex.org/W331372262",
-        "https://openalex.org/W2047360546",
-        "https://openalex.org/W2258560313",
         "https://openalex.org/W2031066548",
-        "https://openalex.org/W2046823439"
+        "https://openalex.org/W2046823439",
+        "https://openalex.org/W2047360546",
+        "https://openalex.org/W331372262",
+        "https://openalex.org/W2258560313"
       ],
       "related_works": [
         "https://openalex.org/W3020755331",
@@ -20124,9 +19728,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
           "score": 0.5699999928474426,
-          "id": "https://metadata.un.org/sdg/10"
+          "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -20551,9 +20155,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -21617,9 +21221,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -27432,9 +27036,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -28072,9 +27676,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.44999998807907104,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -28484,9 +28088,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7200000286102295,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -29459,9 +29063,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -30470,9 +30074,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -30968,9 +30572,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -31891,6 +31495,942 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2184990391",
+      "doi": null,
+      "title": "KEMIK SANDSTONE: INNER SHELF SAND FROM NORTHEAST ALASKA*",
+      "display_name": "KEMIK SANDSTONE: INNER SHELF SAND FROM NORTHEAST ALASKA*",
+      "publication_year": 2012,
+      "publication_date": "2012-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2184990391",
+        "mag": "2184990391"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "mag:2184990391",
+        "is_oa": false,
+        "landing_page_url": "http://www.osti.gov/scitech/biblio/5160889-kemik-sandstone-inner-shelf-sand-from-northeast-alaska",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S144020083",
+          "display_name": "AAPG Bulletin",
+          "issn_l": "0149-1423",
+          "issn": [
+            "0149-1423",
+            "1522-1423",
+            "1558-9153"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316082",
+          "host_organization_name": "American Association of Petroleum Geologists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316082"
+          ],
+          "host_organization_lineage_names": [
+            "American Association of Petroleum Geologists"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": null,
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "AAPG Bulletin",
+        "raw_type": null
+      },
+      "type": "article",
+      "indexed_in": [],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5103799444",
+            "display_name": "John Melvin",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "John Melvin",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009455259",
+            "display_name": "Arlen Ehm",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Arlen Ehm",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5109860807",
+            "display_name": "I.L. Tailleur",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "I.L. Tailleur",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5103799444"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.16790817,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 0.9987999796867371,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9987999796867371,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.9958000183105469,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9842000007629395,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.9337656497955322
+        },
+        {
+          "id": "https://openalex.org/keywords/conglomerate",
+          "display_name": "Conglomerate",
+          "score": 0.9087507724761963
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.5715487003326416
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.5655398368835449
+        },
+        {
+          "id": "https://openalex.org/keywords/glauconite",
+          "display_name": "Glauconite",
+          "score": 0.5187702178955078
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.49955105781555176
+        },
+        {
+          "id": "https://openalex.org/keywords/pebble",
+          "display_name": "Pebble",
+          "score": 0.47146207094192505
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.4450657069683075
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.364159494638443
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.0639304518699646
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9337656497955322
+        },
+        {
+          "id": "https://openalex.org/C106804226",
+          "wikidata": "https://www.wikidata.org/wiki/Q191704",
+          "display_name": "Conglomerate",
+          "level": 3,
+          "score": 0.9087507724761963
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.5715487003326416
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.5655398368835449
+        },
+        {
+          "id": "https://openalex.org/C2776386860",
+          "wikidata": "https://www.wikidata.org/wiki/Q423034",
+          "display_name": "Glauconite",
+          "level": 2,
+          "score": 0.5187702178955078
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.49955105781555176
+        },
+        {
+          "id": "https://openalex.org/C2777760186",
+          "wikidata": "https://www.wikidata.org/wiki/Q14673",
+          "display_name": "Pebble",
+          "level": 2,
+          "score": 0.47146207094192505
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.4450657069683075
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.364159494638443
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.0639304518699646
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "mag:2184990391",
+          "is_oa": false,
+          "landing_page_url": "http://www.osti.gov/scitech/biblio/5160889-kemik-sandstone-inner-shelf-sand-from-northeast-alaska",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S144020083",
+            "display_name": "AAPG Bulletin",
+            "issn_l": "0149-1423",
+            "issn": [
+              "0149-1423",
+              "1522-1423",
+              "1558-9153"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310316082",
+            "host_organization_name": "American Association of Petroleum Geologists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316082"
+            ],
+            "host_organization_lineage_names": [
+              "American Association of Petroleum Geologists"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "AAPG Bulletin",
+          "raw_type": null
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2100073588",
+        "https://openalex.org/W2077294411",
+        "https://openalex.org/W2114251175",
+        "https://openalex.org/W2047639481",
+        "https://openalex.org/W1975683963",
+        "https://openalex.org/W2031376233",
+        "https://openalex.org/W120337979",
+        "https://openalex.org/W2100219252",
+        "https://openalex.org/W2132977221",
+        "https://openalex.org/W1550991911",
+        "https://openalex.org/W1522067358",
+        "https://openalex.org/W2108314247",
+        "https://openalex.org/W1987707423",
+        "https://openalex.org/W2184212029",
+        "https://openalex.org/W2146482597",
+        "https://openalex.org/W1969128878",
+        "https://openalex.org/W2034262265",
+        "https://openalex.org/W1539976499",
+        "https://openalex.org/W2094293878",
+        "https://openalex.org/W2892178614"
+      ],
+      "abstract_inverted_index": {
+        "120": [
+          45
+        ],
+        "The": [
+          0,
+          112,
+          171,
+          183,
+          207
+        ],
+        "upper": [
+          1,
+          145,
+          189
+        ],
+        "Neocomian": [
+          2
+        ],
+        "Kemik": [
+          3,
+          208
+        ],
+        "Sandstone": [
+          4,
+          209
+        ],
+        "crops": [
+          5
+        ],
+        "out": [
+          6
+        ],
+        "in": [
+          7,
+          12
+        ],
+        "and": [
+          8,
+          26,
+          68,
+          76,
+          104,
+          126,
+          155,
+          203
+        ],
+        "around": [
+          9
+        ],
+        "Ignek": [
+          10
+        ],
+        "Valley": [
+          11
+        ],
+        "northeast": [
+          13
+        ],
+        "Alaska.": [
+          14
+        ],
+        "It": [
+          15,
+          36,
+          96
+        ],
+        "lies": [
+          16
+        ],
+        "unconformably": [
+          17
+        ],
+        "on": [
+          18
+        ],
+        "the": [
+          19,
+          30,
+          88,
+          156,
+          196
+        ],
+        "Jurassic": [
+          20
+        ],
+        "to": [
+          21,
+          32,
+          44,
+          63,
+          79,
+          136,
+          140,
+          150
+        ],
+        "Lower": [
+          22
+        ],
+        "Cretaceous": [
+          23
+        ],
+        "Kingak": [
+          24
+        ],
+        "Shale,": [
+          25
+        ],
+        "is": [
+          27,
+          37,
+          97
+        ],
+        "overlain": [
+          28,
+          98
+        ],
+        "by": [
+          29,
+          99,
+          167,
+          176
+        ],
+        "Hauterivian": [
+          31
+        ],
+        "Barremian": [
+          33
+        ],
+        "pebble": [
+          34,
+          59
+        ],
+        "shale.": [
+          35
+        ],
+        "a": [
+          38,
+          55,
+          72,
+          92,
+          100,
+          115,
+          211
+        ],
+        "fine-grained,": [
+          39
+        ],
+        "glauconitic": [
+          40
+        ],
+        "quartzose": [
+          41
+        ],
+        "sandstone,": [
+          42
+        ],
+        "up": [
+          43
+        ],
+        "feet": [
+          46
+        ],
+        "(37": [
+          47
+        ],
+        "m)": [
+          48
+        ],
+        "thick.": [
+          49
+        ],
+        "Four": [
+          50
+        ],
+        "lithofacies": [
+          51
+        ],
+        "are": [
+          52,
+          147
+        ],
+        "recognized:": [
+          53
+        ],
+        "(1)": [
+          54
+        ],
+        "basal,": [
+          56
+        ],
+        "moderately": [
+          57
+        ],
+        "well-sorted": [
+          58
+        ],
+        "conglomerate;": [
+          60,
+          75
+        ],
+        "(2)": [
+          61
+        ],
+        "fine": [
+          62,
+          65
+        ],
+        "very": [
+          64
+        ],
+        "grained,": [
+          66
+        ],
+        "laminated": [
+          67,
+          103,
+          142
+        ],
+        "bioturbated": [
+          69,
+          105
+        ],
+        "sandstone;": [
+          70
+        ],
+        "(3)": [
+          71
+        ],
+        "poorly": [
+          73,
+          109
+        ],
+        "sorted": [
+          74,
+          110
+        ],
+        "(4)": [
+          77
+        ],
+        "low-angle": [
+          78,
+          134
+        ],
+        "hummocky": [
+          80,
+          184
+        ],
+        "cross-stratified": [
+          81,
+          185
+        ],
+        "fine-grained": [
+          82
+        ],
+        "sandstones.": [
+          83
+        ],
+        "Facies": [
+          84
+        ],
+        "relationships": [
+          85
+        ],
+        "suggest": [
+          86
+        ],
+        "that": [
+          87,
+          191
+        ],
+        "basal": [
+          89
+        ],
+        "conglomerate": [
+          90
+        ],
+        "represents": [
+          91,
+          210
+        ],
+        "transgressive": [
+          93,
+          223
+        ],
+        "lag": [
+          94
+        ],
+        "deposit.": [
+          95
+        ],
+        "sequence": [
+          101,
+          190
+        ],
+        "comprising": [
+          102
+        ],
+        "sandstones": [
+          106,
+          113,
+          154,
+          172
+        ],
+        "with": [
+          107,
+          216
+        ],
+        "interbedded,": [
+          108
+        ],
+        "conglomerates.": [
+          111
+        ],
+        "exhibit": [
+          114
+        ],
+        "mixed": [
+          116
+        ],
+        "assemblage": [
+          117
+        ],
+        "of": [
+          118,
+          198
+        ],
+        "ichnofossils,": [
+          119
+        ],
+        "including": [
+          120
+        ],
+        "Gyrochorte,": [
+          121
+        ],
+        "Muensteria,": [
+          122
+        ],
+        "Ophiomorpha,": [
+          123
+        ],
+        "Planolites,": [
+          124
+        ],
+        "Skolithos,": [
+          125
+        ],
+        "(?)Conichnus.": [
+          127
+        ],
+        "In": [
+          128
+        ],
+        "places,": [
+          129
+        ],
+        "they": [
+          130
+        ],
+        "grade": [
+          131
+        ],
+        "upward": [
+          132
+        ],
+        "from": [
+          133
+        ],
+        "laminations": [
+          135
+        ],
+        "symmetrical": [
+          137
+        ],
+        "ripple": [
+          138
+        ],
+        "forms": [
+          139
+        ],
+        "silty": [
+          141
+        ],
+        "deposits.": [
+          143
+        ],
+        "Their": [
+          144
+        ],
+        "parts": [
+          146
+        ],
+        "bioturbated,": [
+          148
+        ],
+        "but": [
+          149,
+          161,
+          178
+        ],
+        "varying": [
+          151
+        ],
+        "extent.": [
+          152
+        ],
+        "These": [
+          153
+        ],
+        "conglomerates": [
+          157
+        ],
+        "were": [
+          158,
+          173
+        ],
+        "deposited": [
+          159,
+          194,
+          219
+        ],
+        "abruptly": [
+          160
+        ],
+        "sporadically": [
+          162
+        ],
+        "below": [
+          163
+        ],
+        "storm": [
+          164,
+          181,
+          204
+        ],
+        "wave": [
+          165,
+          205
+        ],
+        "base": [
+          166
+        ],
+        "storm-generat": [
+          168
+        ],
+        "ed": [
+          169
+        ],
+        "currents.": [
+          170
+        ],
+        "subsequently": [
+          174
+        ],
+        "modified": [
+          175
+        ],
+        "strong": [
+          177
+        ],
+        "waning": [
+          179
+        ],
+        "oscillating": [
+          180
+        ],
+        "waves.": [
+          182
+        ],
+        "sediment": [
+          186
+        ],
+        "comprises": [
+          187
+        ],
+        "an": [
+          188,
+          221
+        ],
+        "was": [
+          192
+        ],
+        "probably": [
+          193
+        ],
+        "under": [
+          195
+        ],
+        "influence": [
+          197
+        ],
+        "storm-induced": [
+          199
+        ],
+        "conditions": [
+          200
+        ],
+        "between": [
+          201
+        ],
+        "fair-weather": [
+          202
+        ],
+        "base.": [
+          206
+        ],
+        "storm-deposited": [
+          212
+        ],
+        "inner": [
+          213
+        ],
+        "shelf": [
+          214
+        ],
+        "sand": [
+          215
+        ],
+        "regressive": [
+          217
+        ],
+        "characteristics,": [
+          218
+        ],
+        "within": [
+          220
+        ],
+        "overall": [
+          222
+        ],
+        "setting.": [
+          224
+        ]
+      },
+      "counts_by_year": [],
+      "updated_date": "2025-10-10T17:16:08.811792",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2016300358",
       "doi": "https://doi.org/10.1306/94885f11-1704-11d7-8645000102c1865d",
       "title": "Kemik Sandstone: Inner Shelf Sand from Northeast Alaska: ABSTRACT",
@@ -32189,9 +32729,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.4099999964237213,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -32707,9 +33247,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -33122,9 +33662,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.6100000143051147,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],

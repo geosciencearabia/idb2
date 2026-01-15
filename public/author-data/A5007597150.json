@@ -3261,9 +3261,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5245,6 +5245,490 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4383343323",
+      "doi": "https://doi.org/10.1007/s12517-023-11546-3",
+      "title": "Fire-set mining in an ancient lead mine: Khaf Al Laasif, Al ‘Āmrāt, Oman",
+      "display_name": "Fire-set mining in an ancient lead mine: Khaf Al Laasif, Al ‘Āmrāt, Oman",
+      "publication_year": 2023,
+      "publication_date": "2023-07-06",
+      "ids": {
+        "openalex": "https://openalex.org/W4383343323",
+        "doi": "https://doi.org/10.1007/s12517-023-11546-3"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s12517-023-11546-3",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s12517-023-11546-3",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S38407038",
+          "display_name": "Arabian Journal of Geosciences",
+          "issn_l": "1866-7511",
+          "issn": [
+            "1866-7511",
+            "1866-7538"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Arabian Journal of Geosciences",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5054416815",
+            "display_name": "Philippe Audra",
+            "orcid": "https://orcid.org/0000-0001-9152-9935"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210154774",
+              "display_name": "Polytech Lille",
+              "ror": "https://ror.org/05339ng12",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210154774",
+                "https://openalex.org/I59807433"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I201841394",
+              "display_name": "Université Côte d'Azur",
+              "ror": "https://ror.org/019tgvf94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201841394"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Philippe Audra",
+          "raw_affiliation_strings": [
+            "Université Côte d’Azur, Polytech’Lab - UPR 7498, 930 route des Colles, 06903, Sophia-Antipolis, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Université Côte d’Azur, Polytech’Lab - UPR 7498, 930 route des Colles, 06903, Sophia-Antipolis, France",
+              "institution_ids": [
+                "https://openalex.org/I4210154774",
+                "https://openalex.org/I201841394"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5007597150",
+            "display_name": "Mohammed Al Kindi",
+            "orcid": "https://orcid.org/0000-0002-8456-158X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210122910",
+              "display_name": "The Research Council",
+              "ror": "https://ror.org/03tcppy59",
+              "country_code": "OM",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Al Kindi",
+          "raw_affiliation_strings": [
+            "Earth Sciences Consultancy Centre, PO Box 979, P.C. 611, Industrial Ghala, Muscat, Sultanate of Oman"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre, PO Box 979, P.C. 611, Industrial Ghala, Muscat, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054416815"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210154774",
+        "https://openalex.org/I201841394"
+      ],
+      "apc_list": {
+        "value": 2390,
+        "currency": "EUR",
+        "value_usd": 2990
+      },
+      "apc_paid": null,
+      "fwci": 0.15887805,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.41464908,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 95
+      },
+      "biblio": {
+        "volume": "16",
+        "issue": "8",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11073",
+        "display_name": "Metal Extraction and Bioleaching",
+        "score": 0.9776999950408936,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2204",
+          "display_name": "Biomedical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11073",
+          "display_name": "Metal Extraction and Bioleaching",
+          "score": 0.9776999950408936,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2204",
+            "display_name": "Biomedical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13372",
+          "display_name": "Archaeology and Historical Studies",
+          "score": 0.9437999725341797,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1204",
+            "display_name": "Archeology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11933",
+          "display_name": "Mining and Resource Management",
+          "score": 0.9379000067710876,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2215",
+            "display_name": "Building and Construction"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mining-engineering",
+          "display_name": "Mining engineering",
+          "score": 0.6716131567955017
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.530951201915741
+        },
+        {
+          "id": "https://openalex.org/keywords/copper-mining",
+          "display_name": "Copper mining",
+          "score": 0.5093716382980347
+        },
+        {
+          "id": "https://openalex.org/keywords/lead",
+          "display_name": "Lead (geology)",
+          "score": 0.5083214640617371
+        },
+        {
+          "id": "https://openalex.org/keywords/copper-mine",
+          "display_name": "Copper mine",
+          "score": 0.48961907625198364
+        },
+        {
+          "id": "https://openalex.org/keywords/excavation",
+          "display_name": "Excavation",
+          "score": 0.4617476761341095
+        },
+        {
+          "id": "https://openalex.org/keywords/dolomite",
+          "display_name": "Dolomite",
+          "score": 0.42092546820640564
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.20940744876861572
+        },
+        {
+          "id": "https://openalex.org/keywords/copper",
+          "display_name": "Copper",
+          "score": 0.1328124701976776
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.10580578446388245
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C16674752",
+          "wikidata": "https://www.wikidata.org/wiki/Q1370637",
+          "display_name": "Mining engineering",
+          "level": 1,
+          "score": 0.6716131567955017
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.530951201915741
+        },
+        {
+          "id": "https://openalex.org/C2991909115",
+          "wikidata": "https://www.wikidata.org/wiki/Q766401",
+          "display_name": "Copper mining",
+          "level": 3,
+          "score": 0.5093716382980347
+        },
+        {
+          "id": "https://openalex.org/C2777093003",
+          "wikidata": "https://www.wikidata.org/wiki/Q6508345",
+          "display_name": "Lead (geology)",
+          "level": 2,
+          "score": 0.5083214640617371
+        },
+        {
+          "id": "https://openalex.org/C2994103380",
+          "wikidata": "https://www.wikidata.org/wiki/Q766401",
+          "display_name": "Copper mine",
+          "level": 3,
+          "score": 0.48961907625198364
+        },
+        {
+          "id": "https://openalex.org/C31858485",
+          "wikidata": "https://www.wikidata.org/wiki/Q959782",
+          "display_name": "Excavation",
+          "level": 2,
+          "score": 0.4617476761341095
+        },
+        {
+          "id": "https://openalex.org/C2780181037",
+          "wikidata": "https://www.wikidata.org/wiki/Q371542",
+          "display_name": "Dolomite",
+          "level": 2,
+          "score": 0.42092546820640564
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.20940744876861572
+        },
+        {
+          "id": "https://openalex.org/C544778455",
+          "wikidata": "https://www.wikidata.org/wiki/Q753",
+          "display_name": "Copper",
+          "level": 2,
+          "score": 0.1328124701976776
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.10580578446388245
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s12517-023-11546-3",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s12517-023-11546-3",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S38407038",
+            "display_name": "Arabian Journal of Geosciences",
+            "issn_l": "1866-7511",
+            "issn": [
+              "1866-7511",
+              "1866-7538"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Arabian Journal of Geosciences",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "referenced_works_count": 16,
+      "referenced_works": [
+        "https://openalex.org/W3209119810",
+        "https://openalex.org/W2009239691",
+        "https://openalex.org/W2793224283",
+        "https://openalex.org/W1704882056",
+        "https://openalex.org/W2008020145",
+        "https://openalex.org/W2018396756",
+        "https://openalex.org/W4244609841",
+        "https://openalex.org/W1985621977",
+        "https://openalex.org/W3215186918",
+        "https://openalex.org/W2289338124",
+        "https://openalex.org/W2729890916",
+        "https://openalex.org/W1994667166",
+        "https://openalex.org/W3133998026",
+        "https://openalex.org/W2084352971",
+        "https://openalex.org/W2761754787",
+        "https://openalex.org/W2033263717"
+      ],
+      "related_works": [
+        "https://openalex.org/W2370748203",
+        "https://openalex.org/W2183948443",
+        "https://openalex.org/W2380277330",
+        "https://openalex.org/W2324700504",
+        "https://openalex.org/W2519620985",
+        "https://openalex.org/W2353327095",
+        "https://openalex.org/W2370618496",
+        "https://openalex.org/W2902925693",
+        "https://openalex.org/W2373114504",
+        "https://openalex.org/W1466067138"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4386162512",
       "doi": "https://doi.org/10.3989/egeol.44974.631",
       "title": "Correlación de la Formación Marsawdad, Omán, Mioceno Superior (Turoliense-Ventiense), basada en las de cáscaras fósiles de huevos avianos",
@@ -5715,9 +6199,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6374,9 +6858,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6915,9 +7399,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -7641,9 +8125,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
