@@ -2786,7 +2786,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.93151346,
+        "value": 0.92995784,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4119,7 +4119,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-24T23:09:58.560324",
+      "updated_date": "2026-01-15T23:16:33.117629",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17121,16 +17121,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210134214",
               "display_name": "Beijing Research Institute of Uranium Geology",
               "ror": "https://ror.org/046qx3a23",
@@ -17138,6 +17128,16 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -17175,16 +17175,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -17192,6 +17182,16 @@
               "type": "company",
               "lineage": [
                 "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
               ]
             }
           ],
@@ -17350,7 +17350,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -17373,16 +17373,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210134214",
               "display_name": "Beijing Research Institute of Uranium Geology",
               "ror": "https://ror.org/046qx3a23",
@@ -17391,13 +17381,23 @@
               "lineage": [
                 "https://openalex.org/I4210134214"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
             }
           ],
           "countries": [
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -17481,16 +17481,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210134214",
               "display_name": "Beijing Research Institute of Uranium Geology",
               "ror": "https://ror.org/046qx3a23",
@@ -17498,6 +17488,16 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -17605,7 +17605,7 @@
       "corresponding_author_ids": [
         "https://openalex.org/A5101699144",
         "https://openalex.org/A5109396102",
-        "https://openalex.org/A5044930714"
+        "https://openalex.org/A5030898494"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I4210134214",
@@ -17625,7 +17625,7 @@
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89011954,
+        "value": 0.89006496,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18111,11 +18111,11 @@
         "https://openalex.org/W2050075372",
         "https://openalex.org/W2131050439",
         "https://openalex.org/W2283724060",
-        "https://openalex.org/W2344338649",
-        "https://openalex.org/W2089841273",
         "https://openalex.org/W2102947943",
+        "https://openalex.org/W2089841273",
         "https://openalex.org/W2208117800",
-        "https://openalex.org/W2336738242"
+        "https://openalex.org/W2336738242",
+        "https://openalex.org/W2344338649"
       ],
       "related_works": [
         "https://openalex.org/W2943036979",
@@ -18580,7 +18580,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-01-14T23:40:02.550235",
+      "updated_date": "2026-01-15T23:16:33.117629",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19995,6 +19995,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I129774422",
+              "display_name": "University of Vienna",
+              "ror": "https://ror.org/03prydq77",
+              "country_code": "AT",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I129774422"
+              ]
+            },
+            {
               "id": "https://openalex.org/I2801780293",
               "display_name": "Geological Survey of Austria",
               "ror": "https://ror.org/03em27e03",
@@ -20003,16 +20013,6 @@
               "lineage": [
                 "https://openalex.org/I2801780293",
                 "https://openalex.org/I4210118069"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I129774422",
-              "display_name": "University of Vienna",
-              "ror": "https://ror.org/03prydq77",
-              "country_code": "AT",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I129774422"
               ]
             }
           ],
@@ -20153,7 +20153,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.86894862,
+        "value": 0.86842405,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20683,10 +20683,10 @@
         "https://openalex.org/W1964809697",
         "https://openalex.org/W203584942",
         "https://openalex.org/W4248527345",
-        "https://openalex.org/W2253026040",
-        "https://openalex.org/W2124390624",
         "https://openalex.org/W2792536663",
-        "https://openalex.org/W974384204"
+        "https://openalex.org/W2124390624",
+        "https://openalex.org/W974384204",
+        "https://openalex.org/W2253026040"
       ],
       "related_works": [
         "https://openalex.org/W2046656234",
@@ -21286,7 +21286,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T21:40:15.123406",
+      "updated_date": "2026-01-15T23:16:33.117629",
       "created_date": "2025-10-10T00:00:00"
     },
     {

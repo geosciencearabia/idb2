@@ -26,13 +26,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
     "publications": 980,
-    "citations": 27991
+    "citations": 27992
   },
   {
     "id": "https://openalex.org/T10017",
     "name": "Geology and Paleoclimatology Research",
     "publications": 734,
-    "citations": 16979
+    "citations": 16980
   },
   {
     "id": "https://openalex.org/T10001",
@@ -56,7 +56,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T13177",
     "name": "Geological and Geophysical Studies",
     "publications": 549,
-    "citations": 9915
+    "citations": 9916
   },
   {
     "id": "https://openalex.org/T10635",
@@ -3298,8 +3298,8 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I1294671590",
     "name": "Centre National de la Recherche Scientifique",
-    "publications": 126,
-    "citations": 5413
+    "publications": 127,
+    "citations": 5414
   },
   {
     "id": "https://openalex.org/I60342839",
@@ -3370,8 +3370,8 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I100532134",
     "name": "Université Claude Bernard Lyon 1",
-    "publications": 57,
-    "citations": 1508
+    "publications": 58,
+    "citations": 1509
   },
   {
     "id": "https://openalex.org/I114972647",
@@ -3389,7 +3389,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I203899302",
     "name": "Universiti Teknologi Petronas",
     "publications": 43,
-    "citations": 656
+    "citations": 657
   },
   {
     "id": "https://openalex.org/I21203515",
@@ -3707,7 +3707,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I145608581",
     "name": "University of Miami",
     "publications": 15,
-    "citations": 632
+    "citations": 633
   },
   {
     "id": "https://openalex.org/I189462010",
@@ -4268,6 +4268,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 356
   },
   {
+    "id": "https://openalex.org/I32881790",
+    "name": "Université de Poitiers",
+    "publications": 8,
+    "citations": 336
+  },
+  {
     "id": "https://openalex.org/I130309236",
     "name": "Kafrelsheikh University",
     "publications": 8,
@@ -4352,12 +4358,6 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 372
   },
   {
-    "id": "https://openalex.org/I32881790",
-    "name": "Université de Poitiers",
-    "publications": 7,
-    "citations": 335
-  },
-  {
     "id": "https://openalex.org/I150406212",
     "name": "University of Khartoum",
     "publications": 7,
@@ -4422,6 +4422,12 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Planetary Science Institute",
     "publications": 7,
     "citations": 125
+  },
+  {
+    "id": "https://openalex.org/I4210147046",
+    "name": "Laboratoire de Sciences de la Terre",
+    "publications": 7,
+    "citations": 106
   },
   {
     "id": "https://openalex.org/I177064439",
@@ -4642,12 +4648,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I1313606977",
     "name": "Museum für Naturkunde",
-    "publications": 6,
-    "citations": 105
-  },
-  {
-    "id": "https://openalex.org/I4210147046",
-    "name": "Laboratoire de Sciences de la Terre",
     "publications": 6,
     "citations": 105
   },
@@ -6029,7 +6029,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I184886455",
     "name": "Maersk (Denmark)",
     "publications": 2,
-    "citations": 265
+    "citations": 266
   },
   {
     "id": "https://openalex.org/I16391192",
@@ -6222,6 +6222,12 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Harvard University",
     "publications": 2,
     "citations": 118
+  },
+  {
+    "id": "https://openalex.org/I4210135999",
+    "name": "Institut de Paléontologie Humaine",
+    "publications": 2,
+    "citations": 114
   },
   {
     "id": "https://openalex.org/I10180231",
@@ -7391,7 +7397,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210120771",
     "name": "Maersk (Qatar)",
     "publications": 1,
-    "citations": 121
+    "citations": 122
   },
   {
     "id": "https://openalex.org/I196198406",
@@ -7420,12 +7426,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I4210102569",
     "name": "Centre de Recherches Pétrographiques et Géochimiques",
-    "publications": 1,
-    "citations": 113
-  },
-  {
-    "id": "https://openalex.org/I4210135999",
-    "name": "Institut de Paléontologie Humaine",
     "publications": 1,
     "citations": 113
   },

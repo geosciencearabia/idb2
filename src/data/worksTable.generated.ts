@@ -42590,8 +42590,8 @@ export const worksTable: WorkTableRecord[] = [
       "Atmospheric and Environmental Gas Dynamics"
     ],
     "institutions": [
-      "Taiz University",
       "University of Malaya",
+      "Taiz University",
       "King Saud University",
       "Jilin University"
     ]
@@ -64192,8 +64192,8 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Bureau de Recherches Géologiques et Minières",
-      "Geological Survey of Austria",
       "University of Vienna",
+      "Geological Survey of Austria",
       "Institut des Sciences de la Terre de Paris"
     ]
   },
@@ -102714,9 +102714,9 @@ export const worksTable: WorkTableRecord[] = [
       "Methane Hydrates and Related Phenomena"
     ],
     "institutions": [
-      "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement",
       "Bureau de Recherches Géologiques et Minières",
-      "Sustainable Europe Research Institute"
+      "Sustainable Europe Research Institute",
+      "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement"
     ]
   },
   {
@@ -123438,6 +123438,49 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2118432836",
+    "doi": "https://doi.org/10.1111/ter.12009",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5081811780",
+    "allAuthorOpenAlexIds": [
+      "A5081811780",
+      "A5110956932",
+      "A5108291309",
+      "A5108167128",
+      "A5029031784",
+      "A5089188834",
+      "A5112647675",
+      "A5065009993"
+    ],
+    "firstAuthorLastName": "Maurer",
+    "allAuthors": [
+      "Florian Maurer",
+      "Frans S.P. van Buchem",
+      "Gregor P. Eberli",
+      "Bernard J. Pierson",
+      "Madeleine J. Raven",
+      "P.-H Larsen",
+      "Moujahed Al-Husseini",
+      "Benoı̂t Vincent"
+    ],
+    "title": "Late Aptian long‐lived glacio‐eustatic lowstand recorded on the Arabian Plate",
+    "publicationDate": "2012-09-25",
+    "year": 2012,
+    "venue": "Terra Nova",
+    "citations": 122,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "Maersk (Qatar)",
+      "Maersk (Denmark)",
+      "University of Miami",
+      "Universiti Teknologi Petronas"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3006915709",
     "doi": "https://doi.org/10.1016/j.gr.2020.01.011",
     "program": "",
@@ -123488,49 +123531,6 @@ export const worksTable: WorkTableRecord[] = [
       "Petroleum Processing and Analysis"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W2118432836",
-    "doi": "https://doi.org/10.1111/ter.12009",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5081811780",
-    "allAuthorOpenAlexIds": [
-      "A5081811780",
-      "A5110956932",
-      "A5108291309",
-      "A5108167128",
-      "A5029031784",
-      "A5089188834",
-      "A5112647675",
-      "A5065009993"
-    ],
-    "firstAuthorLastName": "Maurer",
-    "allAuthors": [
-      "Florian Maurer",
-      "Frans S.P. van Buchem",
-      "Gregor P. Eberli",
-      "Bernard J. Pierson",
-      "Madeleine J. Raven",
-      "P.-H Larsen",
-      "Moujahed Al-Husseini",
-      "Benoı̂t Vincent"
-    ],
-    "title": "Late Aptian long‐lived glacio‐eustatic lowstand recorded on the Arabian Plate",
-    "publicationDate": "2012-09-25",
-    "year": 2012,
-    "venue": "Terra Nova",
-    "citations": 121,
-    "topics": [
-      "Geological and Geophysical Studies",
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": [
-      "Maersk (Qatar)",
-      "Maersk (Denmark)",
-      "University of Miami",
-      "Universiti Teknologi Petronas"
-    ]
   },
   {
     "workId": "https://openalex.org/W2594660138",
@@ -125863,8 +125863,8 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies Worldwide"
     ],
     "institutions": [
-      "Centre National de la Recherche Scientifique",
       "Université Claude Bernard Lyon 1",
+      "Centre National de la Recherche Scientifique",
       "Tunis University",
       "University of Sfax"
     ]
@@ -127376,7 +127376,13 @@ export const worksTable: WorkTableRecord[] = [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils"
     ],
-    "institutions": []
+    "institutions": [
+      "Université de Poitiers",
+      "Université Claude Bernard Lyon 1",
+      "Institut de Paléontologie Humaine",
+      "Centre National de la Recherche Scientifique",
+      "Laboratoire de Sciences de la Terre"
+    ]
   },
   {
     "workId": "https://openalex.org/W2738612660",

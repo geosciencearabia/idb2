@@ -21512,16 +21512,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
               "id": "https://openalex.org/I100532134",
               "display_name": "Université Claude Bernard Lyon 1",
               "ror": "https://ror.org/029brtt94",
@@ -21530,6 +21520,16 @@
               "lineage": [
                 "https://openalex.org/I100532134",
                 "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
               ]
             }
           ],
@@ -21727,8 +21727,8 @@
         "https://openalex.org/A5084630459"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I1294671590",
-        "https://openalex.org/I100532134"
+        "https://openalex.org/I100532134",
+        "https://openalex.org/I1294671590"
       ],
       "apc_list": null,
       "apc_paid": null,
@@ -21736,7 +21736,7 @@
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.79825041,
+        "value": 0.78708375,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22043,13 +22043,13 @@
         "https://openalex.org/W2093711199",
         "https://openalex.org/W2038411788",
         "https://openalex.org/W2526623292",
+        "https://openalex.org/W1964722407",
+        "https://openalex.org/W4285719527",
         "https://openalex.org/W2258945331",
+        "https://openalex.org/W1595919122",
         "https://openalex.org/W95989096",
         "https://openalex.org/W2920815574",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W1964722407",
-        "https://openalex.org/W1983304725",
-        "https://openalex.org/W1595919122"
+        "https://openalex.org/W1983304725"
       ],
       "related_works": [
         "https://openalex.org/W2340712522",
@@ -22387,7 +22387,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-15T23:16:33.117629",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51003,8 +51003,21 @@
             "display_name": "Élie Cariou",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I32881790",
+              "display_name": "Université de Poitiers",
+              "ror": "https://ror.org/04xhy8q59",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I32881790"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Élie Cariou",
           "raw_affiliation_strings": [
@@ -51013,7 +51026,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Laboratoire de Géologie stratigraphique et structurale, Université de Poitiers, 40 av. du Recteur Pineau, 86022 Poitiers et Centre Géodynamique sédimentaire et évolution géobiologique, URA C.N.R.S. 157, Dijon, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I32881790"
+              ]
             }
           ]
         },
@@ -51024,8 +51039,21 @@
             "display_name": "Bernard Balusseau",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I32881790",
+              "display_name": "Université de Poitiers",
+              "ror": "https://ror.org/04xhy8q59",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I32881790"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Bernard Balusseau",
           "raw_affiliation_strings": [
@@ -51034,7 +51062,9 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Le Pilon, 86700 Poitiers, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I32881790"
+              ]
             }
           ]
         },
@@ -51045,8 +51075,54 @@
             "display_name": "Raymond Énay",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210135999",
+              "display_name": "Institut de Paléontologie Humaine",
+              "ror": "https://ror.org/03zt3va85",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210135999"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210147046",
+              "display_name": "Laboratoire de Sciences de la Terre",
+              "ror": "https://ror.org/0453rk787",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I113428412",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I4210147046"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Raymond Enay",
           "raw_affiliation_strings": [
@@ -51056,22 +51132,30 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Centre de Paléontologie stratigraphique et Paléoécologie, associé au CNRS (URA 11), 27-43 boulevarddu 11 novembre 1918, 69622 Villeurbanne Cedex, France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4210135999"
+              ]
             },
             {
               "raw_affiliation_string": "Centre des Sciences de la Terre, Université Claude Bernard Lyon I France",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I4210147046",
+                "https://openalex.org/I100532134"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5112292787"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I32881790"
+      ],
       "apc_list": {
         "value": 2620,
         "currency": "USD",
@@ -51082,7 +51166,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.19242424,
+        "value": 0.19287609,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51340,7 +51424,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-15T23:16:33.117629",
       "created_date": "2025-10-10T00:00:00"
     },
     {
