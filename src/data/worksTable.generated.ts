@@ -45980,6 +45980,55 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W7124310531",
+    "doi": "https://doi.org/10.1002/gj.70189",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5070829255",
+      "A5099102034",
+      "A5123061423",
+      "A5123087737",
+      "A5069165007",
+      "A5101527492",
+      "A5036262291",
+      "A5123118298"
+    ],
+    "firstAuthorLastName": "Alqudah",
+    "allAuthors": [
+      "M Alqudah",
+      "Malik M. Momani",
+      "Saber Al‐Rousan",
+      "Nazem Al Radaideh",
+      "Mohammed Hail Hakimi",
+      "Mohammad Al Alaween",
+      "Abdul Rahim",
+      "Ali Y. Kahal",
+      "Osama M. Al‐Tarawneh"
+    ],
+    "title": "Mid‐Cenomanian Event Controls the Bioproductivity and Organic Preservation of Bituminous Limestones From North Jordan",
+    "publicationDate": "2026-01-14",
+    "year": 2026,
+    "venue": "Geological Journal",
+    "citations": 0,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Elemental Analysis",
+      "Karst Systems and Hydrogeology"
+    ],
+    "institutions": [
+      "Yarmouk University",
+      "Ministry of Health",
+      "University of Jordan",
+      "Kazan Federal University",
+      "Zayed University",
+      "University of Technology Malaysia",
+      "King Saud University",
+      "University of Central Florida"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2606002868",
     "doi": "https://doi.org/10.1016/b978-0-444-53813-0.00027-7",
     "program": "",
@@ -50106,6 +50155,62 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
     ]
+  },
+  {
+    "workId": "https://openalex.org/W7124278131",
+    "doi": "https://doi.org/10.48550/arxiv.2601.09283",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035537771",
+    "allAuthorOpenAlexIds": [
+      "A5035537771",
+      "A5113089995",
+      "A5022893471"
+    ],
+    "firstAuthorLastName": "Alonso-Marroquin",
+    "allAuthors": [
+      "Fernando Alonso-Marroquin",
+      "Abdullah Alqubalee",
+      "Christian Tantardini"
+    ],
+    "title": "Representative-volume sizing in finite cylindrical computed tomography by low-wavenumber spectral convergence",
+    "publicationDate": "2026-01-14",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "citations": 0,
+    "topics": [
+      "Seismic Imaging and Inversion Techniques",
+      "Enhanced Oil Recovery Techniques",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W7124358305",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5035537771",
+    "allAuthorOpenAlexIds": [
+      "A5035537771",
+      "A5113089995",
+      "A5022893471"
+    ],
+    "firstAuthorLastName": "Alonso-Marroquin",
+    "allAuthors": [
+      "Fernando Alonso-Marroquin",
+      "Abdullah Alqubalee",
+      "Christian Tantardini"
+    ],
+    "title": "Representative-volume sizing in finite cylindrical computed tomography by low-wavenumber spectral convergence",
+    "publicationDate": "2026-01-14",
+    "year": 2026,
+    "venue": "arXiv (Cornell University)",
+    "citations": 0,
+    "topics": [
+      "Seismic Imaging and Inversion Techniques",
+      "Enhanced Oil Recovery Techniques",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2123445693",

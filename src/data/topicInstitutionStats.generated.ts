@@ -19,13 +19,13 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
-    "publications": 1217,
+    "publications": 1219,
     "citations": 21075
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
-    "publications": 980,
+    "publications": 981,
     "citations": 27992
   },
   {
@@ -85,7 +85,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10271",
     "name": "Seismic Imaging and Inversion Techniques",
-    "publications": 213,
+    "publications": 215,
     "citations": 1328
   },
   {
@@ -121,7 +121,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11740",
     "name": "Geochemistry and Elemental Analysis",
-    "publications": 133,
+    "publications": 134,
     "citations": 3345
   },
   {
@@ -193,7 +193,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10491",
     "name": "Enhanced Oil Recovery Techniques",
-    "publications": 53,
+    "publications": 55,
     "citations": 497
   },
   {
@@ -359,16 +359,16 @@ export const topicStats: TopicStats[] = [
     "citations": 338
   },
   {
+    "id": "https://openalex.org/T12083",
+    "name": "Karst Systems and Hydrogeology",
+    "publications": 16,
+    "citations": 180
+  },
+  {
     "id": "https://openalex.org/T10689",
     "name": "Remote-Sensing Image Classification",
     "publications": 15,
     "citations": 496
-  },
-  {
-    "id": "https://openalex.org/T12083",
-    "name": "Karst Systems and Hydrogeology",
-    "publications": 15,
-    "citations": 180
   },
   {
     "id": "https://openalex.org/T12639",
@@ -3344,16 +3344,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 8571
   },
   {
+    "id": "https://openalex.org/I28022161",
+    "name": "King Saud University",
+    "publications": 83,
+    "citations": 866
+  },
+  {
     "id": "https://openalex.org/I62856769",
     "name": "Saudi Aramco (United States)",
     "publications": 82,
     "citations": 1468
-  },
-  {
-    "id": "https://openalex.org/I28022161",
-    "name": "King Saud University",
-    "publications": 82,
-    "citations": 866
   },
   {
     "id": "https://openalex.org/I71920554",
@@ -3376,7 +3376,7 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I114972647",
     "name": "University of Jordan",
-    "publications": 48,
+    "publications": 49,
     "citations": 1335
   },
   {
@@ -3394,7 +3394,7 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I21203515",
     "name": "Kazan Federal University",
-    "publications": 41,
+    "publications": 42,
     "citations": 328
   },
   {
@@ -3424,7 +3424,7 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I4576418",
     "name": "University of Technology Malaysia",
-    "publications": 32,
+    "publications": 33,
     "citations": 193
   },
   {
@@ -3548,6 +3548,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 315
   },
   {
+    "id": "https://openalex.org/I85507684",
+    "name": "Yarmouk University",
+    "publications": 21,
+    "citations": 299
+  },
+  {
     "id": "https://openalex.org/I157674565",
     "name": "University of Liège",
     "publications": 21,
@@ -3582,12 +3588,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "University of Milan",
     "publications": 20,
     "citations": 540
-  },
-  {
-    "id": "https://openalex.org/I85507684",
-    "name": "Yarmouk University",
-    "publications": 20,
-    "citations": 299
   },
   {
     "id": "https://openalex.org/I194028371",
@@ -7148,6 +7148,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 1
   },
   {
+    "id": "https://openalex.org/I4210107649",
+    "name": "Ministry of Health",
+    "publications": 2,
+    "citations": 1
+  },
+  {
     "id": "https://openalex.org/I1306266525",
     "name": "Goddard Space Flight Center",
     "publications": 2,
@@ -10010,12 +10016,6 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 1
   },
   {
-    "id": "https://openalex.org/I4210107649",
-    "name": "Ministry of Health",
-    "publications": 1,
-    "citations": 1
-  },
-  {
     "id": "https://openalex.org/I120158604",
     "name": "Kunsan National University",
     "publications": 1,
@@ -10366,6 +10366,18 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I1339903725",
     "name": "Florida Department of Transportation",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/I91044093",
+    "name": "Zayed University",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/I106165777",
+    "name": "University of Central Florida",
     "publications": 1,
     "citations": 0
   },
