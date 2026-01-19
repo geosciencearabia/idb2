@@ -2451,16 +2451,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 97,
       "referenced_works": [
@@ -3199,8 +3199,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 32,
       "referenced_works": [
@@ -5303,9 +5303,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -5325,8 +5325,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 137,
       "referenced_works": [
@@ -7216,8 +7216,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 49,
       "referenced_works": [
@@ -7987,16 +7987,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 28,
       "referenced_works": [
@@ -9086,16 +9086,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 26,
       "referenced_works": [
@@ -10327,16 +10327,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5400000214576721,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 35,
       "referenced_works": [
@@ -11342,8 +11342,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 27,
       "referenced_works": [
@@ -12098,9 +12098,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -12139,8 +12139,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 51,
       "referenced_works": [
@@ -12697,12 +12697,34 @@
             "display_name": "Francisco Gutiérrez",
             "orcid": "https://orcid.org/0000-0002-5407-940X"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I255234318",
+              "display_name": "Universidad de Zaragoza",
+              "ror": "https://ror.org/012a91z28",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I255234318"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Francisco Gutiérrez",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Zaragoza, Pedro Cerbuna 12, 50009 Zaragoza, Spain"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Zaragoza, Pedro Cerbuna 12, 50009 Zaragoza, Spain",
+              "institution_ids": [
+                "https://openalex.org/I255234318"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -12711,12 +12733,34 @@
             "display_name": "Yasser A. Zabramawi",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Yasser Zabramawi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -12725,12 +12769,34 @@
             "display_name": "Abdullah Memesh",
             "orcid": "https://orcid.org/0000-0001-8551-3240"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Memesh",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -12739,12 +12805,34 @@
             "display_name": "Ahmed M. Youssef",
             "orcid": "https://orcid.org/0000-0002-3297-4868"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Ahmed M. Youssef",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -12753,12 +12841,34 @@
             "display_name": "Alaa M. Bahamil",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Alaa Bahamil",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, P.O. Box 54141, Jeddah 21514, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -12767,21 +12877,45 @@
             "display_name": "Luis F. Auqué",
             "orcid": "https://orcid.org/0000-0003-1463-1682"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I255234318",
+              "display_name": "Universidad de Zaragoza",
+              "ror": "https://ror.org/012a91z28",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I255234318"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Luis Auqué",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, University of Zaragoza, Pedro Cerbuna 12, 50009 Zaragoza, Spain"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Zaragoza, Pedro Cerbuna 12, 50009 Zaragoza, Spain",
+              "institution_ids": [
+                "https://openalex.org/I255234318"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 6,
       "corresponding_author_ids": [
         "https://openalex.org/A5009798673"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I255234318"
+      ],
       "apc_list": {
         "value": 4540,
         "currency": "USD",
@@ -12796,7 +12930,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.8901029,
+        "value": 0.88125492,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13048,7 +13182,7 @@
           "id": "pmh:oai:zaguan.unizar.es:151223",
           "is_oa": true,
           "landing_page_url": "http://zaguan.unizar.es/record/151223",
-          "pdf_url": null,
+          "pdf_url": "https://zaguan.unizar.es/record/151223/files/texto_completo.pdf",
           "source": {
             "id": "https://openalex.org/S4306401812",
             "display_name": "Zaguan (University of Zaragoza Repository)",
@@ -13112,8 +13246,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 80,
       "referenced_works": [
@@ -13179,24 +13313,24 @@
         "https://openalex.org/W4393192528",
         "https://openalex.org/W2134774875",
         "https://openalex.org/W3009536903",
-        "https://openalex.org/W1963691310",
-        "https://openalex.org/W2183796025",
-        "https://openalex.org/W2325601347",
-        "https://openalex.org/W92189430",
         "https://openalex.org/W3017876515",
-        "https://openalex.org/W2063118675",
-        "https://openalex.org/W1973826423",
-        "https://openalex.org/W3216391906",
-        "https://openalex.org/W2146733514",
-        "https://openalex.org/W602199485",
-        "https://openalex.org/W2136195355",
-        "https://openalex.org/W567597107",
-        "https://openalex.org/W2319933029",
-        "https://openalex.org/W821002231",
-        "https://openalex.org/W2066260988",
-        "https://openalex.org/W2068451724",
         "https://openalex.org/W3033754753",
-        "https://openalex.org/W280024276"
+        "https://openalex.org/W2136195355",
+        "https://openalex.org/W2146733514",
+        "https://openalex.org/W567597107",
+        "https://openalex.org/W280024276",
+        "https://openalex.org/W821002231",
+        "https://openalex.org/W92189430",
+        "https://openalex.org/W602199485",
+        "https://openalex.org/W2066260988",
+        "https://openalex.org/W2063118675",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W1973826423",
+        "https://openalex.org/W1963691310",
+        "https://openalex.org/W2325601347",
+        "https://openalex.org/W2183796025",
+        "https://openalex.org/W2319933029",
+        "https://openalex.org/W3216391906"
       ],
       "related_works": [
         "https://openalex.org/W2099125473",
@@ -13780,7 +13914,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2025-12-27T23:08:20.325037",
+      "updated_date": "2026-01-19T04:01:09.351973",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14354,16 +14488,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 41,
       "referenced_works": [
@@ -15922,9 +16056,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -15936,8 +16070,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -16399,16 +16533,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 50,
       "referenced_works": [
@@ -17121,16 +17255,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -17138,6 +17262,16 @@
               "type": "company",
               "lineage": [
                 "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
               ]
             }
           ],
@@ -17229,16 +17363,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210134214",
               "display_name": "Beijing Research Institute of Uranium Geology",
               "ror": "https://ror.org/046qx3a23",
@@ -17246,6 +17370,16 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -17283,16 +17417,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210134214",
-              "display_name": "Beijing Research Institute of Uranium Geology",
-              "ror": "https://ror.org/046qx3a23",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210134214"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -17300,6 +17424,16 @@
               "type": "company",
               "lineage": [
                 "https://openalex.org/I4210143841"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210134214",
+              "display_name": "Beijing Research Institute of Uranium Geology",
+              "ror": "https://ror.org/046qx3a23",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210134214"
               ]
             }
           ],
@@ -17350,7 +17484,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -17397,7 +17531,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Zhixing Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -17427,16 +17561,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210134214",
               "display_name": "Beijing Research Institute of Uranium Geology",
               "ror": "https://ror.org/046qx3a23",
@@ -17444,6 +17568,16 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -17481,16 +17615,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210134214",
               "display_name": "Beijing Research Institute of Uranium Geology",
               "ror": "https://ror.org/046qx3a23",
@@ -17498,6 +17622,16 @@
               "type": "facility",
               "lineage": [
                 "https://openalex.org/I4210134214"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
               ]
             }
           ],
@@ -17605,11 +17739,11 @@
       "corresponding_author_ids": [
         "https://openalex.org/A5006640587",
         "https://openalex.org/A5109396102",
-        "https://openalex.org/A5044930714"
+        "https://openalex.org/A5030898494"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I4210134214",
-        "https://openalex.org/I4210143841"
+        "https://openalex.org/I4210143841",
+        "https://openalex.org/I4210134214"
       ],
       "apc_list": {
         "value": 2000,
@@ -17625,7 +17759,7 @@
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89006415,
+        "value": 0.89011912,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18006,16 +18140,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 97,
       "referenced_works": [
@@ -18113,9 +18247,9 @@
         "https://openalex.org/W2283724060",
         "https://openalex.org/W2089841273",
         "https://openalex.org/W2344338649",
-        "https://openalex.org/W2102947943",
         "https://openalex.org/W2208117800",
-        "https://openalex.org/W2336738242"
+        "https://openalex.org/W2336738242",
+        "https://openalex.org/W2102947943"
       ],
       "related_works": [
         "https://openalex.org/W2943036979",
@@ -18580,7 +18714,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-01-17T23:10:49.606395",
+      "updated_date": "2026-01-19T04:01:09.351973",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19125,16 +19259,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 29,
       "referenced_works": [
@@ -19510,8 +19644,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -20621,8 +20755,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 61,
       "referenced_works": [
@@ -21851,8 +21985,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -22763,16 +22897,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 31,
       "referenced_works": [
@@ -23851,8 +23985,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 77,
       "referenced_works": [
@@ -24227,8 +24361,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -24725,8 +24859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -26628,8 +26762,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 54,
       "referenced_works": [
@@ -27327,8 +27461,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],

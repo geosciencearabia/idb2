@@ -2594,8 +2594,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -4701,8 +4701,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -5809,8 +5809,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.75,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -6920,8 +6920,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
@@ -7596,12 +7596,34 @@
             "display_name": "Nikolaos A. Michael",
             "orcid": "https://orcid.org/0000-0002-6113-9589"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Nikolaos A. Michael",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -7610,12 +7632,34 @@
             "display_name": "Mustafa A. Al Ibrahim",
             "orcid": "https://orcid.org/0000-0001-9765-0162"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mustafa A. Al Ibrahim",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -7624,12 +7668,34 @@
             "display_name": "Christian Scheibe",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Christian Scheibe",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -7638,21 +7704,45 @@
             "display_name": "Neil W. Craigie",
             "orcid": "https://orcid.org/0000-0002-9728-9036"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Neil Craigie",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 1,
       "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5002041459"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
       "apc_list": {
         "value": 3350,
         "currency": "USD",
@@ -7663,7 +7753,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.97824699,
+        "value": 0.97621256,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7869,8 +7959,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/2",
           "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger"
         }
       ],
@@ -7913,21 +8003,21 @@
         "https://openalex.org/W2087689197",
         "https://openalex.org/W6655568089",
         "https://openalex.org/W2072498451",
-        "https://openalex.org/W2021651273",
-        "https://openalex.org/W2503993098",
         "https://openalex.org/W1920010643",
-        "https://openalex.org/W2124390624",
-        "https://openalex.org/W4200232387",
-        "https://openalex.org/W4285268216",
-        "https://openalex.org/W3126847908",
-        "https://openalex.org/W4378229710",
-        "https://openalex.org/W2784277501",
-        "https://openalex.org/W2742221252",
         "https://openalex.org/W2024923518",
-        "https://openalex.org/W2145804763",
-        "https://openalex.org/W4243034119",
+        "https://openalex.org/W2021651273",
+        "https://openalex.org/W2025458469",
+        "https://openalex.org/W2742221252",
+        "https://openalex.org/W2784277501",
+        "https://openalex.org/W2124390624",
         "https://openalex.org/W2477536975",
-        "https://openalex.org/W2025458469"
+        "https://openalex.org/W2503993098",
+        "https://openalex.org/W4378229710",
+        "https://openalex.org/W4285268216",
+        "https://openalex.org/W4200232387",
+        "https://openalex.org/W4243034119",
+        "https://openalex.org/W3126847908",
+        "https://openalex.org/W2145804763"
       ],
       "related_works": [
         "https://openalex.org/W1975632186",
@@ -7948,7 +8038,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-12-28T23:10:05.387466",
+      "updated_date": "2026-01-19T04:01:09.351973",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8401,13 +8491,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/16",
           "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/16",
           "display_name": "Peace, Justice and strong institutions"
         },
         {
-          "id": "https://metadata.un.org/sdg/10",
           "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/10",
           "display_name": "Reduced inequalities"
         }
       ],
@@ -9660,8 +9750,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],

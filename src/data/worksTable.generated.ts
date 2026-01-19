@@ -244,7 +244,9 @@ export const worksTable: WorkTableRecord[] = [
       "Geochemistry and Elemental Analysis",
       "Radioactivity and Radon Measurements"
     ],
-    "institutions": []
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)"
+    ]
   },
   {
     "workId": "https://openalex.org/W4200232387",
@@ -10775,7 +10777,16 @@ export const worksTable: WorkTableRecord[] = [
       "Geochemistry and Geologic Mapping",
       "Hydrocarbon exploration and reservoir analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "University of Kurdistan",
+      "University of Sulaimani",
+      "University of Wollongong",
+      "University of Kirkuk",
+      "Nagoya University",
+      "Research Institute for Humanity and Nature",
+      "Tokushima University",
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4407035309",
@@ -26134,7 +26145,9 @@ export const worksTable: WorkTableRecord[] = [
       "Carbon Dioxide Capture Technologies",
       "Chemical Looping and Thermochemical Processes"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4404794745",
@@ -26723,7 +26736,9 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Gombe State University",
       "Universiti Sains Malaysia",
+      "Federal University Lafia",
       "King Fahd University of Petroleum and Minerals",
+      "Sokoto State University",
       "Tongji University",
       "State Key Laboratory of Marine Geology",
       "Federal University Dutse"
@@ -27059,7 +27074,17 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Studies and Exploration",
       "Hydrocarbon exploration and reservoir analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "Obafemi Awolowo University",
+      "University of Aberdeen",
+      "King's College Hospital",
+      "Texas Tech University",
+      "Federal University of Technology Minna",
+      "Gombe State University",
+      "King Fahd University of Petroleum and Minerals",
+      "Canadian Natural Resources",
+      "University of East London"
+    ]
   },
   {
     "workId": "https://openalex.org/W4408588305",
@@ -30023,7 +30048,10 @@ export const worksTable: WorkTableRecord[] = [
       "Drilling and Well Engineering",
       "Hydraulic Fracturing and Reservoir Analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "King Abdullah University of Science and Technology"
+    ]
   },
   {
     "workId": "https://openalex.org/W4410079140",
@@ -31071,7 +31099,9 @@ export const worksTable: WorkTableRecord[] = [
       "Fuel Cells and Related Materials",
       "Perovskite Materials and Applications"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W2797578994",
@@ -38446,7 +38476,13 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Studies and Exploration",
       "Geochemistry and Geologic Mapping"
     ],
-    "institutions": []
+    "institutions": [
+      "Universiti Teknologi Petronas",
+      "Kazan Federal University",
+      "King Saud University",
+      "King Abdulaziz University",
+      "Government of Northwest Territories"
+    ]
   },
   {
     "workId": "https://openalex.org/W2130733762",
@@ -43821,7 +43857,13 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "Kazan Federal University",
+      "King Saud University",
+      "University of Technology Malaysia",
+      "Tatneft (Russia)",
+      "Almetyevsk State Oil Institute"
+    ]
   },
   {
     "workId": "https://openalex.org/W4407060912",
@@ -46728,7 +46770,10 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils"
     ],
-    "institutions": []
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4413162530",
@@ -47401,6 +47446,43 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4408806439",
+    "doi": "https://doi.org/10.1016/j.surfin.2025.106298",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5070394208",
+      "A5085351180",
+      "A5062007467",
+      "A5009033232",
+      "A5072286524"
+    ],
+    "firstAuthorLastName": "Bafaqeer",
+    "allAuthors": [
+      "Abdullah Bafaqeer",
+      "Aniz Chennampilly Ummer",
+      "Sani I. Abba",
+      "Hammam Abdurabu Thabit",
+      "Mohammed Benaafi",
+      "Jamilu Usman"
+    ],
+    "title": "Well-designed 1D/2D Ag3VO4/Fe2TiO5 type-II heterojunction with enhanced interfacial charge separation for visible-light-driven photocatalytic CO2 conversion",
+    "publicationDate": "2025-03-25",
+    "year": 2025,
+    "venue": "Surfaces and Interfaces",
+    "citations": 3,
+    "topics": [
+      "Advanced Photocatalysis Techniques",
+      "Copper-based nanomaterials and applications",
+      "Advanced Nanomaterials in Catalysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Prince Mohammad bin Fahd University"
     ]
   },
   {
@@ -48273,7 +48355,10 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrological Forecasting Using AI",
       "Groundwater and Watershed Analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "King Fahd Military Medical Complex"
+    ]
   },
   {
     "workId": "https://openalex.org/W4410077348",
@@ -48377,40 +48462,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
     ]
-  },
-  {
-    "workId": "https://openalex.org/W4408806439",
-    "doi": "https://doi.org/10.1016/j.surfin.2025.106298",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5070394208",
-      "A5085351180",
-      "A5062007467",
-      "A5009033232",
-      "A5072286524"
-    ],
-    "firstAuthorLastName": "Bafaqeer",
-    "allAuthors": [
-      "Abdullah Bafaqeer",
-      "Aniz Chennampilly Ummer",
-      "Sani I. Abba",
-      "Hammam Abdurabu Thabit",
-      "Mohammed Benaafi",
-      "Jamilu Usman"
-    ],
-    "title": "Well-designed 1D/2D Ag3VO4/Fe2TiO5 type-II heterojunction with enhanced interfacial charge separation for visible-light-driven photocatalytic CO2 conversion",
-    "publicationDate": "2025-03-25",
-    "year": 2025,
-    "venue": "Surfaces and Interfaces",
-    "citations": 1,
-    "topics": [
-      "Advanced Photocatalysis Techniques",
-      "Copper-based nanomaterials and applications",
-      "Advanced Nanomaterials in Catalysis"
-    ],
-    "institutions": []
   },
   {
     "workId": "https://openalex.org/W3123310825",
@@ -62834,7 +62885,12 @@ export const worksTable: WorkTableRecord[] = [
       "Polar Research and Ecology",
       "Marine Biology and Ecology Research"
     ],
-    "institutions": []
+    "institutions": [
+      "Hanyang University",
+      "King Fahd University of Petroleum and Minerals",
+      "University of Urbino",
+      "Hokkaido University"
+    ]
   },
   {
     "workId": "https://openalex.org/W4408429517",
@@ -77992,7 +78048,10 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Geologic Mapping"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
   },
   {
     "workId": "https://openalex.org/W4413136659",
@@ -83251,7 +83310,10 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies",
       "Hydrocarbon exploration and reservoir analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "Universidad de Zaragoza",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
   },
   {
     "workId": "https://openalex.org/W1604102604",
@@ -111777,7 +111839,9 @@ export const worksTable: WorkTableRecord[] = [
       "Seismic Waves and Analysis",
       "earthquake and tectonic studies"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4408446371",
@@ -114508,7 +114572,9 @@ export const worksTable: WorkTableRecord[] = [
       "Geochemistry and Geologic Mapping",
       "Hydraulic Fracturing and Reservoir Analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "Qatar University"
+    ]
   },
   {
     "workId": "https://openalex.org/W2508018119",
@@ -120697,7 +120763,9 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies",
       "Geochemistry and Geologic Mapping"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4408252131",
@@ -122221,7 +122289,11 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes"
     ],
-    "institutions": []
+    "institutions": [
+      "The University of Texas at Austin",
+      "Saudi Aramco (Saudi Arabia)",
+      "Bureau of Economic Analysis"
+    ]
   },
   {
     "workId": "https://openalex.org/W3108968024",
