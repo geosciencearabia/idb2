@@ -103267,6 +103267,130 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4284967280",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2022.105818",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054760672",
+    "allAuthorOpenAlexIds": [
+      "A5054760672",
+      "A5039875706",
+      "A5007912273",
+      "A5026740867",
+      "A5045801554"
+    ],
+    "firstAuthorLastName": "Gharbi",
+    "allAuthors": [
+      "Mohamed Gharbi",
+      "David R. D. Boote",
+      "Nejla Sekatni",
+      "Mohamed S. H. Moustafa",
+      "Hakim Gabtni"
+    ],
+    "title": "Aptian−Albian extension in Tethyan rifted continental passive margin of Tunisia inferred from sequential restorations of balanced cross-sections and expansion index",
+    "publicationDate": "2022-07-08",
+    "year": 2022,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 21,
+    "topics": [
+      "Geological and Geophysical Studies Worldwide",
+      "earthquake and tectonic studies",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Centre de Recherches et des Technologies des Eaux",
+      "University of Sousse",
+      "Sultan Qaboos University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2279977096",
+    "doi": "https://doi.org/10.1016/j.jafrearsci.2016.02.011",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054760672",
+    "allAuthorOpenAlexIds": [
+      "A5054760672",
+      "A5016792969",
+      "A5007279395",
+      "A5043276630"
+    ],
+    "firstAuthorLastName": "Moustafa",
+    "allAuthors": [
+      "Mohamed S. H. Moustafa",
+      "Michael C. Pope",
+      "Ethan L. Grossman",
+      "Ibrahim Y. Mriheel"
+    ],
+    "title": "Carbon and oxygen isotope variations of the Middle–Late Triassic Al Aziziyah Formation, northwest Libya",
+    "publicationDate": "2016-02-25",
+    "year": 2016,
+    "venue": "Journal of African Earth Sciences",
+    "citations": 7,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Texas A&M University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2935685348",
+    "doi": "https://doi.org/10.1016/j.jafrearsci.2019.03.009",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054760672",
+    "allAuthorOpenAlexIds": [
+      "A5054760672",
+      "A5016792969",
+      "A5043276630"
+    ],
+    "firstAuthorLastName": "Moustafa",
+    "allAuthors": [
+      "Mohamed S. H. Moustafa",
+      "Michael C. Pope",
+      "Ibrahim Y. Mriheel"
+    ],
+    "title": "High resolution sequence stratigraphy of the Middle–Late Triassic Al Aziziyah formation, northwest Libya",
+    "publicationDate": "2019-04-13",
+    "year": 2019,
+    "venue": "Journal of African Earth Sciences",
+    "citations": 7,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Sultan Qaboos University",
+      "Texas A&M University",
+      "Libyan Academy"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2538404142",
+    "doi": "",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054760672",
+    "allAuthorOpenAlexIds": [
+      "A5054760672"
+    ],
+    "firstAuthorLastName": "Moustafa",
+    "allAuthors": [
+      "Mohamed S. H. Moustafa"
+    ],
+    "title": "Facies distribution, sequence stratigraphy, chemostratigraphy, and diagenesis of the Middle-Late Triassic Al Aziziyah Formation, Jifarah Basin, NW Libya",
+    "publicationDate": "2015-05-13",
+    "year": 2015,
+    "venue": "OakTrust (Texas A&M University Libraries)",
+    "citations": 1,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geochemistry and Geologic Mapping",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W2913911330",
     "doi": "https://doi.org/10.1016/j.petrol.2019.01.110",
     "program": "",

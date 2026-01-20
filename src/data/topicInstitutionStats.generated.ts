@@ -19,38 +19,38 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
-    "publications": 1219,
-    "citations": 21075
+    "publications": 1220,
+    "citations": 21076
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
-    "publications": 981,
-    "citations": 27992
+    "publications": 984,
+    "citations": 28007
   },
   {
     "id": "https://openalex.org/T10017",
     "name": "Geology and Paleoclimatology Research",
-    "publications": 734,
-    "citations": 16980
+    "publications": 736,
+    "citations": 16994
   },
   {
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
-    "publications": 634,
-    "citations": 30547
+    "publications": 635,
+    "citations": 30568
   },
   {
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
-    "publications": 622,
-    "citations": 17765
+    "publications": 624,
+    "citations": 17779
   },
   {
     "id": "https://openalex.org/T12157",
     "name": "Geochemistry and Geologic Mapping",
-    "publications": 558,
-    "citations": 11256
+    "publications": 559,
+    "citations": 11257
   },
   {
     "id": "https://openalex.org/T13177",
@@ -73,8 +73,8 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10110",
     "name": "earthquake and tectonic studies",
-    "publications": 302,
-    "citations": 15067
+    "publications": 303,
+    "citations": 15088
   },
   {
     "id": "https://openalex.org/T13193",
@@ -133,8 +133,8 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T13205",
     "name": "Geological and Geophysical Studies Worldwide",
-    "publications": 104,
-    "citations": 1982
+    "publications": 105,
+    "citations": 2003
   },
   {
     "id": "https://openalex.org/T11757",
@@ -3308,16 +3308,16 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 1046
   },
   {
+    "id": "https://openalex.org/I47818738",
+    "name": "Sultan Qaboos University",
+    "publications": 105,
+    "citations": 1456
+  },
+  {
     "id": "https://openalex.org/I33849332",
     "name": "University of Malaya",
     "publications": 104,
     "citations": 3053
-  },
-  {
-    "id": "https://openalex.org/I47818738",
-    "name": "Sultan Qaboos University",
-    "publications": 103,
-    "citations": 1428
   },
   {
     "id": "https://openalex.org/I139290333",
@@ -4364,6 +4364,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 324
   },
   {
+    "id": "https://openalex.org/I91045830",
+    "name": "Texas A&M University",
+    "publications": 7,
+    "citations": 293
+  },
+  {
     "id": "https://openalex.org/I173304897",
     "name": "Universidad de Granada",
     "publications": 7,
@@ -4788,12 +4794,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "University of Kentucky",
     "publications": 5,
     "citations": 299
-  },
-  {
-    "id": "https://openalex.org/I91045830",
-    "name": "Texas A&M University",
-    "publications": 5,
-    "citations": 279
   },
   {
     "id": "https://openalex.org/I6498739",
@@ -5828,6 +5828,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 20
   },
   {
+    "id": "https://openalex.org/I4210161365",
+    "name": "Libyan Academy",
+    "publications": 3,
+    "citations": 20
+  },
+  {
     "id": "https://openalex.org/I4210161746",
     "name": "Geological Survey of Israel",
     "publications": 3,
@@ -6764,6 +6770,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 26
   },
   {
+    "id": "https://openalex.org/I8636806",
+    "name": "University of Sousse",
+    "publications": 2,
+    "citations": 26
+  },
+  {
     "id": "https://openalex.org/I4210155802",
     "name": "Microstructure and Pores",
     "publications": 2,
@@ -6772,6 +6784,12 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I1333622710",
     "name": "Geological Survey of Finland",
+    "publications": 2,
+    "citations": 24
+  },
+  {
+    "id": "https://openalex.org/I4210160537",
+    "name": "Centre de Recherches et des Technologies des Eaux",
     "publications": 2,
     "citations": 24
   },
@@ -6940,12 +6958,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I20231570",
     "name": "Peking University",
-    "publications": 2,
-    "citations": 13
-  },
-  {
-    "id": "https://openalex.org/I4210161365",
-    "name": "Libyan Academy",
     "publications": 2,
     "citations": 13
   },
@@ -9470,12 +9482,6 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 5
   },
   {
-    "id": "https://openalex.org/I8636806",
-    "name": "University of Sousse",
-    "publications": 1,
-    "citations": 5
-  },
-  {
     "id": "https://openalex.org/I4210106118",
     "name": "Institute of Petroleum Geology and Geophysics",
     "publications": 1,
@@ -9802,12 +9808,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I45084792",
     "name": "University of Florence",
-    "publications": 1,
-    "citations": 3
-  },
-  {
-    "id": "https://openalex.org/I4210160537",
-    "name": "Centre de Recherches et des Technologies des Eaux",
     "publications": 1,
     "citations": 3
   },

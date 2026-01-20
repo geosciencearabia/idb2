@@ -1100,5 +1100,23 @@ export const authors: AuthorRecord[] = [
     "totalPublications": 83,
     "totalCitations": 573,
     "hIndex": 15
+  },
+  {
+    "authorId": "idb0061-moustafa-mohamed",
+    "openAlexId": "A5054760672",
+    "openAlexIds": [
+      "A5054760672"
+    ],
+    "name": "Mohamed Moustafa",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 34,
+    "totalCitations": 117,
+    "hIndex": 6
   }
 ];
