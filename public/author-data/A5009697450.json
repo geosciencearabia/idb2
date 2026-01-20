@@ -668,9 +668,9 @@
       "apc_paid": null,
       "fwci": 11.08882167,
       "has_fulltext": false,
-      "cited_by_count": 95,
+      "cited_by_count": 96,
       "citation_normalized_percentile": {
-        "value": 0.98662627,
+        "value": 0.98645714,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1002,26 +1002,12 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.5600000023841858,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.5600000023841858
         }
       ],
       "awards": [
-        {
-          "id": "https://openalex.org/G7348296814",
-          "display_name": null,
-          "funder_award_id": "P20CA221731",
-          "funder_id": "https://openalex.org/F4320337351",
-          "funder_display_name": "National Cancer Institute"
-        },
-        {
-          "id": "https://openalex.org/G190832803",
-          "display_name": null,
-          "funder_award_id": "R21 AI137462-01A1",
-          "funder_id": "https://openalex.org/F4320332161",
-          "funder_display_name": "National Institutes of Health"
-        },
         {
           "id": "https://openalex.org/G5686126748",
           "display_name": null,
@@ -1042,6 +1028,20 @@
           "funder_award_id": "CPRIT RP150656",
           "funder_id": "https://openalex.org/F4320308129",
           "funder_display_name": "Cancer Prevention and Research Institute of Texas"
+        },
+        {
+          "id": "https://openalex.org/G190832803",
+          "display_name": null,
+          "funder_award_id": "R21 AI137462-01A1",
+          "funder_id": "https://openalex.org/F4320332161",
+          "funder_display_name": "National Institutes of Health"
+        },
+        {
+          "id": "https://openalex.org/G7348296814",
+          "display_name": null,
+          "funder_award_id": "P20CA221731",
+          "funder_id": "https://openalex.org/F4320337351",
+          "funder_display_name": "National Cancer Institute"
         }
       ],
       "funders": [
@@ -1082,8 +1082,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 111,
       "referenced_works": [
@@ -1290,6 +1290,10 @@
         ]
       },
       "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 34
@@ -1718,7 +1722,7 @@
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.9780213,
+        "value": 0.9758328,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2018,16 +2022,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 75,
       "referenced_works": [
@@ -2092,20 +2096,20 @@
         "https://openalex.org/W3003921492",
         "https://openalex.org/W4289755340",
         "https://openalex.org/W1318062",
-        "https://openalex.org/W4401029303",
-        "https://openalex.org/W4237811443",
-        "https://openalex.org/W3208396686",
-        "https://openalex.org/W2527688387",
-        "https://openalex.org/W2122186347",
-        "https://openalex.org/W2126799938",
-        "https://openalex.org/W1965118987",
-        "https://openalex.org/W1526445175",
-        "https://openalex.org/W2504353116",
         "https://openalex.org/W1866543612",
-        "https://openalex.org/W2866952039",
+        "https://openalex.org/W1526445175",
         "https://openalex.org/W1593195006",
+        "https://openalex.org/W1965118987",
+        "https://openalex.org/W1598633756",
+        "https://openalex.org/W4237811443",
         "https://openalex.org/W4230328441",
-        "https://openalex.org/W1598633756"
+        "https://openalex.org/W2527688387",
+        "https://openalex.org/W2504353116",
+        "https://openalex.org/W2866952039",
+        "https://openalex.org/W3208396686",
+        "https://openalex.org/W4401029303",
+        "https://openalex.org/W2126799938",
+        "https://openalex.org/W2122186347"
       ],
       "related_works": [
         "https://openalex.org/W2090846182",
@@ -2762,7 +2766,7 @@
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.88417924,
+        "value": 0.87784949,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3400,16 +3404,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 21,
       "referenced_works": [
@@ -4377,7 +4381,7 @@
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.93918652,
+        "value": 0.93618197,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4679,9 +4683,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -4706,8 +4710,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 90,
       "referenced_works": [
@@ -4788,19 +4792,19 @@
         "https://openalex.org/W3212765832",
         "https://openalex.org/W1998214527",
         "https://openalex.org/W1770346655",
-        "https://openalex.org/W1531568786",
-        "https://openalex.org/W2019761940",
-        "https://openalex.org/W1996519019",
-        "https://openalex.org/W2067784425",
-        "https://openalex.org/W4214634148",
         "https://openalex.org/W2111018829",
-        "https://openalex.org/W2090599254",
-        "https://openalex.org/W2787387931",
-        "https://openalex.org/W1970328100",
-        "https://openalex.org/W4232600442",
+        "https://openalex.org/W1522110515",
+        "https://openalex.org/W1531568786",
         "https://openalex.org/W1516566041",
+        "https://openalex.org/W4232600442",
+        "https://openalex.org/W4214634148",
+        "https://openalex.org/W2067784425",
+        "https://openalex.org/W2090599254",
         "https://openalex.org/W2802012983",
-        "https://openalex.org/W1522110515"
+        "https://openalex.org/W1996519019",
+        "https://openalex.org/W2019761940",
+        "https://openalex.org/W1970328100",
+        "https://openalex.org/W2787387931"
       ],
       "related_works": [
         "https://openalex.org/W127180227",
@@ -5177,7 +5181,7 @@
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.86823023,
+        "value": 0.8570802,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5439,16 +5443,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "referenced_works_count": 97,
       "referenced_works": [
@@ -5545,10 +5549,10 @@
         "https://openalex.org/W2082100179",
         "https://openalex.org/W2124390624",
         "https://openalex.org/W2922019937",
-        "https://openalex.org/W4210840637",
+        "https://openalex.org/W2096402342",
         "https://openalex.org/W3127250646",
         "https://openalex.org/W2527688387",
-        "https://openalex.org/W2096402342"
+        "https://openalex.org/W4210840637"
       ],
       "related_works": [
         "https://openalex.org/W2090846182",
@@ -6605,7 +6609,7 @@
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.91230247,
+        "value": 0.91163685,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6829,16 +6833,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -7281,7 +7285,7 @@
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.92265107,
+        "value": 0.9187464,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7588,16 +7592,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -8389,7 +8393,7 @@
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.7284235,
+        "value": 0.71489087,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8737,9 +8741,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -8751,8 +8755,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 78,
       "referenced_works": [
@@ -8832,8 +8836,8 @@
         "https://openalex.org/W2949448094",
         "https://openalex.org/W2102110327",
         "https://openalex.org/W4249689966",
-        "https://openalex.org/W4256182953",
-        "https://openalex.org/W2494606469"
+        "https://openalex.org/W2494606469",
+        "https://openalex.org/W4256182953"
       ],
       "related_works": [
         "https://openalex.org/W2374013430",
@@ -10031,7 +10035,7 @@
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.9787205,
+        "value": 0.97793679,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -10309,9 +10313,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8600000143051147
         }
       ],
       "awards": [
@@ -10336,8 +10340,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 61,
       "referenced_works": [
@@ -10396,12 +10400,12 @@
         "https://openalex.org/W2169285214",
         "https://openalex.org/W2787387931",
         "https://openalex.org/W1998214527",
-        "https://openalex.org/W4232600442",
-        "https://openalex.org/W1529493629",
+        "https://openalex.org/W4387760936",
         "https://openalex.org/W1970328100",
-        "https://openalex.org/W4214634148",
+        "https://openalex.org/W1529493629",
+        "https://openalex.org/W4232600442",
         "https://openalex.org/W4230328441",
-        "https://openalex.org/W4387760936"
+        "https://openalex.org/W4214634148"
       ],
       "related_works": [
         "https://openalex.org/W127180227",
@@ -10623,7 +10627,7 @@
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.82268371,
+        "value": 0.81540516,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10901,16 +10905,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "referenced_works_count": 13,
       "referenced_works": [
@@ -10924,9 +10928,9 @@
         "https://openalex.org/W2322667926",
         "https://openalex.org/W195523536",
         "https://openalex.org/W2317675476",
+        "https://openalex.org/W2141460615",
         "https://openalex.org/W1565182374",
-        "https://openalex.org/W2916537484",
-        "https://openalex.org/W2141460615"
+        "https://openalex.org/W2916537484"
       ],
       "related_works": [
         "https://openalex.org/W2732934408",
@@ -11351,7 +11355,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.83483611,
+        "value": 0.82132014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11543,16 +11547,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 137,
       "referenced_works": [
@@ -11663,36 +11667,36 @@
         "https://openalex.org/W6690463612",
         "https://openalex.org/W2100979625",
         "https://openalex.org/W2786615464",
-        "https://openalex.org/W2504353116",
-        "https://openalex.org/W4387760936",
-        "https://openalex.org/W4230328441",
-        "https://openalex.org/W2476623835",
-        "https://openalex.org/W1601770134",
-        "https://openalex.org/W2034716029",
-        "https://openalex.org/W2044732818",
-        "https://openalex.org/W2024484059",
-        "https://openalex.org/W2010878702",
-        "https://openalex.org/W2158879047",
         "https://openalex.org/W2067784425",
-        "https://openalex.org/W1598633756",
-        "https://openalex.org/W1862392390",
-        "https://openalex.org/W1526445175",
-        "https://openalex.org/W2034863604",
-        "https://openalex.org/W2103759652",
+        "https://openalex.org/W2043489598",
+        "https://openalex.org/W2044732818",
+        "https://openalex.org/W2476623835",
+        "https://openalex.org/W2243778953",
+        "https://openalex.org/W2703567602",
+        "https://openalex.org/W1975787804",
         "https://openalex.org/W1974750855",
         "https://openalex.org/W1976153170",
-        "https://openalex.org/W101633874",
-        "https://openalex.org/W2703567602",
-        "https://openalex.org/W2122153823",
-        "https://openalex.org/W1539070761",
-        "https://openalex.org/W2126041373",
-        "https://openalex.org/W1869611008",
-        "https://openalex.org/W1546499357",
-        "https://openalex.org/W2204149822",
+        "https://openalex.org/W2034863604",
+        "https://openalex.org/W2034716029",
+        "https://openalex.org/W2024484059",
+        "https://openalex.org/W4387760936",
+        "https://openalex.org/W2158879047",
+        "https://openalex.org/W2010878702",
+        "https://openalex.org/W2103759652",
         "https://openalex.org/W2127843062",
-        "https://openalex.org/W2243778953",
-        "https://openalex.org/W2043489598",
-        "https://openalex.org/W1975787804"
+        "https://openalex.org/W2126041373",
+        "https://openalex.org/W2122153823",
+        "https://openalex.org/W2504353116",
+        "https://openalex.org/W2204149822",
+        "https://openalex.org/W4230328441",
+        "https://openalex.org/W1601770134",
+        "https://openalex.org/W1539070761",
+        "https://openalex.org/W1869611008",
+        "https://openalex.org/W101633874",
+        "https://openalex.org/W1598633756",
+        "https://openalex.org/W1526445175",
+        "https://openalex.org/W1862392390",
+        "https://openalex.org/W1546499357"
       ],
       "related_works": [
         "https://openalex.org/W4323020985",
@@ -11861,7 +11865,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.94029443,
+        "value": 0.93847557,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12159,16 +12163,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -12864,7 +12868,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.80382464,
+        "value": 0.77761887,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13142,9 +13146,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -13156,8 +13160,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 73,
       "referenced_works": [
@@ -13229,11 +13233,11 @@
         "https://openalex.org/W4312985787",
         "https://openalex.org/W2015288718",
         "https://openalex.org/W1501217505",
-        "https://openalex.org/W4390744990",
-        "https://openalex.org/W128493259",
-        "https://openalex.org/W2181689138",
         "https://openalex.org/W2169555794",
-        "https://openalex.org/W2124390624"
+        "https://openalex.org/W128493259",
+        "https://openalex.org/W2124390624",
+        "https://openalex.org/W2181689138",
+        "https://openalex.org/W4390744990"
       ],
       "related_works": [
         "https://openalex.org/W2767274412",
@@ -13512,7 +13516,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.84046677,
+        "value": 0.84043455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13942,16 +13946,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.4699999988079071,
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 37,
       "referenced_works": [
@@ -13989,9 +13993,9 @@
         "https://openalex.org/W4285713616",
         "https://openalex.org/W2005022027",
         "https://openalex.org/W3035932235",
-        "https://openalex.org/W3197653274",
+        "https://openalex.org/W2172067920",
         "https://openalex.org/W139135706",
-        "https://openalex.org/W2172067920"
+        "https://openalex.org/W3197653274"
       ],
       "related_works": [
         "https://openalex.org/W2403591496",
@@ -14005,555 +14009,7 @@
         "https://openalex.org/W4401385795",
         "https://openalex.org/W2981462862"
       ],
-      "abstract_inverted_index": {
-        "2": [
-          53
-        ],
-        "10": [
-          55,
-          174,
-          241,
-          255
-        ],
-        "50": [
-          45
-        ],
-        "An": [
-          0
-        ],
-        "optimization": [
-          1
-        ],
-        "experiment": [
-          2
-        ],
-        "with": [
-          3,
-          78,
-          149,
-          157
-        ],
-        "different": [
-          4,
-          29,
-          211
-        ],
-        "acid": [
-          5,
-          15,
-          42,
-          63,
-          86,
-          93,
-          113,
-          123,
-          147,
-          168,
-          195,
-          204,
-          221
-        ],
-        "concentrations": [
-          6,
-          40,
-          121,
-          148,
-          218
-        ],
-        "was": [
-          7
-        ],
-        "carried": [
-          8
-        ],
-        "out": [
-          9
-        ],
-        "to": [
-          10,
-          16,
-          46,
-          54,
-          215
-        ],
-        "assess": [
-          11
-        ],
-        "the": [
-          12,
-          21,
-          85,
-          91,
-          97,
-          100,
-          104,
-          119,
-          127,
-          132,
-          136,
-          143,
-          189,
-          192,
-          200
-        ],
-        "use": [
-          13
-        ],
-        "of": [
-          14,
-          23,
-          32,
-          41,
-          76,
-          103,
-          122,
-          126,
-          166,
-          173,
-          179,
-          194,
-          202,
-          219,
-          234,
-          240,
-          254
-        ],
-        "minimum": [
-          17
-        ],
-        "sustainable": [
-          18
-        ],
-        "limits": [
-          19
-        ],
-        "for": [
-          20,
-          59,
-          70,
-          176,
-          236,
-          251
-        ],
-        "extraction": [
-          22
-        ],
-        "microfossils": [
-          24
-        ],
-        "from": [
-          25,
-          44,
-          52
-        ],
-        "indurated": [
-          26
-        ],
-        "limestones.": [
-          27
-        ],
-        "Two": [
-          28
-        ],
-        "limestone": [
-          30,
-          213
-        ],
-        "formations": [
-          31
-        ],
-        "Jurassic": [
-          33
-        ],
-        "and": [
-          34,
-          48,
-          169,
-          224,
-          226
-        ],
-        "Miocene": [
-          35
-        ],
-        "ages": [
-          36
-        ],
-        "were": [
-          37,
-          57
-        ],
-        "tested.": [
-          38
-        ],
-        "Different": [
-          39
-        ],
-        "ranging": [
-          43
-        ],
-        "100%": [
-          47
-        ],
-        "processing": [
-          49
-        ],
-        "times": [
-          50,
-          152
-        ],
-        "varying": [
-          51
-        ],
-        "h": [
-          56,
-          175
-        ],
-        "tested": [
-          58
-        ],
-        "optimal": [
-          60,
-          177,
-          246
-        ],
-        "recoveries.": [
-          61
-        ],
-        "The": [
-          62,
-          73
-        ],
-        "residue": [
-          64,
-          77
-        ],
-        "recoveries": [
-          65,
-          155,
-          244
-        ],
-        "show": [
-          66
-        ],
-        "a": [
-          67,
-          163,
-          170,
-          237,
-          252
-        ],
-        "similar": [
-          68
-        ],
-        "trend": [
-          69
-        ],
-        "both": [
-          71
-        ],
-        "formations.": [
-          72
-        ],
-        "weight": [
-          74,
-          101
-        ],
-        "percentage": [
-          75,
-          102
-        ],
-        "particle": [
-          79
-        ],
-        "size": [
-          80,
-          106
-        ],
-        ">1": [
-          81
-        ],
-        "mm": [
-          82,
-          110
-        ],
-        "decreased": [
-          83
-        ],
-        "as": [
-          84,
-          112
-        ],
-        "concentration": [
-          87,
-          94,
-          114,
-          165,
-          233,
-          250
-        ],
-        "increased,": [
-          88
-        ],
-        "especially": [
-          89
-        ],
-        "in": [
-          90,
-          142,
-          182
-        ],
-        "50-80%": [
-          92
-        ],
-        "range.": [
-          95
-        ],
-        "On": [
-          96
-        ],
-        "other": [
-          98
-        ],
-        "hand,": [
-          99
-        ],
-        "smallest": [
-          105
-        ],
-        "particles": [
-          107,
-          130
-        ],
-        ">": [
-          108
-        ],
-        "0.063": [
-          109
-        ],
-        "increased": [
-          111
-        ],
-        "increased.": [
-          115
-        ],
-        "This": [
-          116
-        ],
-        "means": [
-          117
-        ],
-        "that": [
-          118
-        ],
-        "higher": [
-          120,
-          146
-        ],
-        "dissolve": [
-          124
-        ],
-        "more": [
-          125
-        ],
-        "unnecessary": [
-          128
-        ],
-        "large": [
-          129
-        ],
-        "while": [
-          131,
-          247
-        ],
-        "foraminifera,": [
-          133
-        ],
-        "which": [
-          134
-        ],
-        "comprise": [
-          135
-        ],
-        "sand": [
-          137
-        ],
-        "fraction": [
-          138
-        ],
-        "size,": [
-          139
-        ],
-        "are": [
-          140,
-          222,
-          245
-        ],
-        "left": [
-          141
-        ],
-        "residue.": [
-          144
-        ],
-        "Although": [
-          145
-        ],
-        "longer": [
-          150
-        ],
-        "reaction": [
-          151,
-          159,
-          171
-        ],
-        "yielded": [
-          153
-        ],
-        "better": [
-          154
-        ],
-        "than": [
-          156
-        ],
-        "less": [
-          158
-        ],
-        "time,": [
-          160
-        ],
-        "we": [
-          161
-        ],
-        "recommended": [
-          162,
-          190
-        ],
-        "60%": [
-          164,
-          235
-        ],
-        "acetic": [
-          167,
-          220
-        ],
-        "time": [
-          172,
-          239,
-          253
-        ],
-        "recovery": [
-          178,
-          201
-        ],
-        "micropaleontological": [
-          180
-        ],
-        "samples": [
-          181,
-          214
-        ],
-        "Saudi": [
-          183
-        ],
-        "Arabian": [
-          184
-        ],
-        "carbonate": [
-          185
-        ],
-        "rocks.": [
-          186
-        ],
-        "By": [
-          187
-        ],
-        "lowering": [
-          188
-        ],
-        "concentration,": [
-          191
-        ],
-        "consumption": [
-          193
-        ],
-        "is": [
-          196,
-          207,
-          228
-        ],
-        "reduced": [
-          197
-        ],
-        "without": [
-          198
-        ],
-        "compromising": [
-          199
-        ],
-        "microfossils.•Acetic": [
-          203
-        ],
-        "leaching": [
-          205
-        ],
-        "method": [
-          206
-        ],
-        "applied": [
-          208
-        ],
-        "on": [
-          209,
-          230
-        ],
-        "two": [
-          210
-        ],
-        "age": [
-          212
-        ],
-        "extract": [
-          216
-        ],
-        "foraminifera.•Different": [
-          217
-        ],
-        "tried": [
-          223
-        ],
-        "tested,": [
-          225
-        ],
-        "consensus": [
-          227
-        ],
-        "made": [
-          229
-        ],
-        "an": [
-          231
-        ],
-        "optimum": [
-          232
-        ],
-        "submersion": [
-          238
-        ],
-        "h.•The": [
-          242
-        ],
-        "sample": [
-          243
-        ],
-        "using": [
-          248
-        ],
-        "this": [
-          249
-        ],
-        "h.": [
-          256
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2024,
@@ -14688,7 +14144,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.68309693,
+        "value": 0.68286052,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14908,16 +14364,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/3",
           "display_name": "Good health and well-being",
-          "score": 0.7099999785423279,
-          "id": "https://metadata.un.org/sdg/3"
+          "score": 0.7099999785423279
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -15643,14 +15099,10 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": null,
       "has_fulltext": false,
       "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.1582642,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
+      "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -15875,16 +15327,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -16207,7 +15659,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11196667,
+        "value": 0.11192829,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16507,16 +15959,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.4399999976158142,
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -16814,7 +16266,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00857328,
+        "value": 0.00705041,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17051,16 +16503,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
@@ -18162,7 +17614,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06985005,
+        "value": 0.06145428,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18426,16 +17878,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 17,
       "referenced_works": [
@@ -19549,7 +19001,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.25098901,
+        "value": 0.24809897,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19678,8 +19130,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "referenced_works_count": 0,
       "referenced_works": [],
