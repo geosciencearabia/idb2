@@ -376,6 +376,49 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W7124737262",
+    "doi": "https://doi.org/10.1016/j.geoen.2026.214374",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5002041459",
+    "allAuthorOpenAlexIds": [
+      "A5002041459",
+      "A5044865334",
+      "A5059235394",
+      "A5086485606",
+      "A5101773455",
+      "A5010808882",
+      "A5070102183",
+      "A5119629686"
+    ],
+    "firstAuthorLastName": "Lu",
+    "allAuthors": [
+      "Peng Lu",
+      "Nikolaos A. Michael",
+      "Abrar Alabbad",
+      "Rainer Zühlke",
+      "Christopher R. Ellis",
+      "Aaron Ketchmark",
+      "Chris Paola",
+      "Hussain Al-Qatari"
+    ],
+    "title": "A diagenetic flume-tank experiment of carbonate marine cementation along a carbonate profile",
+    "publicationDate": "2026-01-01",
+    "year": 2026,
+    "venue": "Geoenergy Science and Engineering",
+    "citations": 0,
+    "topics": [
+      "Calcium Carbonate Crystallization and Inhibition",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Marine Biology and Environmental Chemistry"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "King Fahd University of Petroleum and Minerals",
+      "Saint Anthony College of Nursing",
+      "Dhahran Health Center"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2991877883",
     "doi": "https://doi.org/10.2113/geoarabia0602233",
     "program": "",
@@ -1630,8 +1673,8 @@ export const worksTable: WorkTableRecord[] = [
       "Mining and Resource Management"
     ],
     "institutions": [
-      "Polytech Lille",
       "Université Côte d'Azur",
+      "Polytech Lille",
       "The Research Council"
     ]
   },
@@ -7936,7 +7979,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-03-26",
     "year": 2020,
     "venue": "American Mineralogist",
-    "citations": 52,
+    "citations": 53,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -40443,8 +40486,8 @@ export const worksTable: WorkTableRecord[] = [
       "Impact of Light on Environment and Health"
     ],
     "institutions": [
-      "University of British Columbia",
       "University of the Fraser Valley",
+      "University of British Columbia",
       "Universiti Brunei Darussalam",
       "Bahria University",
       "Taiz University",
@@ -70893,6 +70936,45 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3022076686",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5039734802",
+    "allAuthorOpenAlexIds": [
+      "A5039734802",
+      "A5078527918",
+      "A5053204048",
+      "A5039827691",
+      "A5091693941",
+      "A5065433002",
+      "A5072925053"
+    ],
+    "firstAuthorLastName": "Cantrell",
+    "allAuthors": [
+      "Dave L. Cantrell",
+      "Rayees Ahmad Shah",
+      "Jingxing Ou",
+      "Chuan Xu",
+      "Christopher Phillips",
+      "X.L. Li",
+      "Tingting Hu"
+    ],
+    "title": "Depositional and diagenetic controls on reservoir quality: Example from the upper Cretaceous Mishrif Formation of Iraq",
+    "publicationDate": "2020-04-29",
+    "year": 2020,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 40,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Houston Independent School District",
+      "Rocky Mountain Biological Laboratory"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2978412508",
     "doi": "https://doi.org/10.2113/geoarabia120315",
     "program": "",
@@ -71112,45 +71194,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Saudi Aramco (Saudi Arabia)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3022076686",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104415",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5039734802",
-    "allAuthorOpenAlexIds": [
-      "A5039734802",
-      "A5078527918",
-      "A5053204048",
-      "A5039827691",
-      "A5091693941",
-      "A5065433002",
-      "A5072925053"
-    ],
-    "firstAuthorLastName": "Cantrell",
-    "allAuthors": [
-      "Dave L. Cantrell",
-      "Rayees Ahmad Shah",
-      "Jingxing Ou",
-      "Chuan Xu",
-      "Christopher Phillips",
-      "X.L. Li",
-      "Tingting Hu"
-    ],
-    "title": "Depositional and diagenetic controls on reservoir quality: Example from the upper Cretaceous Mishrif Formation of Iraq",
-    "publicationDate": "2020-04-29",
-    "year": 2020,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 39,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological formations and processes"
-    ],
-    "institutions": [
-      "Houston Independent School District",
-      "Rocky Mountain Biological Laboratory"
     ]
   },
   {
@@ -72223,8 +72266,8 @@ export const worksTable: WorkTableRecord[] = [
       "China University of Geosciences (Beijing)",
       "Carnegie Institution for Science",
       "British Geological Survey",
-      "Chinese Academy of Sciences",
       "Institute of Geographic Sciences and Natural Resources Research",
+      "Chinese Academy of Sciences",
       "Rensselaer Polytechnic Institute",
       "Nanjing University",
       "University of Potsdam",
@@ -120473,8 +120516,8 @@ export const worksTable: WorkTableRecord[] = [
       "Edith Cowan University",
       "Institute of Construction and Architecture of the Slovak Academy of Sciences",
       "Umm al-Qura University",
-      "University of Petroleum",
       "King Fahd University of Petroleum and Minerals",
+      "University of Petroleum",
       "University of Karbala"
     ]
   },
@@ -120589,10 +120632,10 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Abdullah University of Science and Technology",
       "Edith Cowan University",
-      "University of Karbala",
       "Center for Environmental Health",
-      "Institute of Construction and Architecture of the Slovak Academy of Sciences",
+      "University of Karbala",
       "Umm al-Qura University",
+      "Institute of Construction and Architecture of the Slovak Academy of Sciences",
       "King Fahd University of Petroleum and Minerals"
     ]
   },
@@ -121886,6 +121929,44 @@ export const worksTable: WorkTableRecord[] = [
     "citations": 0,
     "topics": [],
     "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W4391074126",
+    "doi": "https://doi.org/10.1016/j.molliq.2024.124021",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5080266129",
+    "allAuthorOpenAlexIds": [
+      "A5080266129",
+      "A5034841448",
+      "A5002974432",
+      "A5015196228",
+      "A5005252413",
+      "A5111115743",
+      "A5049649985"
+    ],
+    "firstAuthorLastName": "Al-Taq",
+    "allAuthors": [
+      "Ali A. Al-Taq",
+      "Murtada Saleh Aljawad",
+      "Olalekan S. Alade",
+      "Murtada Al-Hashem",
+      "Shirish Patil",
+      "Sidqi A. Abu Khamsin",
+      "Mohamed Mahmoud"
+    ],
+    "title": "Advancing sustainability through emulsification of thermochemical fluids: Exploring emulsion characteristics and rheological properties",
+    "publicationDate": "2024-01-21",
+    "year": 2024,
+    "venue": "Journal of Molecular Liquids",
+    "citations": 3,
+    "topics": [
+      "Petroleum Processing and Analysis",
+      "Surfactants and Colloidal Systems",
+      "Enhanced Oil Recovery Techniques"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W1972392924",

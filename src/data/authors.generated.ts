@@ -1102,6 +1102,24 @@ export const authors: AuthorRecord[] = [
     "hIndex": 15
   },
   {
+    "authorId": "idb0060-al-hashem-murtada",
+    "openAlexId": "A5080266129",
+    "openAlexIds": [
+      "A5080266129"
+    ],
+    "name": "Murtada Al-Hashem",
+    "groupId": "",
+    "groupName": "",
+    "affiliate1": "",
+    "affiliate2": "",
+    "affiliate3": "",
+    "email": "",
+    "orcid": "",
+    "totalPublications": 7,
+    "totalCitations": 84,
+    "hIndex": 6
+  },
+  {
     "authorId": "idb0061-moustafa-mohamed",
     "openAlexId": "A5054760672",
     "openAlexIds": [
