@@ -850,6 +850,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 99,
       "referenced_works": [
         "https://openalex.org/W2612496631",
@@ -1878,9 +1879,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -1889,6 +1890,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 116,
       "referenced_works": [
         "https://openalex.org/W2922365833",
@@ -2567,9 +2569,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2584,6 +2586,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 130,
       "referenced_works": [
         "https://openalex.org/W6644175387",
@@ -2807,12 +2810,34 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511"
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
           "raw_author_name": "Anas Muhammad Salisu",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2821,12 +2846,34 @@
             "display_name": "Hasan Algheryafi",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Hasan Algheryafi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2835,12 +2882,34 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdulwahab Muhammad Bello",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2849,12 +2918,34 @@
             "display_name": "Abduljamiu O. Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abduljamiu O. Amao",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2863,12 +2954,34 @@
             "display_name": "Bandar Alotaibi",
             "orcid": "https://orcid.org/0000-0001-9956-2027"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Bandar Al-Otaibi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -2877,21 +2990,52 @@
             "display_name": "Khalid Al–Ramadan",
             "orcid": "https://orcid.org/0000-0002-4872-6201"
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
       "corresponding_author_ids": [
-        "https://openalex.org/A5072935704"
+        "https://openalex.org/A5085007251"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": {
         "value": 3490,
         "currency": "USD",
@@ -2902,8 +3046,8 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.97829754,
-        "is_in_top_1_percent": true,
+        "value": 0.97809481,
+        "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
@@ -3118,9 +3262,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3129,6 +3273,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 125,
       "referenced_works": [
         "https://openalex.org/W6680411673",
@@ -3223,28 +3368,25 @@
         "https://openalex.org/W6635313253",
         "https://openalex.org/W6632509500",
         "https://openalex.org/W4385728002",
-        "https://openalex.org/W1966101546",
-        "https://openalex.org/W1979768410",
-        "https://openalex.org/W2922019937",
-        "https://openalex.org/W2991480490",
-        "https://openalex.org/W2980217397",
-        "https://openalex.org/W2280864744",
-        "https://openalex.org/W2515402386",
-        "https://openalex.org/W1540632399",
-        "https://openalex.org/W1592669541",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W2067261112",
+        "https://openalex.org/W2138092443",
+        "https://openalex.org/W2143252260",
+        "https://openalex.org/W2156373425",
+        "https://openalex.org/W2138023984",
         "https://openalex.org/W2799066259",
+        "https://openalex.org/W4237811443",
+        "https://openalex.org/W4206317699",
+        "https://openalex.org/W3134191898",
+        "https://openalex.org/W3199164646",
         "https://openalex.org/W2533883320",
         "https://openalex.org/W4388202676",
         "https://openalex.org/W4395702086",
         "https://openalex.org/W4399534445",
         "https://openalex.org/W4382051178",
         "https://openalex.org/W4284969105",
-        "https://openalex.org/W4237811443",
-        "https://openalex.org/W4206317699",
-        "https://openalex.org/W3134191898",
-        "https://openalex.org/W3199164646",
+        "https://openalex.org/W1540632399",
+        "https://openalex.org/W1592669541",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W2067261112",
         "https://openalex.org/W2130520939",
         "https://openalex.org/W2126799938",
         "https://openalex.org/W2111867986",
@@ -3252,10 +3394,13 @@
         "https://openalex.org/W2123607694",
         "https://openalex.org/W2121586459",
         "https://openalex.org/W2096402342",
-        "https://openalex.org/W2138092443",
-        "https://openalex.org/W2143252260",
-        "https://openalex.org/W2156373425",
-        "https://openalex.org/W2138023984"
+        "https://openalex.org/W1966101546",
+        "https://openalex.org/W1979768410",
+        "https://openalex.org/W2922019937",
+        "https://openalex.org/W2991480490",
+        "https://openalex.org/W2980217397",
+        "https://openalex.org/W2280864744",
+        "https://openalex.org/W2515402386"
       ],
       "related_works": [
         "https://openalex.org/W127180227",
@@ -3280,7 +3425,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-21T23:30:37.877113",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3819,9 +3964,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3830,6 +3975,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 72,
       "referenced_works": [
         "https://openalex.org/W2928103387",
@@ -4483,6 +4629,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 150,
       "referenced_works": [
         "https://openalex.org/W4388805478",
@@ -5194,9 +5341,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7200000286102295,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7200000286102295
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5211,6 +5358,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 80,
       "referenced_works": [
         "https://openalex.org/W2888967181",
@@ -5809,6 +5957,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 75,
       "referenced_works": [
         "https://openalex.org/W2031255046",
@@ -7382,9 +7531,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7398,6 +7547,9 @@
       "has_content": {
         "grobid_xml": false,
         "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4387996609.pdf"
       },
       "referenced_works_count": 68,
       "referenced_works": [
@@ -8757,6 +8909,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 81,
       "referenced_works": [
         "https://openalex.org/W3026327691",
@@ -9934,6 +10087,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 92,
       "referenced_works": [
         "https://openalex.org/W3193938947",
@@ -10541,6 +10695,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 132,
       "referenced_works": [
         "https://openalex.org/W2031255046",
@@ -12250,6 +12405,9 @@
         "grobid_xml": false,
         "pdf": true
       },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4407393621.pdf"
+      },
       "referenced_works_count": 53,
       "referenced_works": [
         "https://openalex.org/W4224441256",
@@ -13379,6 +13537,9 @@
       "has_content": {
         "grobid_xml": false,
         "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4408588305.pdf"
       },
       "referenced_works_count": 102,
       "referenced_works": [
@@ -14580,6 +14741,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 23,
       "referenced_works": [
         "https://openalex.org/W2017918382",
@@ -15582,9 +15744,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -15593,6 +15755,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
@@ -15939,6 +16102,7 @@
         "grobid_xml": false,
         "pdf": false
       },
+      "content_urls": null,
       "referenced_works_count": 32,
       "referenced_works": [
         "https://openalex.org/W4312588614",

@@ -2316,7 +2316,11 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies Worldwide"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Alberta",
+      "Dartmouth College"
+    ]
   },
   {
     "workId": "https://openalex.org/W4293379780",
@@ -10807,7 +10811,9 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geochemical Analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4410349306",
@@ -10839,7 +10845,9 @@ export const worksTable: WorkTableRecord[] = [
       "Geophysical and Geoelectrical Methods",
       "Geomagnetism and Paleomagnetism Studies"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W1890332680",
@@ -20767,7 +20775,14 @@ export const worksTable: WorkTableRecord[] = [
       "Geochemistry and Geologic Mapping",
       "earthquake and tectonic studies"
     ],
-    "institutions": []
+    "institutions": [
+      "University of Kurdistan",
+      "Nagoya University",
+      "Kwansei Gakuin University",
+      "Geological Survey of Japan",
+      "National Institute of Advanced Industrial Science and Technology",
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4407607584",
@@ -20930,7 +20945,15 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Parma",
+      "Australian National University",
+      "Indian Institute of Science Education and Research Pune",
+      "ETH Zurich",
+      "Tohoku University",
+      "Zhejiang University of Water Resource and Electric Power"
+    ]
   },
   {
     "workId": "https://openalex.org/W4411577378",
@@ -26085,7 +26108,9 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Paleontology and Stratigraphy of Fossils"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4399072009",
@@ -27194,7 +27219,9 @@ export const worksTable: WorkTableRecord[] = [
       "Methane Hydrates and Related Phenomena",
       "Hydrocarbon exploration and reservoir analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4414459744",
@@ -27532,7 +27559,9 @@ export const worksTable: WorkTableRecord[] = [
     "venue": "Journal of African Earth Sciences",
     "citations": 0,
     "topics": [],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4417503339",
@@ -28534,7 +28563,14 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geochemical Analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "Egyptian Petroleum Research Institute",
+      "South Valley University",
+      "Hashemite University",
+      "Kiel University",
+      "Khalifa University of Science and Technology",
+      "King Saud University"
+    ]
   },
   {
     "workId": "https://openalex.org/W2021148612",
@@ -28927,7 +28963,9 @@ export const worksTable: WorkTableRecord[] = [
       "Geology and Paleoclimatology Research",
       "Marine Biology and Ecology Research"
     ],
-    "institutions": []
+    "institutions": [
+      "Khalifa University of Science and Technology"
+    ]
   },
   {
     "workId": "https://openalex.org/W4414232800",
@@ -30121,7 +30159,9 @@ export const worksTable: WorkTableRecord[] = [
       "Anaerobic Digestion and Biogas Production",
       "Hybrid Renewable Energy Systems"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4405930152",
@@ -30186,7 +30226,9 @@ export const worksTable: WorkTableRecord[] = [
       "Methane Hydrates and Related Phenomena",
       "Hydraulic Fracturing and Reservoir Analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4292403343",
@@ -37796,7 +37838,12 @@ export const worksTable: WorkTableRecord[] = [
     "venue": "Journal of African Earth Sciences",
     "citations": 0,
     "topics": [],
-    "institutions": []
+    "institutions": [
+      "University of Khartoum",
+      "China University of Geosciences",
+      "Nazarbayev University",
+      "Saad Specialist Hospital"
+    ]
   },
   {
     "workId": "https://openalex.org/W2115228778",
@@ -43502,7 +43549,13 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Enhanced Oil Recovery Techniques"
     ],
-    "institutions": []
+    "institutions": [
+      "Kazan Federal University",
+      "China University of Petroleum, Beijing",
+      "King Saud University",
+      "Patna University",
+      "Rosneft (Russia)"
+    ]
   },
   {
     "workId": "https://openalex.org/W3011173331",
@@ -43741,8 +43794,8 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Studies and Exploration"
     ],
     "institutions": [
-      "Taiz University",
       "Kazan Federal University",
+      "Taiz University",
       "University of Technology Malaysia",
       "University of Malaya",
       "Usmanu Danfodiyo University"
@@ -45786,7 +45839,12 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Elemental Analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "Banaras Hindu University",
+      "University of Technology Malaysia",
+      "Taiz University",
+      "Wadia Institute of Himalayan Geology"
+    ]
   },
   {
     "workId": "https://openalex.org/W4414413720",
@@ -48999,7 +49057,9 @@ export const worksTable: WorkTableRecord[] = [
       "Advanced battery technologies research",
       "Advancements in Battery Materials"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4414227001",
@@ -49176,7 +49236,12 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "University of Malaya",
+      "King Fahd University of Petroleum and Minerals",
+      "Saudi Aramco (Saudi Arabia)",
+      "King Abdullah University of Science and Technology"
+    ]
   },
   {
     "workId": "https://openalex.org/W4200526577",
@@ -49245,6 +49310,8 @@ export const worksTable: WorkTableRecord[] = [
       "Geological formations and processes"
     ],
     "institutions": [
+      "Hamburg Institut (Germany)",
+      "Woods Hole Oceanographic Institution",
       "Universität Hamburg",
       "GEOMAR Helmholtz Centre for Ocean Research Kiel",
       "University of Manchester",
@@ -63094,7 +63161,10 @@ export const worksTable: WorkTableRecord[] = [
       "Geology and Paleoclimatology Research",
       "Methane Hydrates and Related Phenomena"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "National Research and Innovation Agency"
+    ]
   },
   {
     "workId": "https://openalex.org/W4411371006",
@@ -75426,7 +75496,11 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geophysical Studies"
     ],
-    "institutions": []
+    "institutions": [
+      "British Geological Survey",
+      "Nanjing University",
+      "Zhejiang University"
+    ]
   },
   {
     "workId": "https://openalex.org/W4244620698",
@@ -78590,7 +78664,10 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies",
       "Hydrocarbon exploration and reservoir analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Dhahran Health Center"
+    ]
   },
   {
     "workId": "https://openalex.org/W4414232424",
@@ -81602,7 +81679,10 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes"
     ],
-    "institutions": []
+    "institutions": [
+      "Sultan Qaboos University",
+      "Universiti Teknologi Petronas"
+    ]
   },
   {
     "workId": "https://openalex.org/W4283774435",
@@ -92146,7 +92226,10 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "University of Adelaide",
+      "Australian Resources Research Centre"
+    ]
   },
   {
     "workId": "https://openalex.org/W2090204781",
@@ -92503,7 +92586,20 @@ export const worksTable: WorkTableRecord[] = [
       "Geochemistry and Geologic Mapping",
       "Paleontology and Stratigraphy of Fossils"
     ],
-    "institutions": []
+    "institutions": [
+      "University of Adelaide",
+      "Australian Resources Research Centre",
+      "Northern Territory Geological Survey",
+      "Macquarie University",
+      "University College London",
+      "Nawi Graz",
+      "Graz University of Technology",
+      "King Abdulaziz University",
+      "Australian National University",
+      "Columbia University",
+      "Lamont-Doherty Earth Observatory",
+      "Geological Survey of Western Australia"
+    ]
   },
   {
     "workId": "https://openalex.org/W2013467572",
@@ -96204,7 +96300,7 @@ export const worksTable: WorkTableRecord[] = [
       "Atmospheric and Environmental Gas Dynamics"
     ],
     "institutions": [
-      "University of Adelaide",
+      "The University of Adelaide",
       "Macquarie University",
       "Research Institute of Petroleum Exploration and Development",
       "Commonwealth Scientific and Industrial Research Organisation"
@@ -99036,7 +99132,13 @@ export const worksTable: WorkTableRecord[] = [
     "venue": "Earth and Planetary Science Letters",
     "citations": 0,
     "topics": [],
-    "institutions": []
+    "institutions": [
+      "University of Adelaide",
+      "University of Copenhagen",
+      "University of St Andrews",
+      "Australian Resources Research Centre",
+      "Monash University"
+    ]
   },
   {
     "workId": "https://openalex.org/W4416916178",
@@ -100725,7 +100827,16 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Methane Hydrates and Related Phenomena"
     ],
-    "institutions": []
+    "institutions": [
+      "National Research and Innovation Agency",
+      "National Nuclear Energy Agency of Indonesia",
+      "Akita International University",
+      "Akita University",
+      "University of Bergen",
+      "King Fahd University of Petroleum and Minerals",
+      "Imperial College London",
+      "Ministry of Energy"
+    ]
   },
   {
     "workId": "https://openalex.org/W2724564388",
@@ -114951,6 +115062,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Qatar University",
+      "Petroleum Technology Research Centre",
       "University of Regina"
     ]
   },
@@ -117689,8 +117801,8 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Abdullah University of Science and Technology",
-      "Ifremer",
       "Université de Bretagne Occidentale",
+      "Ifremer",
       "Centre National de la Recherche Scientifique"
     ]
   },
@@ -119125,8 +119237,8 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Abdullah University of Science and Technology",
-      "Kootenay Association for Science & Technology",
-      "University of Science and Technology"
+      "University of Science and Technology",
+      "Kootenay Association for Science & Technology"
     ]
   },
   {
@@ -119932,7 +120044,9 @@ export const worksTable: WorkTableRecord[] = [
       "Coastal and Marine Dynamics",
       "Aeolian processes and effects"
     ],
-    "institutions": []
+    "institutions": [
+      "Qatar University"
+    ]
   },
   {
     "workId": "https://openalex.org/W4320719921",
@@ -121200,7 +121314,9 @@ export const worksTable: WorkTableRecord[] = [
       "Geothermal Energy Systems and Applications",
       "Groundwater flow and contamination studies"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4411485386",
@@ -121744,7 +121860,9 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Methane Hydrates and Related Phenomena"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4413756598",
@@ -129759,6 +129877,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4386964722",
+    "doi": "https://doi.org/10.1016/j.geoen.2023.212345",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5086485606",
+    "allAuthorOpenAlexIds": [
+      "A5086485606",
+      "A5084753403",
+      "A5100450362",
+      "A5019503886"
+    ],
+    "firstAuthorLastName": "Lü",
+    "allAuthors": [
+      "Peng Lü",
+      "Shuo Zhang",
+      "Guanru Zhang",
+      "Rainer Zühlke"
+    ],
+    "title": "Early marine carbonate cementation in a relict shelf-edge coral reef North of Miami, Florida: Pseudo-coupled depositional and diagenetic modeling",
+    "publicationDate": "2023-09-22",
+    "year": 2023,
+    "venue": "Geoenergy Science and Engineering",
+    "citations": 8,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Calcium Carbonate Crystallization and Inhibition",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "Tsinghua University",
+      "Chengdu University of Technology"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2008659547",
     "doi": "https://doi.org/10.1007/bf02539736",
     "program": "",
@@ -130092,40 +130244,6 @@ export const worksTable: WorkTableRecord[] = [
       "earthquake and tectonic studies"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W4386964722",
-    "doi": "https://doi.org/10.1016/j.geoen.2023.212345",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5086485606",
-    "allAuthorOpenAlexIds": [
-      "A5086485606",
-      "A5084753403",
-      "A5100450362",
-      "A5019503886"
-    ],
-    "firstAuthorLastName": "Lü",
-    "allAuthors": [
-      "Peng Lü",
-      "Shuo Zhang",
-      "Guanru Zhang",
-      "Rainer Zühlke"
-    ],
-    "title": "Early marine carbonate cementation in a relict shelf-edge coral reef North of Miami, Florida: Pseudo-coupled depositional and diagenetic modeling",
-    "publicationDate": "2023-09-22",
-    "year": 2023,
-    "venue": "Geoenergy Science and Engineering",
-    "citations": 7,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Calcium Carbonate Crystallization and Inhibition",
-      "Geological formations and processes"
-    ],
-    "institutions": [
-      "Saudi Aramco (Saudi Arabia)",
-      "Tsinghua University",
-      "Chengdu University of Technology"
-    ]
   },
   {
     "workId": "https://openalex.org/W2201314899",
