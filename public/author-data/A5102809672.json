@@ -713,10 +713,7 @@
               "country_code": "CA",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I141945490",
-                "https://openalex.org/I4210128534",
-                "https://openalex.org/I4210135497",
-                "https://openalex.org/I4387154919"
+                "https://openalex.org/I141945490"
               ]
             }
           ],
@@ -752,10 +749,7 @@
               "country_code": "CA",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I141945490",
-                "https://openalex.org/I4210128534",
-                "https://openalex.org/I4210135497",
-                "https://openalex.org/I4387154919"
+                "https://openalex.org/I141945490"
               ]
             }
           ],
@@ -868,7 +862,7 @@
       "has_fulltext": false,
       "cited_by_count": 101,
       "citation_normalized_percentile": {
-        "value": 0.87640064,
+        "value": 0.87665752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1214,15 +1208,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 138,
@@ -1309,21 +1303,13 @@
         "https://openalex.org/W2113214770",
         "https://openalex.org/W2313144179",
         "https://openalex.org/W2001007196",
-        "https://openalex.org/W4205129767",
-        "https://openalex.org/W2922097888",
-        "https://openalex.org/W4250980847",
-        "https://openalex.org/W2807840999",
-        "https://openalex.org/W2473736701",
-        "https://openalex.org/W2344338649",
-        "https://openalex.org/W2405810537",
-        "https://openalex.org/W2463071561",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2516842811",
-        "https://openalex.org/W2500036273",
-        "https://openalex.org/W3195750709",
         "https://openalex.org/W1995039927",
         "https://openalex.org/W2009245124",
         "https://openalex.org/W2004953467",
+        "https://openalex.org/W2141525726",
+        "https://openalex.org/W2087125749",
+        "https://openalex.org/W2030853760",
+        "https://openalex.org/W2028436101",
         "https://openalex.org/W1979550799",
         "https://openalex.org/W1974055328",
         "https://openalex.org/W1972562278",
@@ -1331,26 +1317,9 @@
         "https://openalex.org/W2133421736",
         "https://openalex.org/W2137065576",
         "https://openalex.org/W2117110569",
+        "https://openalex.org/W2048531719",
         "https://openalex.org/W2073989314",
         "https://openalex.org/W2075306012",
-        "https://openalex.org/W2048531719",
-        "https://openalex.org/W2087125749",
-        "https://openalex.org/W2309502959",
-        "https://openalex.org/W2245765138",
-        "https://openalex.org/W2322252722",
-        "https://openalex.org/W2287498770",
-        "https://openalex.org/W2244098520",
-        "https://openalex.org/W2281308179",
-        "https://openalex.org/W2224970368",
-        "https://openalex.org/W2141525726",
-        "https://openalex.org/W1673055097",
-        "https://openalex.org/W1594515700",
-        "https://openalex.org/W1585368084",
-        "https://openalex.org/W1874262011",
-        "https://openalex.org/W1599387017",
-        "https://openalex.org/W1564252774",
-        "https://openalex.org/W1548736107",
-        "https://openalex.org/W1590447055",
         "https://openalex.org/W30589973",
         "https://openalex.org/W1479878196",
         "https://openalex.org/W114633828",
@@ -1363,8 +1332,33 @@
         "https://openalex.org/W625735752",
         "https://openalex.org/W54025404",
         "https://openalex.org/W632488841",
-        "https://openalex.org/W2030853760",
-        "https://openalex.org/W2028436101"
+        "https://openalex.org/W4205129767",
+        "https://openalex.org/W2922097888",
+        "https://openalex.org/W4250980847",
+        "https://openalex.org/W2807840999",
+        "https://openalex.org/W2473736701",
+        "https://openalex.org/W2344338649",
+        "https://openalex.org/W2405810537",
+        "https://openalex.org/W2463071561",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2516842811",
+        "https://openalex.org/W2500036273",
+        "https://openalex.org/W3195750709",
+        "https://openalex.org/W2309502959",
+        "https://openalex.org/W2245765138",
+        "https://openalex.org/W2322252722",
+        "https://openalex.org/W2287498770",
+        "https://openalex.org/W2244098520",
+        "https://openalex.org/W2281308179",
+        "https://openalex.org/W2224970368",
+        "https://openalex.org/W1673055097",
+        "https://openalex.org/W1594515700",
+        "https://openalex.org/W1585368084",
+        "https://openalex.org/W1874262011",
+        "https://openalex.org/W1599387017",
+        "https://openalex.org/W1564252774",
+        "https://openalex.org/W1548736107",
+        "https://openalex.org/W1590447055"
       ],
       "related_works": [
         "https://openalex.org/W1978083798",
@@ -1521,7 +1515,7 @@
       "has_fulltext": false,
       "cited_by_count": 96,
       "citation_normalized_percentile": {
-        "value": 0.92474127,
+        "value": 0.92470893,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1847,15 +1841,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.800000011920929,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W766487889.pdf",
@@ -1937,6 +1931,20 @@
         "https://openalex.org/W2974207299",
         "https://openalex.org/W2064317759",
         "https://openalex.org/W2025859086",
+        "https://openalex.org/W2137014803",
+        "https://openalex.org/W2169738253",
+        "https://openalex.org/W2282472653",
+        "https://openalex.org/W2140108225",
+        "https://openalex.org/W2322252722",
+        "https://openalex.org/W2032767312",
+        "https://openalex.org/W3152707059",
+        "https://openalex.org/W3209995527",
+        "https://openalex.org/W4251282348",
+        "https://openalex.org/W4297902456",
+        "https://openalex.org/W4210840637",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2565778447",
+        "https://openalex.org/W1985103249",
         "https://openalex.org/W2045742644",
         "https://openalex.org/W2044635203",
         "https://openalex.org/W625735752",
@@ -1945,22 +1953,8 @@
         "https://openalex.org/W1673055097",
         "https://openalex.org/W195523536",
         "https://openalex.org/W1578740370",
-        "https://openalex.org/W1985103249",
-        "https://openalex.org/W2032767312",
-        "https://openalex.org/W2169738253",
-        "https://openalex.org/W2282472653",
-        "https://openalex.org/W2140108225",
-        "https://openalex.org/W2322252722",
         "https://openalex.org/W2093957292",
-        "https://openalex.org/W2137014803",
-        "https://openalex.org/W1995039927",
-        "https://openalex.org/W2565778447",
-        "https://openalex.org/W3152707059",
-        "https://openalex.org/W3209995527",
-        "https://openalex.org/W4251282348",
-        "https://openalex.org/W4297902456",
-        "https://openalex.org/W4210840637",
-        "https://openalex.org/W4285719527"
+        "https://openalex.org/W1995039927"
       ],
       "related_works": [
         "https://openalex.org/W2126019709",
@@ -3017,7 +3011,7 @@
       "has_fulltext": false,
       "cited_by_count": 58,
       "citation_normalized_percentile": {
-        "value": 0.96191575,
+        "value": 0.96195417,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3367,7 +3361,7 @@
             "is_in_doaj": false,
             "is_core": false,
             "host_organization": "https://openalex.org/I5681781",
-            "host_organization_name": "University of Adelaide",
+            "host_organization_name": "The University of Adelaide",
             "host_organization_lineage": [
               "https://openalex.org/I5681781"
             ],
@@ -3387,8 +3381,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.9100000262260437,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3400,8 +3394,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -3637,7 +3631,7 @@
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.216069,
+        "value": 0.21555252,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3867,16 +3861,16 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
       "referenced_works": [
         "https://openalex.org/W2025585437",
         "https://openalex.org/W2050128151",
-        "https://openalex.org/W61051762",
-        "https://openalex.org/W2921255593"
+        "https://openalex.org/W2921255593",
+        "https://openalex.org/W61051762"
       ],
       "related_works": [
         "https://openalex.org/W2328924756",
@@ -4389,7 +4383,7 @@
       "has_fulltext": false,
       "cited_by_count": 86,
       "citation_normalized_percentile": {
-        "value": 0.80445353,
+        "value": 0.80452374,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4730,15 +4724,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8600000143051147,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -4773,19 +4767,19 @@
         "https://openalex.org/W2137014803",
         "https://openalex.org/W6695404198",
         "https://openalex.org/W2158554744",
+        "https://openalex.org/W1975204085",
+        "https://openalex.org/W2062806462",
+        "https://openalex.org/W2094902851",
+        "https://openalex.org/W1985103249",
+        "https://openalex.org/W2280799300",
         "https://openalex.org/W2123640215",
         "https://openalex.org/W2119067330",
-        "https://openalex.org/W1975204085",
-        "https://openalex.org/W2042740607",
-        "https://openalex.org/W2036698119",
-        "https://openalex.org/W2280799300",
-        "https://openalex.org/W2094902851",
-        "https://openalex.org/W2062806462",
-        "https://openalex.org/W1985103249",
         "https://openalex.org/W296468733",
         "https://openalex.org/W1748086438",
         "https://openalex.org/W1521060394",
-        "https://openalex.org/W1543064048"
+        "https://openalex.org/W1543064048",
+        "https://openalex.org/W2042740607",
+        "https://openalex.org/W2036698119"
       ],
       "related_works": [
         "https://openalex.org/W998619573",
@@ -5047,7 +5041,7 @@
       "has_fulltext": false,
       "cited_by_count": 65,
       "citation_normalized_percentile": {
-        "value": 0.17470489,
+        "value": 0.17429341,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5326,8 +5320,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5339,8 +5333,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -5382,24 +5376,24 @@
         "https://openalex.org/W2077243317",
         "https://openalex.org/W2974207299",
         "https://openalex.org/W1968313731",
-        "https://openalex.org/W2591916373",
-        "https://openalex.org/W2486246430",
-        "https://openalex.org/W2003344737",
-        "https://openalex.org/W2098946510",
-        "https://openalex.org/W2018504732",
-        "https://openalex.org/W2010878702",
-        "https://openalex.org/W4230328441",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2063368779",
         "https://openalex.org/W2160865574",
         "https://openalex.org/W2188088257",
+        "https://openalex.org/W2063368779",
+        "https://openalex.org/W2098946510",
+        "https://openalex.org/W2003344737",
         "https://openalex.org/W2082938787",
+        "https://openalex.org/W4230328441",
+        "https://openalex.org/W4285719527",
         "https://openalex.org/W124811339",
         "https://openalex.org/W81495212",
         "https://openalex.org/W1599387017",
         "https://openalex.org/W61051762",
         "https://openalex.org/W1528850606",
         "https://openalex.org/W1508580994",
+        "https://openalex.org/W2018504732",
+        "https://openalex.org/W2010878702",
+        "https://openalex.org/W2591916373",
+        "https://openalex.org/W2486246430",
         "https://openalex.org/W2229115723"
       ],
       "related_works": [
@@ -5832,7 +5826,7 @@
       "has_fulltext": false,
       "cited_by_count": 64,
       "citation_normalized_percentile": {
-        "value": 0.92943651,
+        "value": 0.92943191,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6188,15 +6182,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -6223,20 +6217,20 @@
         "https://openalex.org/W1965430736",
         "https://openalex.org/W1989836745",
         "https://openalex.org/W2049755676",
+        "https://openalex.org/W1993099928",
+        "https://openalex.org/W2040046731",
+        "https://openalex.org/W2523027764",
+        "https://openalex.org/W3155402247",
+        "https://openalex.org/W4233309272",
+        "https://openalex.org/W614825625",
         "https://openalex.org/W229065267",
         "https://openalex.org/W610808472",
         "https://openalex.org/W575070657",
         "https://openalex.org/W45179253",
+        "https://openalex.org/W2287971601",
         "https://openalex.org/W1541498346",
         "https://openalex.org/W1533550986",
-        "https://openalex.org/W3155402247",
-        "https://openalex.org/W4233309272",
-        "https://openalex.org/W2040046731",
-        "https://openalex.org/W3039724339",
-        "https://openalex.org/W2287971601",
-        "https://openalex.org/W1993099928",
-        "https://openalex.org/W2523027764",
-        "https://openalex.org/W614825625"
+        "https://openalex.org/W3039724339"
       ],
       "related_works": [
         "https://openalex.org/W1848094102",
@@ -6494,7 +6488,7 @@
       "has_fulltext": false,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.78857549,
+        "value": 0.78846154,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6694,15 +6688,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -6731,27 +6725,27 @@
         "https://openalex.org/W6616625979",
         "https://openalex.org/W2974207299",
         "https://openalex.org/W2244540091",
-        "https://openalex.org/W1996519019",
-        "https://openalex.org/W3215980238",
-        "https://openalex.org/W2913153466",
+        "https://openalex.org/W2045933517",
+        "https://openalex.org/W574405496",
+        "https://openalex.org/W578079095",
+        "https://openalex.org/W43588767",
         "https://openalex.org/W1755726326",
         "https://openalex.org/W1539070761",
         "https://openalex.org/W1564145569",
         "https://openalex.org/W1736736726",
         "https://openalex.org/W1673688546",
-        "https://openalex.org/W2095363054",
-        "https://openalex.org/W2054829011",
         "https://openalex.org/W1970328100",
         "https://openalex.org/W1968172155",
         "https://openalex.org/W1980408084",
-        "https://openalex.org/W2045933517",
+        "https://openalex.org/W2063368779",
         "https://openalex.org/W2016486221",
         "https://openalex.org/W2020471797",
-        "https://openalex.org/W2063368779",
+        "https://openalex.org/W2054829011",
         "https://openalex.org/W2226743912",
-        "https://openalex.org/W574405496",
-        "https://openalex.org/W578079095",
-        "https://openalex.org/W43588767"
+        "https://openalex.org/W1996519019",
+        "https://openalex.org/W2095363054",
+        "https://openalex.org/W3215980238",
+        "https://openalex.org/W2913153466"
       ],
       "related_works": [
         "https://openalex.org/W2370941623",
@@ -7169,15 +7163,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.41999998688697815,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2974796042.pdf",
@@ -7432,7 +7426,7 @@
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.92332133,
+        "value": 0.92321561,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7775,15 +7769,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1542845244.pdf",
@@ -7849,21 +7843,21 @@
         "https://openalex.org/W1966710814",
         "https://openalex.org/W2974207299",
         "https://openalex.org/W2041166872",
-        "https://openalex.org/W2136493303",
-        "https://openalex.org/W2139364698",
         "https://openalex.org/W2491868237",
         "https://openalex.org/W1980408084",
+        "https://openalex.org/W2098946510",
+        "https://openalex.org/W4302045188",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2136493303",
+        "https://openalex.org/W2139364698",
         "https://openalex.org/W578079095",
         "https://openalex.org/W625735752",
         "https://openalex.org/W69505290",
         "https://openalex.org/W596555667",
         "https://openalex.org/W85486877",
         "https://openalex.org/W195523536",
-        "https://openalex.org/W4302045188",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W2160865574",
-        "https://openalex.org/W2252520604",
-        "https://openalex.org/W2098946510"
+        "https://openalex.org/W2252520604"
       ],
       "related_works": [
         "https://openalex.org/W2046656234",
@@ -9641,9 +9635,9 @@
       "has_fulltext": false,
       "cited_by_count": 40,
       "citation_normalized_percentile": {
-        "value": 0.95734631,
+        "value": 0.95736937,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 89,
@@ -9955,15 +9949,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2336549484.pdf",
@@ -10030,14 +10024,14 @@
         "https://openalex.org/W2208520449",
         "https://openalex.org/W2078693117",
         "https://openalex.org/W2139364698",
-        "https://openalex.org/W1977775981",
+        "https://openalex.org/W2181689138",
         "https://openalex.org/W2614753621",
         "https://openalex.org/W4205161778",
         "https://openalex.org/W2796010555",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W3010544617",
-        "https://openalex.org/W85486877",
-        "https://openalex.org/W2181689138"
+        "https://openalex.org/W1977775981",
+        "https://openalex.org/W85486877"
       ],
       "related_works": [
         "https://openalex.org/W2372622832",
@@ -11863,7 +11857,7 @@
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.70972606,
+        "value": 0.71003391,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12095,8 +12089,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -12128,17 +12122,17 @@
         "https://openalex.org/W1994269510",
         "https://openalex.org/W2003444005",
         "https://openalex.org/W2089041342",
+        "https://openalex.org/W2121841894",
+        "https://openalex.org/W2319875853",
+        "https://openalex.org/W2322252722",
+        "https://openalex.org/W2169196528",
+        "https://openalex.org/W4210840637",
+        "https://openalex.org/W4241957746",
         "https://openalex.org/W3043719335",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W1512608287",
         "https://openalex.org/W593594937",
-        "https://openalex.org/W625735752",
-        "https://openalex.org/W2319875853",
-        "https://openalex.org/W4210840637",
-        "https://openalex.org/W4241957746",
-        "https://openalex.org/W2121841894",
-        "https://openalex.org/W2322252722",
-        "https://openalex.org/W2169196528"
+        "https://openalex.org/W625735752"
       ],
       "related_works": [
         "https://openalex.org/W2748952813",
@@ -12579,7 +12573,7 @@
       "has_fulltext": false,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.7954071,
+        "value": 0.79536641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12882,15 +12876,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -13384,7 +13378,7 @@
       "has_fulltext": false,
       "cited_by_count": 51,
       "citation_normalized_percentile": {
-        "value": 0.77630974,
+        "value": 0.77657192,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13754,8 +13748,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.41999998688697815,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -13767,8 +13761,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -13800,21 +13794,21 @@
         "https://openalex.org/W2049755676",
         "https://openalex.org/W2077270029",
         "https://openalex.org/W181607887",
-        "https://openalex.org/W2028113682",
-        "https://openalex.org/W1968836039",
         "https://openalex.org/W2797723755",
         "https://openalex.org/W2800817101",
         "https://openalex.org/W4254770485",
-        "https://openalex.org/W1533550986",
-        "https://openalex.org/W1590696463",
         "https://openalex.org/W2040046731",
-        "https://openalex.org/W620826486",
-        "https://openalex.org/W2065891415",
         "https://openalex.org/W632203909",
         "https://openalex.org/W614825625",
         "https://openalex.org/W625735752",
         "https://openalex.org/W2045850615",
-        "https://openalex.org/W2020191907"
+        "https://openalex.org/W2020191907",
+        "https://openalex.org/W1968836039",
+        "https://openalex.org/W620826486",
+        "https://openalex.org/W2065891415",
+        "https://openalex.org/W1533550986",
+        "https://openalex.org/W1590696463",
+        "https://openalex.org/W2028113682"
       ],
       "related_works": [
         "https://openalex.org/W2480055283",
@@ -14009,7 +14003,7 @@
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.11606968,
+        "value": 0.11586557,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14281,8 +14275,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14294,27 +14288,27 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
       "referenced_works": [
-        "https://openalex.org/W1997252211",
-        "https://openalex.org/W1988098630",
-        "https://openalex.org/W3209995527",
         "https://openalex.org/W2028436101",
-        "https://openalex.org/W1967282843",
-        "https://openalex.org/W2119442542",
-        "https://openalex.org/W2136018626",
         "https://openalex.org/W2046692613",
-        "https://openalex.org/W2147629975",
-        "https://openalex.org/W2153123326",
+        "https://openalex.org/W1967282843",
         "https://openalex.org/W1945322499",
         "https://openalex.org/W1951735479",
         "https://openalex.org/W423852504",
         "https://openalex.org/W625735752",
-        "https://openalex.org/W320414466"
+        "https://openalex.org/W320414466",
+        "https://openalex.org/W1997252211",
+        "https://openalex.org/W1988098630",
+        "https://openalex.org/W2147629975",
+        "https://openalex.org/W2153123326",
+        "https://openalex.org/W2119442542",
+        "https://openalex.org/W2136018626",
+        "https://openalex.org/W3209995527"
       ],
       "related_works": [
         "https://openalex.org/W2124436786",
@@ -15031,7 +15025,7 @@
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.78817992,
+        "value": 0.78830399,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15369,8 +15363,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -15382,8 +15376,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -15403,8 +15397,8 @@
         "https://openalex.org/W2045941694",
         "https://openalex.org/W2044635203",
         "https://openalex.org/W2046692613",
-        "https://openalex.org/W2129411605",
-        "https://openalex.org/W3013191529"
+        "https://openalex.org/W3013191529",
+        "https://openalex.org/W2129411605"
       ],
       "related_works": [
         "https://openalex.org/W3209787725",
@@ -15626,7 +15620,7 @@
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.77547962,
+        "value": 0.77507508,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15941,15 +15935,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.49000000953674316,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16545,8 +16539,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -16579,15 +16573,15 @@
         "https://openalex.org/W2101742423",
         "https://openalex.org/W2137014803",
         "https://openalex.org/W1994269510",
+        "https://openalex.org/W2462157712",
+        "https://openalex.org/W3043719335",
         "https://openalex.org/W2048296323",
         "https://openalex.org/W2055950139",
         "https://openalex.org/W2045941694",
-        "https://openalex.org/W625735752",
-        "https://openalex.org/W1486676350",
-        "https://openalex.org/W2462157712",
-        "https://openalex.org/W3043719335",
+        "https://openalex.org/W114633828",
         "https://openalex.org/W2257843158",
-        "https://openalex.org/W114633828"
+        "https://openalex.org/W625735752",
+        "https://openalex.org/W1486676350"
       ],
       "related_works": [
         "https://openalex.org/W2375591085",
@@ -16836,7 +16830,7 @@
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.71257906,
+        "value": 0.71247803,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17137,8 +17131,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8399999737739563,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17155,8 +17149,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -17188,30 +17182,30 @@
         "https://openalex.org/W6660048566",
         "https://openalex.org/W6604429882",
         "https://openalex.org/W6688214695",
-        "https://openalex.org/W2233759500",
-        "https://openalex.org/W2259483168",
-        "https://openalex.org/W2222103683",
-        "https://openalex.org/W2296505510",
         "https://openalex.org/W2039424484",
-        "https://openalex.org/W2128212781",
-        "https://openalex.org/W2135985426",
-        "https://openalex.org/W1992928455",
-        "https://openalex.org/W657810943",
-        "https://openalex.org/W625735752",
         "https://openalex.org/W2015422425",
         "https://openalex.org/W1632204563",
         "https://openalex.org/W1680179708",
         "https://openalex.org/W1539070761",
-        "https://openalex.org/W1971579856",
+        "https://openalex.org/W2142687640",
+        "https://openalex.org/W1992928455",
+        "https://openalex.org/W2233759500",
+        "https://openalex.org/W2259483168",
+        "https://openalex.org/W2222103683",
+        "https://openalex.org/W2296505510",
+        "https://openalex.org/W2002488699",
         "https://openalex.org/W772324367",
         "https://openalex.org/W107808665",
-        "https://openalex.org/W2081941965",
-        "https://openalex.org/W2142687640",
-        "https://openalex.org/W2002488699",
+        "https://openalex.org/W1971579856",
         "https://openalex.org/W2363862123",
         "https://openalex.org/W3045759707",
         "https://openalex.org/W4230328441",
-        "https://openalex.org/W4392610810"
+        "https://openalex.org/W4392610810",
+        "https://openalex.org/W2128212781",
+        "https://openalex.org/W2135985426",
+        "https://openalex.org/W2081941965",
+        "https://openalex.org/W657810943",
+        "https://openalex.org/W625735752"
       ],
       "related_works": [
         "https://openalex.org/W2033043904",
@@ -17447,7 +17441,7 @@
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.7541623,
+        "value": 0.75414702,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17726,15 +17720,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.4099999964237213,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -17763,17 +17757,17 @@
         "https://openalex.org/W81898466",
         "https://openalex.org/W2167590372",
         "https://openalex.org/W6808448667",
-        "https://openalex.org/W4492592",
-        "https://openalex.org/W625735752",
-        "https://openalex.org/W2125322446",
-        "https://openalex.org/W2062805073",
         "https://openalex.org/W2044635203",
         "https://openalex.org/W1543064048",
+        "https://openalex.org/W4492592",
+        "https://openalex.org/W625735752",
+        "https://openalex.org/W2055950139",
         "https://openalex.org/W2230084137",
         "https://openalex.org/W2276807702",
         "https://openalex.org/W2255001815",
         "https://openalex.org/W2304041915",
-        "https://openalex.org/W2055950139"
+        "https://openalex.org/W2125322446",
+        "https://openalex.org/W2062805073"
       ],
       "related_works": [
         "https://openalex.org/W276871595",
@@ -18065,7 +18059,7 @@
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.89473182,
+        "value": 0.8946715,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18382,15 +18376,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -18445,13 +18439,7 @@
         "https://openalex.org/W2056691810",
         "https://openalex.org/W2009802645",
         "https://openalex.org/W2011211550",
-        "https://openalex.org/W2272984276",
-        "https://openalex.org/W2265858410",
-        "https://openalex.org/W2322252722",
         "https://openalex.org/W1543064048",
-        "https://openalex.org/W1984961062",
-        "https://openalex.org/W2127245782",
-        "https://openalex.org/W2044635203",
         "https://openalex.org/W2499136226",
         "https://openalex.org/W4238032652",
         "https://openalex.org/W3043719335",
@@ -18459,6 +18447,12 @@
         "https://openalex.org/W3160830587",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W2161880394",
+        "https://openalex.org/W2044635203",
+        "https://openalex.org/W1984961062",
+        "https://openalex.org/W2272984276",
+        "https://openalex.org/W2265858410",
+        "https://openalex.org/W2322252722",
+        "https://openalex.org/W2127245782",
         "https://openalex.org/W256272528",
         "https://openalex.org/W81898466",
         "https://openalex.org/W590201780",
@@ -18691,7 +18685,7 @@
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.94972031,
+        "value": 0.94973952,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19034,15 +19028,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2759215368.pdf",
@@ -19123,20 +19117,15 @@
         "https://openalex.org/W4205550164",
         "https://openalex.org/W2066980677",
         "https://openalex.org/W6721014545",
+        "https://openalex.org/W2160697700",
+        "https://openalex.org/W2621941811",
+        "https://openalex.org/W2494265543",
+        "https://openalex.org/W2586497884",
         "https://openalex.org/W2916517978",
         "https://openalex.org/W2994785673",
         "https://openalex.org/W3186525145",
         "https://openalex.org/W4233579036",
         "https://openalex.org/W4205770475",
-        "https://openalex.org/W2111478149",
-        "https://openalex.org/W2124390624",
-        "https://openalex.org/W2160697700",
-        "https://openalex.org/W2008874249",
-        "https://openalex.org/W2621941811",
-        "https://openalex.org/W2494265543",
-        "https://openalex.org/W2586497884",
-        "https://openalex.org/W2088765570",
-        "https://openalex.org/W2018314844",
         "https://openalex.org/W578079095",
         "https://openalex.org/W157011728",
         "https://openalex.org/W1497047052",
@@ -19145,7 +19134,12 @@
         "https://openalex.org/W364087571",
         "https://openalex.org/W1530145554",
         "https://openalex.org/W30614123",
-        "https://openalex.org/W1668469117"
+        "https://openalex.org/W1668469117",
+        "https://openalex.org/W2018314844",
+        "https://openalex.org/W2111478149",
+        "https://openalex.org/W2124390624",
+        "https://openalex.org/W2088765570",
+        "https://openalex.org/W2008874249"
       ],
       "related_works": [
         "https://openalex.org/W2092092595",
@@ -20162,7 +20156,7 @@
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.67603654,
+        "value": 0.67592267,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20472,8 +20466,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20485,8 +20479,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -20506,6 +20500,8 @@
         "https://openalex.org/W2079508085",
         "https://openalex.org/W2070167950",
         "https://openalex.org/W1991753312",
+        "https://openalex.org/W4244550332",
+        "https://openalex.org/W4230328441",
         "https://openalex.org/W1484339267",
         "https://openalex.org/W1482180210",
         "https://openalex.org/W1912927042",
@@ -20513,9 +20509,7 @@
         "https://openalex.org/W616686322",
         "https://openalex.org/W620985104",
         "https://openalex.org/W625735752",
-        "https://openalex.org/W1755726326",
-        "https://openalex.org/W4244550332",
-        "https://openalex.org/W4230328441"
+        "https://openalex.org/W1755726326"
       ],
       "related_works": [
         "https://openalex.org/W2033043904",
@@ -20823,7 +20817,7 @@
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.67627055,
+        "value": 0.67637454,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21336,8 +21330,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6800000071525574,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -21354,8 +21348,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -21408,16 +21402,16 @@
         "https://openalex.org/W2023534925",
         "https://openalex.org/W1984491526",
         "https://openalex.org/W2090670498",
+        "https://openalex.org/W2005428926",
+        "https://openalex.org/W2020820834",
+        "https://openalex.org/W2059748065",
+        "https://openalex.org/W2914024270",
         "https://openalex.org/W4251450807",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W4244059895",
         "https://openalex.org/W3102910898",
         "https://openalex.org/W4205691162",
-        "https://openalex.org/W2059748065",
         "https://openalex.org/W2080325729",
-        "https://openalex.org/W2005428926",
-        "https://openalex.org/W2020820834",
-        "https://openalex.org/W2914024270",
         "https://openalex.org/W1598046187",
         "https://openalex.org/W1555476047",
         "https://openalex.org/W1492898868",
@@ -21599,7 +21593,7 @@
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.74812207,
+        "value": 0.74806598,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21938,34 +21932,34 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
       "referenced_works": [
-        "https://openalex.org/W2039093876",
-        "https://openalex.org/W2032141020",
-        "https://openalex.org/W2123640215",
         "https://openalex.org/W2076451870",
         "https://openalex.org/W2073515037",
         "https://openalex.org/W2019276355",
         "https://openalex.org/W1558677347",
         "https://openalex.org/W1748086438",
+        "https://openalex.org/W1933993045",
+        "https://openalex.org/W625735752",
+        "https://openalex.org/W296468733",
+        "https://openalex.org/W2123640215",
         "https://openalex.org/W2008793628",
         "https://openalex.org/W2005726506",
-        "https://openalex.org/W1933993045",
         "https://openalex.org/W2798838592",
         "https://openalex.org/W1988098630",
-        "https://openalex.org/W625735752",
-        "https://openalex.org/W296468733"
+        "https://openalex.org/W2039093876",
+        "https://openalex.org/W2032141020"
       ],
       "related_works": [
         "https://openalex.org/W2111478149",
@@ -22909,7 +22903,7 @@
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.68606388,
+        "value": 0.6865346,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23199,15 +23193,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.41999998688697815,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -23225,16 +23219,16 @@
         "https://openalex.org/W1985488227",
         "https://openalex.org/W2508537769",
         "https://openalex.org/W2049755676",
-        "https://openalex.org/W2523027764",
-        "https://openalex.org/W4251643421",
         "https://openalex.org/W2112990899",
+        "https://openalex.org/W2231924805",
+        "https://openalex.org/W2523027764",
         "https://openalex.org/W229065267",
         "https://openalex.org/W647015952",
         "https://openalex.org/W599631442",
         "https://openalex.org/W593287019",
         "https://openalex.org/W636754563",
         "https://openalex.org/W941901383",
-        "https://openalex.org/W2231924805"
+        "https://openalex.org/W4251643421"
       ],
       "related_works": [
         "https://openalex.org/W2057300497",
@@ -23569,7 +23563,7 @@
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.76483381,
+        "value": 0.76454451,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23912,8 +23906,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -23951,18 +23945,18 @@
         "https://openalex.org/W2027530170",
         "https://openalex.org/W1985879113",
         "https://openalex.org/W2072826534",
-        "https://openalex.org/W2005151914",
-        "https://openalex.org/W1981362214",
+        "https://openalex.org/W1512606558",
         "https://openalex.org/W79279769",
         "https://openalex.org/W16286578",
         "https://openalex.org/W1488473434",
         "https://openalex.org/W328885748",
         "https://openalex.org/W625735752",
-        "https://openalex.org/W1512606558",
-        "https://openalex.org/W4299825920",
-        "https://openalex.org/W2971101601",
+        "https://openalex.org/W2005151914",
         "https://openalex.org/W2128753028",
-        "https://openalex.org/W2125322446"
+        "https://openalex.org/W2125322446",
+        "https://openalex.org/W1981362214",
+        "https://openalex.org/W4299825920",
+        "https://openalex.org/W2971101601"
       ],
       "related_works": [
         "https://openalex.org/W2499541383",
@@ -24240,7 +24234,7 @@
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.67412057,
+        "value": 0.67420874,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24562,8 +24556,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -24580,8 +24574,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -24654,6 +24648,15 @@
         "https://openalex.org/W3145668433",
         "https://openalex.org/W3123657867",
         "https://openalex.org/W3152707059",
+        "https://openalex.org/W1997757609",
+        "https://openalex.org/W2272984276",
+        "https://openalex.org/W3143823162",
+        "https://openalex.org/W2044635203",
+        "https://openalex.org/W2071027307",
+        "https://openalex.org/W2045941694",
+        "https://openalex.org/W2116237860",
+        "https://openalex.org/W2156976458",
+        "https://openalex.org/W2032767312",
         "https://openalex.org/W1587476554",
         "https://openalex.org/W1624806571",
         "https://openalex.org/W1543064048",
@@ -24665,16 +24668,7 @@
         "https://openalex.org/W590201780",
         "https://openalex.org/W1933993045",
         "https://openalex.org/W1880555926",
-        "https://openalex.org/W4238032652",
-        "https://openalex.org/W2032767312",
-        "https://openalex.org/W1997757609",
-        "https://openalex.org/W2116237860",
-        "https://openalex.org/W2156976458",
-        "https://openalex.org/W2044635203",
-        "https://openalex.org/W2071027307",
-        "https://openalex.org/W2045941694",
-        "https://openalex.org/W2272984276",
-        "https://openalex.org/W3143823162"
+        "https://openalex.org/W4238032652"
       ],
       "related_works": [
         "https://openalex.org/W2023753492",
@@ -24832,7 +24826,7 @@
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.68068622,
+        "value": 0.68066298,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25109,15 +25103,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -25133,15 +25127,15 @@
         "https://openalex.org/W6631250186",
         "https://openalex.org/W6948503473",
         "https://openalex.org/W2039860195",
+        "https://openalex.org/W2297464928",
         "https://openalex.org/W2120934847",
         "https://openalex.org/W2134960170",
+        "https://openalex.org/W3007140506",
+        "https://openalex.org/W4285719527",
         "https://openalex.org/W1522357428",
         "https://openalex.org/W625735752",
         "https://openalex.org/W2094255421",
         "https://openalex.org/W2097027978",
-        "https://openalex.org/W3007140506",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2297464928",
         "https://openalex.org/W2468775194"
       ],
       "related_works": [
@@ -25379,7 +25373,7 @@
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.84919903,
+        "value": 0.8492829,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25758,15 +25752,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -25792,8 +25786,8 @@
         "https://openalex.org/W2169834267",
         "https://openalex.org/W6724059483",
         "https://openalex.org/W1994269510",
-        "https://openalex.org/W2017652551",
         "https://openalex.org/W2034716029",
+        "https://openalex.org/W2017652551",
         "https://openalex.org/W28830587",
         "https://openalex.org/W1580287752",
         "https://openalex.org/W1498877843",
@@ -25802,6 +25796,7 @@
         "https://openalex.org/W625735752",
         "https://openalex.org/W1492616906",
         "https://openalex.org/W564220257",
+        "https://openalex.org/W1999042142",
         "https://openalex.org/W4246157246",
         "https://openalex.org/W3198963668",
         "https://openalex.org/W2592470112",
@@ -25809,8 +25804,7 @@
         "https://openalex.org/W2575382148",
         "https://openalex.org/W4210554603",
         "https://openalex.org/W4251419653",
-        "https://openalex.org/W1968172155",
-        "https://openalex.org/W1999042142"
+        "https://openalex.org/W1968172155"
       ],
       "related_works": [
         "https://openalex.org/W2346388427",
@@ -26048,7 +26042,7 @@
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.15144062,
+        "value": 0.15184534,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26384,15 +26378,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -26411,16 +26405,16 @@
         "https://openalex.org/W1978080275",
         "https://openalex.org/W2036328571",
         "https://openalex.org/W4210554603",
-        "https://openalex.org/W2120264796",
-        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2914503920",
+        "https://openalex.org/W2244937923",
         "https://openalex.org/W1965529393",
         "https://openalex.org/W625735752",
         "https://openalex.org/W1498877843",
-        "https://openalex.org/W2244937923",
         "https://openalex.org/W1988361839",
         "https://openalex.org/W2257860834",
         "https://openalex.org/W2273338240",
-        "https://openalex.org/W2914503920"
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2120264796"
       ],
       "related_works": [
         "https://openalex.org/W2374013430",
@@ -26725,7 +26719,7 @@
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.75403158,
+        "value": 0.75398856,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27088,8 +27082,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8399999737739563,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -27106,8 +27100,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -27131,8 +27125,23 @@
         "https://openalex.org/W1970797589",
         "https://openalex.org/W2073224371",
         "https://openalex.org/W2067118661",
-        "https://openalex.org/W1497395003",
+        "https://openalex.org/W2121829211",
+        "https://openalex.org/W2127788378",
+        "https://openalex.org/W1991847626",
+        "https://openalex.org/W1998519435",
+        "https://openalex.org/W2025146952",
         "https://openalex.org/W2093664100",
+        "https://openalex.org/W1497395003",
+        "https://openalex.org/W2161111670",
+        "https://openalex.org/W2184892506",
+        "https://openalex.org/W2886976121",
+        "https://openalex.org/W2464744312",
+        "https://openalex.org/W2474818391",
+        "https://openalex.org/W2746856766",
+        "https://openalex.org/W2769152800",
+        "https://openalex.org/W2285052570",
+        "https://openalex.org/W1864972434",
+        "https://openalex.org/W1968172155",
         "https://openalex.org/W571645596",
         "https://openalex.org/W647015952",
         "https://openalex.org/W582984162",
@@ -27141,22 +27150,7 @@
         "https://openalex.org/W614825625",
         "https://openalex.org/W625735752",
         "https://openalex.org/W2038312597",
-        "https://openalex.org/W2040046731",
-        "https://openalex.org/W1998519435",
-        "https://openalex.org/W2161111670",
-        "https://openalex.org/W2184892506",
-        "https://openalex.org/W2285052570",
-        "https://openalex.org/W2886976121",
-        "https://openalex.org/W2464744312",
-        "https://openalex.org/W2474818391",
-        "https://openalex.org/W2746856766",
-        "https://openalex.org/W2769152800",
-        "https://openalex.org/W1991847626",
-        "https://openalex.org/W1864972434",
-        "https://openalex.org/W1968172155",
-        "https://openalex.org/W2121829211",
-        "https://openalex.org/W2127788378",
-        "https://openalex.org/W2025146952"
+        "https://openalex.org/W2040046731"
       ],
       "related_works": [
         "https://openalex.org/W2920901296",
@@ -27714,7 +27708,7 @@
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.14291087,
+        "value": 0.14274953,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27919,15 +27913,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.6299999952316284,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -28184,7 +28178,7 @@
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.63714333,
+        "value": 0.63682822,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28509,8 +28503,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -28522,8 +28516,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -28604,32 +28598,32 @@
         "https://openalex.org/W2167671750",
         "https://openalex.org/W2092472360",
         "https://openalex.org/W2089740954",
-        "https://openalex.org/W2025072921",
+        "https://openalex.org/W2082868308",
+        "https://openalex.org/W2005483555",
+        "https://openalex.org/W1973005054",
+        "https://openalex.org/W2183599000",
+        "https://openalex.org/W2154790037",
         "https://openalex.org/W4301968067",
         "https://openalex.org/W2994785673",
         "https://openalex.org/W2486246430",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W1973005054",
-        "https://openalex.org/W2005483555",
-        "https://openalex.org/W2034753142",
-        "https://openalex.org/W1516665246",
-        "https://openalex.org/W2183599000",
-        "https://openalex.org/W2154790037",
         "https://openalex.org/W2158923311",
         "https://openalex.org/W2156154267",
         "https://openalex.org/W2160865574",
         "https://openalex.org/W2169555794",
         "https://openalex.org/W2170703766",
-        "https://openalex.org/W2112850090",
-        "https://openalex.org/W2112178402",
-        "https://openalex.org/W2110531149",
-        "https://openalex.org/W2082868308",
         "https://openalex.org/W43588767",
         "https://openalex.org/W578079095",
         "https://openalex.org/W616686322",
         "https://openalex.org/W580392308",
         "https://openalex.org/W124811339",
-        "https://openalex.org/W284948746"
+        "https://openalex.org/W284948746",
+        "https://openalex.org/W1516665246",
+        "https://openalex.org/W2112850090",
+        "https://openalex.org/W2112178402",
+        "https://openalex.org/W2110531149",
+        "https://openalex.org/W2025072921",
+        "https://openalex.org/W2034753142"
       ],
       "related_works": [
         "https://openalex.org/W2354173402",
@@ -28831,7 +28825,7 @@
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.83500688,
+        "value": 0.83486933,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29068,8 +29062,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -29107,12 +29101,12 @@
         "https://openalex.org/W2138823257",
         "https://openalex.org/W2003444005",
         "https://openalex.org/W2037354698",
-        "https://openalex.org/W2322252722",
+        "https://openalex.org/W2094078246",
         "https://openalex.org/W2042740607",
+        "https://openalex.org/W1974500137",
         "https://openalex.org/W3027744330",
         "https://openalex.org/W2808653569",
-        "https://openalex.org/W2094078246",
-        "https://openalex.org/W1974500137"
+        "https://openalex.org/W2322252722"
       ],
       "related_works": [
         "https://openalex.org/W2800531900",
@@ -29658,7 +29652,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.11978861,
+        "value": 0.11985899,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29991,8 +29985,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -30030,8 +30024,7 @@
         "https://openalex.org/W6733739621",
         "https://openalex.org/W6618223799",
         "https://openalex.org/W6650141693",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2111160112",
+        "https://openalex.org/W1999042142",
         "https://openalex.org/W28830587",
         "https://openalex.org/W114633828",
         "https://openalex.org/W4492592",
@@ -30041,15 +30034,16 @@
         "https://openalex.org/W183331269",
         "https://openalex.org/W601494542",
         "https://openalex.org/W138508301",
-        "https://openalex.org/W2060401879",
+        "https://openalex.org/W2255001815",
         "https://openalex.org/W2588967101",
+        "https://openalex.org/W2060401879",
+        "https://openalex.org/W2111160112",
         "https://openalex.org/W1968172155",
         "https://openalex.org/W2058088400",
         "https://openalex.org/W2045941694",
         "https://openalex.org/W2044635203",
         "https://openalex.org/W2055950139",
-        "https://openalex.org/W1999042142",
-        "https://openalex.org/W2255001815"
+        "https://openalex.org/W4285719527"
       ],
       "related_works": [
         "https://openalex.org/W2129507006",
@@ -30251,7 +30245,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.78674857,
+        "value": 0.78684211,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30561,15 +30555,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -30582,15 +30576,15 @@
         "https://openalex.org/W2005124164",
         "https://openalex.org/W2046387674",
         "https://openalex.org/W6629654626",
+        "https://openalex.org/W2031009354",
+        "https://openalex.org/W4244550332",
+        "https://openalex.org/W4210554603",
+        "https://openalex.org/W2029613674",
         "https://openalex.org/W2198878071",
         "https://openalex.org/W2229115723",
         "https://openalex.org/W625735752",
         "https://openalex.org/W1498877843",
-        "https://openalex.org/W616686322",
-        "https://openalex.org/W2029613674",
-        "https://openalex.org/W4244550332",
-        "https://openalex.org/W4210554603",
-        "https://openalex.org/W2031009354"
+        "https://openalex.org/W616686322"
       ],
       "related_works": [
         "https://openalex.org/W2355591390",
@@ -30712,7 +30706,7 @@
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.76176641,
+        "value": 0.76112889,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30933,8 +30927,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31365,7 +31359,7 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.97641067,
+        "value": 0.97651322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31649,15 +31643,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.6899999976158142,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -31700,15 +31694,15 @@
         "https://openalex.org/W79422033",
         "https://openalex.org/W2036943360",
         "https://openalex.org/W2014208081",
-        "https://openalex.org/W4285719527",
         "https://openalex.org/W1643967832",
         "https://openalex.org/W2040046731",
-        "https://openalex.org/W2742025304",
         "https://openalex.org/W618473089",
         "https://openalex.org/W625735752",
         "https://openalex.org/W616953834",
-        "https://openalex.org/W2004246597",
-        "https://openalex.org/W2090854463"
+        "https://openalex.org/W2742025304",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2090854463",
+        "https://openalex.org/W2004246597"
       ],
       "related_works": [
         "https://openalex.org/W2153872698",
@@ -31883,7 +31877,7 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.02933038,
+        "value": 0.02928177,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32163,8 +32157,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -32338,7 +32332,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.8816168,
+        "value": 0.88151454,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32679,38 +32673,38 @@
       "sustainable_development_goals": [
         {
           "score": 0.6200000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
       "referenced_works": [
-        "https://openalex.org/W2034457640",
-        "https://openalex.org/W2032466071",
+        "https://openalex.org/W2044635203",
         "https://openalex.org/W656600793",
         "https://openalex.org/W199634666",
         "https://openalex.org/W60361964",
         "https://openalex.org/W149240224",
         "https://openalex.org/W4492592",
-        "https://openalex.org/W2044635203",
-        "https://openalex.org/W2004098674",
-        "https://openalex.org/W2055950139",
-        "https://openalex.org/W2104061368",
+        "https://openalex.org/W2034457640",
+        "https://openalex.org/W2032466071",
+        "https://openalex.org/W2167590372",
+        "https://openalex.org/W2322883517",
         "https://openalex.org/W1971160697",
         "https://openalex.org/W1933993045",
+        "https://openalex.org/W2055950139",
+        "https://openalex.org/W2104061368",
+        "https://openalex.org/W2004098674",
+        "https://openalex.org/W2892248915",
         "https://openalex.org/W2087307320",
         "https://openalex.org/W2091794361",
-        "https://openalex.org/W2064656749",
-        "https://openalex.org/W2892248915",
-        "https://openalex.org/W2167590372",
-        "https://openalex.org/W2322883517"
+        "https://openalex.org/W2064656749"
       ],
       "related_works": [
         "https://openalex.org/W192455071",
@@ -33297,7 +33291,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.17767968,
+        "value": 0.1771838,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33652,29 +33646,29 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
       "referenced_works": [
         "https://openalex.org/W1498877843",
         "https://openalex.org/W625735752",
+        "https://openalex.org/W2003444005",
+        "https://openalex.org/W2000671504",
+        "https://openalex.org/W2094255421",
+        "https://openalex.org/W2072896739",
         "https://openalex.org/W1534624437",
         "https://openalex.org/W1533729466",
         "https://openalex.org/W1579281940",
-        "https://openalex.org/W3092592676",
-        "https://openalex.org/W2094255421",
-        "https://openalex.org/W2072896739",
-        "https://openalex.org/W2003444005",
-        "https://openalex.org/W2000671504"
+        "https://openalex.org/W3092592676"
       ],
       "related_works": [
         "https://openalex.org/W2185228259",
@@ -34522,7 +34516,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.7809652,
+        "value": 0.78091589,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34884,8 +34878,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8100000023841858,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -34897,8 +34891,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -35215,7 +35209,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.86610951,
+        "value": 0.86625054,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35439,8 +35433,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -35471,14 +35465,14 @@
         "https://openalex.org/W2032767312",
         "https://openalex.org/W1982838232",
         "https://openalex.org/W2139326036",
-        "https://openalex.org/W2994785673",
+        "https://openalex.org/W4285719527",
         "https://openalex.org/W60361964",
         "https://openalex.org/W1587476554",
         "https://openalex.org/W766487889",
         "https://openalex.org/W625735752",
-        "https://openalex.org/W2808094458",
         "https://openalex.org/W2503778394",
-        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2808094458",
+        "https://openalex.org/W2994785673",
         "https://openalex.org/W3209995527",
         "https://openalex.org/W2169738253"
       ],
@@ -35784,7 +35778,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.77424257,
+        "value": 0.77424319,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36046,15 +36040,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.4000000059604645,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -36094,9 +36088,9 @@
         "https://openalex.org/W590518688",
         "https://openalex.org/W1498877843",
         "https://openalex.org/W625735752",
-        "https://openalex.org/W2499136226",
         "https://openalex.org/W2055950139",
-        "https://openalex.org/W2105237111"
+        "https://openalex.org/W2105237111",
+        "https://openalex.org/W2499136226"
       ],
       "related_works": [
         "https://openalex.org/W3088766260",
@@ -36341,7 +36335,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.69071792,
+        "value": 0.69085369,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36692,8 +36686,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -36719,13 +36713,13 @@
         "https://openalex.org/W2325885818",
         "https://openalex.org/W2133875765",
         "https://openalex.org/W1676553578",
-        "https://openalex.org/W1988713496",
+        "https://openalex.org/W2028483643",
         "https://openalex.org/W161497779",
         "https://openalex.org/W1543064048",
         "https://openalex.org/W1898728865",
+        "https://openalex.org/W1988713496",
         "https://openalex.org/W3160830587",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2028483643"
+        "https://openalex.org/W4285719527"
       ],
       "related_works": [
         "https://openalex.org/W2886097736",
@@ -36902,10 +36896,7 @@
               "country_code": "CA",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I141945490",
-                "https://openalex.org/I4210128534",
-                "https://openalex.org/I4210135497",
-                "https://openalex.org/I4387154919"
+                "https://openalex.org/I141945490"
               ]
             }
           ],
@@ -36996,7 +36987,7 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.80163711,
+        "value": 0.80159956,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37402,15 +37393,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.6399999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -37454,14 +37445,14 @@
         "https://openalex.org/W6838313380",
         "https://openalex.org/W2045469782",
         "https://openalex.org/W2135339349",
-        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2990349781",
         "https://openalex.org/W60361964",
+        "https://openalex.org/W2013476508",
         "https://openalex.org/W1933993045",
         "https://openalex.org/W1548736107",
         "https://openalex.org/W4492592",
-        "https://openalex.org/W2990349781",
-        "https://openalex.org/W2013476508",
-        "https://openalex.org/W2055950139"
+        "https://openalex.org/W2055950139",
+        "https://openalex.org/W4285719527"
       ],
       "related_works": [
         "https://openalex.org/W2995174379",
@@ -37882,7 +37873,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.78184548,
+        "value": 0.78179606,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38293,15 +38284,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -38383,20 +38374,20 @@
         "https://openalex.org/W2021681301",
         "https://openalex.org/W1759226309",
         "https://openalex.org/W1968481477",
-        "https://openalex.org/W2009890101",
-        "https://openalex.org/W2029487635",
         "https://openalex.org/W2120691112",
-        "https://openalex.org/W3092404448",
-        "https://openalex.org/W3015875777",
-        "https://openalex.org/W2408349204",
-        "https://openalex.org/W1990873065",
-        "https://openalex.org/W1560654470",
+        "https://openalex.org/W2009890101",
         "https://openalex.org/W76255698",
         "https://openalex.org/W625735752",
         "https://openalex.org/W127258831",
         "https://openalex.org/W269034733",
+        "https://openalex.org/W3092404448",
+        "https://openalex.org/W3015875777",
+        "https://openalex.org/W2408349204",
+        "https://openalex.org/W1560654470",
         "https://openalex.org/W2212659180",
-        "https://openalex.org/W2181363674"
+        "https://openalex.org/W2181363674",
+        "https://openalex.org/W2029487635",
+        "https://openalex.org/W1990873065"
       ],
       "related_works": [
         "https://openalex.org/W2471366603",
@@ -38554,7 +38545,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.7514174,
+        "value": 0.75134051,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38914,33 +38905,33 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
       "referenced_works": [
-        "https://openalex.org/W1975540972",
-        "https://openalex.org/W2032398232",
-        "https://openalex.org/W625735752",
-        "https://openalex.org/W1497047052",
-        "https://openalex.org/W1558677347",
-        "https://openalex.org/W1547519091",
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W2974796042",
         "https://openalex.org/W2283724769",
         "https://openalex.org/W2321939636",
-        "https://openalex.org/W2104121056",
-        "https://openalex.org/W2112850090",
+        "https://openalex.org/W625735752",
+        "https://openalex.org/W1497047052",
+        "https://openalex.org/W2032398232",
+        "https://openalex.org/W1975540972",
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W2974796042",
+        "https://openalex.org/W1558677347",
+        "https://openalex.org/W1547519091",
         "https://openalex.org/W2162913303",
-        "https://openalex.org/W2152590005"
+        "https://openalex.org/W2152590005",
+        "https://openalex.org/W2104121056",
+        "https://openalex.org/W2112850090"
       ],
       "related_works": [
         "https://openalex.org/W1567652834",
@@ -40091,7 +40082,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.01097561,
+        "value": 0.01100244,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40512,16 +40503,16 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
       "referenced_works": [
         "https://openalex.org/W2999161041",
         "https://openalex.org/W4394682092",
-        "https://openalex.org/W2186995930",
-        "https://openalex.org/W590201780"
+        "https://openalex.org/W590201780",
+        "https://openalex.org/W2186995930"
       ],
       "related_works": [
         "https://openalex.org/W2434158672",
@@ -40849,7 +40840,7 @@
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.52544579,
+        "value": 0.52563769,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41212,8 +41203,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4285114007.pdf",
@@ -41287,22 +41278,22 @@
         "https://openalex.org/W6606915628",
         "https://openalex.org/W2009802645",
         "https://openalex.org/W2032321342",
-        "https://openalex.org/W1542845244",
-        "https://openalex.org/W170858192",
-        "https://openalex.org/W2133975418",
-        "https://openalex.org/W2101874561",
-        "https://openalex.org/W2127888210",
+        "https://openalex.org/W2595018819",
+        "https://openalex.org/W2581834115",
         "https://openalex.org/W2094461743",
         "https://openalex.org/W2083697554",
-        "https://openalex.org/W1968437447",
-        "https://openalex.org/W1653504510",
-        "https://openalex.org/W2749434136",
         "https://openalex.org/W2032466071",
         "https://openalex.org/W4255414127",
         "https://openalex.org/W4238032652",
         "https://openalex.org/W3163436326",
-        "https://openalex.org/W2595018819",
-        "https://openalex.org/W2581834115"
+        "https://openalex.org/W2749434136",
+        "https://openalex.org/W2133975418",
+        "https://openalex.org/W2101874561",
+        "https://openalex.org/W2127888210",
+        "https://openalex.org/W1542845244",
+        "https://openalex.org/W170858192",
+        "https://openalex.org/W1968437447",
+        "https://openalex.org/W1653504510"
       ],
       "related_works": [
         "https://openalex.org/W2185546898",
@@ -42012,7 +42003,7 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.79402586,
+        "value": 0.79331849,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42241,15 +42232,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -42258,10 +42249,10 @@
         "https://openalex.org/W3211123949",
         "https://openalex.org/W2097292029",
         "https://openalex.org/W2039860195",
-        "https://openalex.org/W2312478095",
         "https://openalex.org/W1595919122",
         "https://openalex.org/W625735752",
-        "https://openalex.org/W593594937"
+        "https://openalex.org/W593594937",
+        "https://openalex.org/W2312478095"
       ],
       "related_works": [
         "https://openalex.org/W2068404579",
@@ -42579,7 +42570,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.19443836,
+        "value": 0.1944749,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42751,8 +42742,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42884,7 +42875,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.14424555,
+        "value": 0.14472576,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43225,36 +43216,36 @@
       "sustainable_development_goals": [
         {
           "score": 0.699999988079071,
-          "display_name": "Clean water and sanitation",
-          "id": "https://metadata.un.org/sdg/6"
+          "id": "https://metadata.un.org/sdg/6",
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
       "referenced_works": [
-        "https://openalex.org/W2092180552",
-        "https://openalex.org/W2085177402",
-        "https://openalex.org/W2057183495",
-        "https://openalex.org/W2055978027",
-        "https://openalex.org/W2044083010",
-        "https://openalex.org/W1966454963",
+        "https://openalex.org/W2014932477",
         "https://openalex.org/W2045075378",
         "https://openalex.org/W1559302106",
-        "https://openalex.org/W1987622236",
-        "https://openalex.org/W2168279828",
-        "https://openalex.org/W2172257744",
-        "https://openalex.org/W2480861642",
-        "https://openalex.org/W2128287173",
-        "https://openalex.org/W2014932477",
         "https://openalex.org/W2004684925",
         "https://openalex.org/W2012723923",
-        "https://openalex.org/W1996312446"
+        "https://openalex.org/W1996312446",
+        "https://openalex.org/W1987622236",
+        "https://openalex.org/W2092180552",
+        "https://openalex.org/W2085177402",
+        "https://openalex.org/W2168279828",
+        "https://openalex.org/W2172257744",
+        "https://openalex.org/W2128287173",
+        "https://openalex.org/W2480861642",
+        "https://openalex.org/W1966454963",
+        "https://openalex.org/W2057183495",
+        "https://openalex.org/W2055978027",
+        "https://openalex.org/W2044083010"
       ],
       "related_works": [
         "https://openalex.org/W2090291921",
@@ -43897,7 +43888,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.06818182,
+        "value": 0.06923077,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44243,15 +44234,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44947,6 +44938,24 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210124937",
+              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
+              "ror": "https://ror.org/03dsd0g48",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
+                "https://openalex.org/I4210124937",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
               "ror": "https://ror.org/05k89ew48",
@@ -44954,53 +44963,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210124937",
-              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
-              "ror": "https://ror.org/03dsd0g48",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I195731000",
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I277688954",
-                "https://openalex.org/I4210124937",
-                "https://openalex.org/I4210148025"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
               ]
             },
             {
@@ -45015,6 +44977,36 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4210158690",
+              "display_name": "Berger (Canada)",
+              "ror": "https://ror.org/05rwjrt81",
+              "country_code": "CA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I15057530",
+              "display_name": "Université de Bordeaux",
+              "ror": "https://ror.org/057qpr032",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210154333",
               "display_name": "Archéorient",
               "ror": "https://ror.org/059xs3104",
@@ -45028,13 +45020,14 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
               ]
             }
           ],
@@ -45046,19 +45039,19 @@
           "is_corresponding": true,
           "raw_author_name": "N. Petit-Maire",
           "raw_affiliation_strings": [
-            "University of Jordan, Amman, JORDAN",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
             "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
             "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+            "University of Jordan, Amman, JORDAN",
             "FRANCE",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE"
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I114972647"
+                "https://openalex.org/I4210124937"
               ]
             },
             {
@@ -45072,17 +45065,9 @@
               ]
             },
             {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
               "institution_ids": [
-                "https://openalex.org/I4210124937"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I4210154333",
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I114972647"
               ]
             },
             {
@@ -45096,6 +45081,14 @@
               "institution_ids": [
                 "https://openalex.org/I15057530"
               ]
+            },
+            {
+              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I4210154333",
+                "https://openalex.org/I1294671590"
+              ]
             }
           ]
         },
@@ -45107,6 +45100,50 @@
             "orcid": null
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I15057530",
+              "display_name": "Université de Bordeaux",
+              "ror": "https://ror.org/057qpr032",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158690",
+              "display_name": "Berger (Canada)",
+              "ror": "https://ror.org/05rwjrt81",
+              "country_code": "CA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154333",
+              "display_name": "Archéorient",
+              "ror": "https://ror.org/059xs3104",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I4210154333"
+              ]
+            },
             {
               "id": "https://openalex.org/I114972647",
               "display_name": "University of Jordan",
@@ -45122,7 +45159,7 @@
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1294671590"
               ]
@@ -45132,59 +45169,17 @@
               "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
               "ror": "https://ror.org/03dsd0g48",
               "country_code": "FR",
-              "type": "facility",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I195731000",
                 "https://openalex.org/I2738703131",
+                "https://openalex.org/I2738703131",
                 "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
                 "https://openalex.org/I4210124937",
                 "https://openalex.org/I4210148025"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
               ]
             },
             {
@@ -45208,18 +45203,24 @@
           "raw_author_name": "P. Sanlaville",
           "raw_affiliation_strings": [
             "University of Jordan, Amman, JORDAN",
+            "FRANCE",
             "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
             "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-            "FRANCE"
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex"
           ],
           "affiliations": [
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
               "institution_ids": [
                 "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210104693"
               ]
             },
             {
@@ -45231,13 +45232,9 @@
               ]
             },
             {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I15057530"
               ]
             },
             {
@@ -45247,16 +45244,14 @@
               ]
             },
             {
-              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
               "institution_ids": [
-                "https://openalex.org/I15057530"
+                "https://openalex.org/I4210158690"
               ]
             },
             {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
             }
           ]
         },
@@ -45269,6 +45264,55 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210104693",
+              "display_name": "STMicroelectronics (France)",
+              "ror": "https://ror.org/01c74sd89",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I131827901",
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124937",
+              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
+              "ror": "https://ror.org/03dsd0g48",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
+                "https://openalex.org/I4210124937",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
               "id": "https://openalex.org/I100532134",
               "display_name": "Université Claude Bernard Lyon 1",
               "ror": "https://ror.org/029brtt94",
@@ -45277,6 +45321,16 @@
               "lineage": [
                 "https://openalex.org/I100532134",
                 "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158690",
+              "display_name": "Berger (Canada)",
+              "ror": "https://ror.org/05rwjrt81",
+              "country_code": "CA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158690"
               ]
             },
             {
@@ -45293,47 +45347,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
               "id": "https://openalex.org/I15057530",
               "display_name": "Université de Bordeaux",
               "ror": "https://ror.org/057qpr032",
@@ -45341,22 +45354,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210124937",
-              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
-              "ror": "https://ror.org/03dsd0g48",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I195731000",
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I277688954",
-                "https://openalex.org/I4210124937",
-                "https://openalex.org/I4210148025"
               ]
             }
           ],
@@ -45368,20 +45365,30 @@
           "is_corresponding": false,
           "raw_author_name": "A. Abed",
           "raw_affiliation_strings": [
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
             "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
             "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
             "FRANCE",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
             "University of Jordan, Amman, JORDAN",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE"
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE"
           ],
           "affiliations": [
+            {
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
+              ]
+            },
             {
               "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
               "institution_ids": [
                 "https://openalex.org/I4210158690"
               ]
+            },
+            {
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
             },
             {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
@@ -45396,8 +45403,10 @@
               ]
             },
             {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
+              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
             },
             {
               "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
@@ -45405,18 +45414,6 @@
                 "https://openalex.org/I100532134",
                 "https://openalex.org/I4210154333",
                 "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210124937"
               ]
             }
           ]
@@ -45430,73 +45427,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210124937",
-              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
-              "ror": "https://ror.org/03dsd0g48",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I195731000",
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I277688954",
-                "https://openalex.org/I4210124937",
-                "https://openalex.org/I4210148025"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210104693",
               "display_name": "STMicroelectronics (France)",
               "ror": "https://ror.org/01c74sd89",
@@ -45519,6 +45449,75 @@
                 "https://openalex.org/I203339264",
                 "https://openalex.org/I4210154333"
               ]
+            },
+            {
+              "id": "https://openalex.org/I15057530",
+              "display_name": "Université de Bordeaux",
+              "ror": "https://ror.org/057qpr032",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124937",
+              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
+              "ror": "https://ror.org/03dsd0g48",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
+                "https://openalex.org/I4210124937",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158690",
+              "display_name": "Berger (Canada)",
+              "ror": "https://ror.org/05rwjrt81",
+              "country_code": "CA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
             }
           ],
           "countries": [
@@ -45529,35 +45528,25 @@
           "is_corresponding": false,
           "raw_author_name": "S. Yasin",
           "raw_affiliation_strings": [
-            "FRANCE",
-            "University of Jordan, Amman, JORDAN",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
             "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+            "University of Jordan, Amman, JORDAN",
             "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE"
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+            "FRANCE",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "FRANCE",
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
               "institution_ids": [
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I4210124937"
               ]
             },
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
               "institution_ids": [
                 "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210124937"
               ]
             },
             {
@@ -45569,15 +45558,25 @@
               ]
             },
             {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
               "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
               "institution_ids": [
                 "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+              "institution_ids": [
+                "https://openalex.org/I4210158690"
               ]
             }
           ]
@@ -45591,13 +45590,41 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
+              "id": "https://openalex.org/I4210124937",
+              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
+              "ror": "https://ror.org/03dsd0g48",
               "country_code": "FR",
-              "type": "funder",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
+                "https://openalex.org/I4210124937",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158690",
+              "display_name": "Berger (Canada)",
+              "ror": "https://ror.org/05rwjrt81",
+              "country_code": "CA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158690"
               ]
             },
             {
@@ -45612,16 +45639,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210104693",
               "display_name": "STMicroelectronics (France)",
               "ror": "https://ror.org/01c74sd89",
@@ -45630,6 +45647,16 @@
               "lineage": [
                 "https://openalex.org/I131827901",
                 "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I15057530",
+              "display_name": "Université de Bordeaux",
+              "ror": "https://ror.org/057qpr032",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I15057530"
               ]
             },
             {
@@ -45646,39 +45673,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "education",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210124937",
-              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
-              "ror": "https://ror.org/03dsd0g48",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I195731000",
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I277688954",
-                "https://openalex.org/I4210124937",
-                "https://openalex.org/I4210148025"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
+                "https://openalex.org/I1294671590"
               ]
             }
           ],
@@ -45691,36 +45692,18 @@
           "raw_author_name": "R. Bourrouilh",
           "raw_affiliation_strings": [
             "University of Jordan, Amman, JORDAN",
-            "FRANCE",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
             "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
             "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex"
+            "FRANCE",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE"
           ],
           "affiliations": [
             {
               "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
               "institution_ids": [
                 "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210124937"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I15057530"
               ]
             },
             {
@@ -45738,8 +45721,26 @@
               ]
             },
             {
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
+              ]
             }
           ]
         },
@@ -45752,14 +45753,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
+              "id": "https://openalex.org/I4210158690",
+              "display_name": "Berger (Canada)",
+              "ror": "https://ror.org/05rwjrt81",
+              "country_code": "CA",
               "type": "company",
               "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
+                "https://openalex.org/I4210158690"
               ]
             },
             {
@@ -45776,6 +45776,17 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4210104693",
+              "display_name": "STMicroelectronics (France)",
+              "ror": "https://ror.org/01c74sd89",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I131827901",
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
               "id": "https://openalex.org/I100532134",
               "display_name": "Université Claude Bernard Lyon 1",
               "ror": "https://ror.org/029brtt94",
@@ -45787,13 +45798,21 @@
               ]
             },
             {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
+              "id": "https://openalex.org/I4210124937",
+              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
+              "ror": "https://ror.org/03dsd0g48",
+              "country_code": "FR",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I4210158690"
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
+                "https://openalex.org/I4210124937",
+                "https://openalex.org/I4210148025"
               ]
             },
             {
@@ -45804,22 +45823,6 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210124937",
-              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
-              "ror": "https://ror.org/03dsd0g48",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I195731000",
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I277688954",
-                "https://openalex.org/I4210124937",
-                "https://openalex.org/I4210148025"
               ]
             },
             {
@@ -45837,7 +45840,7 @@
               "display_name": "Centre National de la Recherche Scientifique",
               "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "funder",
+              "type": "government",
               "lineage": [
                 "https://openalex.org/I1294671590"
               ]
@@ -45851,12 +45854,664 @@
           "is_corresponding": false,
           "raw_author_name": "P. Carbonel",
           "raw_affiliation_strings": [
+            "FRANCE",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "University of Jordan, Amman, JORDAN"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I4210154333",
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+              "institution_ids": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063113745",
+            "display_name": "M. Fontugne",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I15057530",
+              "display_name": "Université de Bordeaux",
+              "ror": "https://ror.org/057qpr032",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158690",
+              "display_name": "Berger (Canada)",
+              "ror": "https://ror.org/05rwjrt81",
+              "country_code": "CA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124937",
+              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
+              "ror": "https://ror.org/03dsd0g48",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
+                "https://openalex.org/I4210124937",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210104693",
+              "display_name": "STMicroelectronics (France)",
+              "ror": "https://ror.org/01c74sd89",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I131827901",
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154333",
+              "display_name": "Archéorient",
+              "ror": "https://ror.org/059xs3104",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I4210154333"
+              ]
+            }
+          ],
+          "countries": [
+            "CA",
+            "FR",
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "M. Fontugne",
+          "raw_affiliation_strings": [
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+            "University of Jordan, Amman, JORDAN",
+            "FRANCE",
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
+              ]
+            },
+            {
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+              "institution_ids": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I4210154333",
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I15057530"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5042551923",
+            "display_name": "J.L. Reyss",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210124937",
+              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
+              "ror": "https://ror.org/03dsd0g48",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
+                "https://openalex.org/I4210124937",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158690",
+              "display_name": "Berger (Canada)",
+              "ror": "https://ror.org/05rwjrt81",
+              "country_code": "CA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210104693",
+              "display_name": "STMicroelectronics (France)",
+              "ror": "https://ror.org/01c74sd89",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I131827901",
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154333",
+              "display_name": "Archéorient",
+              "ror": "https://ror.org/059xs3104",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I4210154333"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I15057530",
+              "display_name": "Université de Bordeaux",
+              "ror": "https://ror.org/057qpr032",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I15057530"
+              ]
+            }
+          ],
+          "countries": [
+            "CA",
+            "FR",
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "J.L. Reyss",
+          "raw_affiliation_strings": [
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+            "University of Jordan, Amman, JORDAN",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "FRANCE",
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I4210154333",
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+              "institution_ids": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001889707",
+            "display_name": "Ai Yongde",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210104693",
+              "display_name": "STMicroelectronics (France)",
+              "ror": "https://ror.org/01c74sd89",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I131827901",
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154333",
+              "display_name": "Archéorient",
+              "ror": "https://ror.org/059xs3104",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I4210154333"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124937",
+              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
+              "ror": "https://ror.org/03dsd0g48",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
+                "https://openalex.org/I4210124937",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158690",
+              "display_name": "Berger (Canada)",
+              "ror": "https://ror.org/05rwjrt81",
+              "country_code": "CA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I15057530",
+              "display_name": "Université de Bordeaux",
+              "ror": "https://ror.org/057qpr032",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I15057530"
+              ]
+            }
+          ],
+          "countries": [
+            "CA",
+            "FR",
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ai Yongde",
+          "raw_affiliation_strings": [
+            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+            "University of Jordan, Amman, JORDAN",
+            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+            "FRANCE"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
+              "institution_ids": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210124937"
+              ]
+            },
+            {
+              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
+              "institution_ids": [
+                "https://openalex.org/I114972647"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I4210154333",
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "raw_affiliation_string": "FRANCE",
+              "institution_ids": [
+                "https://openalex.org/I4210104693"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5075403090",
+            "display_name": "A.R. Berger",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158690",
+              "display_name": "Berger (Canada)",
+              "ror": "https://ror.org/05rwjrt81",
+              "country_code": "CA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210158690"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210124937",
+              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
+              "ror": "https://ror.org/03dsd0g48",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I195731000",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I2738703131",
+                "https://openalex.org/I277688954",
+                "https://openalex.org/I4210113668",
+                "https://openalex.org/I4210124937",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I15057530",
+              "display_name": "Université de Bordeaux",
+              "ror": "https://ror.org/057qpr032",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I15057530"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210104693",
+              "display_name": "STMicroelectronics (France)",
+              "ror": "https://ror.org/01c74sd89",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I131827901",
+                "https://openalex.org/I4210104693"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210154333",
+              "display_name": "Archéorient",
+              "ror": "https://ror.org/059xs3104",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I188626449",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I4210154333"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I114972647",
+              "display_name": "University of Jordan",
+              "ror": "https://ror.org/05k89ew48",
+              "country_code": "JO",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I114972647"
+              ]
+            }
+          ],
+          "countries": [
+            "CA",
+            "FR",
+            "JO"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A.R. Berger",
+          "raw_affiliation_strings": [
             "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
             "University of Jordan, Amman, JORDAN",
             "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
             "FRANCE",
             "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
+            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
             "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex"
           ],
           "affiliations": [
@@ -45881,316 +46536,6 @@
               ]
             },
             {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210124937"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5063113745",
-            "display_name": "M. Fontugne",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210124937",
-              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
-              "ror": "https://ror.org/03dsd0g48",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I195731000",
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I277688954",
-                "https://openalex.org/I4210124937",
-                "https://openalex.org/I4210148025"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            }
-          ],
-          "countries": [
-            "CA",
-            "FR",
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "M. Fontugne",
-          "raw_affiliation_strings": [
-            "FRANCE",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "University of Jordan, Amman, JORDAN",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210124937"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I4210154333",
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5042551923",
-            "display_name": "J.L. Reyss",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210124937",
-              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
-              "ror": "https://ror.org/03dsd0g48",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I195731000",
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I277688954",
-                "https://openalex.org/I4210124937",
-                "https://openalex.org/I4210148025"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
-              ]
-            }
-          ],
-          "countries": [
-            "CA",
-            "FR",
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "J.L. Reyss",
-          "raw_affiliation_strings": [
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-            "FRANCE",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-            "University of Jordan, Amman, JORDAN"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I4210154333",
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
               "raw_affiliation_string": "FRANCE",
               "institution_ids": [
                 "https://openalex.org/I4210104693"
@@ -46209,342 +46554,8 @@
               ]
             },
             {
-              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
               "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
               "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5001889707",
-            "display_name": "Ai Yongde",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210124937",
-              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
-              "ror": "https://ror.org/03dsd0g48",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I195731000",
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I277688954",
-                "https://openalex.org/I4210124937",
-                "https://openalex.org/I4210148025"
-              ]
-            }
-          ],
-          "countries": [
-            "CA",
-            "FR",
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ai Yongde",
-          "raw_affiliation_strings": [
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-            "University of Jordan, Amman, JORDAN",
-            "FRANCE",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I4210154333",
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210124937"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5075403090",
-            "display_name": "A.R. Berger",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210154333",
-              "display_name": "Archéorient",
-              "ror": "https://ror.org/059xs3104",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I188626449",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210154333"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I15057530",
-              "display_name": "Université de Bordeaux",
-              "ror": "https://ror.org/057qpr032",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I15057530"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158690",
-              "display_name": "Berger (Canada)",
-              "ror": "https://ror.org/05rwjrt81",
-              "country_code": "CA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210124937",
-              "display_name": "Laboratoire des Sciences du Climat et de l'Environnement",
-              "ror": "https://ror.org/03dsd0g48",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I195731000",
-                "https://openalex.org/I2738703131",
-                "https://openalex.org/I277688954",
-                "https://openalex.org/I4210124937",
-                "https://openalex.org/I4210148025"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I114972647",
-              "display_name": "University of Jordan",
-              "ror": "https://ror.org/05k89ew48",
-              "country_code": "JO",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210104693",
-              "display_name": "STMicroelectronics (France)",
-              "ror": "https://ror.org/01c74sd89",
-              "country_code": "FR",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I131827901",
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "CA",
-            "FR",
-            "JO"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "A.R. Berger",
-          "raw_affiliation_strings": [
-            "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-            "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-            "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-            "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-            "FRANCE",
-            "University of Jordan, Amman, JORDAN",
-            "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "A . R. Berger 528 Paradise Street Victoria BC V9A 5E2 CANADA",
-              "institution_ids": [
-                "https://openalex.org/I4210158690"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UMR 5647-GREMMO, CNRS-Université Lyon 2, Maison de l'Orient, 7 rue Raulin, 69007, Lyon, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I4210154333",
-                "https://openalex.org/I1294671590"
-              ]
-            },
-            {
-              "raw_affiliation_string": "UMR 6636, CNRS, MMSH, BP 647, 13094 Aix-en-Provence, Cedex",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "LSCE, Domaine du CNRS, 91198 Gif-sur-Yvette, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210124937"
-              ]
-            },
-            {
-              "raw_affiliation_string": "FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I4210104693"
-              ]
-            },
-            {
-              "raw_affiliation_string": "University of Jordan, Amman, JORDAN",
-              "institution_ids": [
-                "https://openalex.org/I114972647"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Département de Géologie, Université de Bordeaux 1, 33405 Talence cedex, FRANCE",
-              "institution_ids": [
-                "https://openalex.org/I15057530"
-              ]
             }
           ]
         }
@@ -46556,14 +46567,14 @@
         "https://openalex.org/A5040595231"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I114972647",
-        "https://openalex.org/I100532134",
         "https://openalex.org/I4210124937",
+        "https://openalex.org/I114972647",
+        "https://openalex.org/I4210104693",
+        "https://openalex.org/I4210158690",
         "https://openalex.org/I15057530",
         "https://openalex.org/I1294671590",
-        "https://openalex.org/I4210104693",
         "https://openalex.org/I4210154333",
-        "https://openalex.org/I4210158690"
+        "https://openalex.org/I100532134"
       ],
       "apc_list": null,
       "apc_paid": null,
@@ -46675,8 +46686,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4248851121.pdf",
@@ -46684,9 +46695,9 @@
       },
       "referenced_works_count": 3,
       "referenced_works": [
-        "https://openalex.org/W2075706312",
         "https://openalex.org/W1977005652",
-        "https://openalex.org/W1985425997"
+        "https://openalex.org/W1985425997",
+        "https://openalex.org/W2075706312"
       ],
       "related_works": [
         "https://openalex.org/W2141795027",
@@ -46950,7 +46961,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.06024303,
+        "value": 0.06015231,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47228,15 +47239,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.6299999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -47274,17 +47285,17 @@
         "https://openalex.org/W4210554603",
         "https://openalex.org/W2005078130",
         "https://openalex.org/W2088769442",
+        "https://openalex.org/W2290067961",
+        "https://openalex.org/W2500070508",
+        "https://openalex.org/W2499136226",
+        "https://openalex.org/W2947307941",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W2032767312",
+        "https://openalex.org/W2105237111",
         "https://openalex.org/W1498877843",
         "https://openalex.org/W81898466",
         "https://openalex.org/W625735752",
-        "https://openalex.org/W590518688",
-        "https://openalex.org/W2290067961",
-        "https://openalex.org/W2947307941",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2500070508",
-        "https://openalex.org/W2499136226",
-        "https://openalex.org/W2105237111",
-        "https://openalex.org/W2032767312"
+        "https://openalex.org/W590518688"
       ],
       "related_works": [
         "https://openalex.org/W2890468704",
@@ -47449,7 +47460,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.33786834,
+        "value": 0.33794962,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47644,15 +47655,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -47860,7 +47871,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.35019405,
+        "value": 0.35025873,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48064,15 +48075,15 @@
       "sustainable_development_goals": [
         {
           "score": 0.4099999964237213,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48200,7 +48211,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.75463859,
+        "value": 0.75501392,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -48348,8 +48359,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

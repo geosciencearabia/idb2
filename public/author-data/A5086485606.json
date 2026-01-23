@@ -668,7 +668,7 @@
       "has_fulltext": false,
       "cited_by_count": 148,
       "citation_normalized_percentile": {
-        "value": 0.97613464,
+        "value": 0.97616423,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1034,15 +1034,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 119,
@@ -1115,46 +1115,10 @@
         "https://openalex.org/W6634304457",
         "https://openalex.org/W52000096",
         "https://openalex.org/W2078052519",
-        "https://openalex.org/W2200214261",
-        "https://openalex.org/W2238431605",
-        "https://openalex.org/W2274327495",
-        "https://openalex.org/W2164646417",
-        "https://openalex.org/W2183975680",
-        "https://openalex.org/W2312224365",
-        "https://openalex.org/W2083392951",
-        "https://openalex.org/W2081834467",
-        "https://openalex.org/W2079133472",
-        "https://openalex.org/W2018547532",
-        "https://openalex.org/W2027754460",
-        "https://openalex.org/W1981737804",
-        "https://openalex.org/W1983757492",
-        "https://openalex.org/W1979149800",
-        "https://openalex.org/W2004089187",
-        "https://openalex.org/W1995990108",
-        "https://openalex.org/W2002179256",
-        "https://openalex.org/W2001704267",
-        "https://openalex.org/W2001112911",
-        "https://openalex.org/W1973702330",
-        "https://openalex.org/W2098699217",
-        "https://openalex.org/W2095411736",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W3099432315",
-        "https://openalex.org/W2989049194",
-        "https://openalex.org/W4254405353",
-        "https://openalex.org/W4241040771",
-        "https://openalex.org/W3098686070",
-        "https://openalex.org/W2116194611",
-        "https://openalex.org/W2051188873",
-        "https://openalex.org/W2063013251",
-        "https://openalex.org/W2065375137",
-        "https://openalex.org/W2070603872",
-        "https://openalex.org/W2069371275",
-        "https://openalex.org/W2155588904",
-        "https://openalex.org/W2139566946",
-        "https://openalex.org/W2140724226",
-        "https://openalex.org/W2158879047",
         "https://openalex.org/W1548767494",
         "https://openalex.org/W1588642851",
+        "https://openalex.org/W2018547532",
+        "https://openalex.org/W2027754460",
         "https://openalex.org/W1490824661",
         "https://openalex.org/W1527927531",
         "https://openalex.org/W1576732697",
@@ -1165,7 +1129,43 @@
         "https://openalex.org/W1516314724",
         "https://openalex.org/W576341826",
         "https://openalex.org/W1601770134",
-        "https://openalex.org/W2495900694"
+        "https://openalex.org/W2083392951",
+        "https://openalex.org/W2081834467",
+        "https://openalex.org/W2079133472",
+        "https://openalex.org/W2116194611",
+        "https://openalex.org/W1981737804",
+        "https://openalex.org/W1983757492",
+        "https://openalex.org/W1979149800",
+        "https://openalex.org/W1973702330",
+        "https://openalex.org/W2495900694",
+        "https://openalex.org/W2004089187",
+        "https://openalex.org/W1995990108",
+        "https://openalex.org/W2002179256",
+        "https://openalex.org/W2001704267",
+        "https://openalex.org/W2001112911",
+        "https://openalex.org/W2063013251",
+        "https://openalex.org/W2065375137",
+        "https://openalex.org/W2070603872",
+        "https://openalex.org/W2069371275",
+        "https://openalex.org/W2098699217",
+        "https://openalex.org/W2095411736",
+        "https://openalex.org/W2200214261",
+        "https://openalex.org/W2238431605",
+        "https://openalex.org/W2274327495",
+        "https://openalex.org/W2164646417",
+        "https://openalex.org/W2183975680",
+        "https://openalex.org/W2312224365",
+        "https://openalex.org/W2051188873",
+        "https://openalex.org/W2155588904",
+        "https://openalex.org/W2139566946",
+        "https://openalex.org/W2140724226",
+        "https://openalex.org/W2158879047",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W3099432315",
+        "https://openalex.org/W2989049194",
+        "https://openalex.org/W4254405353",
+        "https://openalex.org/W4241040771",
+        "https://openalex.org/W3098686070"
       ],
       "related_works": [
         "https://openalex.org/W2372981469",
@@ -1240,6 +1240,881 @@
         {
           "year": 2012,
           "cited_by_count": 10
+        }
+      ],
+      "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2078052519",
+      "doi": "https://doi.org/10.1016/j.marpetgeo.2003.11.014",
+      "title": "Quantitative Meso-/Cenozoic development of the eastern Central Atlantic continental shelf, western High Atlas, Morocco",
+      "display_name": "Quantitative Meso-/Cenozoic development of the eastern Central Atlantic continental shelf, western High Atlas, Morocco",
+      "publication_year": 2004,
+      "publication_date": "2004-02-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2078052519",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2003.11.014",
+        "mag": "2078052519"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.marpetgeo.2003.11.014",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2003.11.014",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S93565542",
+          "display_name": "Marine and Petroleum Geology",
+          "issn_l": "0264-8172",
+          "issn": [
+            "0264-8172",
+            "1873-4073"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Marine and Petroleum Geology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5086485606",
+            "display_name": "Rainer Zühlke",
+            "orcid": "https://orcid.org/0000-0001-8629-983X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I223822909",
+              "display_name": "Heidelberg University",
+              "ror": "https://ror.org/038t36y30",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Rainer Zühlke",
+          "raw_affiliation_strings": [
+            "Institute of Geology and Paleontology, Ruprecht Karl University, Im Neuenheimer Feld 234, D-69120 Heidelberg, Germany"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geology and Paleontology, Ruprecht Karl University, Im Neuenheimer Feld 234, D-69120 Heidelberg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074930750",
+            "display_name": "Mohammed-Saïd Bouaouda",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210125507",
+              "display_name": "Chouaib Doukkali University",
+              "ror": "https://ror.org/036kgyt43",
+              "country_code": "MA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210125507"
+              ]
+            }
+          ],
+          "countries": [
+            "MA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed-Said Bouaouda",
+          "raw_affiliation_strings": [
+            "Department of Geology, Faculty of Sciences, Chouaib Doukkali University, B.P. 20, 24000 El Jadida, Morocco"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Faculty of Sciences, Chouaib Doukkali University, B.P. 20, 24000 El Jadida, Morocco",
+              "institution_ids": [
+                "https://openalex.org/I4210125507"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060940235",
+            "display_name": "Brahim Ouajhain",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210125507",
+              "display_name": "Chouaib Doukkali University",
+              "ror": "https://ror.org/036kgyt43",
+              "country_code": "MA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210125507"
+              ]
+            }
+          ],
+          "countries": [
+            "MA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Brahim Ouajhain",
+          "raw_affiliation_strings": [
+            "Department of Geology, Faculty of Sciences, Chouaib Doukkali University, B.P. 20, 24000 El Jadida, Morocco"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Faculty of Sciences, Chouaib Doukkali University, B.P. 20, 24000 El Jadida, Morocco",
+              "institution_ids": [
+                "https://openalex.org/I4210125507"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086838587",
+            "display_name": "Thilo Bechstädt",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I223822909",
+              "display_name": "Heidelberg University",
+              "ror": "https://ror.org/038t36y30",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thilo Bechstädt",
+          "raw_affiliation_strings": [
+            "Institute of Geology and Paleontology, Ruprecht Karl University, Im Neuenheimer Feld 234, D-69120 Heidelberg, Germany"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geology and Paleontology, Ruprecht Karl University, Im Neuenheimer Feld 234, D-69120 Heidelberg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I223822909"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5043465473",
+            "display_name": "Reinhold Leinfelder",
+            "orcid": "https://orcid.org/0000-0002-4107-2161"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I8204097",
+              "display_name": "Ludwig-Maximilians-Universität München",
+              "ror": "https://ror.org/05591te55",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I8204097"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Reinhold Leinfelder",
+          "raw_affiliation_strings": [
+            "Geosciences and Environmental Sciences—Paleontology, Ludwig Maximilian University, Richard-Wagner-Str. 10, D-80333 München, Germany"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences and Environmental Sciences—Paleontology, Ludwig Maximilian University, Richard-Wagner-Str. 10, D-80333 München, Germany",
+              "institution_ids": [
+                "https://openalex.org/I8204097"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5086485606"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I223822909"
+      ],
+      "apc_list": {
+        "value": 3490,
+        "currency": "USD",
+        "value_usd": 3490
+      },
+      "apc_paid": null,
+      "fwci": 0.74660871,
+      "has_fulltext": false,
+      "cited_by_count": 69,
+      "citation_normalized_percentile": {
+        "value": 0.72334518,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "21",
+        "issue": "2",
+        "first_page": "225",
+        "last_page": "276"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13205",
+        "display_name": "Geological and Geophysical Studies Worldwide",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10110",
+          "display_name": "earthquake and tectonic studies",
+          "score": 0.9965999722480774,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13404",
+          "display_name": "Geological and Tectonic Studies in Latin America",
+          "score": 0.9386000037193298,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.9261655807495117
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.7848755717277527
+        },
+        {
+          "id": "https://openalex.org/keywords/rift",
+          "display_name": "Rift",
+          "score": 0.6428501009941101
+        },
+        {
+          "id": "https://openalex.org/keywords/inversion",
+          "display_name": "Inversion (geology)",
+          "score": 0.5533129572868347
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.545131266117096
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonic-subsidence",
+          "display_name": "Tectonic subsidence",
+          "score": 0.49987339973449707
+        },
+        {
+          "id": "https://openalex.org/keywords/thermal-subsidence",
+          "display_name": "Thermal subsidence",
+          "score": 0.49097684025764465
+        },
+        {
+          "id": "https://openalex.org/keywords/continental-shelf",
+          "display_name": "Continental shelf",
+          "score": 0.48742201924324036
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.46012115478515625
+        },
+        {
+          "id": "https://openalex.org/keywords/passive-margin",
+          "display_name": "Passive margin",
+          "score": 0.45757269859313965
+        },
+        {
+          "id": "https://openalex.org/keywords/continental-margin",
+          "display_name": "Continental margin",
+          "score": 0.4541971981525421
+        },
+        {
+          "id": "https://openalex.org/keywords/cenozoic",
+          "display_name": "Cenozoic",
+          "score": 0.4504469633102417
+        },
+        {
+          "id": "https://openalex.org/keywords/seafloor-spreading",
+          "display_name": "Seafloor spreading",
+          "score": 0.44694775342941284
+        },
+        {
+          "id": "https://openalex.org/keywords/permian",
+          "display_name": "Permian",
+          "score": 0.41370105743408203
+        },
+        {
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "Unconformity",
+          "score": 0.41091880202293396
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.3704858422279358
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.20702365040779114
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9261655807495117
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7848755717277527
+        },
+        {
+          "id": "https://openalex.org/C50682988",
+          "wikidata": "https://www.wikidata.org/wiki/Q473935",
+          "display_name": "Rift",
+          "level": 3,
+          "score": 0.6428501009941101
+        },
+        {
+          "id": "https://openalex.org/C1893757",
+          "wikidata": "https://www.wikidata.org/wiki/Q3653001",
+          "display_name": "Inversion (geology)",
+          "level": 3,
+          "score": 0.5533129572868347
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.545131266117096
+        },
+        {
+          "id": "https://openalex.org/C100951216",
+          "wikidata": "https://www.wikidata.org/wiki/Q7692853",
+          "display_name": "Tectonic subsidence",
+          "level": 4,
+          "score": 0.49987339973449707
+        },
+        {
+          "id": "https://openalex.org/C97995005",
+          "wikidata": "https://www.wikidata.org/wiki/Q7783073",
+          "display_name": "Thermal subsidence",
+          "level": 4,
+          "score": 0.49097684025764465
+        },
+        {
+          "id": "https://openalex.org/C184751465",
+          "wikidata": "https://www.wikidata.org/wiki/Q134851",
+          "display_name": "Continental shelf",
+          "level": 2,
+          "score": 0.48742201924324036
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.46012115478515625
+        },
+        {
+          "id": "https://openalex.org/C201633675",
+          "wikidata": "https://www.wikidata.org/wiki/Q1918464",
+          "display_name": "Passive margin",
+          "level": 4,
+          "score": 0.45757269859313965
+        },
+        {
+          "id": "https://openalex.org/C201867031",
+          "wikidata": "https://www.wikidata.org/wiki/Q3290577",
+          "display_name": "Continental margin",
+          "level": 3,
+          "score": 0.4541971981525421
+        },
+        {
+          "id": "https://openalex.org/C73707237",
+          "wikidata": "https://www.wikidata.org/wiki/Q102416",
+          "display_name": "Cenozoic",
+          "level": 3,
+          "score": 0.4504469633102417
+        },
+        {
+          "id": "https://openalex.org/C117485682",
+          "wikidata": "https://www.wikidata.org/wiki/Q215920",
+          "display_name": "Seafloor spreading",
+          "level": 2,
+          "score": 0.44694775342941284
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.41370105743408203
+        },
+        {
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.41091880202293396
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.3704858422279358
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.20702365040779114
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.marpetgeo.2003.11.014",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2003.11.014",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S93565542",
+            "display_name": "Marine and Petroleum Geology",
+            "issn_l": "0264-8172",
+            "issn": [
+              "0264-8172",
+              "1873-4073"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Marine and Petroleum Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 188,
+      "referenced_works": [
+        "https://openalex.org/W2005174993",
+        "https://openalex.org/W2013811209",
+        "https://openalex.org/W2224543197",
+        "https://openalex.org/W2089808263",
+        "https://openalex.org/W2328921076",
+        "https://openalex.org/W6602409135",
+        "https://openalex.org/W4231152028",
+        "https://openalex.org/W6679905551",
+        "https://openalex.org/W6794122906",
+        "https://openalex.org/W6669156601",
+        "https://openalex.org/W6659311982",
+        "https://openalex.org/W2517289410",
+        "https://openalex.org/W1984633020",
+        "https://openalex.org/W2108316127",
+        "https://openalex.org/W2069232301",
+        "https://openalex.org/W6676470889",
+        "https://openalex.org/W2134283653",
+        "https://openalex.org/W6676647123",
+        "https://openalex.org/W6686310583",
+        "https://openalex.org/W6709793107",
+        "https://openalex.org/W2062371776",
+        "https://openalex.org/W2738524489",
+        "https://openalex.org/W2329932465",
+        "https://openalex.org/W2466718964",
+        "https://openalex.org/W6697131534",
+        "https://openalex.org/W2025595917",
+        "https://openalex.org/W6636622775",
+        "https://openalex.org/W6636691936",
+        "https://openalex.org/W6649699785",
+        "https://openalex.org/W1540939928",
+        "https://openalex.org/W2079318222",
+        "https://openalex.org/W1580779233",
+        "https://openalex.org/W2033223278",
+        "https://openalex.org/W6720564315",
+        "https://openalex.org/W6645502985",
+        "https://openalex.org/W1984197439",
+        "https://openalex.org/W2091682873",
+        "https://openalex.org/W6649523600",
+        "https://openalex.org/W6687920596",
+        "https://openalex.org/W2086597086",
+        "https://openalex.org/W6674092478",
+        "https://openalex.org/W6742452717",
+        "https://openalex.org/W6726516286",
+        "https://openalex.org/W6660402616",
+        "https://openalex.org/W6637179434",
+        "https://openalex.org/W2263460781",
+        "https://openalex.org/W6656770159",
+        "https://openalex.org/W6739758605",
+        "https://openalex.org/W2015255716",
+        "https://openalex.org/W2139497263",
+        "https://openalex.org/W6724690860",
+        "https://openalex.org/W6679513761",
+        "https://openalex.org/W6724829197",
+        "https://openalex.org/W6604781383",
+        "https://openalex.org/W6724679672",
+        "https://openalex.org/W1980616643",
+        "https://openalex.org/W6628698595",
+        "https://openalex.org/W2170417410",
+        "https://openalex.org/W6724719675",
+        "https://openalex.org/W6792902715",
+        "https://openalex.org/W2049684630",
+        "https://openalex.org/W6669909584",
+        "https://openalex.org/W2121168809",
+        "https://openalex.org/W6650322398",
+        "https://openalex.org/W2092331504",
+        "https://openalex.org/W1997362419",
+        "https://openalex.org/W2116033897",
+        "https://openalex.org/W2598173136",
+        "https://openalex.org/W2131279760",
+        "https://openalex.org/W2036550251",
+        "https://openalex.org/W6606549002",
+        "https://openalex.org/W1965814220",
+        "https://openalex.org/W1980655250",
+        "https://openalex.org/W88001942",
+        "https://openalex.org/W1972663134",
+        "https://openalex.org/W2022895897",
+        "https://openalex.org/W6723291396",
+        "https://openalex.org/W6671406775",
+        "https://openalex.org/W2104915444",
+        "https://openalex.org/W6601137866",
+        "https://openalex.org/W6658899537",
+        "https://openalex.org/W2059890537",
+        "https://openalex.org/W6608046621",
+        "https://openalex.org/W6727948040",
+        "https://openalex.org/W2108242292",
+        "https://openalex.org/W2256857398",
+        "https://openalex.org/W6636224614",
+        "https://openalex.org/W1995902725",
+        "https://openalex.org/W2499049219",
+        "https://openalex.org/W1994081491",
+        "https://openalex.org/W6723412499",
+        "https://openalex.org/W1995661138",
+        "https://openalex.org/W2083832150",
+        "https://openalex.org/W6600385649",
+        "https://openalex.org/W6626185027",
+        "https://openalex.org/W6633557109",
+        "https://openalex.org/W2004293503",
+        "https://openalex.org/W2034558593",
+        "https://openalex.org/W2034599236",
+        "https://openalex.org/W2039130136",
+        "https://openalex.org/W623181662",
+        "https://openalex.org/W585267118",
+        "https://openalex.org/W9259548",
+        "https://openalex.org/W585197870",
+        "https://openalex.org/W59627764",
+        "https://openalex.org/W1483051679",
+        "https://openalex.org/W351220110",
+        "https://openalex.org/W583518584",
+        "https://openalex.org/W598551091",
+        "https://openalex.org/W26667863",
+        "https://openalex.org/W1490086197",
+        "https://openalex.org/W278538971",
+        "https://openalex.org/W2895640657",
+        "https://openalex.org/W2931574751",
+        "https://openalex.org/W2906286249",
+        "https://openalex.org/W2505332524",
+        "https://openalex.org/W2742504747",
+        "https://openalex.org/W2606234829",
+        "https://openalex.org/W2904622413",
+        "https://openalex.org/W2481079601",
+        "https://openalex.org/W2501977074",
+        "https://openalex.org/W2525995279",
+        "https://openalex.org/W2625797804",
+        "https://openalex.org/W2936322274",
+        "https://openalex.org/W2477429971",
+        "https://openalex.org/W2489392382",
+        "https://openalex.org/W2500752255",
+        "https://openalex.org/W2921707452",
+        "https://openalex.org/W2936999549",
+        "https://openalex.org/W2489813515",
+        "https://openalex.org/W2378092060",
+        "https://openalex.org/W2475678652",
+        "https://openalex.org/W2492861622",
+        "https://openalex.org/W2603142873",
+        "https://openalex.org/W2078180111",
+        "https://openalex.org/W2082178156",
+        "https://openalex.org/W2075162620",
+        "https://openalex.org/W2101154860",
+        "https://openalex.org/W2094959025",
+        "https://openalex.org/W2099339012",
+        "https://openalex.org/W2109934455",
+        "https://openalex.org/W1997392065",
+        "https://openalex.org/W1997252211",
+        "https://openalex.org/W2000100070",
+        "https://openalex.org/W2009663196",
+        "https://openalex.org/W2182244029",
+        "https://openalex.org/W2200214261",
+        "https://openalex.org/W2313140016",
+        "https://openalex.org/W2291977426",
+        "https://openalex.org/W2283947894",
+        "https://openalex.org/W2024182906",
+        "https://openalex.org/W2020499116",
+        "https://openalex.org/W2141839758",
+        "https://openalex.org/W2158923311",
+        "https://openalex.org/W4248656647",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W3145698902",
+        "https://openalex.org/W4243561159",
+        "https://openalex.org/W3207810096",
+        "https://openalex.org/W585980875",
+        "https://openalex.org/W197934169",
+        "https://openalex.org/W119777211",
+        "https://openalex.org/W1007930817",
+        "https://openalex.org/W405873050",
+        "https://openalex.org/W191869074",
+        "https://openalex.org/W162777276",
+        "https://openalex.org/W2129780655",
+        "https://openalex.org/W2123621255",
+        "https://openalex.org/W2130950244",
+        "https://openalex.org/W1980966991",
+        "https://openalex.org/W1642406791",
+        "https://openalex.org/W1546345752",
+        "https://openalex.org/W1601825996",
+        "https://openalex.org/W1558464430",
+        "https://openalex.org/W1584140374",
+        "https://openalex.org/W1669997484",
+        "https://openalex.org/W1615278530",
+        "https://openalex.org/W1544009850",
+        "https://openalex.org/W1625571808",
+        "https://openalex.org/W1555476047",
+        "https://openalex.org/W1576732697",
+        "https://openalex.org/W1559031182",
+        "https://openalex.org/W1552256970",
+        "https://openalex.org/W1581594313",
+        "https://openalex.org/W1598440325",
+        "https://openalex.org/W3115877766",
+        "https://openalex.org/W2044732818",
+        "https://openalex.org/W2034716029"
+      ],
+      "related_works": [
+        "https://openalex.org/W2143848935",
+        "https://openalex.org/W2266013006",
+        "https://openalex.org/W2005272839",
+        "https://openalex.org/W2080528687",
+        "https://openalex.org/W159021954",
+        "https://openalex.org/W2133562679",
+        "https://openalex.org/W2766145424",
+        "https://openalex.org/W2283058213",
+        "https://openalex.org/W2082690854",
+        "https://openalex.org/W2062452924"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 5
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -1621,7 +2496,7 @@
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.98116539,
+        "value": 0.9808032,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2106,8 +2981,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 188,
@@ -2288,6 +3163,10 @@
         "https://openalex.org/W2933570026",
         "https://openalex.org/W2007990638",
         "https://openalex.org/W3137033041",
+        "https://openalex.org/W4298105553",
+        "https://openalex.org/W2095335143",
+        "https://openalex.org/W2112745391",
+        "https://openalex.org/W2417828621",
         "https://openalex.org/W2343035355",
         "https://openalex.org/W4205129767",
         "https://openalex.org/W4229820773",
@@ -2295,11 +3174,7 @@
         "https://openalex.org/W3102445392",
         "https://openalex.org/W122213848",
         "https://openalex.org/W1532445266",
-        "https://openalex.org/W1979345769",
-        "https://openalex.org/W2112745391",
-        "https://openalex.org/W2095335143",
-        "https://openalex.org/W4298105553",
-        "https://openalex.org/W2417828621"
+        "https://openalex.org/W1979345769"
       ],
       "related_works": [
         "https://openalex.org/W2156841402",
@@ -3360,7 +4235,7 @@
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.97473049,
+        "value": 0.97439876,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3643,8 +4518,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -3720,16 +4595,16 @@
         "https://openalex.org/W2027254180",
         "https://openalex.org/W2092441217",
         "https://openalex.org/W2138286550",
-        "https://openalex.org/W2064770948",
-        "https://openalex.org/W2029682075",
-        "https://openalex.org/W2170084857",
+        "https://openalex.org/W566961871",
+        "https://openalex.org/W1750877454",
         "https://openalex.org/W4243520492",
         "https://openalex.org/W4250670993",
         "https://openalex.org/W4252144897",
         "https://openalex.org/W4307141902",
         "https://openalex.org/W4281829039",
-        "https://openalex.org/W566961871",
-        "https://openalex.org/W1750877454"
+        "https://openalex.org/W2170084857",
+        "https://openalex.org/W2064770948",
+        "https://openalex.org/W2029682075"
       ],
       "related_works": [
         "https://openalex.org/W2743211649",
@@ -3981,7 +4856,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.96235804,
+        "value": 0.96232148,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4309,8 +5184,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4322,8 +5197,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -4389,8 +5264,15 @@
         "https://openalex.org/W2768709882",
         "https://openalex.org/W3186828471",
         "https://openalex.org/W2060587541",
-        "https://openalex.org/W2036864176",
+        "https://openalex.org/W2260489687",
+        "https://openalex.org/W2246632445",
+        "https://openalex.org/W2481391701",
+        "https://openalex.org/W2097504123",
+        "https://openalex.org/W2073625108",
+        "https://openalex.org/W2921581137",
         "https://openalex.org/W2972894414",
+        "https://openalex.org/W4255669538",
+        "https://openalex.org/W2036864176",
         "https://openalex.org/W1549749298",
         "https://openalex.org/W1982339776",
         "https://openalex.org/W1527101551",
@@ -4398,14 +5280,7 @@
         "https://openalex.org/W659468049",
         "https://openalex.org/W1975491457",
         "https://openalex.org/W1541717834",
-        "https://openalex.org/W4255669538",
-        "https://openalex.org/W2921581137",
-        "https://openalex.org/W2053933900",
-        "https://openalex.org/W2097504123",
-        "https://openalex.org/W2073625108",
-        "https://openalex.org/W2260489687",
-        "https://openalex.org/W2246632445",
-        "https://openalex.org/W2481391701"
+        "https://openalex.org/W2053933900"
       ],
       "related_works": [
         "https://openalex.org/W2361079101",
@@ -4695,7 +5570,7 @@
       "citation_normalized_percentile": {
         "value": 0.92946058,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 89,
@@ -4936,15 +5811,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -4980,16 +5855,6 @@
         "https://openalex.org/W142159670",
         "https://openalex.org/W2028493323",
         "https://openalex.org/W2065761817",
-        "https://openalex.org/W3010483552",
-        "https://openalex.org/W3192669590",
-        "https://openalex.org/W3123079927",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W3210527458",
-        "https://openalex.org/W2136199147",
-        "https://openalex.org/W2169964049",
-        "https://openalex.org/W2182374838",
-        "https://openalex.org/W2285666882",
-        "https://openalex.org/W2230753312",
         "https://openalex.org/W2740426846",
         "https://openalex.org/W3000870906",
         "https://openalex.org/W2955557873",
@@ -5000,7 +5865,17 @@
         "https://openalex.org/W827275039",
         "https://openalex.org/W1570153353",
         "https://openalex.org/W2562650554",
-        "https://openalex.org/W2912641732"
+        "https://openalex.org/W2912641732",
+        "https://openalex.org/W2136199147",
+        "https://openalex.org/W2169964049",
+        "https://openalex.org/W2182374838",
+        "https://openalex.org/W2285666882",
+        "https://openalex.org/W2230753312",
+        "https://openalex.org/W3010483552",
+        "https://openalex.org/W3192669590",
+        "https://openalex.org/W3123079927",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W3210527458"
       ],
       "related_works": [
         "https://openalex.org/W2366321180",
@@ -5198,7 +6073,7 @@
       "has_fulltext": false,
       "cited_by_count": 95,
       "citation_normalized_percentile": {
-        "value": 0.99894848,
+        "value": 0.99894737,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -5467,15 +6342,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6476,9 +7351,9 @@
       "has_fulltext": false,
       "cited_by_count": 86,
       "citation_normalized_percentile": {
-        "value": 0.9050509,
+        "value": 0.90475255,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
+        "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 89,
@@ -6712,56 +7587,56 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
       "referenced_works": [
+        "https://openalex.org/W2069299461",
+        "https://openalex.org/W2101396374",
+        "https://openalex.org/W2005448825",
+        "https://openalex.org/W2008659547",
+        "https://openalex.org/W2170427367",
+        "https://openalex.org/W2256610316",
+        "https://openalex.org/W2274062974",
+        "https://openalex.org/W2343010915",
+        "https://openalex.org/W2328433671",
+        "https://openalex.org/W2517942026",
+        "https://openalex.org/W2088784529",
+        "https://openalex.org/W2086880253",
+        "https://openalex.org/W2053191935",
+        "https://openalex.org/W2053986715",
+        "https://openalex.org/W2054515716",
+        "https://openalex.org/W1543246531",
+        "https://openalex.org/W2132300109",
+        "https://openalex.org/W2127686408",
+        "https://openalex.org/W2128500185",
+        "https://openalex.org/W237997984",
+        "https://openalex.org/W878004301",
         "https://openalex.org/W1973253110",
         "https://openalex.org/W1977641808",
         "https://openalex.org/W1970880048",
         "https://openalex.org/W1967395953",
         "https://openalex.org/W1974110480",
         "https://openalex.org/W1979052351",
+        "https://openalex.org/W1987896011",
+        "https://openalex.org/W88001942",
+        "https://openalex.org/W581292096",
         "https://openalex.org/W2013469509",
+        "https://openalex.org/W2027331819",
+        "https://openalex.org/W2042803964",
         "https://openalex.org/W2139323869",
         "https://openalex.org/W2136812993",
         "https://openalex.org/W2151838544",
         "https://openalex.org/W2152668572",
-        "https://openalex.org/W2088784529",
-        "https://openalex.org/W2086880253",
-        "https://openalex.org/W2053191935",
-        "https://openalex.org/W2053986715",
-        "https://openalex.org/W2054515716",
-        "https://openalex.org/W2005448825",
-        "https://openalex.org/W2008659547",
-        "https://openalex.org/W2101396374",
-        "https://openalex.org/W2069299461",
-        "https://openalex.org/W2170427367",
-        "https://openalex.org/W2256610316",
-        "https://openalex.org/W2274062974",
-        "https://openalex.org/W88001942",
-        "https://openalex.org/W581292096",
-        "https://openalex.org/W1543246531",
-        "https://openalex.org/W2027331819",
-        "https://openalex.org/W2042803964",
-        "https://openalex.org/W237997984",
-        "https://openalex.org/W878004301",
-        "https://openalex.org/W1987896011",
-        "https://openalex.org/W2132300109",
-        "https://openalex.org/W2127686408",
-        "https://openalex.org/W2128500185",
-        "https://openalex.org/W2343010915",
-        "https://openalex.org/W2328433671",
-        "https://openalex.org/W2517942026",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W3094840378"
       ],
@@ -7553,7 +8428,7 @@
       "has_fulltext": false,
       "cited_by_count": 82,
       "citation_normalized_percentile": {
-        "value": 0.95134212,
+        "value": 0.95134924,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7840,8 +8715,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -8307,877 +9182,6 @@
         {
           "year": 2012,
           "cited_by_count": 6
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2078052519",
-      "doi": "https://doi.org/10.1016/j.marpetgeo.2003.11.014",
-      "title": "Quantitative Meso-/Cenozoic development of the eastern Central Atlantic continental shelf, western High Atlas, Morocco",
-      "display_name": "Quantitative Meso-/Cenozoic development of the eastern Central Atlantic continental shelf, western High Atlas, Morocco",
-      "publication_year": 2004,
-      "publication_date": "2004-02-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2078052519",
-        "doi": "https://doi.org/10.1016/j.marpetgeo.2003.11.014",
-        "mag": "2078052519"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.marpetgeo.2003.11.014",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2003.11.014",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S93565542",
-          "display_name": "Marine and Petroleum Geology",
-          "issn_l": "0264-8172",
-          "issn": [
-            "0264-8172",
-            "1873-4073"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Marine and Petroleum Geology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5086485606",
-            "display_name": "Rainer Zühlke",
-            "orcid": "https://orcid.org/0000-0001-8629-983X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I223822909",
-              "display_name": "Heidelberg University",
-              "ror": "https://ror.org/038t36y30",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Rainer Zühlke",
-          "raw_affiliation_strings": [
-            "Institute of Geology and Paleontology, Ruprecht Karl University, Im Neuenheimer Feld 234, D-69120 Heidelberg, Germany"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Geology and Paleontology, Ruprecht Karl University, Im Neuenheimer Feld 234, D-69120 Heidelberg, Germany",
-              "institution_ids": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074930750",
-            "display_name": "Mohammed-Saïd Bouaouda",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210125507",
-              "display_name": "Chouaib Doukkali University",
-              "ror": "https://ror.org/036kgyt43",
-              "country_code": "MA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210125507"
-              ]
-            }
-          ],
-          "countries": [
-            "MA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed-Said Bouaouda",
-          "raw_affiliation_strings": [
-            "Department of Geology, Faculty of Sciences, Chouaib Doukkali University, B.P. 20, 24000 El Jadida, Morocco"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Faculty of Sciences, Chouaib Doukkali University, B.P. 20, 24000 El Jadida, Morocco",
-              "institution_ids": [
-                "https://openalex.org/I4210125507"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5060940235",
-            "display_name": "Brahim Ouajhain",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210125507",
-              "display_name": "Chouaib Doukkali University",
-              "ror": "https://ror.org/036kgyt43",
-              "country_code": "MA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210125507"
-              ]
-            }
-          ],
-          "countries": [
-            "MA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Brahim Ouajhain",
-          "raw_affiliation_strings": [
-            "Department of Geology, Faculty of Sciences, Chouaib Doukkali University, B.P. 20, 24000 El Jadida, Morocco"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Faculty of Sciences, Chouaib Doukkali University, B.P. 20, 24000 El Jadida, Morocco",
-              "institution_ids": [
-                "https://openalex.org/I4210125507"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5086838587",
-            "display_name": "Thilo Bechstädt",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I223822909",
-              "display_name": "Heidelberg University",
-              "ror": "https://ror.org/038t36y30",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Thilo Bechstädt",
-          "raw_affiliation_strings": [
-            "Institute of Geology and Paleontology, Ruprecht Karl University, Im Neuenheimer Feld 234, D-69120 Heidelberg, Germany"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Geology and Paleontology, Ruprecht Karl University, Im Neuenheimer Feld 234, D-69120 Heidelberg, Germany",
-              "institution_ids": [
-                "https://openalex.org/I223822909"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5043465473",
-            "display_name": "Reinhold Leinfelder",
-            "orcid": "https://orcid.org/0000-0002-4107-2161"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I8204097",
-              "display_name": "Ludwig-Maximilians-Universität München",
-              "ror": "https://ror.org/05591te55",
-              "country_code": "DE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I8204097"
-              ]
-            }
-          ],
-          "countries": [
-            "DE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Reinhold Leinfelder",
-          "raw_affiliation_strings": [
-            "Geosciences and Environmental Sciences—Paleontology, Ludwig Maximilian University, Richard-Wagner-Str. 10, D-80333 München, Germany"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geosciences and Environmental Sciences—Paleontology, Ludwig Maximilian University, Richard-Wagner-Str. 10, D-80333 München, Germany",
-              "institution_ids": [
-                "https://openalex.org/I8204097"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5086485606"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I223822909"
-      ],
-      "apc_list": {
-        "value": 3490,
-        "currency": "USD",
-        "value_usd": 3490
-      },
-      "apc_paid": null,
-      "fwci": 0.74660871,
-      "has_fulltext": false,
-      "cited_by_count": 68,
-      "citation_normalized_percentile": {
-        "value": 0.72340426,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "21",
-        "issue": "2",
-        "first_page": "225",
-        "last_page": "276"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13205",
-        "display_name": "Geological and Geophysical Studies Worldwide",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10110",
-          "display_name": "earthquake and tectonic studies",
-          "score": 0.9965999722480774,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13404",
-          "display_name": "Geological and Tectonic Studies in Latin America",
-          "score": 0.9386000037193298,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9261655807495117
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7848755717277527
-        },
-        {
-          "id": "https://openalex.org/keywords/rift",
-          "display_name": "Rift",
-          "score": 0.6428501009941101
-        },
-        {
-          "id": "https://openalex.org/keywords/inversion",
-          "display_name": "Inversion (geology)",
-          "score": 0.5533129572868347
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.545131266117096
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonic-subsidence",
-          "display_name": "Tectonic subsidence",
-          "score": 0.49987339973449707
-        },
-        {
-          "id": "https://openalex.org/keywords/thermal-subsidence",
-          "display_name": "Thermal subsidence",
-          "score": 0.49097684025764465
-        },
-        {
-          "id": "https://openalex.org/keywords/continental-shelf",
-          "display_name": "Continental shelf",
-          "score": 0.48742201924324036
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.46012115478515625
-        },
-        {
-          "id": "https://openalex.org/keywords/passive-margin",
-          "display_name": "Passive margin",
-          "score": 0.45757269859313965
-        },
-        {
-          "id": "https://openalex.org/keywords/continental-margin",
-          "display_name": "Continental margin",
-          "score": 0.4541971981525421
-        },
-        {
-          "id": "https://openalex.org/keywords/cenozoic",
-          "display_name": "Cenozoic",
-          "score": 0.4504469633102417
-        },
-        {
-          "id": "https://openalex.org/keywords/seafloor-spreading",
-          "display_name": "Seafloor spreading",
-          "score": 0.44694775342941284
-        },
-        {
-          "id": "https://openalex.org/keywords/permian",
-          "display_name": "Permian",
-          "score": 0.41370105743408203
-        },
-        {
-          "id": "https://openalex.org/keywords/unconformity",
-          "display_name": "Unconformity",
-          "score": 0.41091880202293396
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.3704858422279358
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.20702365040779114
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9261655807495117
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7848755717277527
-        },
-        {
-          "id": "https://openalex.org/C50682988",
-          "wikidata": "https://www.wikidata.org/wiki/Q473935",
-          "display_name": "Rift",
-          "level": 3,
-          "score": 0.6428501009941101
-        },
-        {
-          "id": "https://openalex.org/C1893757",
-          "wikidata": "https://www.wikidata.org/wiki/Q3653001",
-          "display_name": "Inversion (geology)",
-          "level": 3,
-          "score": 0.5533129572868347
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.545131266117096
-        },
-        {
-          "id": "https://openalex.org/C100951216",
-          "wikidata": "https://www.wikidata.org/wiki/Q7692853",
-          "display_name": "Tectonic subsidence",
-          "level": 4,
-          "score": 0.49987339973449707
-        },
-        {
-          "id": "https://openalex.org/C97995005",
-          "wikidata": "https://www.wikidata.org/wiki/Q7783073",
-          "display_name": "Thermal subsidence",
-          "level": 4,
-          "score": 0.49097684025764465
-        },
-        {
-          "id": "https://openalex.org/C184751465",
-          "wikidata": "https://www.wikidata.org/wiki/Q134851",
-          "display_name": "Continental shelf",
-          "level": 2,
-          "score": 0.48742201924324036
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.46012115478515625
-        },
-        {
-          "id": "https://openalex.org/C201633675",
-          "wikidata": "https://www.wikidata.org/wiki/Q1918464",
-          "display_name": "Passive margin",
-          "level": 4,
-          "score": 0.45757269859313965
-        },
-        {
-          "id": "https://openalex.org/C201867031",
-          "wikidata": "https://www.wikidata.org/wiki/Q3290577",
-          "display_name": "Continental margin",
-          "level": 3,
-          "score": 0.4541971981525421
-        },
-        {
-          "id": "https://openalex.org/C73707237",
-          "wikidata": "https://www.wikidata.org/wiki/Q102416",
-          "display_name": "Cenozoic",
-          "level": 3,
-          "score": 0.4504469633102417
-        },
-        {
-          "id": "https://openalex.org/C117485682",
-          "wikidata": "https://www.wikidata.org/wiki/Q215920",
-          "display_name": "Seafloor spreading",
-          "level": 2,
-          "score": 0.44694775342941284
-        },
-        {
-          "id": "https://openalex.org/C83365034",
-          "wikidata": "https://www.wikidata.org/wiki/Q76402",
-          "display_name": "Permian",
-          "level": 3,
-          "score": 0.41370105743408203
-        },
-        {
-          "id": "https://openalex.org/C191735495",
-          "wikidata": "https://www.wikidata.org/wiki/Q876798",
-          "display_name": "Unconformity",
-          "level": 3,
-          "score": 0.41091880202293396
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.3704858422279358
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.20702365040779114
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.marpetgeo.2003.11.014",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2003.11.014",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S93565542",
-            "display_name": "Marine and Petroleum Geology",
-            "issn_l": "0264-8172",
-            "issn": [
-              "0264-8172",
-              "1873-4073"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Marine and Petroleum Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 188,
-      "referenced_works": [
-        "https://openalex.org/W2005174993",
-        "https://openalex.org/W2013811209",
-        "https://openalex.org/W2224543197",
-        "https://openalex.org/W2089808263",
-        "https://openalex.org/W2328921076",
-        "https://openalex.org/W6602409135",
-        "https://openalex.org/W4231152028",
-        "https://openalex.org/W6679905551",
-        "https://openalex.org/W6794122906",
-        "https://openalex.org/W6669156601",
-        "https://openalex.org/W6659311982",
-        "https://openalex.org/W2517289410",
-        "https://openalex.org/W1984633020",
-        "https://openalex.org/W2108316127",
-        "https://openalex.org/W2069232301",
-        "https://openalex.org/W6676470889",
-        "https://openalex.org/W2134283653",
-        "https://openalex.org/W6676647123",
-        "https://openalex.org/W6686310583",
-        "https://openalex.org/W6709793107",
-        "https://openalex.org/W2062371776",
-        "https://openalex.org/W2738524489",
-        "https://openalex.org/W2329932465",
-        "https://openalex.org/W2466718964",
-        "https://openalex.org/W6697131534",
-        "https://openalex.org/W2025595917",
-        "https://openalex.org/W6636622775",
-        "https://openalex.org/W6636691936",
-        "https://openalex.org/W6649699785",
-        "https://openalex.org/W1540939928",
-        "https://openalex.org/W2079318222",
-        "https://openalex.org/W1580779233",
-        "https://openalex.org/W2033223278",
-        "https://openalex.org/W6720564315",
-        "https://openalex.org/W6645502985",
-        "https://openalex.org/W1984197439",
-        "https://openalex.org/W2091682873",
-        "https://openalex.org/W6649523600",
-        "https://openalex.org/W6687920596",
-        "https://openalex.org/W2086597086",
-        "https://openalex.org/W6674092478",
-        "https://openalex.org/W6742452717",
-        "https://openalex.org/W6726516286",
-        "https://openalex.org/W6660402616",
-        "https://openalex.org/W6637179434",
-        "https://openalex.org/W2263460781",
-        "https://openalex.org/W6656770159",
-        "https://openalex.org/W6739758605",
-        "https://openalex.org/W2015255716",
-        "https://openalex.org/W2139497263",
-        "https://openalex.org/W6724690860",
-        "https://openalex.org/W6679513761",
-        "https://openalex.org/W6724829197",
-        "https://openalex.org/W6604781383",
-        "https://openalex.org/W6724679672",
-        "https://openalex.org/W1980616643",
-        "https://openalex.org/W6628698595",
-        "https://openalex.org/W2170417410",
-        "https://openalex.org/W6724719675",
-        "https://openalex.org/W6792902715",
-        "https://openalex.org/W2049684630",
-        "https://openalex.org/W6669909584",
-        "https://openalex.org/W2121168809",
-        "https://openalex.org/W6650322398",
-        "https://openalex.org/W2092331504",
-        "https://openalex.org/W1997362419",
-        "https://openalex.org/W2116033897",
-        "https://openalex.org/W2598173136",
-        "https://openalex.org/W2131279760",
-        "https://openalex.org/W2036550251",
-        "https://openalex.org/W6606549002",
-        "https://openalex.org/W1965814220",
-        "https://openalex.org/W1980655250",
-        "https://openalex.org/W88001942",
-        "https://openalex.org/W1972663134",
-        "https://openalex.org/W2022895897",
-        "https://openalex.org/W6723291396",
-        "https://openalex.org/W6671406775",
-        "https://openalex.org/W2104915444",
-        "https://openalex.org/W6601137866",
-        "https://openalex.org/W6658899537",
-        "https://openalex.org/W2059890537",
-        "https://openalex.org/W6608046621",
-        "https://openalex.org/W6727948040",
-        "https://openalex.org/W2108242292",
-        "https://openalex.org/W2256857398",
-        "https://openalex.org/W6636224614",
-        "https://openalex.org/W1995902725",
-        "https://openalex.org/W2499049219",
-        "https://openalex.org/W1994081491",
-        "https://openalex.org/W6723412499",
-        "https://openalex.org/W1995661138",
-        "https://openalex.org/W2083832150",
-        "https://openalex.org/W6600385649",
-        "https://openalex.org/W6626185027",
-        "https://openalex.org/W6633557109",
-        "https://openalex.org/W2004293503",
-        "https://openalex.org/W2129780655",
-        "https://openalex.org/W2123621255",
-        "https://openalex.org/W2130950244",
-        "https://openalex.org/W585980875",
-        "https://openalex.org/W197934169",
-        "https://openalex.org/W119777211",
-        "https://openalex.org/W1007930817",
-        "https://openalex.org/W405873050",
-        "https://openalex.org/W191869074",
-        "https://openalex.org/W162777276",
-        "https://openalex.org/W623181662",
-        "https://openalex.org/W585267118",
-        "https://openalex.org/W9259548",
-        "https://openalex.org/W585197870",
-        "https://openalex.org/W59627764",
-        "https://openalex.org/W1483051679",
-        "https://openalex.org/W351220110",
-        "https://openalex.org/W583518584",
-        "https://openalex.org/W598551091",
-        "https://openalex.org/W26667863",
-        "https://openalex.org/W1490086197",
-        "https://openalex.org/W278538971",
-        "https://openalex.org/W2078180111",
-        "https://openalex.org/W2082178156",
-        "https://openalex.org/W1980966991",
-        "https://openalex.org/W1642406791",
-        "https://openalex.org/W1546345752",
-        "https://openalex.org/W1601825996",
-        "https://openalex.org/W1558464430",
-        "https://openalex.org/W1584140374",
-        "https://openalex.org/W1669997484",
-        "https://openalex.org/W1615278530",
-        "https://openalex.org/W1544009850",
-        "https://openalex.org/W1625571808",
-        "https://openalex.org/W1555476047",
-        "https://openalex.org/W1576732697",
-        "https://openalex.org/W1559031182",
-        "https://openalex.org/W1552256970",
-        "https://openalex.org/W1581594313",
-        "https://openalex.org/W1598440325",
-        "https://openalex.org/W2075162620",
-        "https://openalex.org/W2182244029",
-        "https://openalex.org/W2200214261",
-        "https://openalex.org/W2313140016",
-        "https://openalex.org/W2291977426",
-        "https://openalex.org/W2283947894",
-        "https://openalex.org/W2895640657",
-        "https://openalex.org/W2931574751",
-        "https://openalex.org/W2906286249",
-        "https://openalex.org/W2505332524",
-        "https://openalex.org/W2742504747",
-        "https://openalex.org/W2606234829",
-        "https://openalex.org/W2904622413",
-        "https://openalex.org/W2481079601",
-        "https://openalex.org/W2501977074",
-        "https://openalex.org/W2525995279",
-        "https://openalex.org/W2625797804",
-        "https://openalex.org/W2936322274",
-        "https://openalex.org/W2477429971",
-        "https://openalex.org/W2489392382",
-        "https://openalex.org/W2500752255",
-        "https://openalex.org/W2921707452",
-        "https://openalex.org/W2936999549",
-        "https://openalex.org/W2489813515",
-        "https://openalex.org/W2378092060",
-        "https://openalex.org/W2475678652",
-        "https://openalex.org/W2492861622",
-        "https://openalex.org/W2603142873",
-        "https://openalex.org/W4248656647",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W3145698902",
-        "https://openalex.org/W4243561159",
-        "https://openalex.org/W3207810096",
-        "https://openalex.org/W3115877766",
-        "https://openalex.org/W2141839758",
-        "https://openalex.org/W2158923311",
-        "https://openalex.org/W2034558593",
-        "https://openalex.org/W2034599236",
-        "https://openalex.org/W2039130136",
-        "https://openalex.org/W2044732818",
-        "https://openalex.org/W2034716029",
-        "https://openalex.org/W1997392065",
-        "https://openalex.org/W1997252211",
-        "https://openalex.org/W2000100070",
-        "https://openalex.org/W2009663196",
-        "https://openalex.org/W2101154860",
-        "https://openalex.org/W2094959025",
-        "https://openalex.org/W2099339012",
-        "https://openalex.org/W2109934455",
-        "https://openalex.org/W2024182906",
-        "https://openalex.org/W2020499116"
-      ],
-      "related_works": [
-        "https://openalex.org/W2143848935",
-        "https://openalex.org/W2266013006",
-        "https://openalex.org/W2005272839",
-        "https://openalex.org/W2080528687",
-        "https://openalex.org/W159021954",
-        "https://openalex.org/W2133562679",
-        "https://openalex.org/W2766145424",
-        "https://openalex.org/W2283058213",
-        "https://openalex.org/W2082690854",
-        "https://openalex.org/W2062452924"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 5
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
@@ -9661,7 +9665,7 @@
       "has_fulltext": false,
       "cited_by_count": 64,
       "citation_normalized_percentile": {
-        "value": 0.93333333,
+        "value": 0.9332943,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9947,8 +9951,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9970,8 +9974,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -10000,8 +10004,8 @@
         "https://openalex.org/W2166146567",
         "https://openalex.org/W2037741551",
         "https://openalex.org/W2465827021",
-        "https://openalex.org/W2986748656",
-        "https://openalex.org/W1543246531"
+        "https://openalex.org/W1543246531",
+        "https://openalex.org/W2986748656"
       ],
       "related_works": [
         "https://openalex.org/W4255343774",
@@ -10836,9 +10840,9 @@
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.89817759,
+        "value": 0.89736508,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 96,
@@ -11171,8 +11175,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -11209,17 +11213,17 @@
         "https://openalex.org/W2956484052",
         "https://openalex.org/W1970501434",
         "https://openalex.org/W2395579298",
+        "https://openalex.org/W3046750149",
+        "https://openalex.org/W3103067313",
+        "https://openalex.org/W2905184124",
+        "https://openalex.org/W2963890275",
+        "https://openalex.org/W4316169353",
         "https://openalex.org/W1564076024",
         "https://openalex.org/W1686810756",
         "https://openalex.org/W1533729466",
         "https://openalex.org/W1903029394",
         "https://openalex.org/W3042059512",
-        "https://openalex.org/W2988213275",
-        "https://openalex.org/W3046750149",
-        "https://openalex.org/W3103067313",
-        "https://openalex.org/W4316169353",
-        "https://openalex.org/W2905184124",
-        "https://openalex.org/W2963890275"
+        "https://openalex.org/W2988213275"
       ],
       "related_works": [
         "https://openalex.org/W4313208625",
@@ -11348,7 +11352,7 @@
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.80658436,
+        "value": 0.80578512,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11688,15 +11692,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -11729,30 +11733,30 @@
         "https://openalex.org/W1999426636",
         "https://openalex.org/W1972972771",
         "https://openalex.org/W2007163041",
+        "https://openalex.org/W154501946",
+        "https://openalex.org/W632343766",
+        "https://openalex.org/W60721949",
         "https://openalex.org/W2517942026",
         "https://openalex.org/W2611071001",
         "https://openalex.org/W2755826199",
         "https://openalex.org/W2894525608",
-        "https://openalex.org/W2081053188",
-        "https://openalex.org/W2065761817",
-        "https://openalex.org/W2102479184",
-        "https://openalex.org/W2113437342",
-        "https://openalex.org/W1879958913",
-        "https://openalex.org/W2316077905",
-        "https://openalex.org/W2274062974",
-        "https://openalex.org/W2009017799",
         "https://openalex.org/W2042329700",
-        "https://openalex.org/W2114751866",
-        "https://openalex.org/W154501946",
-        "https://openalex.org/W632343766",
-        "https://openalex.org/W60721949",
         "https://openalex.org/W3210527458",
         "https://openalex.org/W2984174186",
         "https://openalex.org/W4254361456",
         "https://openalex.org/W3202542717",
         "https://openalex.org/W2937684811",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W3192669590"
+        "https://openalex.org/W3192669590",
+        "https://openalex.org/W1879958913",
+        "https://openalex.org/W2081053188",
+        "https://openalex.org/W2065761817",
+        "https://openalex.org/W2114751866",
+        "https://openalex.org/W2316077905",
+        "https://openalex.org/W2274062974",
+        "https://openalex.org/W2102479184",
+        "https://openalex.org/W2113437342",
+        "https://openalex.org/W2009017799"
       ],
       "related_works": [
         "https://openalex.org/W1770706291",
@@ -12034,7 +12038,7 @@
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.89975198,
+        "value": 0.89967974,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12399,8 +12403,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12412,8 +12416,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -12469,17 +12473,6 @@
         "https://openalex.org/W2044883790",
         "https://openalex.org/W2037741551",
         "https://openalex.org/W1986473015",
-        "https://openalex.org/W1820499303",
-        "https://openalex.org/W257947617",
-        "https://openalex.org/W1584140374",
-        "https://openalex.org/W1580779233",
-        "https://openalex.org/W112275086",
-        "https://openalex.org/W580853725",
-        "https://openalex.org/W20576222",
-        "https://openalex.org/W1937848784",
-        "https://openalex.org/W66727471",
-        "https://openalex.org/W2022895897",
-        "https://openalex.org/W2013469509",
         "https://openalex.org/W2530403492",
         "https://openalex.org/W3110659972",
         "https://openalex.org/W2479040362",
@@ -12497,7 +12490,18 @@
         "https://openalex.org/W2257890510",
         "https://openalex.org/W2256610316",
         "https://openalex.org/W2231809070",
+        "https://openalex.org/W1820499303",
+        "https://openalex.org/W257947617",
+        "https://openalex.org/W1584140374",
+        "https://openalex.org/W1580779233",
+        "https://openalex.org/W112275086",
+        "https://openalex.org/W580853725",
+        "https://openalex.org/W20576222",
+        "https://openalex.org/W1937848784",
+        "https://openalex.org/W66727471",
         "https://openalex.org/W2085986561",
+        "https://openalex.org/W2022895897",
+        "https://openalex.org/W2013469509",
         "https://openalex.org/W2034716029"
       ],
       "related_works": [
@@ -12694,7 +12698,7 @@
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.76754437,
+        "value": 0.76762523,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12999,36 +13003,36 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
       "referenced_works": [
-        "https://openalex.org/W2200214261",
-        "https://openalex.org/W2039810558",
-        "https://openalex.org/W2030667141",
+        "https://openalex.org/W2104561345",
+        "https://openalex.org/W2065067233",
         "https://openalex.org/W3160761443",
         "https://openalex.org/W3202884119",
         "https://openalex.org/W2415353623",
-        "https://openalex.org/W2104561345",
-        "https://openalex.org/W2021158012",
-        "https://openalex.org/W2026425563",
-        "https://openalex.org/W1989055756",
         "https://openalex.org/W2000100070",
         "https://openalex.org/W2141713510",
         "https://openalex.org/W2141839758",
         "https://openalex.org/W125623076",
+        "https://openalex.org/W2021158012",
+        "https://openalex.org/W2026425563",
         "https://openalex.org/W2077844785",
         "https://openalex.org/W2078052519",
-        "https://openalex.org/W2065067233"
+        "https://openalex.org/W1989055756",
+        "https://openalex.org/W2039810558",
+        "https://openalex.org/W2030667141",
+        "https://openalex.org/W2200214261"
       ],
       "related_works": [
         "https://openalex.org/W2356518127",
@@ -13636,7 +13640,7 @@
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.7456402,
+        "value": 0.74595896,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13946,8 +13950,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -13959,8 +13963,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -14033,15 +14037,15 @@
         "https://openalex.org/W2115997702",
         "https://openalex.org/W1998935446",
         "https://openalex.org/W203584942",
-        "https://openalex.org/W1490441963",
-        "https://openalex.org/W2564523369",
+        "https://openalex.org/W2130486621",
         "https://openalex.org/W2074189613",
         "https://openalex.org/W2079349855",
+        "https://openalex.org/W1490441963",
         "https://openalex.org/W2141093796",
+        "https://openalex.org/W2564523369",
         "https://openalex.org/W4232835124",
         "https://openalex.org/W4285719527",
-        "https://openalex.org/W2888449677",
-        "https://openalex.org/W2130486621"
+        "https://openalex.org/W2888449677"
       ],
       "related_works": [
         "https://openalex.org/W4313208625",
@@ -14947,7 +14951,7 @@
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.75342312,
+        "value": 0.75369955,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15262,15 +15266,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.75
+          "score": 0.75,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -15303,15 +15307,15 @@
         "https://openalex.org/W2535421968",
         "https://openalex.org/W2101040311",
         "https://openalex.org/W2594098573",
-        "https://openalex.org/W2119230076",
+        "https://openalex.org/W2038178933",
         "https://openalex.org/W2140855325",
         "https://openalex.org/W2143073519",
-        "https://openalex.org/W2789475304",
+        "https://openalex.org/W2119230076",
         "https://openalex.org/W4232805539",
         "https://openalex.org/W4254406535",
-        "https://openalex.org/W2038178933",
+        "https://openalex.org/W2121643099",
         "https://openalex.org/W2074384876",
-        "https://openalex.org/W2121643099"
+        "https://openalex.org/W2789475304"
       ],
       "related_works": [
         "https://openalex.org/W4323020985",
@@ -16017,7 +16021,7 @@
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.66527633,
+        "value": 0.6645768,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16283,8 +16287,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16598,7 +16602,7 @@
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.79184514,
+        "value": 0.7917887,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16937,15 +16941,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -17000,22 +17004,19 @@
         "https://openalex.org/W2008659547",
         "https://openalex.org/W88175743",
         "https://openalex.org/W2037741551",
+        "https://openalex.org/W1531971500",
+        "https://openalex.org/W1580779233",
+        "https://openalex.org/W1598440325",
+        "https://openalex.org/W1576732697",
+        "https://openalex.org/W2069299461",
+        "https://openalex.org/W2058752937",
+        "https://openalex.org/W2119601444",
+        "https://openalex.org/W1980909228",
+        "https://openalex.org/W1970405364",
         "https://openalex.org/W2257890510",
         "https://openalex.org/W2150723720",
         "https://openalex.org/W2158923311",
         "https://openalex.org/W2201314899",
-        "https://openalex.org/W2171347759",
-        "https://openalex.org/W2274062974",
-        "https://openalex.org/W2320620385",
-        "https://openalex.org/W2256610316",
-        "https://openalex.org/W2013469509",
-        "https://openalex.org/W1970405364",
-        "https://openalex.org/W1980909228",
-        "https://openalex.org/W2069299461",
-        "https://openalex.org/W405873050",
-        "https://openalex.org/W598551091",
-        "https://openalex.org/W422082306",
-        "https://openalex.org/W574151162",
         "https://openalex.org/W2625684061",
         "https://openalex.org/W2887361137",
         "https://openalex.org/W4285719527",
@@ -17025,12 +17026,15 @@
         "https://openalex.org/W3135109422",
         "https://openalex.org/W2936999549",
         "https://openalex.org/W2602408477",
-        "https://openalex.org/W2058752937",
-        "https://openalex.org/W1531971500",
-        "https://openalex.org/W1580779233",
-        "https://openalex.org/W1598440325",
-        "https://openalex.org/W1576732697",
-        "https://openalex.org/W2119601444"
+        "https://openalex.org/W2171347759",
+        "https://openalex.org/W2274062974",
+        "https://openalex.org/W2320620385",
+        "https://openalex.org/W2256610316",
+        "https://openalex.org/W2013469509",
+        "https://openalex.org/W405873050",
+        "https://openalex.org/W598551091",
+        "https://openalex.org/W422082306",
+        "https://openalex.org/W574151162"
       ],
       "related_works": [
         "https://openalex.org/W2091542469",
@@ -17342,7 +17346,7 @@
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.74421748,
+        "value": 0.74412452,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17619,8 +17623,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -17632,8 +17636,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -17675,13 +17679,12 @@
         "https://openalex.org/W2142600636",
         "https://openalex.org/W7038628160",
         "https://openalex.org/W2078052519",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W2313140016",
-        "https://openalex.org/W2154420515",
-        "https://openalex.org/W2148173577",
         "https://openalex.org/W143050460",
         "https://openalex.org/W1530792096",
         "https://openalex.org/W1666245933",
+        "https://openalex.org/W2154420515",
+        "https://openalex.org/W2148173577",
+        "https://openalex.org/W2313140016",
         "https://openalex.org/W2078663414",
         "https://openalex.org/W2077682482",
         "https://openalex.org/W2727055235",
@@ -17694,7 +17697,8 @@
         "https://openalex.org/W2488211800",
         "https://openalex.org/W2521111568",
         "https://openalex.org/W2481079601",
-        "https://openalex.org/W2488439669"
+        "https://openalex.org/W2488439669",
+        "https://openalex.org/W4285719527"
       ],
       "related_works": [
         "https://openalex.org/W2047316262",
@@ -17953,7 +17957,7 @@
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.80300597,
+        "value": 0.80327869,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18182,8 +18186,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -18195,8 +18199,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -19025,7 +19029,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.64159319,
+        "value": 0.64150599,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19283,8 +19287,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19399,9 +19403,9 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.87942664,
+        "value": 0.87901182,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 89,
@@ -19537,8 +19541,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19763,7 +19767,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.70172911,
+        "value": 0.70157274,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20080,15 +20084,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20949,7 +20953,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.79996707,
+        "value": 0.79994236,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21251,8 +21255,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21406,7 +21410,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.18648243,
+        "value": 0.18654478,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21707,8 +21711,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2086944217.pdf",
@@ -22508,8 +22512,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22932,8 +22936,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23120,7 +23124,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.11817032,
+        "value": 0.11824044,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23415,15 +23419,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2305307140.pdf"
@@ -23606,7 +23610,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19160839,
+        "value": 0.19077568,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23849,15 +23853,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24476,7 +24480,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0286123,
+        "value": 0.02875696,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24690,15 +24694,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25085,7 +25089,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03131887,
+        "value": 0.03142393,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25288,15 +25292,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25479,7 +25483,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.1270267,
+        "value": 0.12679659,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25712,15 +25716,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25989,7 +25993,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36993007,
+        "value": 0.37037037,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26224,15 +26228,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7400000095367432
+          "score": 0.7400000095367432,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26807,7 +26811,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.37899543,
+        "value": 0.37727273,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27150,15 +27154,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27717,7 +27721,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.28201475,
+        "value": 0.28199744,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27970,8 +27974,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28605,7 +28609,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38356164,
+        "value": 0.38181818,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28920,15 +28924,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29481,8 +29485,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29632,7 +29636,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.12984896,
+        "value": 0.12990542,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30003,15 +30007,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -30030,14 +30034,14 @@
         "https://openalex.org/W2055118053",
         "https://openalex.org/W6723835290",
         "https://openalex.org/W6823584655",
+        "https://openalex.org/W1497867130",
+        "https://openalex.org/W1581594313",
         "https://openalex.org/W4285719527",
         "https://openalex.org/W2125021582",
         "https://openalex.org/W2117814431",
         "https://openalex.org/W2119062511",
         "https://openalex.org/W2124390624",
-        "https://openalex.org/W2147576281",
-        "https://openalex.org/W1497867130",
-        "https://openalex.org/W1581594313"
+        "https://openalex.org/W2147576281"
       ],
       "related_works": [
         "https://openalex.org/W2386415025",
@@ -31173,7 +31177,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32463652,
+        "value": 0.32466412,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31261,15 +31265,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31468,7 +31472,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39248414,
+        "value": 0.39242668,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31642,8 +31646,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31791,7 +31795,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.25193068,
+        "value": 0.25150538,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31970,8 +31974,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32112,7 +32116,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.18832772,
+        "value": 0.18845291,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32440,15 +32444,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -33766,8 +33770,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34454,7 +34458,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09280857,
+        "value": 0.09258462,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34741,15 +34745,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35587,8 +35591,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35924,7 +35928,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.28635015,
+        "value": 0.28196703,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36033,8 +36037,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -37201,7 +37205,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89480692,
+        "value": 0.84042553,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37425,15 +37429,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8528909683227539
+          "score": 0.8528909683227539,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
