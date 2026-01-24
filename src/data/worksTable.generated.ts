@@ -402,7 +402,7 @@ export const worksTable: WorkTableRecord[] = [
       "Hussain Al-Qatari"
     ],
     "title": "A diagenetic flume-tank experiment of carbonate marine cementation along a carbonate profile",
-    "publicationDate": "2026-01-01",
+    "publicationDate": "2026-01-18",
     "year": 2026,
     "venue": "Geoenergy Science and Engineering",
     "citations": 0,
@@ -33550,8 +33550,8 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Oldham Council",
-      "Lomonosov Moscow State University",
-      "Moscow State University"
+      "Moscow State University",
+      "Lomonosov Moscow State University"
     ]
   },
   {
@@ -42715,8 +42715,8 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Malaya",
-      "Kazan Federal University",
-      "Taiz University"
+      "Taiz University",
+      "Kazan Federal University"
     ]
   },
   {
@@ -51123,8 +51123,9 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Universidade de São Paulo",
       "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement",
-      "Universidade Federal do Estado do Rio de Janeiro",
       "University of Aveiro",
+      "Universidade Federal do Estado do Rio de Janeiro",
+      "Universidade do Estado do Rio de Janeiro",
       "Pontifícia Universidade Católica do Rio de Janeiro",
       "Universidad de Las Palmas de Gran Canaria",
       "King Fahd University of Petroleum and Minerals"
@@ -66333,6 +66334,61 @@ export const worksTable: WorkTableRecord[] = [
       "Saudi Center for Disease Prevention and Control",
       "King Fahd University of Petroleum and Minerals",
       "Saudi Center for Organ Transplantation"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W7125380001",
+    "doi": "https://doi.org/10.1016/j.egg.2026.100448",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5039010638",
+    "allAuthorOpenAlexIds": [
+      "A5039010638",
+      "A5078509022",
+      "A5061144117",
+      "A5043684379",
+      "A5015538346",
+      "A5016328226",
+      "A5048802682",
+      "A5073624851",
+      "A5072739054",
+      "A5108598618",
+      "A5123567967",
+      "A5102697123",
+      "A5119279875",
+      "A5093126377"
+    ],
+    "firstAuthorLastName": "Gopi",
+    "allAuthors": [
+      "Jayanath Gopi",
+      "Thadickal V. Joydas",
+      "P. R. Jayachandran",
+      "Seerangan Manokaran",
+      "Sowmya P. Mohandas",
+      "Sajan C. Raju",
+      "Syed Asim Hussain",
+      "Mohamed O. Abouelresh",
+      "Sudhanshu Dixit",
+      "M. Rafeeq",
+      "Mohamed Asharaf T.T.",
+      "Karuppasamy P Manikandan",
+      "Sharif Hala",
+      "Bruno Pulido"
+    ],
+    "title": "eDNA metabarcoding reveals halophilic and halotolerant bacterial assemblages in the salt flats of the northern Red Sea coast",
+    "publicationDate": "2026-01-01",
+    "year": 2026,
+    "venue": "Ecological Genetics and Genomics",
+    "citations": 0,
+    "topics": [
+      "Environmental DNA in Biodiversity Studies",
+      "Microbial Community Ecology and Physiology",
+      "Bacteriophages and microbial interactions"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Cochin University of Science and Technology",
+      "University of Oslo",
+      "Public Health Agency"
     ]
   },
   {

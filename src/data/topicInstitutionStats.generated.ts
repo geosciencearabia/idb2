@@ -689,6 +689,12 @@ export const topicStats: TopicStats[] = [
     "citations": 137
   },
   {
+    "id": "https://openalex.org/T11791",
+    "name": "Microbial Community Ecology and Physiology",
+    "publications": 6,
+    "citations": 123
+  },
+  {
     "id": "https://openalex.org/T10075",
     "name": "Atmospheric chemistry and aerosols",
     "publications": 6,
@@ -765,12 +771,6 @@ export const topicStats: TopicStats[] = [
     "name": "Water Quality Monitoring Technologies",
     "publications": 5,
     "citations": 180
-  },
-  {
-    "id": "https://openalex.org/T11791",
-    "name": "Microbial Community Ecology and Physiology",
-    "publications": 5,
-    "citations": 123
   },
   {
     "id": "https://openalex.org/T10946",
@@ -1087,6 +1087,12 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10895",
     "name": "Species Distribution and Climate Change",
+    "publications": 3,
+    "citations": 4
+  },
+  {
+    "id": "https://openalex.org/T12640",
+    "name": "Environmental DNA in Biodiversity Studies",
     "publications": 3,
     "citations": 4
   },
@@ -1489,12 +1495,6 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10012",
     "name": "Genetic diversity and population structure",
-    "publications": 2,
-    "citations": 4
-  },
-  {
-    "id": "https://openalex.org/T12640",
-    "name": "Environmental DNA in Biodiversity Studies",
     "publications": 2,
     "citations": 4
   },
@@ -2915,6 +2915,12 @@ export const topicStats: TopicStats[] = [
     "citations": 0
   },
   {
+    "id": "https://openalex.org/T11048",
+    "name": "Bacteriophages and microbial interactions",
+    "publications": 1,
+    "citations": 0
+  },
+  {
     "id": "https://openalex.org/T10706",
     "name": "Traumatic Brain Injury and Neurovascular Disturbances",
     "publications": 1,
@@ -3280,7 +3286,7 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
-    "publications": 855,
+    "publications": 856,
     "citations": 9302
   },
   {
@@ -4532,6 +4538,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 9
   },
   {
+    "id": "https://openalex.org/I184942183",
+    "name": "University of Oslo",
+    "publications": 6,
+    "citations": 1010
+  },
+  {
     "id": "https://openalex.org/I182078086",
     "name": "University of Dar es Salaam",
     "publications": 6,
@@ -4746,12 +4758,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Russian Academy of Sciences",
     "publications": 5,
     "citations": 3350
-  },
-  {
-    "id": "https://openalex.org/I184942183",
-    "name": "University of Oslo",
-    "publications": 5,
-    "citations": 1010
   },
   {
     "id": "https://openalex.org/I15057530",
@@ -5880,6 +5886,12 @@ export const institutionStats: InstitutionStats[] = [
     "name": "Prince Mohammad bin Fahd University",
     "publications": 3,
     "citations": 8
+  },
+  {
+    "id": "https://openalex.org/I40034438",
+    "name": "Universidade do Estado do Rio de Janeiro",
+    "publications": 3,
+    "citations": 7
   },
   {
     "id": "https://openalex.org/I4210152865",
@@ -7146,12 +7158,6 @@ export const institutionStats: InstitutionStats[] = [
     "name": "RWE (Germany)",
     "publications": 2,
     "citations": 5
-  },
-  {
-    "id": "https://openalex.org/I40034438",
-    "name": "Universidade do Estado do Rio de Janeiro",
-    "publications": 2,
-    "citations": 4
   },
   {
     "id": "https://openalex.org/I4210130017",
@@ -10630,6 +10636,18 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I4210088878",
     "name": "Saudi Center for Organ Transplantation",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/I20497027",
+    "name": "Cochin University of Science and Technology",
+    "publications": 1,
+    "citations": 0
+  },
+  {
+    "id": "https://openalex.org/I4210125885",
+    "name": "Public Health Agency",
     "publications": 1,
     "citations": 0
   },
