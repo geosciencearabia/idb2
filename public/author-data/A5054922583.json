@@ -1680,8 +1680,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -4374,8 +4374,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -5573,8 +5573,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -5882,7 +5882,7 @@
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.98043682,
+        "value": 0.97984875,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6270,7 +6270,18 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -6336,7 +6347,569 @@
         "https://openalex.org/W4396701345",
         "https://openalex.org/W2376932109"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "400": [
+          180
+        ],
+        "In": [
+          0
+        ],
+        "this": [
+          1
+        ],
+        "study,": [
+          2
+        ],
+        "we": [
+          3,
+          66
+        ],
+        "focused": [
+          4
+        ],
+        "on": [
+          5,
+          199,
+          214
+        ],
+        "improving": [
+          6,
+          239
+        ],
+        "acoustic": [
+          7,
+          31,
+          115,
+          228
+        ],
+        "impedance": [
+          8,
+          229
+        ],
+        "(AI)": [
+          9
+        ],
+        "in": [
+          10,
+          39,
+          113,
+          148,
+          217,
+          221,
+          245
+        ],
+        "seismic": [
+          11,
+          81
+        ],
+        "exploration.": [
+          12,
+          60
+        ],
+        "AI": [
+          13,
+          38,
+          52,
+          64
+        ],
+        "is": [
+          14,
+          54
+        ],
+        "a": [
+          15,
+          24,
+          105,
+          126,
+          136,
+          223
+        ],
+        "crucial": [
+          16
+        ],
+        "parameter": [
+          17,
+          109
+        ],
+        "estimated": [
+          18
+        ],
+        "by": [
+          19,
+          26,
+          185
+        ],
+        "multiplying": [
+          20
+        ],
+        "the": [
+          21,
+          27,
+          63,
+          114,
+          120,
+          133,
+          149,
+          154,
+          159,
+          163,
+          189,
+          210,
+          232,
+          240
+        ],
+        "density": [
+          22
+        ],
+        "of": [
+          23,
+          29,
+          135,
+          165,
+          209,
+          227,
+          242
+        ],
+        "material": [
+          25
+        ],
+        "velocity": [
+          28
+        ],
+        "an": [
+          30
+        ],
+        "wave": [
+          32
+        ],
+        "passing": [
+          33
+        ],
+        "through": [
+          34
+        ],
+        "it.": [
+          35
+        ],
+        "A": [
+          36
+        ],
+        "low": [
+          37
+        ],
+        "sandstones": [
+          40
+        ],
+        "and": [
+          41,
+          69,
+          79,
+          103,
+          156,
+          202,
+          234
+        ],
+        "carbonates": [
+          42
+        ],
+        "often": [
+          43
+        ],
+        "indicates": [
+          44
+        ],
+        "high": [
+          45
+        ],
+        "porosity,": [
+          46
+        ],
+        "which": [
+          47
+        ],
+        "enhances": [
+          48
+        ],
+        "hydrocarbon": [
+          49,
+          59,
+          243
+        ],
+        "accumulation.": [
+          50
+        ],
+        "Accurate": [
+          51
+        ],
+        "estimation": [
+          53
+        ],
+        "thus": [
+          55
+        ],
+        "critical": [
+          56
+        ],
+        "for": [
+          57
+        ],
+        "reliable": [
+          58
+        ],
+        "To": [
+          61
+        ],
+        "refine": [
+          62
+        ],
+        "estimation,": [
+          65
+        ],
+        "used": [
+          67,
+          147
+        ],
+        "stacking": [
+          68
+        ],
+        "voting": [
+          70,
+          134
+        ],
+        "regression": [
+          71
+        ],
+        "algorithms,": [
+          72
+        ],
+        "with": [
+          73,
+          140
+        ],
+        "depth,": [
+          74
+        ],
+        "two-way": [
+          75
+        ],
+        "travel": [
+          76
+        ],
+        "time": [
+          77,
+          178
+        ],
+        "(TWTT),": [
+          78
+        ],
+        "nine": [
+          80
+        ],
+        "attributes": [
+          82
+        ],
+        "as": [
+          83,
+          146
+        ],
+        "inputs.": [
+          84
+        ],
+        "All": [
+          85
+        ],
+        "models": [
+          86,
+          197
+        ],
+        "were": [
+          87
+        ],
+        "implemented": [
+          88
+        ],
+        "using": [
+          89
+        ],
+        "scikit-learn": [
+          90
+        ],
+        ".": [
+          91
+        ],
+        "The": [
+          92,
+          129,
+          207
+        ],
+        "VStaR": [
+          93,
+          168,
+          174,
+          193,
+          211
+        ],
+        "model": [
+          94,
+          139
+        ],
+        "achieved": [
+          95
+        ],
+        "superior": [
+          96,
+          219
+        ],
+        "predictive": [
+          97,
+          143
+        ],
+        "performance": [
+          98,
+          220
+        ],
+        "([Formula:": [
+          99,
+          122
+        ],
+        "see": [
+          100,
+          123,
+          204
+        ],
+        "text]=": [
+          101,
+          124
+        ],
+        "0.9973)": [
+          102
+        ],
+        "yielded": [
+          104
+        ],
+        "more": [
+          106,
+          224
+        ],
+        "accurate": [
+          107
+        ],
+        "fitting": [
+          108,
+          160
+        ],
+        "(a": [
+          110
+        ],
+        "=": [
+          111,
+          127
+        ],
+        "0.1584)": [
+          112
+        ],
+        "impedance-porosity": [
+          116
+        ],
+        "transformation": [
+          117
+        ],
+        "compared": [
+          118,
+          187,
+          230
+        ],
+        "to": [
+          119,
+          153,
+          188,
+          231
+        ],
+        "VSR": [
+          121,
+          130,
+          170,
+          233
+        ],
+        "0.9775,": [
+          125
+        ],
+        "0.1583).": [
+          128
+        ],
+        "approach": [
+          131
+        ],
+        "made": [
+          132
+        ],
+        "top-performing": [
+          137,
+          190
+        ],
+        "base": [
+          138,
+          144,
+          191
+        ],
+        "two": [
+          141
+        ],
+        "less": [
+          142
+        ],
+        "models,": [
+          145
+        ],
+        "existing": [
+          150
+        ],
+        "literature.": [
+          151
+        ],
+        "Relative": [
+          152
+        ],
+        "true": [
+          155,
+          166
+        ],
+        "BLIMP-derived": [
+          157
+        ],
+        "impedance,": [
+          158
+        ],
+        "accuracy": [
+          161
+        ],
+        "followed": [
+          162
+        ],
+        "order": [
+          164
+        ],
+        ">": [
+          167,
+          169,
+          171
+        ],
+        "BLIMP.": [
+          172
+        ],
+        "While": [
+          173
+        ],
+        "required": [
+          175
+        ],
+        "longer": [
+          176
+        ],
+        "computation": [
+          177
+        ],
+        "(≈": [
+          179
+        ],
+        "s),": [
+          181
+        ],
+        "it": [
+          182
+        ],
+        "reduced": [
+          183
+        ],
+        "RMSE": [
+          184
+        ],
+        "14.74%": [
+          186
+        ],
+        "model.": [
+          192
+        ],
+        "outperformed": [
+          194
+        ],
+        "all": [
+          195
+        ],
+        "evaluated": [
+          196
+        ],
+        "based": [
+          198,
+          213
+        ],
+        "MSE,": [
+          200
+        ],
+        "RMSE,": [
+          201
+        ],
+        "[Formula:": [
+          203
+        ],
+        "text]": [
+          205
+        ],
+        "metrics.": [
+          206
+        ],
+        "novelty": [
+          208
+        ],
+        "method": [
+          212
+        ],
+        "hyperparameters": [
+          215
+        ],
+        "lies": [
+          216
+        ],
+        "its": [
+          218
+        ],
+        "obtaining": [
+          222
+        ],
+        "precise": [
+          225
+        ],
+        "prediction": [
+          226
+        ],
+        "conventional": [
+          235
+        ],
+        "BLIMP": [
+          236
+        ],
+        "method,": [
+          237
+        ],
+        "potentially": [
+          238
+        ],
+        "effectiveness": [
+          241
+        ],
+        "exploration": [
+          244
+        ],
+        "Illam": [
+          246
+        ],
+        "carbonate": [
+          247
+        ],
+        "dataset.": [
+          248
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -6347,7 +6920,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6664,8 +7237,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -8488,8 +9061,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -12804,8 +13377,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -13661,8 +14234,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -18054,7 +18627,7 @@
       "has_fulltext": true,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.91834921,
+        "value": 0.91833921,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18497,8 +19070,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -18556,14 +19129,14 @@
         "https://openalex.org/W2792276363",
         "https://openalex.org/W6633156735",
         "https://openalex.org/W2005490094",
-        "https://openalex.org/W3101333798",
-        "https://openalex.org/W2989817000",
-        "https://openalex.org/W4205126565",
-        "https://openalex.org/W2990448301",
         "https://openalex.org/W1779578259",
         "https://openalex.org/W1557991152",
         "https://openalex.org/W1578255497",
-        "https://openalex.org/W627907298"
+        "https://openalex.org/W627907298",
+        "https://openalex.org/W3101333798",
+        "https://openalex.org/W2989817000",
+        "https://openalex.org/W4205126565",
+        "https://openalex.org/W2990448301"
       ],
       "related_works": [
         "https://openalex.org/W2059639161",
@@ -18580,12 +19153,12 @@
       "abstract_inverted_index": {
         "In": [
           0,
-          115
+          113
         ],
         "this": [
           1
         ],
-        "work,": [
+        "paper,": [
           2
         ],
         "an": [
@@ -18604,8 +19177,8 @@
           7,
           48,
           60,
-          73,
-          104
+          71,
+          102
         ],
         "presented": [
           8
@@ -18625,13 +19198,13 @@
         "in": [
           13,
           38,
-          89
+          87
         ],
         "a": [
           14,
           51,
           57,
-          83
+          81
         ],
         "multichannel": [
           15
@@ -18648,7 +19221,7 @@
         ],
         "method": [
           19,
-          124
+          122
         ],
         "iterate": [
           20
@@ -18656,10 +19229,10 @@
         "with": [
           21,
           62,
-          117,
-          138
+          115,
+          136
         ],
-        "wo": [
+        "two": [
           22
         ],
         "steps:": [
@@ -18670,9 +19243,9 @@
         ],
         "wavelet": [
           25,
-          98,
-          109,
-          131
+          96,
+          107,
+          129
         ],
         "estimation": [
           26
@@ -18683,7 +19256,7 @@
         "all": [
           28,
           39,
-          101
+          99
         ],
         "channels": [
           29,
@@ -18692,8 +19265,8 @@
         "and": [
           30,
           56,
-          120,
-          129
+          118,
+          127
         ],
         "second,": [
           31
@@ -18707,17 +19280,17 @@
         "the": [
           34,
           63,
-          70,
-          76,
-          90,
-          95,
-          108,
-          123
+          68,
+          74,
+          88,
+          93,
+          106,
+          121
         ],
         "reflectivity": [
           35,
           45,
-          127
+          125
         ],
         "estimate": [
           36
@@ -18731,7 +19304,7 @@
         "sparse": [
           42,
           58,
-          126
+          124
         ],
         "deconvolution.": [
           43
@@ -18762,7 +19335,7 @@
         ],
         "solution": [
           59,
-          86
+          84
         ],
         "obtained": [
           61
@@ -18773,161 +19346,155 @@
         "projected-gradient": [
           65
         ],
-        "algorithm": [
+        "algorithm-faithfulness": [
           66
         ],
-        "-": [
-          67
-        ],
-        "faithfulness": [
-          68
-        ],
         "to": [
-          69,
-          100,
-          135
-        ],
-        "recorded": [
-          71
-        ],
-        "traces": [
-          72
-        ],
-        "constrained": [
-          74
-        ],
-        "by": [
-          75,
-          93
-        ],
-        "measured": [
-          77
-        ],
-        "noise": [
-          78
-        ],
-        "level.": [
-          79
-        ],
-        "Wavelet": [
-          80
-        ],
-        "re-estimation": [
-          81
-        ],
-        "has": [
-          82
-        ],
-        "closed": [
-          84
-        ],
-        "form": [
-          85
-        ],
-        "when": [
-          87
-        ],
-        "performed": [
-          88
-        ],
-        "frequency": [
-          91
-        ],
-        "domain": [
-          92
-        ],
-        "finding": [
-          94
-        ],
-        "minimum": [
-          96
-        ],
-        "energy": [
-          97
-        ],
-        "common": [
-          99
-        ],
-        "channels.": [
-          102
-        ],
-        "Nothing": [
-          103
-        ],
-        "assumed": [
-          105
-        ],
-        "known": [
-          106
-        ],
-        "about": [
-          107
-        ],
-        "apart": [
-          110
-        ],
-        "from": [
-          111
-        ],
-        "its": [
-          112
-        ],
-        "time": [
-          113
-        ],
-        "duration.": [
-          114
-        ],
-        "tests": [
-          116
-        ],
-        "both": [
-          118
-        ],
-        "synthetic": [
-          119
-        ],
-        "real": [
-          121
-        ],
-        "data,": [
-          122
-        ],
-        "yields": [
-          125
-        ],
-        "series": [
-          128
-        ],
-        "stable": [
-          130
-        ],
-        "estimates": [
-          132
-        ],
-        "results": [
+          67,
+          98,
           133
         ],
+        "recorded": [
+          69
+        ],
+        "traces": [
+          70
+        ],
+        "constrained": [
+          72
+        ],
+        "by": [
+          73,
+          91
+        ],
+        "measured": [
+          75
+        ],
+        "noise": [
+          76
+        ],
+        "level.": [
+          77
+        ],
+        "Wavelet": [
+          78
+        ],
+        "re-estimation": [
+          79
+        ],
+        "has": [
+          80
+        ],
+        "closed": [
+          82
+        ],
+        "form": [
+          83
+        ],
+        "when": [
+          85
+        ],
+        "performed": [
+          86
+        ],
+        "frequency": [
+          89
+        ],
+        "domain": [
+          90
+        ],
+        "finding": [
+          92
+        ],
+        "minimum": [
+          94
+        ],
+        "energy": [
+          95
+        ],
+        "common": [
+          97
+        ],
+        "channels.": [
+          100
+        ],
+        "Nothing": [
+          101
+        ],
+        "assumed": [
+          103
+        ],
+        "known": [
+          104
+        ],
+        "about": [
+          105
+        ],
+        "apart": [
+          108
+        ],
+        "from": [
+          109
+        ],
+        "its": [
+          110
+        ],
+        "time": [
+          111
+        ],
+        "duration.": [
+          112
+        ],
+        "tests": [
+          114
+        ],
+        "both": [
+          116
+        ],
+        "synthetic": [
+          117
+        ],
+        "real": [
+          119
+        ],
+        "data,": [
+          120
+        ],
+        "yields": [
+          123
+        ],
+        "series": [
+          126
+        ],
+        "stable": [
+          128
+        ],
+        "estimates": [
+          130
+        ],
+        "results": [
+          131
+        ],
         "compared": [
-          134
+          132
         ],
         "existing": [
-          136
+          134
         ],
         "methods": [
-          137
+          135
         ],
         "significantly": [
-          139
+          137
         ],
         "less": [
-          140
+          138
         ],
         "computational": [
-          141
+          139
         ],
         "effort.": [
-          142
+          140
         ]
       },
       "counts_by_year": [
@@ -18964,7 +19531,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2016-11-30T00:00:00"
     },
     {
@@ -19435,8 +20002,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20468,13 +21035,13 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Life below water"
         },
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
@@ -21557,8 +22124,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -22086,8 +22653,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -23349,8 +23916,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -27214,7 +27781,7 @@
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.86199745,
+        "value": 0.86199075,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27634,7 +28201,13 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -27692,8 +28265,8 @@
         "https://openalex.org/W2578461787",
         "https://openalex.org/W2185972032",
         "https://openalex.org/W2991007228",
-        "https://openalex.org/W1968179802",
         "https://openalex.org/W2599735088",
+        "https://openalex.org/W1968179802",
         "https://openalex.org/W2186501498",
         "https://openalex.org/W2149396432"
       ],
@@ -28284,7 +28857,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31093,8 +31666,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -31884,8 +32457,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5400000214576721
+          "score": 0.5400000214576721,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -34033,7 +34606,7 @@
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.76339422,
+        "value": 0.76338699,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34351,8 +34924,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -34369,6 +34942,11 @@
           "id": "https://openalex.org/F4320322323",
           "display_name": "King Fahd University of Petroleum and Minerals",
           "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
         }
       ],
       "has_content": {
@@ -34402,8 +34980,8 @@
         "https://openalex.org/W3109128028",
         "https://openalex.org/W6719559891",
         "https://openalex.org/W6730794323",
-        "https://openalex.org/W2942721999",
         "https://openalex.org/W2563903785",
+        "https://openalex.org/W2942721999",
         "https://openalex.org/W3149255728",
         "https://openalex.org/W2465408551"
       ],
@@ -34852,7 +35430,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2021-08-30T00:00:00"
     },
     {
@@ -36505,8 +37083,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [
@@ -38020,7 +38598,7 @@
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.02645681,
+        "value": 0.02638188,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38453,7 +39031,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39294,8 +39872,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -40883,7 +41461,7 @@
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.80524111,
+        "value": 0.80528449,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41322,6 +41900,11 @@
           "id": "https://openalex.org/F4320322323",
           "display_name": "King Fahd University of Petroleum and Minerals",
           "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
         }
       ],
       "has_content": {
@@ -41356,10 +41939,10 @@
         "https://openalex.org/W2171923309",
         "https://openalex.org/W4252593548",
         "https://openalex.org/W2396226855",
+        "https://openalex.org/W2058815839",
         "https://openalex.org/W1545479462",
         "https://openalex.org/W627907298",
         "https://openalex.org/W2170889740",
-        "https://openalex.org/W2058815839",
         "https://openalex.org/W2471434544"
       ],
       "related_works": [
@@ -41856,7 +42439,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42332,8 +42915,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -45966,7 +46549,7 @@
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.82517256,
+        "value": 0.82506208,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46482,7 +47065,13 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -46968,7 +47557,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50198,8 +50787,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -52246,8 +52835,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -53426,8 +54015,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -55424,8 +56013,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -59409,8 +59998,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -59723,7 +60312,7 @@
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.62490333,
+        "value": 0.62469496,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -60175,12 +60764,18 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -60872,7 +61467,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62894,8 +63489,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -63842,7 +64437,7 @@
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.64933716,
+        "value": 0.64932645,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -64183,7 +64778,13 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -64226,11 +64827,11 @@
         "https://openalex.org/W2089045238",
         "https://openalex.org/W2113987921",
         "https://openalex.org/W2792036335",
-        "https://openalex.org/W2740681717",
-        "https://openalex.org/W2623567129",
-        "https://openalex.org/W3038057404",
         "https://openalex.org/W2216515686",
         "https://openalex.org/W2302043185",
+        "https://openalex.org/W3038057404",
+        "https://openalex.org/W2740681717",
+        "https://openalex.org/W2623567129",
         "https://openalex.org/W1581625917"
       ],
       "related_works": [
@@ -64724,7 +65325,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -65183,8 +65784,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -65719,7 +66320,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.56241714,
+        "value": 0.56242369,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66226,7 +66827,18 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -66892,7 +67504,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -68896,8 +69508,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -70171,8 +70783,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -70830,8 +71442,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -71105,7 +71717,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.55088251,
+        "value": 0.55095793,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -71396,12 +72008,23 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322320",
+          "display_name": "King Abdullah University of Science and Technology",
+          "ror": "https://ror.org/01q3tbs38"
+        },
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -71421,8 +72044,8 @@
         "https://openalex.org/W2217301490",
         "https://openalex.org/W308556760",
         "https://openalex.org/W634268709",
-        "https://openalex.org/W2041983494",
-        "https://openalex.org/W2555681769"
+        "https://openalex.org/W2555681769",
+        "https://openalex.org/W2041983494"
       ],
       "related_works": [
         "https://openalex.org/W2250140425",
@@ -71696,7 +72319,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-10T02:45:41.426853",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -72305,8 +72928,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -73831,7 +74454,7 @@
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.519954,
+        "value": 0.51979356,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -74137,6 +74760,11 @@
       ],
       "funders": [
         {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
           "id": "https://openalex.org/F4320336956",
           "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
           "ror": null
@@ -74438,7 +75066,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-24T23:09:58.560324",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -74656,7 +75284,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.77127884,
+        "value": 0.76867937,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -74993,12 +75621,17 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
         {
           "id": "https://openalex.org/F4320336956",
           "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
@@ -75064,14 +75697,383 @@
         "https://openalex.org/W4245279988",
         "https://openalex.org/W566240981"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          92,
+          105
+        ],
+        "Central": [
+          1,
+          34,
+          52,
+          149
+        ],
+        "Arabian": [
+          2,
+          35,
+          53,
+          150
+        ],
+        "Basin": [
+          3,
+          36,
+          54,
+          151
+        ],
+        "is": [
+          4
+        ],
+        "a": [
+          5,
+          10,
+          158,
+          161
+        ],
+        "sedimentary": [
+          6,
+          58
+        ],
+        "basin": [
+          7,
+          122,
+          159
+        ],
+        "that": [
+          8
+        ],
+        "contains": [
+          9
+        ],
+        "significant": [
+          11
+        ],
+        "number": [
+          12
+        ],
+        "of": [
+          13,
+          64,
+          94,
+          119,
+          137,
+          144
+        ],
+        "hydrocarbon": [
+          14
+        ],
+        "reserves.": [
+          15
+        ],
+        "In": [
+          16
+        ],
+        "addition,": [
+          17
+        ],
+        "the": [
+          18,
+          22,
+          33,
+          51,
+          57,
+          95,
+          109,
+          115,
+          138,
+          148
+        ],
+        "Mesozoic": [
+          19,
+          65,
+          96,
+          106,
+          145
+        ],
+        "succession": [
+          20
+        ],
+        "has": [
+          21
+        ],
+        "most": [
+          23
+        ],
+        "petroleum": [
+          24
+        ],
+        "system": [
+          25
+        ],
+        "elements.": [
+          26,
+          131
+        ],
+        "However,": [
+          27
+        ],
+        "publicly": [
+          28
+        ],
+        "available": [
+          29
+        ],
+        "subsurface": [
+          30
+        ],
+        "data": [
+          31,
+          49
+        ],
+        "for": [
+          32
+        ],
+        "are": [
+          37,
+          90,
+          98
+        ],
+        "scarce.": [
+          38
+        ],
+        "Therefore,": [
+          39
+        ],
+        "our": [
+          40
+        ],
+        "study": [
+          41,
+          110
+        ],
+        "successfully": [
+          42
+        ],
+        "utilizes": [
+          43
+        ],
+        "wellbore": [
+          44
+        ],
+        "and": [
+          45,
+          62,
+          71,
+          80,
+          103,
+          127,
+          141,
+          152
+        ],
+        "2D": [
+          46
+        ],
+        "seismic": [
+          47,
+          73,
+          87
+        ],
+        "reflection": [
+          48,
+          74,
+          88
+        ],
+        "from": [
+          50
+        ],
+        "to": [
+          55,
+          157
+        ],
+        "reveal": [
+          56
+        ],
+        "processes,": [
+          59
+        ],
+        "depositional": [
+          60,
+          130,
+          142
+        ],
+        "environment,": [
+          61
+        ],
+        "evolution": [
+          63,
+          140
+        ],
+        "deposits.": [
+          66
+        ],
+        "Six": [
+          67
+        ],
+        "horizons": [
+          68
+        ],
+        "with": [
+          69,
+          83,
+          123,
+          160
+        ],
+        "onlap": [
+          70,
+          78
+        ],
+        "truncation": [
+          72
+        ],
+        "termination,": [
+          75
+        ],
+        "hummocky,": [
+          76
+        ],
+        "subparallel,": [
+          77
+        ],
+        "fill,": [
+          79
+        ],
+        "chaotic": [
+          81
+        ],
+        "structures": [
+          82
+        ],
+        "recognizable": [
+          84
+        ],
+        "stratal": [
+          85
+        ],
+        "pattern": [
+          86
+        ],
+        "configurations": [
+          89
+        ],
+        "interpreted.": [
+          91
+        ],
+        "lithologies": [
+          93
+        ],
+        "deposits": [
+          97,
+          107,
+          146
+        ],
+        "limestone,": [
+          99
+        ],
+        "dolomite,": [
+          100
+        ],
+        "anhydrite,": [
+          101
+        ],
+        "sandstone,": [
+          102
+        ],
+        "shales.": [
+          104
+        ],
+        "in": [
+          108,
+          114,
+          147
+        ],
+        "area": [
+          111
+        ],
+        "were": [
+          112
+        ],
+        "deposited": [
+          113
+        ],
+        "shallow": [
+          116
+        ],
+        "marine": [
+          117
+        ],
+        "environment": [
+          118,
+          143
+        ],
+        "an": [
+          120,
+          135
+        ],
+        "intrashelf": [
+          121
+        ],
+        "tidal": [
+          124
+        ],
+        "channels,": [
+          125
+        ],
+        "reefs": [
+          126
+        ],
+        "transgressive": [
+          128
+        ],
+        "shale": [
+          129
+        ],
+        "Our": [
+          132
+        ],
+        "workflow": [
+          133
+        ],
+        "provides": [
+          134
+        ],
+        "interpretation": [
+          136
+        ],
+        "stratigraphic": [
+          139
+        ],
+        "could": [
+          153
+        ],
+        "also": [
+          154
+        ],
+        "be": [
+          155
+        ],
+        "applied": [
+          156
+        ],
+        "similar": [
+          162
+        ],
+        "geological": [
+          163
+        ],
+        "setting": [
+          164
+        ],
+        "worldwide.": [
+          165
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -75456,7 +76458,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.89729751,
+        "value": 0.89531182,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75694,7 +76696,13 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322334",
+          "display_name": "Khalifa University of Science, Technology and Research",
+          "ror": "https://ror.org/05hffr360"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -75742,34 +76750,34 @@
         "https://openalex.org/W1544126580",
         "https://openalex.org/W2547010140",
         "https://openalex.org/W565496850",
-        "https://openalex.org/W1845086632",
+        "https://openalex.org/W2026616282",
+        "https://openalex.org/W2036264230",
+        "https://openalex.org/W4301119930",
+        "https://openalex.org/W2904132173",
+        "https://openalex.org/W2922234940",
+        "https://openalex.org/W2159889680",
+        "https://openalex.org/W2146733514",
+        "https://openalex.org/W3006831727",
+        "https://openalex.org/W3035979779",
         "https://openalex.org/W1989993440",
         "https://openalex.org/W1989898205",
         "https://openalex.org/W1988620748",
-        "https://openalex.org/W614825625",
-        "https://openalex.org/W3006831727",
-        "https://openalex.org/W3035979779",
-        "https://openalex.org/W1974225959",
-        "https://openalex.org/W1969934903",
-        "https://openalex.org/W1969435906",
-        "https://openalex.org/W4301119930",
-        "https://openalex.org/W2159889680",
-        "https://openalex.org/W2146733514",
-        "https://openalex.org/W4252536976",
         "https://openalex.org/W2316116934",
         "https://openalex.org/W2788786862",
+        "https://openalex.org/W1845086632",
+        "https://openalex.org/W614825625",
+        "https://openalex.org/W2111668771",
+        "https://openalex.org/W2112013509",
+        "https://openalex.org/W2097161354",
         "https://openalex.org/W2092803560",
         "https://openalex.org/W2046396252",
         "https://openalex.org/W2087601271",
         "https://openalex.org/W2055899902",
         "https://openalex.org/W2082938787",
-        "https://openalex.org/W2904132173",
-        "https://openalex.org/W2922234940",
-        "https://openalex.org/W2026616282",
-        "https://openalex.org/W2036264230",
-        "https://openalex.org/W2111668771",
-        "https://openalex.org/W2112013509",
-        "https://openalex.org/W2097161354"
+        "https://openalex.org/W1974225959",
+        "https://openalex.org/W1969934903",
+        "https://openalex.org/W1969435906",
+        "https://openalex.org/W4252536976"
       ],
       "related_works": [
         "https://openalex.org/W2324615561",
@@ -76308,7 +77316,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -76717,8 +77725,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -78354,8 +79362,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -79180,8 +80188,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -81037,8 +82045,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -81719,7 +82727,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.06207483,
+        "value": 0.06217136,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -82018,12 +83026,28 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320322997",
+          "display_name": "King Abdulaziz City for Science and Technology",
+          "ror": "https://ror.org/05tdz6m39"
+        },
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -82042,8 +83066,8 @@
         "https://openalex.org/W4236430992",
         "https://openalex.org/W2140092250",
         "https://openalex.org/W4252593548",
-        "https://openalex.org/W2003057352",
-        "https://openalex.org/W3048046748"
+        "https://openalex.org/W3048046748",
+        "https://openalex.org/W2003057352"
       ],
       "related_works": [
         "https://openalex.org/W2157644841",
@@ -82495,7 +83519,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -84320,8 +85344,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -86899,8 +87923,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -87616,8 +88640,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -89043,8 +90067,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -90051,8 +91075,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -92222,8 +93246,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -93810,8 +94834,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -97600,8 +98624,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -98558,8 +99582,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -99422,8 +100446,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -100350,8 +101374,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6600000262260437
+          "score": 0.6600000262260437,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -101059,8 +102083,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.75
+          "score": 0.75,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -101477,8 +102501,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -101916,8 +102940,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -103320,8 +104344,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -107267,8 +108291,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -108512,7 +109536,13 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -108523,31 +109553,31 @@
       },
       "referenced_works_count": 25,
       "referenced_works": [
-        "https://openalex.org/W2139459523",
-        "https://openalex.org/W2105333540",
-        "https://openalex.org/W2107427955",
-        "https://openalex.org/W2150714953",
-        "https://openalex.org/W2149787321",
-        "https://openalex.org/W2125471009",
-        "https://openalex.org/W2596807263",
+        "https://openalex.org/W2066906716",
+        "https://openalex.org/W2054985402",
+        "https://openalex.org/W2102919512",
+        "https://openalex.org/W2078294095",
+        "https://openalex.org/W2990448301",
+        "https://openalex.org/W2022554507",
+        "https://openalex.org/W2030308632",
         "https://openalex.org/W1597732836",
         "https://openalex.org/W1965324089",
         "https://openalex.org/W627907298",
         "https://openalex.org/W1966264494",
         "https://openalex.org/W1954706987",
-        "https://openalex.org/W1984461370",
-        "https://openalex.org/W2001092354",
-        "https://openalex.org/W2332427495",
-        "https://openalex.org/W2990448301",
-        "https://openalex.org/W2022554507",
-        "https://openalex.org/W2030308632",
-        "https://openalex.org/W2102919512",
-        "https://openalex.org/W2078294095",
         "https://openalex.org/W2289642468",
         "https://openalex.org/W2271332847",
         "https://openalex.org/W2170476175",
-        "https://openalex.org/W2066906716",
-        "https://openalex.org/W2054985402"
+        "https://openalex.org/W1984461370",
+        "https://openalex.org/W2001092354",
+        "https://openalex.org/W2596807263",
+        "https://openalex.org/W2332427495",
+        "https://openalex.org/W2139459523",
+        "https://openalex.org/W2105333540",
+        "https://openalex.org/W2107427955",
+        "https://openalex.org/W2150714953",
+        "https://openalex.org/W2149787321",
+        "https://openalex.org/W2125471009"
       ],
       "related_works": [
         "https://openalex.org/W174653542",
@@ -108938,7 +109968,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T06:51:31.235846",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2019-06-27T00:00:00"
     },
     {
@@ -109295,8 +110325,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -110154,8 +111184,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -112421,8 +113451,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -116037,8 +117067,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -117908,8 +118938,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -119706,8 +120736,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -120594,7 +121624,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09242202,
+        "value": 0.09237102,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -121028,7 +122058,18 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320336956",
+          "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
+          "ror": null
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -121433,7 +122474,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2022-07-03T00:00:00"
     },
     {
@@ -122246,8 +123287,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -122673,8 +123714,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -123038,8 +124079,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -123458,8 +124499,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -124174,8 +125215,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -125280,8 +126321,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -125819,8 +126860,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -128143,8 +129184,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -130264,8 +131305,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -131489,7 +132530,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.15813111,
+        "value": 0.15707156,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -131895,12 +132936,17 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
         {
           "id": "https://openalex.org/F4320336956",
           "display_name": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals",
@@ -131942,10 +132988,10 @@
         "https://openalex.org/W1982753770",
         "https://openalex.org/W3035979779",
         "https://openalex.org/W2040309439",
-        "https://openalex.org/W4301746715",
+        "https://openalex.org/W2913515713",
         "https://openalex.org/W3139940246",
         "https://openalex.org/W3123807345",
-        "https://openalex.org/W2913515713"
+        "https://openalex.org/W4301746715"
       ],
       "related_works": [
         "https://openalex.org/W4391375266",
@@ -131961,7 +133007,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {

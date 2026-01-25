@@ -1898,6 +1898,44 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4365516011",
+    "doi": "https://doi.org/10.3389/feart.2023.1105547",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5009697450",
+    "allAuthorOpenAlexIds": [
+      "A5009697450",
+      "A5014657720",
+      "A5085007251",
+      "A5059881838",
+      "A5027197211",
+      "A5051302005",
+      "A5068383258"
+    ],
+    "firstAuthorLastName": "Bello",
+    "allAuthors": [
+      "Abdulwahab Muhammad Bello",
+      "Khalid Al–Ramadan",
+      "Ardiansyah Koeshidayatullah",
+      "Abduljamiu O. Amao",
+      "Adhipa Herlambang",
+      "Faisal Al-Ghamdi",
+      "Muhammad Hammad Malik"
+    ],
+    "title": "Impact of magmatic intrusion on diagenesis of shallow marine sandstones: An example from Qasim Formation, Northwest Saudi Arabia",
+    "publicationDate": "2023-04-14",
+    "year": 2023,
+    "venue": "Frontiers in Earth Science",
+    "citations": 13,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3192702626",
     "doi": "https://doi.org/10.1182/bloodadvances.2020002440",
     "program": "",
@@ -1993,44 +2031,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "The University of Texas at Austin"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4365516011",
-    "doi": "https://doi.org/10.3389/feart.2023.1105547",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5009697450",
-    "allAuthorOpenAlexIds": [
-      "A5009697450",
-      "A5014657720",
-      "A5085007251",
-      "A5059881838",
-      "A5027197211",
-      "A5051302005",
-      "A5068383258"
-    ],
-    "firstAuthorLastName": "Bello",
-    "allAuthors": [
-      "Abdulwahab Muhammad Bello",
-      "Khalid Al–Ramadan",
-      "Ardiansyah Koeshidayatullah",
-      "Abduljamiu O. Amao",
-      "Adhipa Herlambang",
-      "Faisal Al-Ghamdi",
-      "Muhammad Hammad Malik"
-    ],
-    "title": "Impact of magmatic intrusion on diagenesis of shallow marine sandstones: An example from Qasim Formation, Northwest Saudi Arabia",
-    "publicationDate": "2023-04-14",
-    "year": 2023,
-    "venue": "Frontiers in Earth Science",
-    "citations": 12,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological formations and processes",
-      "Geological and Geochemical Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -2569,6 +2569,36 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Houston"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W7125487795",
+    "doi": "https://doi.org/10.1016/j.engeos.2026.100525",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5009697450",
+    "allAuthorOpenAlexIds": [
+      "A5009697450",
+      "A5059738250",
+      "A5085007251"
+    ],
+    "firstAuthorLastName": "Malik",
+    "allAuthors": [
+      "Muhammad Hammad Malik",
+      "Ahmed Al‐Yaseri",
+      "Khalid Al–Ramadan"
+    ],
+    "title": "Evaluating calcite as a catalyst for pyrite-hydrogen reactions and hydrogen sulfide generation",
+    "publicationDate": "2026-01-01",
+    "year": 2026,
+    "venue": "Energy Geoscience",
+    "citations": 0,
+    "topics": [
+      "Minerals Flotation and Separation Techniques",
+      "Mine drainage and remediation techniques",
+      "Metal Extraction and Bioleaching"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -22222,7 +22252,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-10-20",
     "year": 2022,
     "venue": "Lethaia",
-    "citations": 81,
+    "citations": 82,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -25953,8 +25983,8 @@ export const worksTable: WorkTableRecord[] = [
       "Bahria University",
       "Quaid-i-Azam University",
       "King Fahd University of Petroleum and Minerals",
-      "Instytut Nauk Geologicznych",
-      "Jagiellonian University"
+      "Jagiellonian University",
+      "Instytut Nauk Geologicznych"
     ]
   },
   {
@@ -27617,7 +27647,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-11-20",
     "year": 2023,
     "venue": "Scientific Reports",
-    "citations": 21,
+    "citations": 22,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -30129,7 +30159,9 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "CO2 Sequestration and Geologic Interactions"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4384207547",
@@ -72289,7 +72321,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-08-25",
     "year": 2019,
     "venue": "Earth-Science Reviews",
-    "citations": 268,
+    "citations": 269,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geochemical Analysis",
@@ -84813,6 +84845,39 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2009751763",
+    "doi": "https://doi.org/10.1016/j.epsl.2004.04.027",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5079395428",
+      "A5045182939",
+      "A5111770135"
+    ],
+    "firstAuthorLastName": "Collins",
+    "allAuthors": [
+      "Alan S. Collins",
+      "Steven M. Reddy",
+      "Craig Buchan",
+      "A. H. Mruma"
+    ],
+    "title": "Temporal constraints on Palaeoproterozoic eclogite formation and exhumation (Usagaran Orogen, Tanzania)",
+    "publicationDate": "2004-06-25",
+    "year": 2004,
+    "venue": "Earth and Planetary Science Letters",
+    "citations": 124,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "earthquake and tectonic studies"
+    ],
+    "institutions": [
+      "Curtin University",
+      "University of Dar es Salaam"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2468992164",
     "doi": "https://doi.org/10.1016/j.chemgeo.2016.06.025",
     "program": "",
@@ -85462,7 +85527,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-09-25",
     "year": 2017,
     "venue": "Tectonics",
-    "citations": 74,
+    "citations": 75,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -86190,6 +86255,70 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4309324593",
+    "doi": "https://doi.org/10.1111/ggr.12467",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5073201023",
+      "A5047567431",
+      "A5001633563",
+      "A5089879286",
+      "A5090486808",
+      "A5009228905",
+      "A5024022389",
+      "A5060822821",
+      "A5041008278",
+      "A5086411272",
+      "A5023085486",
+      "A5042828801",
+      "A5062781095"
+    ],
+    "firstAuthorLastName": "Redaa",
+    "allAuthors": [
+      "Ahmad Redaa",
+      "Juraj Farkaš",
+      "Sarah Gilbert",
+      "Alan S. Collins",
+      "Stefan Löhr",
+      "Davood Vasegh",
+      "Marnie Forster",
+      "Morgan Blades",
+      "Thomas Zack",
+      "Andrea Giuliani",
+      "Roland Maas",
+      "Andre Baldermann",
+      "Martin Dietzel",
+      "Dieter Garbe‐Schönberg"
+    ],
+    "title": "Testing <scp>Nano‐Powder</scp> and <scp>Fused‐Glass</scp> Mineral Reference Materials for <i>In Situ</i><scp>Rb‐Sr</scp> Dating of Glauconite, Phlogopite, Biotite and Feldspar via <scp>LA‐ICP‐MS</scp>/<scp>MS</scp>",
+    "publicationDate": "2022-11-16",
+    "year": 2022,
+    "venue": "Geostandards and Geoanalytical Research",
+    "citations": 29,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Geology and Paleoclimatology Research"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "Medical Insurance Group Australia",
+      "King Abdulaziz University",
+      "Macquarie University",
+      "Australian National University",
+      "University of Gothenburg",
+      "ETH Zurich",
+      "University of Melbourne",
+      "Environmental Earth Sciences",
+      "Nawi Graz",
+      "Graz University of Technology",
+      "Constructor University",
+      "Kiel University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2781609758",
     "doi": "https://doi.org/10.1016/j.gsf.2017.12.010",
     "program": "",
@@ -86704,39 +86833,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Johannes Gutenberg University Mainz",
       "University of Western Australia"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2009751763",
-    "doi": "https://doi.org/10.1016/j.epsl.2004.04.027",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5079395428",
-      "A5045182939",
-      "A5111770135"
-    ],
-    "firstAuthorLastName": "Collins",
-    "allAuthors": [
-      "Alan S. Collins",
-      "Steven M. Reddy",
-      "Craig Buchan",
-      "A. H. Mruma"
-    ],
-    "title": "Temporal constraints on Palaeoproterozoic eclogite formation and exhumation (Usagaran Orogen, Tanzania)",
-    "publicationDate": "2004-06-25",
-    "year": 2004,
-    "venue": "Earth and Planetary Science Letters",
-    "citations": 123,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "earthquake and tectonic studies"
-    ],
-    "institutions": [
-      "Curtin University",
-      "University of Dar es Salaam"
     ]
   },
   {
@@ -89244,70 +89340,6 @@ export const worksTable: WorkTableRecord[] = [
       "Laurentian University",
       "Geological Survey of Canada",
       "The University of Sydney"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4309324593",
-    "doi": "https://doi.org/10.1111/ggr.12467",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5073201023",
-      "A5047567431",
-      "A5001633563",
-      "A5089879286",
-      "A5090486808",
-      "A5009228905",
-      "A5024022389",
-      "A5060822821",
-      "A5041008278",
-      "A5086411272",
-      "A5023085486",
-      "A5042828801",
-      "A5062781095"
-    ],
-    "firstAuthorLastName": "Redaa",
-    "allAuthors": [
-      "Ahmad Redaa",
-      "Juraj Farkaš",
-      "Sarah Gilbert",
-      "Alan S. Collins",
-      "Stefan Löhr",
-      "Davood Vasegh",
-      "Marnie Forster",
-      "Morgan Blades",
-      "Thomas Zack",
-      "Andrea Giuliani",
-      "Roland Maas",
-      "Andre Baldermann",
-      "Martin Dietzel",
-      "Dieter Garbe‐Schönberg"
-    ],
-    "title": "Testing <scp>Nano‐Powder</scp> and <scp>Fused‐Glass</scp> Mineral Reference Materials for <i>In Situ</i><scp>Rb‐Sr</scp> Dating of Glauconite, Phlogopite, Biotite and Feldspar via <scp>LA‐ICP‐MS</scp>/<scp>MS</scp>",
-    "publicationDate": "2022-11-16",
-    "year": 2022,
-    "venue": "Geostandards and Geoanalytical Research",
-    "citations": 28,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "Geology and Paleoclimatology Research"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "Medical Insurance Group Australia",
-      "King Abdulaziz University",
-      "Macquarie University",
-      "Australian National University",
-      "University of Gothenburg",
-      "ETH Zurich",
-      "University of Melbourne",
-      "Environmental Earth Sciences",
-      "Nawi Graz",
-      "Graz University of Technology",
-      "Constructor University",
-      "Kiel University"
     ]
   },
   {
@@ -96726,12 +96758,12 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies"
     ],
     "institutions": [
-      "University of Adelaide",
+      "The University of Adelaide",
       "University of South Australia",
-      "University of Colorado Boulder",
+      "University of Colorado System",
       "Commonwealth Scientific and Industrial Research Organisation",
       "Health Sciences and Nutrition",
-      "University of Colorado System"
+      "University of Colorado Boulder"
     ]
   },
   {
@@ -111263,7 +111295,9 @@ export const worksTable: WorkTableRecord[] = [
       "Hydraulic Fracturing and Reservoir Analysis",
       "Methane Hydrates and Related Phenomena"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W1997639027",
@@ -113142,6 +113176,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3129310095",
+    "doi": "https://doi.org/10.3390/en14041178",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5091672367",
+      "A5108134441",
+      "A5075463735",
+      "A5108637705",
+      "A5069459556"
+    ],
+    "firstAuthorLastName": "Aboobacker",
+    "allAuthors": [
+      "V. M. Aboobacker",
+      "P. R. Shanas",
+      "S. Veerasingam",
+      "Ebrahim M.A.S. Al-Ansari",
+      "Fadhil Sadooni",
+      "P. Vethamony"
+    ],
+    "title": "Long-Term Assessment of Onshore and Offshore Wind Energy Potentials of Qatar",
+    "publicationDate": "2021-02-23",
+    "year": 2021,
+    "venue": "Energies",
+    "citations": 44,
+    "topics": [
+      "Wind Energy Research and Development",
+      "Climate variability and models",
+      "Energy Load and Power Forecasting"
+    ],
+    "institutions": [
+      "Qatar University",
+      "National Institute of Oceanography"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3109758233",
     "doi": "https://doi.org/10.1016/j.petrol.2020.108202",
     "program": "",
@@ -113543,43 +113614,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W3129310095",
-    "doi": "https://doi.org/10.3390/en14041178",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5091672367",
-      "A5108134441",
-      "A5075463735",
-      "A5108637705",
-      "A5069459556"
-    ],
-    "firstAuthorLastName": "Aboobacker",
-    "allAuthors": [
-      "V. M. Aboobacker",
-      "P. R. Shanas",
-      "S. Veerasingam",
-      "Ebrahim M.A.S. Al-Ansari",
-      "Fadhil Sadooni",
-      "P. Vethamony"
-    ],
-    "title": "Long-Term Assessment of Onshore and Offshore Wind Energy Potentials of Qatar",
-    "publicationDate": "2021-02-23",
-    "year": 2021,
-    "venue": "Energies",
-    "citations": 43,
-    "topics": [
-      "Wind Energy Research and Development",
-      "Climate variability and models",
-      "Energy Load and Power Forecasting"
-    ],
-    "institutions": [
-      "Qatar University",
-      "National Institute of Oceanography"
-    ]
   },
   {
     "workId": "https://openalex.org/W4205176598",
@@ -117226,6 +117260,44 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W4295806883",
+    "doi": "https://doi.org/10.1016/j.ecmx.2022.100299",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5074794653",
+    "allAuthorOpenAlexIds": [
+      "A5074794653",
+      "A5069874671",
+      "A5050034030",
+      "A5031210408",
+      "A5112056649",
+      "A5067974945"
+    ],
+    "firstAuthorLastName": "Hamieh",
+    "allAuthors": [
+      "Ali Hamieh",
+      "Feras Rowaihy",
+      "Mohammed Al-Juaied",
+      "Ahmed Nabil Abo-Khatwa",
+      "Abdulkader M. Afifi",
+      "Hussein Hoteit"
+    ],
+    "title": "Quantification and analysis of CO2 footprint from industrial facilities in Saudi Arabia",
+    "publicationDate": "2022-09-15",
+    "year": 2022,
+    "venue": "Energy Conversion and Management X",
+    "citations": 80,
+    "topics": [
+      "Carbon Dioxide Capture Technologies",
+      "CO2 Sequestration and Geologic Interactions",
+      "Integrated Energy Systems Optimization"
+    ],
+    "institutions": [
+      "King Abdullah University of Science and Technology",
+      "Saudi Aramco (Saudi Arabia)",
+      "King Abdulaziz University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4381186266",
     "doi": "https://doi.org/10.1016/j.ijhydene.2023.05.355",
     "program": "",
@@ -117259,44 +117331,6 @@ export const worksTable: WorkTableRecord[] = [
       "Texas A&M University",
       "Mitchell Institute",
       "King Abdullah University of Science and Technology"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4295806883",
-    "doi": "https://doi.org/10.1016/j.ecmx.2022.100299",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5074794653",
-    "allAuthorOpenAlexIds": [
-      "A5074794653",
-      "A5069874671",
-      "A5050034030",
-      "A5031210408",
-      "A5112056649",
-      "A5067974945"
-    ],
-    "firstAuthorLastName": "Hamieh",
-    "allAuthors": [
-      "Ali Hamieh",
-      "Feras Rowaihy",
-      "Mohammed Al-Juaied",
-      "Ahmed Nabil Abo-Khatwa",
-      "Abdulkader M. Afifi",
-      "Hussein Hoteit"
-    ],
-    "title": "Quantification and analysis of CO2 footprint from industrial facilities in Saudi Arabia",
-    "publicationDate": "2022-09-15",
-    "year": 2022,
-    "venue": "Energy Conversion and Management X",
-    "citations": 79,
-    "topics": [
-      "Carbon Dioxide Capture Technologies",
-      "CO2 Sequestration and Geologic Interactions",
-      "Integrated Energy Systems Optimization"
-    ],
-    "institutions": [
-      "King Abdullah University of Science and Technology",
-      "Saudi Aramco (Saudi Arabia)",
-      "King Abdulaziz University"
     ]
   },
   {
@@ -117335,7 +117369,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-08-10",
     "year": 2023,
     "venue": "Earth-Science Reviews",
-    "citations": 68,
+    "citations": 69,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Reservoir Engineering and Simulation Methods",
@@ -117418,7 +117452,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-11-28",
     "year": 2022,
     "venue": "Scientific Reports",
-    "citations": 35,
+    "citations": 36,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Groundwater flow and contamination studies",
@@ -118646,8 +118680,8 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Iceland",
-      "King Abdullah University of Science and Technology",
-      "Kootenay Association for Science & Technology"
+      "Kootenay Association for Science & Technology",
+      "King Abdullah University of Science and Technology"
     ]
   },
   {
@@ -124281,7 +124315,7 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis"
     ],
     "institutions": [
-      "Kiel University",
+      "Christian-Albrechts-Universität zu Kiel",
       "Saudi Aramco (Saudi Arabia)"
     ]
   },

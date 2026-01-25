@@ -708,7 +708,7 @@
       "has_fulltext": true,
       "cited_by_count": 519,
       "citation_normalized_percentile": {
-        "value": 0.96882088,
+        "value": 0.96882448,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1049,7 +1049,13 @@
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -1095,16 +1101,16 @@
         "https://openalex.org/W6675257378",
         "https://openalex.org/W2974207299",
         "https://openalex.org/W2944320642",
-        "https://openalex.org/W2298570460",
+        "https://openalex.org/W3128966218",
+        "https://openalex.org/W1963906122",
+        "https://openalex.org/W2022842844",
         "https://openalex.org/W2102332269",
         "https://openalex.org/W2098946510",
-        "https://openalex.org/W3128966218",
+        "https://openalex.org/W1994180156",
         "https://openalex.org/W2065829251",
         "https://openalex.org/W2068451724",
-        "https://openalex.org/W1994180156",
-        "https://openalex.org/W2022842844",
         "https://openalex.org/W2996419205",
-        "https://openalex.org/W1963906122",
+        "https://openalex.org/W2298570460",
         "https://openalex.org/W2125021582",
         "https://openalex.org/W2124390624",
         "https://openalex.org/W2166039370"
@@ -2003,7 +2009,7 @@
           "cited_by_count": 22
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5416,6 +5422,806 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4295806883",
+      "doi": "https://doi.org/10.1016/j.ecmx.2022.100299",
+      "title": "Quantification and analysis of CO2 footprint from industrial facilities in Saudi Arabia",
+      "display_name": "Quantification and analysis of CO2 footprint from industrial facilities in Saudi Arabia",
+      "publication_year": 2022,
+      "publication_date": "2022-09-15",
+      "ids": {
+        "openalex": "https://openalex.org/W4295806883",
+        "doi": "https://doi.org/10.1016/j.ecmx.2022.100299"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.ecmx.2022.100299",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.ecmx.2022.100299",
+        "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2590174522001222-ga1_lrg.jpg",
+        "source": {
+          "id": "https://openalex.org/S4210191901",
+          "display_name": "Energy Conversion and Management X",
+          "issn_l": "2590-1745",
+          "issn": [
+            "2590-1745"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Conversion and Management: X",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2590174522001222-ga1_lrg.jpg",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5069874671",
+            "display_name": "Ali Hamieh",
+            "orcid": "https://orcid.org/0000-0002-5218-3617"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ali Hamieh",
+          "raw_affiliation_strings": [
+            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050034030",
+            "display_name": "Feras Rowaihy",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Feras Rowaihy",
+          "raw_affiliation_strings": [
+            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031210408",
+            "display_name": "Mohammed Al-Juaied",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Al-Juaied",
+          "raw_affiliation_strings": [
+            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
+            "Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112056649",
+            "display_name": "Ahmed Nabil Abo-Khatwa",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185163786",
+              "display_name": "King Abdulaziz University",
+              "ror": "https://ror.org/02ma4wv74",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmed Nabil Abo-Khatwa",
+          "raw_affiliation_strings": [
+            "King Abdulaziz University (KAU), Jeddah, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Abdulaziz University (KAU), Jeddah, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074794653",
+            "display_name": "Abdulkader M. Afifi",
+            "orcid": "https://orcid.org/0000-0002-3193-4792"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulkader M. Afifi",
+          "raw_affiliation_strings": [
+            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5067974945",
+            "display_name": "Hussein Hoteit",
+            "orcid": "https://orcid.org/0000-0002-3900-7272"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Hussein Hoteit",
+          "raw_affiliation_strings": [
+            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 6,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5067974945"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I71920554"
+      ],
+      "apc_list": {
+        "value": 1800,
+        "currency": "USD",
+        "value_usd": 1800
+      },
+      "apc_paid": {
+        "value": 1800,
+        "currency": "USD",
+        "value_usd": 1800
+      },
+      "fwci": 9.52099467,
+      "has_fulltext": true,
+      "cited_by_count": 80,
+      "citation_normalized_percentile": {
+        "value": 0.98630042,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "16",
+        "issue": null,
+        "first_page": "100299",
+        "last_page": "100299"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10967",
+        "display_name": "Carbon Dioxide Capture Technologies",
+        "score": 0.9993000030517578,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2210",
+          "display_name": "Mechanical Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10967",
+          "display_name": "Carbon Dioxide Capture Technologies",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.9958999752998352,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11185",
+          "display_name": "Integrated Energy Systems Optimization",
+          "score": 0.9908999800682068,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2208",
+            "display_name": "Electrical and Electronic Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/greenhouse-gas",
+          "display_name": "Greenhouse gas",
+          "score": 0.7221739292144775
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-footprint",
+          "display_name": "Carbon footprint",
+          "score": 0.6266064643859863
+        },
+        {
+          "id": "https://openalex.org/keywords/renewable-energy",
+          "display_name": "Renewable energy",
+          "score": 0.5960612297058105
+        },
+        {
+          "id": "https://openalex.org/keywords/fossil-fuel",
+          "display_name": "Fossil fuel",
+          "score": 0.5192725658416748
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.5053825378417969
+        },
+        {
+          "id": "https://openalex.org/keywords/electricity",
+          "display_name": "Electricity",
+          "score": 0.5015730857849121
+        },
+        {
+          "id": "https://openalex.org/keywords/natural-resource-economics",
+          "display_name": "Natural resource economics",
+          "score": 0.4338514804840088
+        },
+        {
+          "id": "https://openalex.org/keywords/efficient-energy-use",
+          "display_name": "Efficient energy use",
+          "score": 0.41168543696403503
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-protection",
+          "display_name": "Environmental protection",
+          "score": 0.3514097332954407
+        },
+        {
+          "id": "https://openalex.org/keywords/waste-management",
+          "display_name": "Waste management",
+          "score": 0.34928321838378906
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-engineering",
+          "display_name": "Environmental engineering",
+          "score": 0.3356044888496399
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.2997329831123352
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C47737302",
+          "wikidata": "https://www.wikidata.org/wiki/Q167336",
+          "display_name": "Greenhouse gas",
+          "level": 2,
+          "score": 0.7221739292144775
+        },
+        {
+          "id": "https://openalex.org/C2780936489",
+          "wikidata": "https://www.wikidata.org/wiki/Q310667",
+          "display_name": "Carbon footprint",
+          "level": 3,
+          "score": 0.6266064643859863
+        },
+        {
+          "id": "https://openalex.org/C188573790",
+          "wikidata": "https://www.wikidata.org/wiki/Q12705",
+          "display_name": "Renewable energy",
+          "level": 2,
+          "score": 0.5960612297058105
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.5192725658416748
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5053825378417969
+        },
+        {
+          "id": "https://openalex.org/C206658404",
+          "wikidata": "https://www.wikidata.org/wiki/Q12725",
+          "display_name": "Electricity",
+          "level": 2,
+          "score": 0.5015730857849121
+        },
+        {
+          "id": "https://openalex.org/C175605778",
+          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
+          "display_name": "Natural resource economics",
+          "level": 1,
+          "score": 0.4338514804840088
+        },
+        {
+          "id": "https://openalex.org/C2742236",
+          "wikidata": "https://www.wikidata.org/wiki/Q924713",
+          "display_name": "Efficient energy use",
+          "level": 2,
+          "score": 0.41168543696403503
+        },
+        {
+          "id": "https://openalex.org/C526734887",
+          "wikidata": "https://www.wikidata.org/wiki/Q832237",
+          "display_name": "Environmental protection",
+          "level": 1,
+          "score": 0.3514097332954407
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.34928321838378906
+        },
+        {
+          "id": "https://openalex.org/C87717796",
+          "wikidata": "https://www.wikidata.org/wiki/Q146326",
+          "display_name": "Environmental engineering",
+          "level": 1,
+          "score": 0.3356044888496399
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.2997329831123352
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C119599485",
+          "wikidata": "https://www.wikidata.org/wiki/Q43035",
+          "display_name": "Electrical engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.ecmx.2022.100299",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.ecmx.2022.100299",
+          "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2590174522001222-ga1_lrg.jpg",
+          "source": {
+            "id": "https://openalex.org/S4210191901",
+            "display_name": "Energy Conversion and Management X",
+            "issn_l": "2590-1745",
+            "issn": [
+              "2590-1745"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Energy Conversion and Management: X",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:3caa3342fec84674a7d858f54666471a",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/3caa3342fec84674a7d858f54666471a",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Energy Conversion and Management: X, Vol 16, Iss , Pp 100299- (2022)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:repository.kaust.edu.sa:10754/681709",
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/10754/681709",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401596",
+            "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I71920554",
+            "host_organization_name": "King Abdullah University of Science and Technology",
+            "host_organization_lineage": [
+              "https://openalex.org/I71920554"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.ecmx.2022.100299",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.ecmx.2022.100299",
+        "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2590174522001222-ga1_lrg.jpg",
+        "source": {
+          "id": "https://openalex.org/S4210191901",
+          "display_name": "Energy Conversion and Management X",
+          "issn_l": "2590-1745",
+          "issn": [
+            "2590-1745"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Conversion and Management: X",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4295806883.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4295806883.grobid-xml"
+      },
+      "referenced_works_count": 39,
+      "referenced_works": [
+        "https://openalex.org/W2015809777",
+        "https://openalex.org/W2554102260",
+        "https://openalex.org/W2046754193",
+        "https://openalex.org/W4205711523",
+        "https://openalex.org/W2992440055",
+        "https://openalex.org/W2139243186",
+        "https://openalex.org/W6758127558",
+        "https://openalex.org/W2768583990",
+        "https://openalex.org/W1504530583",
+        "https://openalex.org/W2055638681",
+        "https://openalex.org/W2108379304",
+        "https://openalex.org/W1993871668",
+        "https://openalex.org/W2891358411",
+        "https://openalex.org/W2119593543",
+        "https://openalex.org/W2191677867",
+        "https://openalex.org/W6725920732",
+        "https://openalex.org/W4293495652",
+        "https://openalex.org/W2060470013",
+        "https://openalex.org/W2889424096",
+        "https://openalex.org/W2079300606",
+        "https://openalex.org/W2555784809",
+        "https://openalex.org/W1993072274",
+        "https://openalex.org/W2557567064",
+        "https://openalex.org/W1998928490",
+        "https://openalex.org/W2549485456",
+        "https://openalex.org/W2971612445",
+        "https://openalex.org/W2461419449",
+        "https://openalex.org/W2521106790",
+        "https://openalex.org/W1608013130",
+        "https://openalex.org/W6607717770",
+        "https://openalex.org/W3156198471",
+        "https://openalex.org/W6733337506",
+        "https://openalex.org/W6682570230",
+        "https://openalex.org/W1854655101",
+        "https://openalex.org/W2000533156",
+        "https://openalex.org/W2516787923",
+        "https://openalex.org/W2153776212",
+        "https://openalex.org/W191374010",
+        "https://openalex.org/W2588346922"
+      ],
+      "related_works": [
+        "https://openalex.org/W2740394464",
+        "https://openalex.org/W2939976636",
+        "https://openalex.org/W2131139750",
+        "https://openalex.org/W2807875202",
+        "https://openalex.org/W2884626460",
+        "https://openalex.org/W4389871154",
+        "https://openalex.org/W4320806747",
+        "https://openalex.org/W4382583248",
+        "https://openalex.org/W2023474522",
+        "https://openalex.org/W4280635404"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 29
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 21
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 25
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-01-25T03:40:55.926884",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4381186266",
       "doi": "https://doi.org/10.1016/j.ijhydene.2023.05.355",
       "title": "Compositional reservoir simulation of underground hydrogen storage in depleted gas reservoirs",
@@ -6174,800 +6980,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4295806883",
-      "doi": "https://doi.org/10.1016/j.ecmx.2022.100299",
-      "title": "Quantification and analysis of CO2 footprint from industrial facilities in Saudi Arabia",
-      "display_name": "Quantification and analysis of CO2 footprint from industrial facilities in Saudi Arabia",
-      "publication_year": 2022,
-      "publication_date": "2022-09-15",
-      "ids": {
-        "openalex": "https://openalex.org/W4295806883",
-        "doi": "https://doi.org/10.1016/j.ecmx.2022.100299"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.ecmx.2022.100299",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.ecmx.2022.100299",
-        "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2590174522001222-ga1_lrg.jpg",
-        "source": {
-          "id": "https://openalex.org/S4210191901",
-          "display_name": "Energy Conversion and Management X",
-          "issn_l": "2590-1745",
-          "issn": [
-            "2590-1745"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Conversion and Management: X",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2590174522001222-ga1_lrg.jpg",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5069874671",
-            "display_name": "Ali Hamieh",
-            "orcid": "https://orcid.org/0000-0002-5218-3617"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ali Hamieh",
-          "raw_affiliation_strings": [
-            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5050034030",
-            "display_name": "Feras Rowaihy",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Feras Rowaihy",
-          "raw_affiliation_strings": [
-            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5031210408",
-            "display_name": "Mohammed Al-Juaied",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Al-Juaied",
-          "raw_affiliation_strings": [
-            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
-            "Saudi Aramco, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5112056649",
-            "display_name": "Ahmed Nabil Abo-Khatwa",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185163786",
-              "display_name": "King Abdulaziz University",
-              "ror": "https://ror.org/02ma4wv74",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ahmed Nabil Abo-Khatwa",
-          "raw_affiliation_strings": [
-            "King Abdulaziz University (KAU), Jeddah, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "King Abdulaziz University (KAU), Jeddah, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I185163786"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074794653",
-            "display_name": "Abdulkader M. Afifi",
-            "orcid": "https://orcid.org/0000-0002-3193-4792"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulkader M. Afifi",
-          "raw_affiliation_strings": [
-            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5067974945",
-            "display_name": "Hussein Hoteit",
-            "orcid": "https://orcid.org/0000-0002-3900-7272"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Hussein Hoteit",
-          "raw_affiliation_strings": [
-            "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Resources and Petroleum Engineering, King Abdullah University of Science and Technology (KAUST), Thuwal, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 6,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5067974945"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I71920554"
-      ],
-      "apc_list": {
-        "value": 1800,
-        "currency": "USD",
-        "value_usd": 1800
-      },
-      "apc_paid": {
-        "value": 1800,
-        "currency": "USD",
-        "value_usd": 1800
-      },
-      "fwci": 9.52099467,
-      "has_fulltext": true,
-      "cited_by_count": 79,
-      "citation_normalized_percentile": {
-        "value": 0.98630832,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "16",
-        "issue": null,
-        "first_page": "100299",
-        "last_page": "100299"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10967",
-        "display_name": "Carbon Dioxide Capture Technologies",
-        "score": 0.9993000030517578,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2210",
-          "display_name": "Mechanical Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10967",
-          "display_name": "Carbon Dioxide Capture Technologies",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.9958999752998352,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11185",
-          "display_name": "Integrated Energy Systems Optimization",
-          "score": 0.9908999800682068,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2208",
-            "display_name": "Electrical and Electronic Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/greenhouse-gas",
-          "display_name": "Greenhouse gas",
-          "score": 0.7221739292144775
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-footprint",
-          "display_name": "Carbon footprint",
-          "score": 0.6266064643859863
-        },
-        {
-          "id": "https://openalex.org/keywords/renewable-energy",
-          "display_name": "Renewable energy",
-          "score": 0.5960612297058105
-        },
-        {
-          "id": "https://openalex.org/keywords/fossil-fuel",
-          "display_name": "Fossil fuel",
-          "score": 0.5192725658416748
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.5053825378417969
-        },
-        {
-          "id": "https://openalex.org/keywords/electricity",
-          "display_name": "Electricity",
-          "score": 0.5015730857849121
-        },
-        {
-          "id": "https://openalex.org/keywords/natural-resource-economics",
-          "display_name": "Natural resource economics",
-          "score": 0.4338514804840088
-        },
-        {
-          "id": "https://openalex.org/keywords/efficient-energy-use",
-          "display_name": "Efficient energy use",
-          "score": 0.41168543696403503
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-protection",
-          "display_name": "Environmental protection",
-          "score": 0.3514097332954407
-        },
-        {
-          "id": "https://openalex.org/keywords/waste-management",
-          "display_name": "Waste management",
-          "score": 0.34928321838378906
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-engineering",
-          "display_name": "Environmental engineering",
-          "score": 0.3356044888496399
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.2997329831123352
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C47737302",
-          "wikidata": "https://www.wikidata.org/wiki/Q167336",
-          "display_name": "Greenhouse gas",
-          "level": 2,
-          "score": 0.7221739292144775
-        },
-        {
-          "id": "https://openalex.org/C2780936489",
-          "wikidata": "https://www.wikidata.org/wiki/Q310667",
-          "display_name": "Carbon footprint",
-          "level": 3,
-          "score": 0.6266064643859863
-        },
-        {
-          "id": "https://openalex.org/C188573790",
-          "wikidata": "https://www.wikidata.org/wiki/Q12705",
-          "display_name": "Renewable energy",
-          "level": 2,
-          "score": 0.5960612297058105
-        },
-        {
-          "id": "https://openalex.org/C68189081",
-          "wikidata": "https://www.wikidata.org/wiki/Q12748",
-          "display_name": "Fossil fuel",
-          "level": 2,
-          "score": 0.5192725658416748
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5053825378417969
-        },
-        {
-          "id": "https://openalex.org/C206658404",
-          "wikidata": "https://www.wikidata.org/wiki/Q12725",
-          "display_name": "Electricity",
-          "level": 2,
-          "score": 0.5015730857849121
-        },
-        {
-          "id": "https://openalex.org/C175605778",
-          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
-          "display_name": "Natural resource economics",
-          "level": 1,
-          "score": 0.4338514804840088
-        },
-        {
-          "id": "https://openalex.org/C2742236",
-          "wikidata": "https://www.wikidata.org/wiki/Q924713",
-          "display_name": "Efficient energy use",
-          "level": 2,
-          "score": 0.41168543696403503
-        },
-        {
-          "id": "https://openalex.org/C526734887",
-          "wikidata": "https://www.wikidata.org/wiki/Q832237",
-          "display_name": "Environmental protection",
-          "level": 1,
-          "score": 0.3514097332954407
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.34928321838378906
-        },
-        {
-          "id": "https://openalex.org/C87717796",
-          "wikidata": "https://www.wikidata.org/wiki/Q146326",
-          "display_name": "Environmental engineering",
-          "level": 1,
-          "score": 0.3356044888496399
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.2997329831123352
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C119599485",
-          "wikidata": "https://www.wikidata.org/wiki/Q43035",
-          "display_name": "Electrical engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C162324750",
-          "wikidata": "https://www.wikidata.org/wiki/Q8134",
-          "display_name": "Economics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 3,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.ecmx.2022.100299",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.ecmx.2022.100299",
-          "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2590174522001222-ga1_lrg.jpg",
-          "source": {
-            "id": "https://openalex.org/S4210191901",
-            "display_name": "Energy Conversion and Management X",
-            "issn_l": "2590-1745",
-            "issn": [
-              "2590-1745"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Energy Conversion and Management: X",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:3caa3342fec84674a7d858f54666471a",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/3caa3342fec84674a7d858f54666471a",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Energy Conversion and Management: X, Vol 16, Iss , Pp 100299- (2022)",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:repository.kaust.edu.sa:10754/681709",
-          "is_oa": true,
-          "landing_page_url": "http://hdl.handle.net/10754/681709",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401596",
-            "display_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I71920554",
-            "host_organization_name": "King Abdullah University of Science and Technology",
-            "host_organization_lineage": [
-              "https://openalex.org/I71920554"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.ecmx.2022.100299",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.ecmx.2022.100299",
-        "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S2590174522001222-ga1_lrg.jpg",
-        "source": {
-          "id": "https://openalex.org/S4210191901",
-          "display_name": "Energy Conversion and Management X",
-          "issn_l": "2590-1745",
-          "issn": [
-            "2590-1745"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Conversion and Management: X",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4295806883.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4295806883.grobid-xml"
-      },
-      "referenced_works_count": 39,
-      "referenced_works": [
-        "https://openalex.org/W2015809777",
-        "https://openalex.org/W2554102260",
-        "https://openalex.org/W2046754193",
-        "https://openalex.org/W4205711523",
-        "https://openalex.org/W2992440055",
-        "https://openalex.org/W2139243186",
-        "https://openalex.org/W6758127558",
-        "https://openalex.org/W2768583990",
-        "https://openalex.org/W1504530583",
-        "https://openalex.org/W2055638681",
-        "https://openalex.org/W2108379304",
-        "https://openalex.org/W1993871668",
-        "https://openalex.org/W2891358411",
-        "https://openalex.org/W2119593543",
-        "https://openalex.org/W2191677867",
-        "https://openalex.org/W6725920732",
-        "https://openalex.org/W4293495652",
-        "https://openalex.org/W2060470013",
-        "https://openalex.org/W2889424096",
-        "https://openalex.org/W2079300606",
-        "https://openalex.org/W2555784809",
-        "https://openalex.org/W1993072274",
-        "https://openalex.org/W2557567064",
-        "https://openalex.org/W1998928490",
-        "https://openalex.org/W2549485456",
-        "https://openalex.org/W2971612445",
-        "https://openalex.org/W2461419449",
-        "https://openalex.org/W2521106790",
-        "https://openalex.org/W1608013130",
-        "https://openalex.org/W6607717770",
-        "https://openalex.org/W3156198471",
-        "https://openalex.org/W6733337506",
-        "https://openalex.org/W6682570230",
-        "https://openalex.org/W1854655101",
-        "https://openalex.org/W2000533156",
-        "https://openalex.org/W2153776212",
-        "https://openalex.org/W2588346922",
-        "https://openalex.org/W2516787923",
-        "https://openalex.org/W191374010"
-      ],
-      "related_works": [
-        "https://openalex.org/W2740394464",
-        "https://openalex.org/W2939976636",
-        "https://openalex.org/W2131139750",
-        "https://openalex.org/W2807875202",
-        "https://openalex.org/W2884626460",
-        "https://openalex.org/W4389871154",
-        "https://openalex.org/W4320806747",
-        "https://openalex.org/W4382583248",
-        "https://openalex.org/W2023474522",
-        "https://openalex.org/W4280635404"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 29
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 21
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 25
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4385728002",
       "doi": "https://doi.org/10.1016/j.earscirev.2023.104539",
       "title": "Evaluation of geological CO2 storage potential in Saudi Arabian sedimentary basins",
@@ -7459,11 +7471,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 11.14397782,
+      "fwci": 11.30785984,
       "has_fulltext": true,
-      "cited_by_count": 68,
+      "cited_by_count": 69,
       "citation_normalized_percentile": {
-        "value": 0.9890944,
+        "value": 0.98939203,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7801,7 +7813,13 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322320",
+          "display_name": "King Abdullah University of Science and Technology",
+          "ror": "https://ror.org/01q3tbs38"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -7922,21 +7940,21 @@
         "https://openalex.org/W6678364353",
         "https://openalex.org/W6620757593",
         "https://openalex.org/W203584942",
+        "https://openalex.org/W2068451724",
+        "https://openalex.org/W2166039370",
         "https://openalex.org/W4226148597",
         "https://openalex.org/W4297504193",
         "https://openalex.org/W4295806883",
+        "https://openalex.org/W578079095",
         "https://openalex.org/W3162034760",
         "https://openalex.org/W2012354629",
         "https://openalex.org/W1994180156",
-        "https://openalex.org/W2974397374",
-        "https://openalex.org/W2068451724",
-        "https://openalex.org/W578079095",
-        "https://openalex.org/W2166039370",
-        "https://openalex.org/W2026615008",
         "https://openalex.org/W2136195355",
         "https://openalex.org/W2103909193",
         "https://openalex.org/W2125021582",
-        "https://openalex.org/W2126238639"
+        "https://openalex.org/W2126238639",
+        "https://openalex.org/W2026615008",
+        "https://openalex.org/W2974397374"
       ],
       "related_works": [
         "https://openalex.org/W2962421197",
@@ -7950,11 +7968,840 @@
         "https://openalex.org/W1965960160",
         "https://openalex.org/W2357615465"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "9": [
+          195
+        ],
+        "17": [
+          76
+        ],
+        "Carbon": [
+          0,
+          246
+        ],
+        "capture": [
+          1
+        ],
+        "and": [
+          2,
+          46,
+          63,
+          72,
+          78,
+          96,
+          125,
+          156,
+          186,
+          193,
+          258,
+          280,
+          308,
+          322,
+          328,
+          351
+        ],
+        "storage": [
+          3,
+          32,
+          73,
+          85,
+          176,
+          203,
+          216,
+          241,
+          270,
+          339
+        ],
+        "(CCS)": [
+          4
+        ],
+        "technologies": [
+          5
+        ],
+        "are": [
+          6,
+          111,
+          190
+        ],
+        "needed": [
+          7
+        ],
+        "as": [
+          8,
+          90,
+          92
+        ],
+        "a": [
+          9,
+          295
+        ],
+        "crucial": [
+          10,
+          264,
+          347
+        ],
+        "technology": [
+          11
+        ],
+        "for": [
+          12,
+          83,
+          144,
+          232,
+          255,
+          298,
+          349
+        ],
+        "Saudi": [
+          13,
+          39,
+          135,
+          360
+        ],
+        "Arabia": [
+          14,
+          136
+        ],
+        "to": [
+          15,
+          65,
+          265,
+          317
+        ],
+        "reach": [
+          16
+        ],
+        "its": [
+          17
+        ],
+        "net-zero": [
+          18
+        ],
+        "goal": [
+          19
+        ],
+        "by": [
+          20,
+          139,
+          162,
+          244
+        ],
+        "2060.": [
+          21
+        ],
+        "This": [
+          22
+        ],
+        "study": [
+          23,
+          42,
+          345
+        ],
+        "represents": [
+          24
+        ],
+        "the": [
+          25,
+          35,
+          70,
+          81,
+          100,
+          107,
+          114,
+          118,
+          121,
+          126,
+          131,
+          145,
+          152,
+          168,
+          172,
+          201,
+          208,
+          225,
+          234,
+          239,
+          245,
+          268,
+          274
+        ],
+        "first": [
+          26
+        ],
+        "comprehensive": [
+          27,
+          312
+        ],
+        "evaluation": [
+          28,
+          104
+        ],
+        "of": [
+          29,
+          38,
+          49,
+          75,
+          117,
+          200,
+          215,
+          276,
+          320
+        ],
+        "geological": [
+          30
+        ],
+        "CO2": [
+          31,
+          84,
+          333
+        ],
+        "capacities": [
+          33,
+          177,
+          242
+        ],
+        "in": [
+          34,
+          86,
+          113,
+          178,
+          207,
+          289,
+          343,
+          355,
+          359
+        ],
+        "sedimentary": [
+          36
+        ],
+        "basins": [
+          37,
+          77,
+          110
+        ],
+        "Arabia.": [
+          40,
+          361
+        ],
+        "Our": [
+          41,
+          103
+        ],
+        "relied": [
+          43
+        ],
+        "on": [
+          44,
+          60
+        ],
+        "collecting": [
+          45
+        ],
+        "analyzing": [
+          47
+        ],
+        "hundreds": [
+          48
+        ],
+        "data": [
+          50
+        ],
+        "sets": [
+          51
+        ],
+        "from": [
+          52
+        ],
+        "public": [
+          53
+        ],
+        "domains,": [
+          54
+        ],
+        "which": [
+          55,
+          283
+        ],
+        "were": [
+          56,
+          160,
+          284
+        ],
+        "carefully": [
+          57
+        ],
+        "selected": [
+          58
+        ],
+        "based": [
+          59
+        ],
+        "their": [
+          61
+        ],
+        "quality": [
+          62
+        ],
+        "relevance": [
+          64
+        ],
+        "ensure": [
+          66
+        ],
+        "reliability.": [
+          67
+        ],
+        "We": [
+          68
+        ],
+        "evaluated": [
+          69
+        ],
+        "suitability": [
+          71
+        ],
+        "capacity": [
+          74,
+          204,
+          236,
+          252,
+          271,
+          340
+        ],
+        "sub-basins": [
+          79
+        ],
+        "throughout": [
+          80
+        ],
+        "country": [
+          82
+        ],
+        "deep": [
+          87,
+          179
+        ],
+        "saline": [
+          88,
+          180
+        ],
+        "aquifers": [
+          89
+        ],
+        "well": [
+          91
+        ],
+        "future": [
+          93,
+          182
+        ],
+        "depleted": [
+          94,
+          183
+        ],
+        "oil": [
+          95,
+          184
+        ],
+        "gas": [
+          97,
+          188
+        ],
+        "reservoirs": [
+          98,
+          189
+        ],
+        "using": [
+          99
+        ],
+        "CO2-SCREEN": [
+          101
+        ],
+        "tool.": [
+          102
+        ],
+        "shows": [
+          105
+        ],
+        "that": [
+          106,
+          267
+        ],
+        "most": [
+          108
+        ],
+        "suitable": [
+          109,
+          148
+        ],
+        "located": [
+          112,
+          206
+        ],
+        "eastern": [
+          115,
+          209
+        ],
+        "part": [
+          116
+        ],
+        "country,": [
+          119
+        ],
+        "including": [
+          120
+        ],
+        "Eastern": [
+          122
+        ],
+        "Arabian": [
+          123
+        ],
+        "Basin": [
+          124
+        ],
+        "Interior": [
+          127
+        ],
+        "Homocline-Central": [
+          128
+        ],
+        "Arch.": [
+          129
+        ],
+        "On": [
+          130
+        ],
+        "other": [
+          132
+        ],
+        "hand,": [
+          133
+        ],
+        "Western": [
+          134
+        ],
+        "is": [
+          137,
+          205,
+          263,
+          294
+        ],
+        "characterized": [
+          138
+        ],
+        "less": [
+          140
+        ],
+        "favorable": [
+          141
+        ],
+        "basins,": [
+          142,
+          150
+        ],
+        "except": [
+          143
+        ],
+        "three": [
+          146
+        ],
+        "moderately": [
+          147
+        ],
+        "onshore": [
+          149
+        ],
+        "namely": [
+          151
+        ],
+        "Umm": [
+          153
+        ],
+        "Luj,": [
+          154
+        ],
+        "Yanbu,": [
+          155
+        ],
+        "Jeddah": [
+          157
+        ],
+        "basins.": [
+          158
+        ],
+        "Uncertainties": [
+          159
+        ],
+        "considered": [
+          161
+        ],
+        "performing": [
+          163
+        ],
+        "Monte": [
+          164
+        ],
+        "Carlo": [
+          165
+        ],
+        "simulations.": [
+          166
+        ],
+        "At": [
+          167
+        ],
+        "50th": [
+          169
+        ],
+        "percentile": [
+          170
+        ],
+        "uncertainty,": [
+          171
+        ],
+        "estimated": [
+          173
+        ],
+        "total": [
+          174
+        ],
+        "effective": [
+          175,
+          240
+        ],
+        "aquifers,": [
+          181
+        ],
+        "reservoirs,": [
+          185
+        ],
+        "non-associated": [
+          187
+        ],
+        "∼432,": [
+          191
+        ],
+        "∼5,": [
+          192
+        ],
+        "∼": [
+          194
+        ],
+        "gigatons": [
+          196
+        ],
+        "(Gt),": [
+          197
+        ],
+        "respectively.": [
+          198
+        ],
+        "Most": [
+          199
+        ],
+        "country's": [
+          202
+        ],
+        "region,": [
+          210
+        ],
+        "displaying": [
+          211
+        ],
+        "an": [
+          212
+        ],
+        "uneven": [
+          213
+        ],
+        "distribution": [
+          214
+        ],
+        "resources": [
+          217
+        ],
+        "nationally.": [
+          218
+        ],
+        "For": [
+          219
+        ],
+        "full": [
+          220
+        ],
+        "transparency,": [
+          221
+        ],
+        "we": [
+          222
+        ],
+        "share": [
+          223
+        ],
+        "all": [
+          224
+        ],
+        "calculation": [
+          226
+        ],
+        "sheets": [
+          227
+        ],
+        "utilized.": [
+          228
+        ],
+        "The": [
+          229,
+          251,
+          338
+        ],
+        "methodology": [
+          230
+        ],
+        "adopted": [
+          231
+        ],
+        "estimating": [
+          233
+        ],
+        "potential": [
+          235
+        ],
+        "aligns": [
+          237
+        ],
+        "with": [
+          238
+        ],
+        "defined": [
+          243
+        ],
+        "Sequestration": [
+          247
+        ],
+        "Leadership": [
+          248
+        ],
+        "Forum": [
+          249
+        ],
+        "(CSLF).": [
+          250
+        ],
+        "estimates": [
+          253,
+          341
+        ],
+        "account": [
+          254
+        ],
+        "technical,": [
+          256
+        ],
+        "geological,": [
+          257
+        ],
+        "engineering": [
+          259
+        ],
+        "constraints.": [
+          260
+        ],
+        "Nevertheless,": [
+          261
+        ],
+        "it": [
+          262
+        ],
+        "note": [
+          266
+        ],
+        "practical": [
+          269
+        ],
+        "estimate": [
+          272
+        ],
+        "requires": [
+          273
+        ],
+        "incorporation": [
+          275
+        ],
+        "additional": [
+          277,
+          299
+        ],
+        "societal,": [
+          278
+        ],
+        "economic,": [
+          279
+        ],
+        "regulatory": [
+          281
+        ],
+        "factors,": [
+          282
+        ],
+        "not": [
+          285
+        ],
+        "taken": [
+          286
+        ],
+        "into": [
+          287,
+          332
+        ],
+        "consideration": [
+          288
+        ],
+        "this": [
+          290,
+          344
+        ],
+        "study.": [
+          291
+        ],
+        "Consequently,": [
+          292
+        ],
+        "there": [
+          293
+        ],
+        "pressing": [
+          296
+        ],
+        "need": [
+          297
+        ],
+        "research,": [
+          300
+        ],
+        "particularly": [
+          301
+        ],
+        "prospect-level": [
+          302
+        ],
+        "evaluations": [
+          303
+        ],
+        "entailing": [
+          304
+        ],
+        "drilling,": [
+          305
+        ],
+        "testing": [
+          306
+        ],
+        "evaluation,": [
+          307
+        ],
+        "monitoring": [
+          309
+        ],
+        "wells.": [
+          310
+        ],
+        "These": [
+          311
+        ],
+        "investigations": [
+          313
+        ],
+        "will": [
+          314
+        ],
+        "significantly": [
+          315
+        ],
+        "contribute": [
+          316
+        ],
+        "our": [
+          318
+        ],
+        "comprehension": [
+          319
+        ],
+        "reservoir": [
+          321
+        ],
+        "seal": [
+          323
+        ],
+        "characteristics,": [
+          324
+        ],
+        "assess": [
+          325
+        ],
+        "injectivity": [
+          326
+        ],
+        "performance,": [
+          327
+        ],
+        "provide": [
+          329
+        ],
+        "profound": [
+          330
+        ],
+        "insights": [
+          331
+        ],
+        "behavior,": [
+          334
+        ],
+        "effectively": [
+          335
+        ],
+        "mitigating": [
+          336
+        ],
+        "uncertainties.": [
+          337
+        ],
+        "presented": [
+          342
+        ],
+        "furnish": [
+          346
+        ],
+        "information": [
+          348
+        ],
+        "policymakers": [
+          350
+        ],
+        "industry": [
+          352
+        ],
+        "leaders": [
+          353
+        ],
+        "engaged": [
+          354
+        ],
+        "addressing": [
+          356
+        ],
+        "carbon": [
+          357
+        ],
+        "emissions": [
+          358
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -7965,7 +8812,7 @@
           "cited_by_count": 22
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8276,7 +9123,7 @@
       "has_fulltext": false,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.9961353,
+        "value": 0.99607204,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -8723,10 +9570,10 @@
         "https://openalex.org/W121832871",
         "https://openalex.org/W71516189",
         "https://openalex.org/W1587864144",
-        "https://openalex.org/W3100284926",
-        "https://openalex.org/W3123620808",
         "https://openalex.org/W2005757149",
         "https://openalex.org/W2006389698",
+        "https://openalex.org/W3100284926",
+        "https://openalex.org/W3123620808",
         "https://openalex.org/W2144440143"
       ],
       "related_works": [
@@ -8756,7 +9603,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9295,7 +10142,7 @@
       },
       "fwci": 3.4399529,
       "has_fulltext": true,
-      "cited_by_count": 35,
+      "cited_by_count": 36,
       "citation_normalized_percentile": {
         "value": 0.91550671,
         "is_in_top_1_percent": false,
@@ -9807,7 +10654,18 @@
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322320",
+          "display_name": "King Abdullah University of Science and Technology",
+          "ror": "https://ror.org/01q3tbs38"
+        },
+        {
+          "id": "https://openalex.org/F4320338292",
+          "display_name": "Lawrence Berkeley National Laboratory",
+          "ror": "https://ror.org/02jbv0t02"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -9894,8 +10752,592 @@
         "https://openalex.org/W1692466163",
         "https://openalex.org/W1969385569"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2": [
+          63,
+          73,
+          82,
+          89,
+          111,
+          149,
+          194,
+          205,
+          213,
+          242,
+          273
+        ],
+        "24": [
+          220
+        ],
+        "100": [
+          152
+        ],
+        "800": [
+          163
+        ],
+        "2000": [
+          165
+        ],
+        "Abstract": [
+          0
+        ],
+        "Carbon": [
+          1
+        ],
+        "capture": [
+          2
+        ],
+        "and": [
+          3,
+          15,
+          92,
+          106
+        ],
+        "storage": [
+          4,
+          41,
+          55,
+          98,
+          201,
+          260,
+          267
+        ],
+        "projects": [
+          5
+        ],
+        "need": [
+          6,
+          29
+        ],
+        "to": [
+          7,
+          11,
+          21,
+          30,
+          57,
+          68,
+          84,
+          114,
+          164,
+          198,
+          211,
+          221
+        ],
+        "be": [
+          8,
+          31,
+          43,
+          51,
+          85
+        ],
+        "greatly": [
+          9
+        ],
+        "accelerated": [
+          10
+        ],
+        "attenuate": [
+          12
+        ],
+        "the": [
+          13,
+          22,
+          37,
+          45,
+          59,
+          66,
+          100,
+          104,
+          126,
+          137,
+          140,
+          168,
+          171,
+          190,
+          199,
+          209,
+          228,
+          231,
+          237,
+          240,
+          265
+        ],
+        "rate": [
+          14
+        ],
+        "degree": [
+          16
+        ],
+        "of": [
+          17,
+          25,
+          39,
+          108,
+          120,
+          142,
+          146,
+          173,
+          180,
+          192,
+          202,
+          230,
+          239,
+          248,
+          268,
+          271
+        ],
+        "global": [
+          18
+        ],
+        "warming.": [
+          19
+        ],
+        "Due": [
+          20
+        ],
+        "large": [
+          23
+        ],
+        "volume": [
+          24
+        ],
+        "carbon": [
+          26,
+          54,
+          259
+        ],
+        "that": [
+          27,
+          36,
+          189,
+          252
+        ],
+        "will": [
+          28,
+          42
+        ],
+        "stored,": [
+          32
+        ],
+        "it": [
+          33
+        ],
+        "is": [
+          34,
+          178,
+          215,
+          226
+        ],
+        "likely": [
+          35
+        ],
+        "bulk": [
+          38
+        ],
+        "this": [
+          40,
+          78,
+          249
+        ],
+        "in": [
+          44,
+          77,
+          99,
+          136
+        ],
+        "subsurface": [
+          46,
+          53,
+          115,
+          266
+        ],
+        "via": [
+          47
+        ],
+        "geologic": [
+          48
+        ],
+        "storage.": [
+          49
+        ],
+        "To": [
+          50,
+          102
+        ],
+        "effective,": [
+          52
+        ],
+        "needs": [
+          56
+        ],
+        "limit": [
+          58
+        ],
+        "potential": [
+          60,
+          258
+        ],
+        "for": [
+          61,
+          151,
+          264
+        ],
+        "CO": [
+          62,
+          72,
+          81,
+          88,
+          110,
+          148,
+          193,
+          204,
+          212,
+          241,
+          272
+        ],
+        "leakage": [
+          64
+        ],
+        "from": [
+          65
+        ],
+        "reservoir": [
+          67
+        ],
+        "a": [
+          69,
+          118,
+          155,
+          174,
+          255
+        ],
+        "minimum.": [
+          70
+        ],
+        "Water-dissolved": [
+          71,
+          80
+        ],
+        "injection": [
+          74,
+          94,
+          112,
+          141,
+          191,
+          244
+        ],
+        "can": [
+          75
+        ],
+        "aid": [
+          76
+        ],
+        "goal.": [
+          79
+        ],
+        "tends": [
+          83
+        ],
+        "denser": [
+          86
+        ],
+        "than": [
+          87,
+          218
+        ],
+        "-free": [
+          90
+        ],
+        "water,": [
+          91
+        ],
+        "its": [
+          93
+        ],
+        "leads": [
+          95,
+          197
+        ],
+        "immediate": [
+          96
+        ],
+        "solubility": [
+          97,
+          116
+        ],
+        "subsurface.": [
+          101
+        ],
+        "assess": [
+          103
+        ],
+        "feasibility": [
+          105
+        ],
+        "limits": [
+          107
+        ],
+        "water-dissolved": [
+          109,
+          147
+        ],
+        "coupled": [
+          113
+        ],
+        "storage,": [
+          117
+        ],
+        "suite": [
+          119
+        ],
+        "geochemical": [
+          121
+        ],
+        "modeling": [
+          122
+        ],
+        "calculations": [
+          123,
+          138
+        ],
+        "based": [
+          124
+        ],
+        "on": [
+          125
+        ],
+        "TOUGHREACT": [
+          127
+        ],
+        "computer": [
+          128
+        ],
+        "code": [
+          129
+        ],
+        "were": [
+          130
+        ],
+        "performed.": [
+          131
+        ],
+        "The": [
+          132,
+          223,
+          246
+        ],
+        "modelled": [
+          133
+        ],
+        "system": [
+          134,
+          177
+        ],
+        "used": [
+          135
+        ],
+        "assumed": [
+          139
+        ],
+        "100,000": [
+          143
+        ],
+        "metric": [
+          144
+        ],
+        "tons": [
+          145
+        ],
+        "annually": [
+          150
+        ],
+        "years": [
+          153
+        ],
+        "into": [
+          154
+        ],
+        "hydrostatically": [
+          156
+        ],
+        "pressured": [
+          157
+        ],
+        "unreactive": [
+          158
+        ],
+        "porous": [
+          159
+        ],
+        "rock,": [
+          160
+        ],
+        "located": [
+          161
+        ],
+        "at": [
+          162
+        ],
+        "m": [
+          166
+        ],
+        "below": [
+          167
+        ],
+        "surface": [
+          169
+        ],
+        "without": [
+          170
+        ],
+        "presence": [
+          172
+        ],
+        "caprock.": [
+          175
+        ],
+        "This": [
+          176
+        ],
+        "representative": [
+          179
+        ],
+        "an": [
+          181
+        ],
+        "unconfined": [
+          182,
+          253
+        ],
+        "sedimentary": [
+          183
+        ],
+        "aquifer.": [
+          184
+        ],
+        "Most": [
+          185
+        ],
+        "calculated": [
+          186
+        ],
+        "scenarios": [
+          187
+        ],
+        "suggest": [
+          188
+        ],
+        "charged": [
+          195
+        ],
+        "water": [
+          196,
+          210,
+          234
+        ],
+        "secure": [
+          200
+        ],
+        "injected": [
+          203
+        ],
+        "so": [
+          206
+        ],
+        "long": [
+          207
+        ],
+        "as": [
+          208
+        ],
+        "ratio": [
+          214
+        ],
+        "no": [
+          216
+        ],
+        "less": [
+          217
+        ],
+        "~": [
+          219
+        ],
+        "1.": [
+          222
+        ],
+        "identified": [
+          224
+        ],
+        "exception": [
+          225
+        ],
+        "when": [
+          227
+        ],
+        "salinity": [
+          229,
+          238
+        ],
+        "original": [
+          232
+        ],
+        "formation": [
+          233
+        ],
+        "substantially": [
+          235
+        ],
+        "exceeds": [
+          236
+        ],
+        "-charged": [
+          243
+        ],
+        "water.": [
+          245
+        ],
+        "results": [
+          247
+        ],
+        "study": [
+          250
+        ],
+        "indicate": [
+          251
+        ],
+        "aquifers,": [
+          254
+        ],
+        "generally": [
+          256
+        ],
+        "overlooked": [
+          257
+        ],
+        "host,": [
+          261
+        ],
+        "could": [
+          262
+        ],
+        "provide": [
+          263
+        ],
+        "substantial": [
+          269
+        ],
+        "quantities": [
+          270
+        ],
+        ".": [
+          274
+        ]
+      },
       "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 22
@@ -9909,7 +11351,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16377,7 +17819,7 @@
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.92479925,
+        "value": 0.92456554,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16868,10 +18310,10 @@
         "https://openalex.org/W2012790889",
         "https://openalex.org/W3022866477",
         "https://openalex.org/W2541008411",
-        "https://openalex.org/W1993835447",
         "https://openalex.org/W1578163662",
         "https://openalex.org/W2115218521",
-        "https://openalex.org/W3098390671"
+        "https://openalex.org/W3098390671",
+        "https://openalex.org/W1993835447"
       ],
       "related_works": [
         "https://openalex.org/W3174431571",
@@ -17573,7 +19015,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-01-22T23:29:09.771500",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17886,7 +19328,7 @@
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.95469522,
+        "value": 0.954492,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18358,8 +19800,8 @@
         "https://openalex.org/W2922344528",
         "https://openalex.org/W2005878247",
         "https://openalex.org/W2059131953",
-        "https://openalex.org/W3004674535",
         "https://openalex.org/W1578163662",
+        "https://openalex.org/W3004674535",
         "https://openalex.org/W2223885932"
       ],
       "related_works": [
@@ -20989,7 +22431,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.98464615,
+        "value": 0.98452879,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -21442,16 +22884,16 @@
         "https://openalex.org/W4220751377",
         "https://openalex.org/W2066207814",
         "https://openalex.org/W203584942",
-        "https://openalex.org/W2070538259",
-        "https://openalex.org/W2770361623",
-        "https://openalex.org/W4246573538",
-        "https://openalex.org/W4214623136",
         "https://openalex.org/W2005757149",
         "https://openalex.org/W1992208918",
-        "https://openalex.org/W1906079416",
         "https://openalex.org/W572397089",
         "https://openalex.org/W1481012832",
-        "https://openalex.org/W610808472"
+        "https://openalex.org/W610808472",
+        "https://openalex.org/W2070538259",
+        "https://openalex.org/W4246573538",
+        "https://openalex.org/W4214623136",
+        "https://openalex.org/W1906079416",
+        "https://openalex.org/W2770361623"
       ],
       "related_works": [
         "https://openalex.org/W2047203803",
@@ -21465,7 +22907,14 @@
         "https://openalex.org/W2351708549",
         "https://openalex.org/W2896565104"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "International": [
+          0
+        ],
+        "audience": [
+          1
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -21476,7 +22925,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45001,16 +46450,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210099236",
               "display_name": "Kootenay Association for Science & Technology",
               "ror": "https://ror.org/011pv9p44",
@@ -45018,6 +46457,16 @@
               "type": "nonprofit",
               "lineage": [
                 "https://openalex.org/I4210099236"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
               ]
             }
           ],
@@ -45121,16 +46570,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210099236",
               "display_name": "Kootenay Association for Science & Technology",
               "ror": "https://ror.org/011pv9p44",
@@ -45138,6 +46577,16 @@
               "type": "nonprofit",
               "lineage": [
                 "https://openalex.org/I4210099236"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
               ]
             }
           ],
@@ -45252,7 +46701,7 @@
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.45825456,
+        "value": 0.4577874,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45529,7 +46978,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-23T23:11:35.936235",
+      "updated_date": "2026-01-24T23:23:39.755997",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47927,7 +49376,13 @@
       },
       "sustainable_development_goals": [],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320332183",
+          "display_name": "U.S. Geological Survey",
+          "ror": "https://ror.org/035a68863"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -47938,27 +49393,27 @@
       },
       "referenced_works_count": 21,
       "referenced_works": [
-        "https://openalex.org/W2001963246",
-        "https://openalex.org/W2020417629",
-        "https://openalex.org/W2021987309",
-        "https://openalex.org/W1996476664",
         "https://openalex.org/W1976028235",
-        "https://openalex.org/W2105071102",
-        "https://openalex.org/W2096995891",
-        "https://openalex.org/W2095633464",
-        "https://openalex.org/W2033708340",
-        "https://openalex.org/W4249106783",
-        "https://openalex.org/W4205749704",
-        "https://openalex.org/W3103064985",
-        "https://openalex.org/W4250290182",
-        "https://openalex.org/W1964225065",
-        "https://openalex.org/W1963900954",
         "https://openalex.org/W218328447",
         "https://openalex.org/W100730447",
         "https://openalex.org/W188968803",
         "https://openalex.org/W19916986",
+        "https://openalex.org/W1964225065",
+        "https://openalex.org/W1963900954",
+        "https://openalex.org/W2105071102",
+        "https://openalex.org/W2096995891",
+        "https://openalex.org/W2095633464",
+        "https://openalex.org/W4249106783",
+        "https://openalex.org/W4205749704",
+        "https://openalex.org/W3103064985",
+        "https://openalex.org/W4250290182",
+        "https://openalex.org/W2033708340",
         "https://openalex.org/W2325019720",
-        "https://openalex.org/W2756349493"
+        "https://openalex.org/W2756349493",
+        "https://openalex.org/W2001963246",
+        "https://openalex.org/W2020417629",
+        "https://openalex.org/W2021987309",
+        "https://openalex.org/W1996476664"
       ],
       "related_works": [
         "https://openalex.org/W2085167817",
@@ -48662,7 +50117,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62166,7 +63621,18 @@
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322320",
+          "display_name": "King Abdullah University of Science and Technology",
+          "ror": "https://ror.org/01q3tbs38"
+        },
+        {
+          "id": "https://openalex.org/F4320338292",
+          "display_name": "Lawrence Berkeley National Laboratory",
+          "ror": "https://ror.org/02jbv0t02"
+        }
+      ],
       "has_content": {
         "grobid_xml": true,
         "pdf": true
@@ -62832,7 +64298,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -66136,7 +67602,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.19328563,
+        "value": 0.19298078,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -71305,7 +72771,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.31664679,
+        "value": 0.31460282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -71666,6 +73132,11 @@
           "id": "https://openalex.org/F4320322320",
           "display_name": "King Abdullah University of Science and Technology",
           "ror": "https://ror.org/01q3tbs38"
+        },
+        {
+          "id": "https://openalex.org/F4320324706",
+          "display_name": "Saudi Aramco",
+          "ror": "https://ror.org/03ypap427"
         }
       ],
       "has_content": {
@@ -72129,7 +73600,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-22T23:10:17.713674",
+      "updated_date": "2026-01-25T03:40:55.926884",
       "created_date": "2025-10-10T00:00:00"
     },
     {
