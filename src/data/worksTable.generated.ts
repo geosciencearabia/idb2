@@ -91153,7 +91153,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Canterbury",
-      "University of Adelaide",
+      "The University of Adelaide",
       "National Water Research Center"
     ]
   },
@@ -110788,8 +110788,8 @@ export const worksTable: WorkTableRecord[] = [
       "Reservoir Engineering and Simulation Methods"
     ],
     "institutions": [
-      "Saudi Aramco (Saudi Arabia)",
-      "King Fahd University of Petroleum and Minerals"
+      "King Fahd University of Petroleum and Minerals",
+      "Saudi Aramco (Saudi Arabia)"
     ]
   },
   {
@@ -119916,6 +119916,40 @@ export const worksTable: WorkTableRecord[] = [
       "Hybrid Renewable Energy Systems",
       "Environmental Impact and Sustainability",
       "Global Energy Security and Policy"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W7125606646",
+    "doi": "https://doi.org/10.1016/j.lithos.2026.108420",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5074794653",
+    "allAuthorOpenAlexIds": [
+      "A5074794653",
+      "A5123755677",
+      "A5046550034",
+      "A5123746399",
+      "A5123769458",
+      "A5053826418"
+    ],
+    "firstAuthorLastName": "Davide",
+    "allAuthors": [
+      "Berno Davide",
+      "Alessio Sanfilippo",
+      "Mattia Bonazzi",
+      "Avanzinelli Riccardo",
+      "Jakub Fedorik",
+      "Abdulkader M. Afifi"
+    ],
+    "title": "Neoproterozoic juvenile continental crust formation in the Arabian Shield (Khamal intrusive complex, Western Arabia)",
+    "publicationDate": "2026-01-01",
+    "year": 2026,
+    "venue": "Lithos",
+    "citations": 0,
+    "topics": [
+      "Geochemistry and Elemental Analysis",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis"
     ],
     "institutions": []
   },

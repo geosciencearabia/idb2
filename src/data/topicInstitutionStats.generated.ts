@@ -25,7 +25,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
-    "publications": 984,
+    "publications": 985,
     "citations": 28079
   },
   {
@@ -37,7 +37,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
-    "publications": 635,
+    "publications": 636,
     "citations": 30650
   },
   {
@@ -121,7 +121,7 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11740",
     "name": "Geochemistry and Elemental Analysis",
-    "publications": 134,
+    "publications": 135,
     "citations": 3357
   },
   {
