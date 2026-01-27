@@ -933,8 +933,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4365516011.pdf"
@@ -2652,8 +2652,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -4228,8 +4228,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4309609812.pdf",
@@ -5795,8 +5795,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -7162,8 +7162,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -7718,8 +7718,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -7901,12 +7901,34 @@
             "display_name": "L. Marheni",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
           "raw_author_name": "L. Marheni",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Earth Science, Khalifa University, P. O. Box 127788, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science, Khalifa University, P. O. Box 127788, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -7915,12 +7937,34 @@
             "display_name": "Mohammad Alsuwaidi",
             "orcid": "https://orcid.org/0000-0002-2477-0654"
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "M. Alsuwaidi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Earth Science, Khalifa University, P. O. Box 127788, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science, Khalifa University, P. O. Box 127788, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -7929,12 +7973,45 @@
             "display_name": "S. Morad",
             "orcid": "https://orcid.org/0000-0002-8214-0896"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I102254642",
+              "display_name": "University of Kirkuk",
+              "ror": "https://ror.org/01pk8rb11",
+              "country_code": "IQ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I102254642"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I3151615967",
+              "display_name": "University of Kurdistan Hewler",
+              "ror": "https://ror.org/00268wk31",
+              "country_code": "IQ",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3151615967"
+              ]
+            }
+          ],
+          "countries": [
+            "IQ"
+          ],
           "is_corresponding": false,
           "raw_author_name": "S. Morad",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, College of Engineering, Knowledge University, Kirkuk Road, 44001, Erbil Kurdistan, Iraq"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, College of Engineering, Knowledge University, Kirkuk Road, 44001, Erbil Kurdistan, Iraq",
+              "institution_ids": [
+                "https://openalex.org/I102254642",
+                "https://openalex.org/I3151615967"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -7943,12 +8020,46 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0003-0940-678X"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "ID",
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "A. Koeshidayatullah",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Kingdom of Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Kingdom of Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113",
+                "https://openalex.org/I4210118538"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -7957,12 +8068,46 @@
             "display_name": "Adhipa Herlambang",
             "orcid": "https://orcid.org/0000-0002-0583-7438"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "ID",
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "A. Herlambang",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Kingdom of Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Kingdom of Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113",
+                "https://openalex.org/I4210118538"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -7971,12 +8116,34 @@
             "display_name": "B. Al Muhairy",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97699614",
+              "display_name": "Abu Dhabi National Oil (United Arab Emirates)",
+              "ror": "https://ror.org/010e8pt90",
+              "country_code": "AE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I97699614"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "B. Al Muhairy",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "ADNOC Upstream Subsurface Excellence Division, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ADNOC Upstream Subsurface Excellence Division, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I97699614"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -7985,21 +8152,45 @@
             "display_name": "Kate Al Tameemi",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97699614",
+              "display_name": "Abu Dhabi National Oil (United Arab Emirates)",
+              "ror": "https://ror.org/010e8pt90",
+              "country_code": "AE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I97699614"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "K. Al Tameemi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "ADNOC Upstream Subsurface Excellence Division, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ADNOC Upstream Subsurface Excellence Division, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I97699614"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 4,
       "institutions_distinct_count": 7,
       "corresponding_author_ids": [
-        "https://openalex.org/A5107199958"
+        "https://openalex.org/A5018306569"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I176601375"
+      ],
       "apc_list": {
         "value": 3490,
         "currency": "USD",
@@ -8010,7 +8201,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.96153172,
+        "value": 0.9613374,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8319,16 +8510,16 @@
       ],
       "awards": [
         {
-          "id": "https://openalex.org/G3057190137",
+          "id": "https://openalex.org/G1014726591",
           "display_name": null,
-          "funder_award_id": "FSU-2018-15",
+          "funder_award_id": "CIRA-2021-013",
           "funder_id": "https://openalex.org/F4320322334",
           "funder_display_name": "Khalifa University of Science, Technology and Research"
         },
         {
-          "id": "https://openalex.org/G1014726591",
+          "id": "https://openalex.org/G3057190137",
           "display_name": null,
-          "funder_award_id": "CIRA-2021-013",
+          "funder_award_id": "FSU-2018-15",
           "funder_id": "https://openalex.org/F4320322334",
           "funder_display_name": "Khalifa University of Science, Technology and Research"
         },
@@ -8353,101 +8544,101 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
       "referenced_works": [
-        "https://openalex.org/W4296209044",
-        "https://openalex.org/W6650030402",
-        "https://openalex.org/W2208175532",
-        "https://openalex.org/W2133307452",
-        "https://openalex.org/W2990128836",
-        "https://openalex.org/W6724715126",
-        "https://openalex.org/W3022058378",
-        "https://openalex.org/W2980749903",
-        "https://openalex.org/W3153941480",
-        "https://openalex.org/W6629032218",
-        "https://openalex.org/W2985126301",
-        "https://openalex.org/W6668668228",
-        "https://openalex.org/W2586361263",
-        "https://openalex.org/W1996137722",
-        "https://openalex.org/W1536058474",
-        "https://openalex.org/W2941825081",
-        "https://openalex.org/W4402094040",
-        "https://openalex.org/W2531439917",
-        "https://openalex.org/W4324032607",
-        "https://openalex.org/W2147495909",
-        "https://openalex.org/W2965168176",
-        "https://openalex.org/W2035486592",
-        "https://openalex.org/W2895979220",
-        "https://openalex.org/W2342151210",
-        "https://openalex.org/W2755202462",
-        "https://openalex.org/W2092932879",
-        "https://openalex.org/W1583491481",
-        "https://openalex.org/W1995577722",
-        "https://openalex.org/W2157294932",
-        "https://openalex.org/W2743541680",
-        "https://openalex.org/W2133038839",
-        "https://openalex.org/W2057052829",
-        "https://openalex.org/W2982757741",
-        "https://openalex.org/W4281768127",
-        "https://openalex.org/W3184478478",
-        "https://openalex.org/W3118889336",
-        "https://openalex.org/W1803742928",
-        "https://openalex.org/W2150925076",
-        "https://openalex.org/W6681367646",
-        "https://openalex.org/W2091530444",
-        "https://openalex.org/W3182053178",
-        "https://openalex.org/W1983143813",
-        "https://openalex.org/W1986081316",
-        "https://openalex.org/W6669027862",
         "https://openalex.org/W99659660",
-        "https://openalex.org/W2942122954",
-        "https://openalex.org/W4379390779",
-        "https://openalex.org/W2994434476",
-        "https://openalex.org/W6634863251",
-        "https://openalex.org/W6667610414",
-        "https://openalex.org/W6745903516",
-        "https://openalex.org/W2153683271",
-        "https://openalex.org/W2068250761",
-        "https://openalex.org/W6663088811",
-        "https://openalex.org/W2156215403",
-        "https://openalex.org/W4249774866",
-        "https://openalex.org/W1974282116",
-        "https://openalex.org/W2106307494",
-        "https://openalex.org/W1969933591",
-        "https://openalex.org/W2168562010",
-        "https://openalex.org/W6823747882",
-        "https://openalex.org/W2005237573",
-        "https://openalex.org/W2020522028",
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W1486023335",
+        "https://openalex.org/W1536058474",
+        "https://openalex.org/W1583491481",
         "https://openalex.org/W1584354900",
         "https://openalex.org/W1682777677",
-        "https://openalex.org/W2087280943",
-        "https://openalex.org/W6674622031",
-        "https://openalex.org/W3102707588",
-        "https://openalex.org/W2321431019",
-        "https://openalex.org/W6752865146",
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W2034716029",
-        "https://openalex.org/W4234735774",
-        "https://openalex.org/W4249385531",
-        "https://openalex.org/W2846068324",
-        "https://openalex.org/W2505430568",
+        "https://openalex.org/W1803742928",
+        "https://openalex.org/W1969933591",
+        "https://openalex.org/W1974282116",
         "https://openalex.org/W1977936156",
-        "https://openalex.org/W4300546438",
-        "https://openalex.org/W2767743261",
-        "https://openalex.org/W1486023335",
+        "https://openalex.org/W1983143813",
+        "https://openalex.org/W1986081316",
+        "https://openalex.org/W1995577722",
+        "https://openalex.org/W1996137722",
         "https://openalex.org/W1998984266",
-        "https://openalex.org/W3042059512",
-        "https://openalex.org/W2313013454",
-        "https://openalex.org/W2275067723",
-        "https://openalex.org/W2096052051",
+        "https://openalex.org/W2005237573",
+        "https://openalex.org/W2020522028",
+        "https://openalex.org/W2034716029",
+        "https://openalex.org/W2035486592",
         "https://openalex.org/W2049957079",
+        "https://openalex.org/W2057052829",
+        "https://openalex.org/W2068250761",
         "https://openalex.org/W2068451724",
         "https://openalex.org/W2071091649",
-        "https://openalex.org/W2142156816"
+        "https://openalex.org/W2087280943",
+        "https://openalex.org/W2091530444",
+        "https://openalex.org/W2092932879",
+        "https://openalex.org/W2096052051",
+        "https://openalex.org/W2106307494",
+        "https://openalex.org/W2133038839",
+        "https://openalex.org/W2133307452",
+        "https://openalex.org/W2142156816",
+        "https://openalex.org/W2147495909",
+        "https://openalex.org/W2150925076",
+        "https://openalex.org/W2153683271",
+        "https://openalex.org/W2156215403",
+        "https://openalex.org/W2157294932",
+        "https://openalex.org/W2168562010",
+        "https://openalex.org/W2208175532",
+        "https://openalex.org/W2275067723",
+        "https://openalex.org/W2313013454",
+        "https://openalex.org/W2321431019",
+        "https://openalex.org/W2342151210",
+        "https://openalex.org/W2505430568",
+        "https://openalex.org/W2531439917",
+        "https://openalex.org/W2586361263",
+        "https://openalex.org/W2743541680",
+        "https://openalex.org/W2755202462",
+        "https://openalex.org/W2767743261",
+        "https://openalex.org/W2846068324",
+        "https://openalex.org/W2895979220",
+        "https://openalex.org/W2941825081",
+        "https://openalex.org/W2942122954",
+        "https://openalex.org/W2965168176",
+        "https://openalex.org/W2980749903",
+        "https://openalex.org/W2982757741",
+        "https://openalex.org/W2985126301",
+        "https://openalex.org/W2990128836",
+        "https://openalex.org/W2994434476",
+        "https://openalex.org/W3022058378",
+        "https://openalex.org/W3042059512",
+        "https://openalex.org/W3102707588",
+        "https://openalex.org/W3118889336",
+        "https://openalex.org/W3153941480",
+        "https://openalex.org/W3182053178",
+        "https://openalex.org/W3184478478",
+        "https://openalex.org/W4234735774",
+        "https://openalex.org/W4249385531",
+        "https://openalex.org/W4249774866",
+        "https://openalex.org/W4281768127",
+        "https://openalex.org/W4296209044",
+        "https://openalex.org/W4300546438",
+        "https://openalex.org/W4324032607",
+        "https://openalex.org/W4379390779",
+        "https://openalex.org/W4402094040",
+        "https://openalex.org/W6629032218",
+        "https://openalex.org/W6634863251",
+        "https://openalex.org/W6650030402",
+        "https://openalex.org/W6663088811",
+        "https://openalex.org/W6667610414",
+        "https://openalex.org/W6668668228",
+        "https://openalex.org/W6669027862",
+        "https://openalex.org/W6674622031",
+        "https://openalex.org/W6681367646",
+        "https://openalex.org/W6724715126",
+        "https://openalex.org/W6745903516",
+        "https://openalex.org/W6752865146",
+        "https://openalex.org/W6823747882"
       ],
       "related_works": [
         "https://openalex.org/W2166209577",
@@ -8472,7 +8663,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-27T23:08:20.325037",
+      "updated_date": "2026-01-27T00:41:06.130819",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8919,8 +9110,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -9467,8 +9658,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10452,8 +10643,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -11711,8 +11902,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -12493,8 +12684,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -13099,8 +13290,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 93,
@@ -13720,8 +13911,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -14161,8 +14352,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14181,7 +14372,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-27T00:41:06.130819",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14649,8 +14840,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14669,7 +14860,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-27T00:41:06.130819",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15081,7 +15272,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01922487,
+        "value": 0.01920397,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15345,8 +15536,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16138,7 +16329,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-01-27T00:41:06.130819",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16816,8 +17007,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4324354736.pdf",
@@ -17993,8 +18184,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18293,7 +18484,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00708349,
+        "value": 0.00715714,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18538,8 +18729,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19370,7 +19561,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-19T19:40:27.379048",
+      "updated_date": "2026-01-27T00:41:06.130819",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19534,7 +19725,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03105979,
+        "value": 0.03104648,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19767,8 +19958,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20580,7 +20771,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-12-25T23:11:45.687758",
+      "updated_date": "2026-01-27T00:41:06.130819",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21025,8 +21216,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21686,8 +21877,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22250,8 +22441,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -23505,8 +23696,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23798,8 +23989,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -24732,8 +24923,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -25896,8 +26087,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -27200,8 +27391,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 119,
@@ -27819,8 +28010,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf"

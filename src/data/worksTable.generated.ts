@@ -21118,8 +21118,8 @@ export const worksTable: WorkTableRecord[] = [
     "citations": 0,
     "topics": [
       "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "earthquake and tectonic studies"
+      "earthquake and tectonic studies",
+      "Geochemistry and Geologic Mapping"
     ],
     "institutions": [
       "China Geological Survey",
@@ -28344,7 +28344,14 @@ export const worksTable: WorkTableRecord[] = [
       "Geochemistry and Elemental Analysis",
       "Geological formations and processes"
     ],
-    "institutions": []
+    "institutions": [
+      "Khalifa University of Science and Technology",
+      "University of Kirkuk",
+      "University of Kurdistan Hewler",
+      "University of Petroleum",
+      "King Fahd University of Petroleum and Minerals",
+      "Abu Dhabi National Oil (United Arab Emirates)"
+    ]
   },
   {
     "workId": "https://openalex.org/W4402094040",
@@ -42702,8 +42709,8 @@ export const worksTable: WorkTableRecord[] = [
     "citations": 5,
     "topics": [
       "Geology and Paleoclimatology Research",
-      "Geochemistry and Elemental Analysis",
-      "Hydrocarbon exploration and reservoir analysis"
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Elemental Analysis"
     ],
     "institutions": [
       "Kazan Federal University",
@@ -50794,7 +50801,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1996-12-01",
     "year": 1996,
     "venue": "Revue de Micropaléontologie",
-    "citations": 75,
+    "citations": 76,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Methane Hydrates and Related Phenomena",
@@ -67048,8 +67055,8 @@ export const worksTable: WorkTableRecord[] = [
     "venue": "Geological Society London Special Publications",
     "citations": 84,
     "topics": [
-      "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
+      "Paleontology and Stratigraphy of Fossils",
       "Geological Studies and Exploration"
     ],
     "institutions": [
@@ -70643,7 +70650,7 @@ export const worksTable: WorkTableRecord[] = [
       "Marco Vecoli",
       "Philippe Gerrienne"
     ],
-    "title": "The terrestrialization process : a palaeobotanical and palynological perspective - volume 1",
+    "title": "The terrestrialization process : a palaeobotanical and palynological perspective - volume 2",
     "publicationDate": "2016-01-01",
     "year": 2016,
     "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
@@ -70734,8 +70741,8 @@ export const worksTable: WorkTableRecord[] = [
       "Marco Vecoli"
     ],
     "title": "Laser Raman Micro-Spectroscopy of Proterozoic and Paleozoic organic walled microfossils",
-    "publicationDate": "2010-05-01",
-    "year": 2010,
+    "publicationDate": "2009-09-01",
+    "year": 2009,
     "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
     "citations": 0,
     "topics": [
@@ -84024,7 +84031,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-07-26",
     "year": 2011,
     "venue": "Journal of African Earth Sciences",
-    "citations": 753,
+    "citations": 756,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -84082,7 +84089,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2013-07-03",
     "year": 2013,
     "venue": "Journal of African Earth Sciences",
-    "citations": 741,
+    "citations": 745,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -109604,7 +109611,7 @@ export const worksTable: WorkTableRecord[] = [
       "Florian Maurer",
       "Henk Droste"
     ],
-    "title": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
+    "title": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 2)",
     "publicationDate": "2010-01-01",
     "year": 2010,
     "venue": "",
@@ -111046,10 +111053,10 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "University of Manchester",
-      "Memorial University of Newfoundland",
       "St. John’s Health Sciences Centre",
-      "University of Nottingham",
+      "Memorial University of Newfoundland",
       "British Geological Survey",
+      "University of Nottingham",
       "Mount Royal University",
       "King Fahd University of Petroleum and Minerals"
     ]
@@ -113468,6 +113475,47 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4412083068",
+    "doi": "https://doi.org/10.1007/s10661-025-14348-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5020348989",
+      "A5075463735",
+      "A5042396632",
+      "A5064433182",
+      "A5013148267",
+      "A5045349847",
+      "A5057210692"
+    ],
+    "firstAuthorLastName": "Swetha",
+    "allAuthors": [
+      "Selvara Swetha",
+      "S. Veerasingam",
+      "Sankaran Rajendran",
+      "Hassan Hassan",
+      "Muhammad Zaffar Hashmi",
+      "Hamood Abdulla Alsaadi",
+      "Nelson Rangel-Buitrago",
+      "Fadhil Sadooni"
+    ],
+    "title": "Long-term trends in heavy metal contamination of marine sediments in the Arabian Gulf: A meta-analysis",
+    "publicationDate": "2025-07-08",
+    "year": 2025,
+    "venue": "Environmental Monitoring and Assessment",
+    "citations": 4,
+    "topics": [
+      "Heavy metals in environment",
+      "Arsenic contamination and mitigation",
+      "Water Quality and Pollution Assessment"
+    ],
+    "institutions": [
+      "Qatar University",
+      "University of Atlántico"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4405637625",
     "doi": "https://doi.org/10.2112/jcr-si113-002.1",
     "program": "",
@@ -114540,47 +114588,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Qatar University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4412083068",
-    "doi": "https://doi.org/10.1007/s10661-025-14348-0",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5020348989",
-      "A5075463735",
-      "A5042396632",
-      "A5064433182",
-      "A5013148267",
-      "A5045349847",
-      "A5057210692"
-    ],
-    "firstAuthorLastName": "Swetha",
-    "allAuthors": [
-      "Selvara Swetha",
-      "S. Veerasingam",
-      "Sankaran Rajendran",
-      "Hassan Hassan",
-      "Muhammad Zaffar Hashmi",
-      "Hamood Abdulla Alsaadi",
-      "Nelson Rangel-Buitrago",
-      "Fadhil Sadooni"
-    ],
-    "title": "Long-term trends in heavy metal contamination of marine sediments in the Arabian Gulf: A meta-analysis",
-    "publicationDate": "2025-07-08",
-    "year": 2025,
-    "venue": "Environmental Monitoring and Assessment",
-    "citations": 3,
-    "topics": [
-      "Heavy metals in environment",
-      "Arsenic contamination and mitigation",
-      "Water Quality and Pollution Assessment"
-    ],
-    "institutions": [
-      "Qatar University",
-      "University of Atlántico"
     ]
   },
   {
@@ -119951,7 +119958,14 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "King Abdullah University of Science and Technology",
+      "University of Pavia",
+      "Institute of Geosciences and Earth Resources",
+      "Global Earthquake Model",
+      "University of Florence",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
   },
   {
     "workId": "https://openalex.org/W2583394094",
@@ -129910,7 +129924,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-06-23",
     "year": 2010,
     "venue": "Marine and Petroleum Geology",
-    "citations": 148,
+    "citations": 149,
     "topics": [
       "Geological formations and processes",
       "earthquake and tectonic studies",
