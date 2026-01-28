@@ -22252,7 +22252,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-10-20",
     "year": 2022,
     "venue": "Lethaia",
-    "citations": 82,
+    "citations": 83,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Evolution and Paleontology Studies",
@@ -57101,9 +57101,9 @@ export const worksTable: WorkTableRecord[] = [
       "A. Jones",
       "Roldolfo Coccioni"
     ],
-    "title": "Shocked diamonds in agglutinated foraminifera from the Cretaceous/Paleogene Boundary, Italy - a preliminary report",
-    "publicationDate": "2008-01-01",
-    "year": 2008,
+    "title": "Shocked Diamonds in agglutinated foraminifera from the Cretaceous/Paleogene Boundary, Italy - a preliminary report",
+    "publicationDate": "2005-01-01",
+    "year": 2005,
     "venue": "UCL Discovery (University College London)",
     "citations": 6,
     "topics": [
@@ -99559,7 +99559,7 @@ export const worksTable: WorkTableRecord[] = [
   },
   {
     "workId": "https://openalex.org/W1747876392",
-    "doi": "https://doi.org/10.26083/tuprints-00003581",
+    "doi": "https://doi.org/10.26083/tuprints-00003416",
     "program": "",
     "primaryAuthorOpenAlexId": "A5047482366",
     "allAuthorOpenAlexIds": [
@@ -109611,7 +109611,7 @@ export const worksTable: WorkTableRecord[] = [
       "Florian Maurer",
       "Henk Droste"
     ],
-    "title": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 2)",
+    "title": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
     "publicationDate": "2010-01-01",
     "year": 2010,
     "venue": "",

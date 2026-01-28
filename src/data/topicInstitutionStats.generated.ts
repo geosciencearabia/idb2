@@ -32,7 +32,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10017",
     "name": "Geology and Paleoclimatology Research",
     "publications": 736,
-    "citations": 17031
+    "citations": 17032
   },
   {
     "id": "https://openalex.org/T10001",
@@ -188,7 +188,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11354",
     "name": "Evolution and Paleontology Studies",
     "publications": 57,
-    "citations": 1158
+    "citations": 1159
   },
   {
     "id": "https://openalex.org/T10491",
@@ -260,7 +260,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10421",
     "name": "Pleistocene-Era Hominins and Archaeology",
     "publications": 28,
-    "citations": 625
+    "citations": 626
   },
   {
     "id": "https://openalex.org/T10161",
@@ -4598,6 +4598,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 495
   },
   {
+    "id": "https://openalex.org/I4210141534",
+    "name": "Senckenberg am Meer",
+    "publications": 6,
+    "citations": 273
+  },
+  {
     "id": "https://openalex.org/I172901346",
     "name": "St Petersburg University",
     "publications": 6,
@@ -4606,12 +4612,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I21376657",
     "name": "Tanta University",
-    "publications": 6,
-    "citations": 272
-  },
-  {
-    "id": "https://openalex.org/I4210141534",
-    "name": "Senckenberg am Meer",
     "publications": 6,
     "citations": 272
   },
@@ -4667,7 +4667,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210141937",
     "name": "Czech Academy of Sciences, Institute of Geology",
     "publications": 6,
-    "citations": 141
+    "citations": 142
   },
   {
     "id": "https://openalex.org/I102065260",
@@ -5525,7 +5525,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I32625721",
     "name": "University of Saskatchewan",
     "publications": 3,
-    "citations": 116
+    "citations": 117
   },
   {
     "id": "https://openalex.org/I20561161",
