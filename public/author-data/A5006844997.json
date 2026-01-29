@@ -5,14 +5,12 @@
     "display_name": "Ammar Abdlmutalib",
     "display_name_alternatives": [
       "Ammar Abdlmutalib",
-      "Ammar J. Abdlmutalib",
-      "Ammar J Abdlmutalib",
-      "Ammar Juma Abdlmutalib"
+      "Ammar J. Abdlmutalib"
     ],
     "works_count": 29,
-    "cited_by_count": 117,
+    "cited_by_count": 120,
     "summary_stats": {
-      "2yr_mean_citedness": 1.7142857142857142,
+      "2yr_mean_citedness": 2,
       "h_index": 7,
       "i10_index": 5
     },
@@ -37,6 +35,7 @@
           2024,
           2022,
           2021,
+          2020,
           2019,
           2018,
           2017,
@@ -150,26 +149,9 @@
     ],
     "topic_share": [
       {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000485,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000458,
+        "value": 0.0000566,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -184,9 +166,26 @@
         }
       },
       {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "value": 0.0000487,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.000032,
+        "value": 0.0000321,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -203,7 +202,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.000024,
+        "value": 0.0000279,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -220,7 +219,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000186,
+        "value": 0.000019,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -237,28 +236,28 @@
     ],
     "x_concepts": [
       {
-        "id": "10277891",
-        "wikidata": "https://www.wikidata.org/wiki/Q596086",
-        "display_name": "Taphonomy",
-        "score": 0.5155918002128601
-      },
-      {
-        "id": "104779481",
-        "wikidata": "https://www.wikidata.org/wiki/Q50707",
-        "display_name": "Composite number",
-        "score": 0
-      },
-      {
         "id": "104873425",
         "wikidata": "https://www.wikidata.org/wiki/Q205768",
         "display_name": "Sedimentology",
         "score": 0.8990461826324463
       },
       {
+        "id": "10277891",
+        "wikidata": "https://www.wikidata.org/wiki/Q596086",
+        "display_name": "Taphonomy",
+        "score": 0.5155918002128601
+      },
+      {
         "id": "104873425",
         "wikidata": "https://www.wikidata.org/wiki/Q205768",
         "display_name": "Sedimentology",
         "score": 0.5080604553222656
+      },
+      {
+        "id": "104779481",
+        "wikidata": "https://www.wikidata.org/wiki/Q50707",
+        "display_name": "Composite number",
+        "score": 0
       }
     ],
     "counts_by_year": [
@@ -302,7 +301,7 @@
         "year": 2022,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 26
+        "cited_by_count": 27
       },
       {
         "year": 2024,
@@ -314,20 +313,20 @@
         "year": 2025,
         "works_count": 3,
         "oa_works_count": 2,
-        "cited_by_count": 2
+        "cited_by_count": 4
       }
     ],
-    "longest_name": "Ammar Juma Abdlmutalib",
+    "longest_name": "Ammar J. Abdlmutalib",
     "parsed_longest_name": {
       "first": "ammar",
-      "middle": "juma",
+      "middle": "j",
       "last": "abdlmutalib",
       "suffix": "",
       "nickname": ""
     },
     "block_key": "a abdlmutalib",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5006844997",
-    "updated_date": "2025-11-06T03:46:38.306776",
+    "updated_date": "2026-01-29T04:20:28.980091",
     "created_date": "2025-10-10"
   },
   "works": [
@@ -16865,7 +16864,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03099609,
+        "value": 0.03088005,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

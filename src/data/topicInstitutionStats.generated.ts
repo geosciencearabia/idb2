@@ -20,13 +20,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1220,
-    "citations": 21161
+    "citations": 21162
   },
   {
     "id": "https://openalex.org/T10109",
     "name": "Paleontology and Stratigraphy of Fossils",
     "publications": 985,
-    "citations": 28082
+    "citations": 28083
   },
   {
     "id": "https://openalex.org/T10017",
@@ -44,7 +44,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10965",
     "name": "Geological formations and processes",
     "publications": 624,
-    "citations": 17824
+    "citations": 17825
   },
   {
     "id": "https://openalex.org/T12157",
@@ -3287,7 +3287,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 860,
-    "citations": 9320
+    "citations": 9321
   },
   {
     "id": "https://openalex.org/I5681781",
@@ -3316,8 +3316,8 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I60342839",
     "name": "Qatar University",
-    "publications": 116,
-    "citations": 1057
+    "publications": 117,
+    "citations": 1060
   },
   {
     "id": "https://openalex.org/I47818738",
@@ -3521,7 +3521,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I123387679",
     "name": "Uppsala University",
     "publications": 22,
-    "citations": 1660
+    "citations": 1661
   },
   {
     "id": "https://openalex.org/I155781252",
@@ -5330,6 +5330,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 19
   },
   {
+    "id": "https://openalex.org/I4210116068",
+    "name": "Array Information Technology (United States)",
+    "publications": 4,
+    "citations": 9
+  },
+  {
     "id": "https://openalex.org/I60858718",
     "name": "University of Aveiro",
     "publications": 4,
@@ -5375,7 +5381,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I45643870",
     "name": "Pontifícia Universidade Católica do Rio Grande do Sul",
     "publications": 3,
-    "citations": 773
+    "citations": 774
   },
   {
     "id": "https://openalex.org/I4210126299",
@@ -5906,12 +5912,6 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 6
   },
   {
-    "id": "https://openalex.org/I4210116068",
-    "name": "Array Information Technology (United States)",
-    "publications": 3,
-    "citations": 6
-  },
-  {
     "id": "https://openalex.org/I4210149382",
     "name": "Johnson Space Center",
     "publications": 3,
@@ -6029,7 +6029,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I130442723",
     "name": "Universidade Federal do Rio Grande do Sul",
     "publications": 2,
-    "citations": 769
+    "citations": 770
   },
   {
     "id": "https://openalex.org/I1296551785",

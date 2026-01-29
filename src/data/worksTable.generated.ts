@@ -55647,9 +55647,9 @@ export const worksTable: WorkTableRecord[] = [
     "allAuthors": [
       "Michael A. Kaminski"
     ],
-    "title": "The new and reinstated genera of agglutinated foraminiferapublished between 1996 and 2000",
-    "publicationDate": "2004-01-01",
-    "year": 2004,
+    "title": "The new and reinstated genera of agglutinated foraminifera published between 1986 and 1996",
+    "publicationDate": "2001-01-01",
+    "year": 2001,
     "venue": "UCL Discovery (University College London)",
     "citations": 9,
     "topics": [
@@ -65279,8 +65279,8 @@ export const worksTable: WorkTableRecord[] = [
     "citations": 22,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
-      "Petroleum Processing and Analysis",
-      "Hydraulic Fracturing and Reservoir Analysis"
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Petroleum Processing and Analysis"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
@@ -66414,7 +66414,7 @@ export const worksTable: WorkTableRecord[] = [
       "Bruno Pulido"
     ],
     "title": "eDNA metabarcoding reveals halophilic and halotolerant bacterial assemblages in the salt flats of the northern Red Sea coast",
-    "publicationDate": "2026-01-01",
+    "publicationDate": "2026-01-22",
     "year": 2026,
     "venue": "Ecological Genetics and Genomics",
     "citations": 0,
@@ -69402,7 +69402,7 @@ export const worksTable: WorkTableRecord[] = [
       "Mohammad Ghavidel‐Syooki",
       "Marco Vecoli"
     ],
-    "title": "Latest Ordovician-early Silurian chitinozoans from the eastern Alborz Mountain Range, Kopet-Dagh region, northeastern Iran: biostratigraphy and palaeobiogeography",
+    "title": "Latest Ordovician — early Silurian Chitinozoans from the eastern Alborz Mountain Range, Kopet—Dagh region, northeastern Iran: biostratigraphy and palaeobiogeography",
     "publicationDate": "2007-01-01",
     "year": 2007,
     "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
@@ -70741,8 +70741,8 @@ export const worksTable: WorkTableRecord[] = [
       "Marco Vecoli"
     ],
     "title": "Laser Raman Micro-Spectroscopy of Proterozoic and Paleozoic organic walled microfossils",
-    "publicationDate": "2009-09-01",
-    "year": 2009,
+    "publicationDate": "2010-05-01",
+    "year": 2010,
     "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
     "citations": 0,
     "topics": [
@@ -109611,7 +109611,7 @@ export const worksTable: WorkTableRecord[] = [
       "Florian Maurer",
       "Henk Droste"
     ],
-    "title": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 1)",
+    "title": "Barremian – Aptian Stratigraphy and Hydrocarbon Habitat of the Eastern Arabian Plate (vol. 2)",
     "publicationDate": "2010-01-01",
     "year": 2010,
     "venue": "",
@@ -114832,7 +114832,7 @@ export const worksTable: WorkTableRecord[] = [
       "Fadhil Sadooni"
     ],
     "title": "Seismic detection and characterization of a man-made karst analog — A feasibility study",
-    "publicationDate": "2021-02-02",
+    "publicationDate": "2021-02-01",
     "year": 2021,
     "venue": "Geophysics",
     "citations": 3,
@@ -114841,7 +114841,10 @@ export const worksTable: WorkTableRecord[] = [
       "Seismic Imaging and Inversion Techniques",
       "Geophysical Methods and Applications"
     ],
-    "institutions": []
+    "institutions": [
+      "Array Information Technology (United States)",
+      "Qatar University"
+    ]
   },
   {
     "workId": "https://openalex.org/W4295775983",
@@ -117389,6 +117392,55 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4200630664",
+    "doi": "https://doi.org/10.1016/j.ijggc.2022.103772",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5074794653",
+    "allAuthorOpenAlexIds": [
+      "A5074794653",
+      "A5026636409",
+      "A5059462821",
+      "A5067974945",
+      "A5044149718",
+      "A5053826418",
+      "A5060797133",
+      "A5034536162",
+      "A5024637239",
+      "A5013962194"
+    ],
+    "firstAuthorLastName": "Oelkers",
+    "allAuthors": [
+      "Éric H. Oelkers",
+      "Serguey Arkadakskiy",
+      "Abdulkader M. Afifi",
+      "Hussein Hoteit",
+      "Maximillian Richards",
+      "Jakub Fedorik",
+      "Antoine Delaunay",
+      "J. Torres",
+      "Zeyad Ahmed",
+      "Noushad Kunnummal",
+      "Éric H. Oelkers"
+    ],
+    "title": "The subsurface carbonation potential of basaltic rocks from the Jizan region of Southwest Saudi Arabia",
+    "publicationDate": "2022-09-27",
+    "year": 2022,
+    "venue": "International journal of greenhouse gas control",
+    "citations": 52,
+    "topics": [
+      "CO2 Sequestration and Geologic Interactions",
+      "Methane Hydrates and Related Phenomena",
+      "Geothermal Energy Systems and Applications"
+    ],
+    "institutions": [
+      "Géosciences Environnement Toulouse",
+      "Saudi Aramco (United States)",
+      "Saudi Aramco (Saudi Arabia)",
+      "King Abdullah University of Science and Technology",
+      "University of Iceland"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4317726608",
     "doi": "https://doi.org/10.1016/j.tecto.2023.229728",
     "program": "",
@@ -118717,55 +118769,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Abdullah University of Science and Technology"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4200630664",
-    "doi": "https://doi.org/10.2139/ssrn.4274227",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5074794653",
-    "allAuthorOpenAlexIds": [
-      "A5074794653",
-      "A5026636409",
-      "A5059462821",
-      "A5067974945",
-      "A5044149718",
-      "A5053826418",
-      "A5060797133",
-      "A5034536162",
-      "A5024637239",
-      "A5013962194"
-    ],
-    "firstAuthorLastName": "Oelkers",
-    "allAuthors": [
-      "Éric H. Oelkers",
-      "Serguey Arkadakskiy",
-      "Abdulkader M. Afifi",
-      "Hussein Hoteit",
-      "Maximillian Richards",
-      "Jakub Fedorik",
-      "Antoine Delaunay",
-      "J. Torres",
-      "Zeyad Ahmed",
-      "Noushad Kunnummal",
-      "Éric H. Oelkers"
-    ],
-    "title": "The Subsurface Carbonation Potential of Basaltic Rocks from the Jizan Region of Southwest Saudi Arabia",
-    "publicationDate": "2022-01-01",
-    "year": 2022,
-    "venue": "International journal of greenhouse gas control",
-    "citations": 52,
-    "topics": [
-      "CO2 Sequestration and Geologic Interactions",
-      "Methane Hydrates and Related Phenomena",
-      "Geothermal Energy Systems and Applications"
-    ],
-    "institutions": [
-      "Géosciences Environnement Toulouse",
-      "Saudi Aramco (United States)",
-      "Saudi Aramco (Saudi Arabia)",
-      "King Abdullah University of Science and Technology",
-      "University of Iceland"
     ]
   },
   {
@@ -128702,7 +128705,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2010-07-20",
     "year": 2010,
     "venue": "AAPG Bulletin",
-    "citations": 693,
+    "citations": 694,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -134726,7 +134729,7 @@ export const worksTable: WorkTableRecord[] = [
   },
   {
     "workId": "https://openalex.org/W2248607991",
-    "doi": "https://doi.org/10.5281/zenodo.16542894",
+    "doi": "https://doi.org/10.5281/zenodo.16542895",
     "program": "",
     "primaryAuthorOpenAlexId": "A5103098706",
     "allAuthorOpenAlexIds": [

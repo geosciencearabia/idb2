@@ -4,23 +4,39 @@
     "orcid": null,
     "display_name": "Denis Vaslet",
     "display_name_alternatives": [
-      "Denis Vaslet",
-      "D. Vaslet",
       "D VASLET",
-      "DENIS VASLET"
+      "D. Vaslet",
+      "DENIS VASLET",
+      "Denis Vaslet",
+      "Vaslet, Denis"
     ],
-    "works_count": 41,
-    "cited_by_count": 1201,
+    "works_count": 40,
+    "cited_by_count": 1047,
     "summary_stats": {
-      "2yr_mean_citedness": 3,
-      "h_index": 19,
-      "i10_index": 23
+      "2yr_mean_citedness": 0,
+      "h_index": 18,
+      "i10_index": 22
     },
     "ids": {
       "openalex": "https://openalex.org/A5038965329",
       "orcid": null
     },
     "affiliations": [
+      {
+        "institution": {
+          "id": "https://openalex.org/I4210105918",
+          "ror": "https://ror.org/01k40cz91",
+          "display_name": "Normandie Université",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210105918"
+          ]
+        },
+        "years": [
+          1978
+        ]
+      },
       {
         "institution": {
           "id": "https://openalex.org/I4210158893",
@@ -42,8 +58,7 @@
           2001,
           1999,
           1997,
-          1996,
-          1987
+          1996
         ]
       },
       {
@@ -56,21 +71,6 @@
           "lineage": [
             "https://openalex.org/I4210105918",
             "https://openalex.org/I98702875"
-          ]
-        },
-        "years": [
-          1978
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I4210105918",
-          "ror": "https://ror.org/01k40cz91",
-          "display_name": "Normandie Université",
-          "country_code": "FR",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I4210105918"
           ]
         },
         "years": [
@@ -94,7 +94,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 26,
+        "count": 25,
         "score": 1,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
@@ -146,9 +146,27 @@
         }
       },
       {
+        "id": "https://openalex.org/T10001",
+        "display_name": "Geological and Geochemical Analysis",
+        "count": 9,
+        "score": 0.9994000196456909,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 10,
+        "count": 9,
         "score": 1,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
@@ -162,31 +180,13 @@
           "id": "https://openalex.org/domains/3",
           "display_name": "Physical Sciences"
         }
-      },
-      {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 9,
-        "score": 0.9994999766349792,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
       }
     ],
     "topic_share": [
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001139,
+        "value": 0.0001128,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -203,7 +203,7 @@
       {
         "id": "https://openalex.org/T12821",
         "display_name": "Geological Formations and Processes Exploration",
-        "value": 0.0000684,
+        "value": 0.0000706,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -220,7 +220,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000437,
+        "value": 0.0000448,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -235,26 +235,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "value": 0.0000373,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.000036,
+        "value": 0.0000445,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -267,9 +250,32 @@
           "id": "https://openalex.org/domains/3",
           "display_name": "Physical Sciences"
         }
+      },
+      {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "value": 0.0000341,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
       }
     ],
     "x_concepts": [
+      {
+        "id": "104873425",
+        "wikidata": "https://www.wikidata.org/wiki/Q205768",
+        "display_name": "Sedimentology",
+        "score": 0.7365726828575134
+      },
       {
         "id": "100951216",
         "wikidata": "https://www.wikidata.org/wiki/Q7692853",
@@ -293,12 +299,6 @@
         "wikidata": "https://www.wikidata.org/wiki/Q7187",
         "display_name": "Gene",
         "score": 0
-      },
-      {
-        "id": "104873425",
-        "wikidata": "https://www.wikidata.org/wiki/Q205768",
-        "display_name": "Sedimentology",
-        "score": 0.9299269914627075
       }
     ],
     "counts_by_year": [
@@ -321,22 +321,16 @@
         "cited_by_count": 79
       },
       {
-        "year": 1992,
-        "works_count": 1,
-        "oa_works_count": 0,
-        "cited_by_count": 161
-      },
-      {
         "year": 1996,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 63
+        "cited_by_count": 64
       },
       {
         "year": 1997,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 61
+        "cited_by_count": 62
       },
       {
         "year": 1998,
@@ -360,13 +354,13 @@
         "year": 2002,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 27
+        "cited_by_count": 28
       },
       {
         "year": 2003,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 151
+        "cited_by_count": 153
       },
       {
         "year": 2004,
@@ -396,7 +390,7 @@
         "year": 2008,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 76
+        "cited_by_count": 77
       },
       {
         "year": 2010,
@@ -414,10 +408,10 @@
         "year": 2023,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 6
+        "cited_by_count": 7
       }
     ],
-    "longest_name": "Denis Vaslet",
+    "longest_name": "Vaslet, Denis",
     "parsed_longest_name": {
       "first": "denis",
       "middle": "",
@@ -427,8 +421,8 @@
     },
     "block_key": "d vaslet",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5038965329",
-    "updated_date": "2025-11-06T04:12:42.849631",
-    "created_date": "2016-06-24"
+    "updated_date": "2026-01-29T04:20:28.980091",
+    "created_date": "2025-10-10"
   },
   "works": [
     {
@@ -996,8 +990,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -1779,8 +1773,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971608975.pdf",
@@ -2888,8 +2882,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -4169,8 +4163,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -4865,8 +4859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2287111010.pdf",
@@ -6482,8 +6476,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7709,8 +7703,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -8341,8 +8335,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2571373978.pdf",
@@ -9561,8 +9555,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2581167478.pdf",
@@ -11617,8 +11611,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -12451,8 +12445,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -12971,8 +12965,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2954113145.pdf",
@@ -14241,8 +14235,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -14691,8 +14685,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -15467,8 +15461,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -15990,8 +15984,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -16476,8 +16470,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2188233270.pdf",
@@ -17362,8 +17356,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127056474.pdf",
@@ -18348,8 +18342,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968599283.pdf",
@@ -19122,8 +19116,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2979942938.pdf",
@@ -20271,8 +20265,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -21552,8 +21546,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -22123,8 +22117,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23377,8 +23371,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972134149.pdf",
@@ -24026,7 +24020,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.80114236,
+        "value": 0.80085773,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24293,8 +24287,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24652,8 +24646,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25431,8 +25425,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26842,8 +26836,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27829,8 +27823,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf"
@@ -28734,8 +28728,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29503,8 +29497,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30079,8 +30073,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2252368023.pdf"
@@ -31926,8 +31920,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32664,8 +32658,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32972,8 +32966,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33317,7 +33311,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32374643,
+        "value": 0.32398771,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33584,8 +33578,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34024,8 +34018,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34365,8 +34359,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34896,8 +34890,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35143,7 +35137,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16922954,
+        "value": 0.16898927,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35366,8 +35360,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

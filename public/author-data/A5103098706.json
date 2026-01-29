@@ -4,19 +4,19 @@
     "orcid": "https://orcid.org/0000-0002-4697-3882",
     "display_name": "Peter R. Johnson",
     "display_name_alternatives": [
-      "Peter R. Johnson",
-      "P.R. Johnson",
-      "P. Johnson",
+      "Johnson, Peter R",
+      "Johnson, Peter R.",
       "Johnson, Peter Roland Andrew",
-      "P.R.A. Johnson",
-      "PETER R. JOHNSON",
-      "Peter Johnson",
       "P JOHNSON",
+      "P R Johnson",
+      "P. Johnson",
+      "P. R. A. Johnson",
       "P. R. Johnson",
-      "Peter R Johnson"
+      "P.R. Johnson",
+      "P.R.A. Johnson"
     ],
     "works_count": 81,
-    "cited_by_count": 5750,
+    "cited_by_count": 5831,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 33,
@@ -27,6 +27,38 @@
       "orcid": "https://orcid.org/0000-0002-4697-3882"
     },
     "affiliations": [
+      {
+        "institution": {
+          "id": "https://openalex.org/I1286329397",
+          "ror": "https://ror.org/035a68863",
+          "display_name": "United States Geological Survey",
+          "country_code": "US",
+          "type": "funder",
+          "lineage": [
+            "https://openalex.org/I1286329397",
+            "https://openalex.org/I1335927249"
+          ]
+        },
+        "years": [
+          1981
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I1291425158",
+          "ror": "https://ror.org/00njsd438",
+          "display_name": "Google (United States)",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I1291425158",
+            "https://openalex.org/I4210128969"
+          ]
+        },
+        "years": [
+          2003
+        ]
+      },
       {
         "institution": {
           "id": "https://openalex.org/I1291634729",
@@ -45,19 +77,20 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I2800858616",
-          "ror": "https://ror.org/04hy0x592",
-          "display_name": "Woolcock Institute of Medical Research",
+          "id": "https://openalex.org/I129604602",
+          "ror": "https://ror.org/0384j8v12",
+          "display_name": "University of Sydney",
           "country_code": "AU",
-          "type": "facility",
+          "type": "education",
           "lineage": [
-            "https://openalex.org/I2799732068",
-            "https://openalex.org/I2800858616",
-            "https://openalex.org/I99043593"
+            "https://openalex.org/I129604602"
           ]
         },
         "years": [
-          2006
+          2006,
+          1991,
+          1988,
+          1978
         ]
       },
       {
@@ -73,6 +106,37 @@
         },
         "years": [
           1989
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I1330063522",
+          "ror": "https://ror.org/03qd7mz70",
+          "display_name": "Johnson & Johnson (United States)",
+          "country_code": "US",
+          "type": "company",
+          "lineage": [
+            "https://openalex.org/I1330063522"
+          ]
+        },
+        "years": [
+          2009,
+          2008
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I162577319",
+          "ror": "https://ror.org/049emcs32",
+          "display_name": "The University of Texas at Dallas",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I162577319"
+          ]
+        },
+        "years": [
+          2017
         ]
       },
       {
@@ -93,87 +157,6 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I170897317",
-          "ror": "https://ror.org/00py81415",
-          "display_name": "Duke University",
-          "country_code": "US",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I170897317"
-          ]
-        },
-        "years": [
-          1981
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I1320473756",
-          "ror": "https://ror.org/005bvs909",
-          "display_name": "The Royal Melbourne Hospital",
-          "country_code": "AU",
-          "type": "healthcare",
-          "lineage": [
-            "https://openalex.org/I1320473756",
-            "https://openalex.org/I4210158168"
-          ]
-        },
-        "years": [
-          1975
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I5023651",
-          "ror": "https://ror.org/01pxwe438",
-          "display_name": "McGill University",
-          "country_code": "CA",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I5023651"
-          ]
-        },
-        "years": [
-          2022
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I196021976",
-          "ror": "https://ror.org/01b6kha49",
-          "display_name": "Walter and Eliza Hall Institute of Medical Research",
-          "country_code": "AU",
-          "type": "nonprofit",
-          "lineage": [
-            "https://openalex.org/I196021976"
-          ]
-        },
-        "years": [
-          1978,
-          1975
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I129604602",
-          "ror": "https://ror.org/0384j8v12",
-          "display_name": "The University of Sydney",
-          "country_code": "AU",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I129604602"
-          ]
-        },
-        "years": [
-          2006,
-          1991,
-          1988,
-          1978,
-          1975
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I165733156",
           "ror": "https://ror.org/00te3t702",
           "display_name": "University of Georgia",
@@ -189,33 +172,81 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I1330063522",
-          "ror": "https://ror.org/03qd7mz70",
-          "display_name": "Johnson & Johnson (United States)",
+          "id": "https://openalex.org/I170897317",
+          "ror": "https://ror.org/00py81415",
+          "display_name": "Duke University",
           "country_code": "US",
-          "type": "company",
+          "type": "education",
           "lineage": [
-            "https://openalex.org/I1330063522"
-          ]
-        },
-        "years": [
-          2008
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I1286329397",
-          "ror": "https://ror.org/035a68863",
-          "display_name": "United States Geological Survey",
-          "country_code": "US",
-          "type": "government",
-          "lineage": [
-            "https://openalex.org/I1286329397",
-            "https://openalex.org/I1335927249"
+            "https://openalex.org/I170897317"
           ]
         },
         "years": [
           1981
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I196021976",
+          "ror": "https://ror.org/01b6kha49",
+          "display_name": "Walter and Eliza Hall Institute of Medical Research",
+          "country_code": "AU",
+          "type": "nonprofit",
+          "lineage": [
+            "https://openalex.org/I196021976"
+          ]
+        },
+        "years": [
+          1978
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I212119943",
+          "ror": "https://ror.org/04s5mat29",
+          "display_name": "University of Victoria",
+          "country_code": "CA",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I212119943"
+          ]
+        },
+        "years": [
+          1977
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I2799922383",
+          "ror": "https://ror.org/05sbpak56",
+          "display_name": "Geophysical Survey",
+          "country_code": "RU",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1313323035",
+            "https://openalex.org/I2799922383",
+            "https://openalex.org/I4210163714"
+          ]
+        },
+        "years": [
+          1981
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I2800858616",
+          "ror": "https://ror.org/04hy0x592",
+          "display_name": "Woolcock Institute of Medical Research",
+          "country_code": "AU",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2799732068",
+            "https://openalex.org/I2800858616",
+            "https://openalex.org/I99043593"
+          ]
+        },
+        "years": [
+          2006
         ]
       },
       {
@@ -253,49 +284,17 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I2799922383",
-          "ror": "https://ror.org/05sbpak56",
-          "display_name": "Geophysical Survey",
-          "country_code": "RU",
-          "type": "facility",
-          "lineage": [
-            "https://openalex.org/I1313323035",
-            "https://openalex.org/I2799922383",
-            "https://openalex.org/I4210163714"
-          ]
-        },
-        "years": [
-          1981
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I162577319",
-          "ror": "https://ror.org/049emcs32",
-          "display_name": "The University of Texas at Dallas",
-          "country_code": "US",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I162577319"
-          ]
-        },
-        "years": [
-          2017
-        ]
-      },
-      {
-        "institution": {
-          "id": "https://openalex.org/I212119943",
-          "ror": "https://ror.org/04s5mat29",
-          "display_name": "University of Victoria",
+          "id": "https://openalex.org/I5023651",
+          "ror": "https://ror.org/01pxwe438",
+          "display_name": "McGill University",
           "country_code": "CA",
           "type": "education",
           "lineage": [
-            "https://openalex.org/I212119943"
+            "https://openalex.org/I5023651"
           ]
         },
         "years": [
-          1977
+          2022
         ]
       },
       {
@@ -311,6 +310,7 @@
         },
         "years": [
           2018,
+          2016,
           2013,
           2010
         ]
@@ -424,7 +424,7 @@
       {
         "id": "https://openalex.org/T10001",
         "display_name": "Geological and Geochemical Analysis",
-        "value": 0.0000874,
+        "value": 0.0000894,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -441,7 +441,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.0000665,
+        "value": 0.0000688,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -458,7 +458,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0000612,
+        "value": 0.0000627,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -466,6 +466,23 @@
         "field": {
           "id": "https://openalex.org/fields/19",
           "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "value": 0.0000566,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -475,27 +492,10 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000482,
+        "value": 0.0000497,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T10413",
-        "display_name": "High-pressure geophysics and materials",
-        "value": 0.0000361,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -509,18 +509,6 @@
     ],
     "x_concepts": [
       {
-        "id": "100970517",
-        "wikidata": "https://www.wikidata.org/wiki/Q52107",
-        "display_name": "Physical geography",
-        "score": 0.3314472436904907
-      },
-      {
-        "id": "100970517",
-        "wikidata": "https://www.wikidata.org/wiki/Q52107",
-        "display_name": "Physical geography",
-        "score": 0.3268672823905945
-      },
-      {
         "id": "101139013",
         "wikidata": "https://www.wikidata.org/wiki/Q15315",
         "display_name": "Schist",
@@ -531,6 +519,18 @@
         "wikidata": "https://www.wikidata.org/wiki/Q43015",
         "display_name": "Finance",
         "score": 0.4576927125453949
+      },
+      {
+        "id": "100970517",
+        "wikidata": "https://www.wikidata.org/wiki/Q52107",
+        "display_name": "Physical geography",
+        "score": 0.3314472436904907
+      },
+      {
+        "id": "100970517",
+        "wikidata": "https://www.wikidata.org/wiki/Q52107",
+        "display_name": "Physical geography",
+        "score": 0.3268672823905945
       },
       {
         "id": "10138342",
@@ -652,7 +652,7 @@
         "year": 1995,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 79
+        "cited_by_count": 80
       },
       {
         "year": 1996,
@@ -670,7 +670,7 @@
         "year": 2001,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 113
+        "cited_by_count": 115
       },
       {
         "year": 2002,
@@ -682,13 +682,13 @@
         "year": 2003,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 789
+        "cited_by_count": 798
       },
       {
         "year": 2004,
         "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 402
+        "cited_by_count": 410
       },
       {
         "year": 2005,
@@ -700,13 +700,13 @@
         "year": 2006,
         "works_count": 4,
         "oa_works_count": 0,
-        "cited_by_count": 358
+        "cited_by_count": 360
       },
       {
         "year": 2007,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 86
+        "cited_by_count": 87
       },
       {
         "year": 2008,
@@ -718,37 +718,37 @@
         "year": 2009,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 91
+        "cited_by_count": 92
       },
       {
         "year": 2010,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 920
+        "cited_by_count": 927
       },
       {
         "year": 2011,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 750
+        "cited_by_count": 767
       },
       {
         "year": 2013,
         "works_count": 5,
         "oa_works_count": 2,
-        "cited_by_count": 975
+        "cited_by_count": 990
       },
       {
         "year": 2014,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 104
+        "cited_by_count": 107
       },
       {
         "year": 2015,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 41
+        "cited_by_count": 43
       },
       {
         "year": 2016,
@@ -760,44 +760,50 @@
         "year": 2017,
         "works_count": 5,
         "oa_works_count": 1,
-        "cited_by_count": 136
+        "cited_by_count": 139
       },
       {
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 58
+        "cited_by_count": 62
       },
       {
         "year": 2019,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 87
+        "cited_by_count": 89
       },
       {
         "year": 2020,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 30
+        "cited_by_count": 32
       },
       {
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 24
+        "cited_by_count": 25
       },
       {
         "year": 2022,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 19
+        "cited_by_count": 20
       }
     ],
     "longest_name": "Johnson, Peter Roland Andrew",
-    "parsed_longest_name": null,
-    "block_key": null,
+    "parsed_longest_name": {
+      "first": "peter",
+      "middle": "roland andrew",
+      "last": "johnson",
+      "suffix": "",
+      "nickname": ""
+    },
+    "block_key": "p johnson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
-    "updated_date": "2025-11-06T06:51:31.235846",
+    "updated_date": "2026-01-29T04:20:28.980091",
     "created_date": "2016-06-24"
   },
   "works": [
@@ -1150,7 +1156,7 @@
       "has_fulltext": false,
       "cited_by_count": 756,
       "citation_normalized_percentile": {
-        "value": 0.99861624,
+        "value": 0.99861714,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2477,7 +2483,7 @@
       "has_fulltext": false,
       "cited_by_count": 745,
       "citation_normalized_percentile": {
-        "value": 0.99903534,
+        "value": 0.99903466,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3269,754 +3275,7 @@
         "https://openalex.org/W2021346206",
         "https://openalex.org/W2028864600"
       ],
-      "abstract_inverted_index": {
-        "550": [
-          67
-        ],
-        "620": [
-          107,
-          152,
-          173
-        ],
-        "The": [
-          0,
-          69,
-          92,
-          215,
-          286,
-          307,
-          340
-        ],
-        "East": [
-          1,
-          158,
-          176,
-          216,
-          271
-        ],
-        "African": [
-          2,
-          159,
-          217,
-          272
-        ],
-        "Orogen,": [
-          3,
-          273
-        ],
-        "extending": [
-          4
-        ],
-        "from": [
-          5,
-          300,
-          323
-        ],
-        "southern": [
-          6,
-          124,
-          179,
-          207,
-          252
-        ],
-        "Israel,": [
-          7
-        ],
-        "Sinai": [
-          8
-        ],
-        "and": [
-          9,
-          16,
-          38,
-          49,
-          66,
-          86,
-          101,
-          106,
-          127,
-          139,
-          161,
-          185,
-          213,
-          218,
-          238,
-          251,
-          344
-        ],
-        "Jordan": [
-          10
-        ],
-        "in": [
-          11,
-          18,
-          46,
-          52,
-          85,
-          234,
-          278
-        ],
-        "the": [
-          12,
-          19,
-          22,
-          42,
-          47,
-          53,
-          73,
-          75,
-          89,
-          110,
-          113,
-          117,
-          148,
-          157,
-          167,
-          182,
-          186,
-          192,
-          235,
-          239,
-          261,
-          267,
-          270,
-          279,
-          301,
-          348
-        ],
-        "north": [
-          13
-        ],
-        "to": [
-          14,
-          26,
-          88,
-          136,
-          164,
-          318
-        ],
-        "Mozambique": [
-          15,
-          90,
-          128,
-          168,
-          250
-        ],
-        "Madagascar": [
-          17,
-          212,
-          345
-        ],
-        "south,": [
-          20
-        ],
-        "is": [
-          21,
-          78,
-          154,
-          232,
-          289,
-          313
-        ],
-        "world́s": [
-          23
-        ],
-        "largest": [
-          24
-        ],
-        "Neoproterozoic": [
-          25,
-          50,
-          81
-        ],
-        "Cambrian": [
-          27
-        ],
-        "orogenic": [
-          28
-        ],
-        "complex.": [
-          29
-        ],
-        "It": [
-          30
-        ],
-        "comprises": [
-          31
-        ],
-        "a": [
-          32,
-          96,
-          141,
-          199,
-          294,
-          316,
-          324,
-          336,
-          353
-        ],
-        "collage": [
-          33
-        ],
-        "of": [
-          34,
-          62,
-          72,
-          99,
-          112,
-          123,
-          147,
-          166,
-          181,
-          206,
-          225,
-          263,
-          269,
-          281,
-          296,
-          304,
-          342,
-          357
-        ],
-        "individual": [
-          35
-        ],
-        "oceanic": [
-          36
-        ],
-        "domains": [
-          37
-        ],
-        "continental": [
-          39
-        ],
-        "fragments": [
-          40
-        ],
-        "between": [
-          41,
-          64,
-          104,
-          175
-        ],
-        "Archean": [
-          43
-        ],
-        "Sahara-Congo-Kalahari": [
-          44
-        ],
-        "Cratons": [
-          45,
-          184
-        ],
-        "west": [
-          48
-        ],
-        "India": [
-          51
-        ],
-        "east.": [
-          54
-        ],
-        "Orogen": [
-          55
-        ],
-        "consolidation": [
-          56
-        ],
-        "was": [
-          57,
-          129,
-          162
-        ],
-        "achieved": [
-          58
-        ],
-        "during": [
-          59,
-          95,
-          191
-        ],
-        "distinct": [
-          60
-        ],
-        "phases": [
-          61,
-          224
-        ],
-        "orogeny": [
-          63
-        ],
-        "∼850": [
-          65,
-          105
-        ],
-        "Ma.": [
-          68,
-          108
-        ],
-        "northern": [
-          70
-        ],
-        "part": [
-          71
-        ],
-        "orogen,": [
-          74
-        ],
-        "Arabian-Nubian": [
-          76,
-          236,
-          287
-        ],
-        "Shield,": [
-          77,
-          116
-        ],
-        "predominantly": [
-          79
-        ],
-        "juvenile": [
-          80
-        ],
-        "crust": [
-          82,
-          132,
-          331
-        ],
-        "that": [
-          83,
-          133,
-          202,
-          321
-        ],
-        "formed": [
-          84,
-          134
-        ],
-        "adjacent": [
-          87,
-          135
-        ],
-        "Ocean.": [
-          91,
-          169
-        ],
-        "ocean": [
-          93
-        ],
-        "closed": [
-          94,
-          190
-        ],
-        "protracted": [
-          97
-        ],
-        "period": [
-          98
-        ],
-        "island-arc": [
-          100
-        ],
-        "microcontinent": [
-          102
-        ],
-        "accretion": [
-          103
-        ],
-        "To": [
-          109
-        ],
-        "south": [
-          111
-        ],
-        "Arabian": [
-          114
-        ],
-        "Nubian": [
-          115
-        ],
-        "Eastern": [
-          118,
-          240,
-          308
-        ],
-        "Granulite-Cabo": [
-          119,
-          241,
-          309
-        ],
-        "Delgado": [
-          120,
-          242,
-          310
-        ],
-        "Nappe": [
-          121,
-          243,
-          311
-        ],
-        "Complex": [
-          122,
-          312
-        ],
-        "Kenya,": [
-          125
-        ],
-        "Tanzania": [
-          126,
-          343
-        ],
-        "an": [
-          130,
-          290
-        ],
-        "extended": [
-          131,
-          326
-        ],
-        "theMozambique": [
-          137
-        ],
-        "Ocean": [
-          138
-        ],
-        "experienced": [
-          140
-        ],
-        "∼650-620": [
-          142
-        ],
-        "Ma": [
-          143,
-          153,
-          174,
-          194,
-          230,
-          247
-        ],
-        "granulite-facies": [
-          144
-        ],
-        "metamorphism.": [
-          145
-        ],
-        "Completion": [
-          146
-        ],
-        "nappe": [
-          149
-        ],
-        "assembly": [
-          150
-        ],
-        "around": [
-          151
-        ],
-        "defined": [
-          155
-        ],
-        "as": [
-          156,
-          260,
-          315
-        ],
-        "Orogeny": [
-          160,
-          350
-        ],
-        "related": [
-          163
-        ],
-        "closure": [
-          165
-        ],
-        "Oceans": [
-          170
-        ],
-        "persisted": [
-          171
-        ],
-        "after": [
-          172
-        ],
-        "Antarctica,": [
-          177
-        ],
-        "India,": [
-          178
-        ],
-        "parts": [
-          180
-        ],
-        "Congo-Tanzania-Bangweulu": [
-          183
-        ],
-        "Zimbabwe-Kalahari": [
-          187
-        ],
-        "Craton.": [
-          188
-        ],
-        "They": [
-          189
-        ],
-        "∼600-500": [
-          193
-        ],
-        "Kuungan": [
-          195,
-          219,
-          349
-        ],
-        "or": [
-          196
-        ],
-        "Malagasy": [
-          197
-        ],
-        "Orogeny,": [
-          198
-        ],
-        "tectonothermal": [
-          200
-        ],
-        "event": [
-          201
-        ],
-        "affected": [
-          203,
-          249,
-          346
-        ],
-        "large": [
-          204
-        ],
-        "portions": [
-          205
-        ],
-        "Tanzania,": [
-          208
-        ],
-        "Zambia,": [
-          209
-        ],
-        "Malawi,": [
-          210
-        ],
-        "Mozambique,": [
-          211
-        ],
-        "Antarctica.": [
-          214
-        ],
-        "Orogenies": [
-          220
-        ],
-        "were": [
-          221
-        ],
-        "followed": [
-          222
-        ],
-        "by": [
-          223,
-          347
-        ],
-        "post-orogenic": [
-          226
-        ],
-        "extension.": [
-          227
-        ],
-        "Early": [
-          228
-        ],
-        "∼600-550": [
-          229
-        ],
-        "extension": [
-          231,
-          248,
-          255
-        ],
-        "recorded": [
-          233
-        ],
-        "Shield": [
-          237,
-          288
-        ],
-        "Complex.": [
-          244
-        ],
-        "Later": [
-          245
-        ],
-        "∼550-480": [
-          246
-        ],
-        "Madagascar.": [
-          253
-        ],
-        "Both": [
-          254
-        ],
-        "phases,": [
-          256
-        ],
-        "although": [
-          257
-        ],
-        "diachronous,are": [
-          258
-        ],
-        "interpreted": [
-          259,
-          314
-        ],
-        "result": [
-          262
-        ],
-        "lithospheric": [
-          264
-        ],
-        "delamination.": [
-          265
-        ],
-        "Along": [
-          266
-        ],
-        "strike": [
-          268
-        ],
-        "different": [
-          274,
-          283
-        ],
-        "geodynamic": [
-          275
-        ],
-        "settings": [
-          276
-        ],
-        "resulted": [
-          277
-        ],
-        "evolution": [
-          280
-        ],
-        "distinctly": [
-          282
-        ],
-        "orogen": [
-          284,
-          292,
-          320,
-          338,
-          355
-        ],
-        "styles.": [
-          285
-        ],
-        "accretion-type": [
-          291
-        ],
-        "comprising": [
-          293
-        ],
-        "stack": [
-          295
-        ],
-        "thin-skinned": [
-          297
-        ],
-        "nappes": [
-          298
-        ],
-        "resulting": [
-          299
-        ],
-        "oblique": [
-          302
-        ],
-        "convergence": [
-          303
-        ],
-        "bounding": [
-          305
-        ],
-        "plates.": [
-          306
-        ],
-        "hot-": [
-          317
-        ],
-        "ultra-hot": [
-          319
-        ],
-        "evolved": [
-          322
-        ],
-        "formerly": [
-          325
-        ],
-        "crust.": [
-          327,
-          361
-        ],
-        "Low": [
-          328
-        ],
-        "viscosity": [
-          329
-        ],
-        "lower": [
-          330
-        ],
-        "resisted": [
-          332
-        ],
-        "one-sided": [
-          333
-        ],
-        "subduction,": [
-          334
-        ],
-        "instead": [
-          335
-        ],
-        "sagduction-type": [
-          337
-        ],
-        "developed.": [
-          339
-        ],
-        "regions": [
-          341
-        ],
-        "are": [
-          351
-        ],
-        "considered": [
-          352
-        ],
-        "Himalayan-type": [
-          354
-        ],
-        "composed": [
-          356
-        ],
-        "partly": [
-          358
-        ],
-        "doubly": [
-          359
-        ],
-        "thickened": [
-          360
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -27345,7 +26604,7 @@
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.7830993,
+        "value": 0.78305319,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51516,7 +50775,7 @@
     },
     {
       "id": "https://openalex.org/W2248607991",
-      "doi": "https://doi.org/10.5281/zenodo.16542894",
+      "doi": "https://doi.org/10.5281/zenodo.16542895",
       "title": "Excavation, habitation and transportation of massive corals by the crab Actumnus setifer (Crustacea: Brachyura: Pilumnidae) in Moreton Bay, Queensland",
       "display_name": "Excavation, habitation and transportation of massive corals by the crab Actumnus setifer (Crustacea: Brachyura: Pilumnidae) in Moreton Bay, Queensland",
       "publication_year": 2008,
@@ -51637,7 +50896,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.14461051,
+        "value": 0.14461572,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52165,7 +51424,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-27T00:41:06.130819",
+      "updated_date": "2026-01-28T13:32:53.861360",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -55685,7 +54944,7 @@
       "has_fulltext": false,
       "cited_by_count": 99,
       "citation_normalized_percentile": {
-        "value": 0.97208872,
+        "value": 0.9721505,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },

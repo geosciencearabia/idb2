@@ -4,17 +4,17 @@
     "orcid": null,
     "display_name": "Yves-Michel Le Nindre",
     "display_name_alternatives": [
-      "Yves-Michel Le Nindre",
-      "None LE NINDRE, YVES-MICHEL, and JACQUES",
-      "YVES-MICHEL LE NINDRE",
+      "LE NINDRE, YVES-MICHEL, and JACQUES",
+      "Le Nindre, Yves-Michel",
       "Y NINDRE",
-      "Y. Le Nindre",
+      "YVES-MICHEL LE NINDRE",
+      "Yves-Michel Le Nindre",
       "Yves-Michel le Nindre"
     ],
     "works_count": 41,
-    "cited_by_count": 947,
+    "cited_by_count": 953,
     "summary_stats": {
-      "2yr_mean_citedness": 3,
+      "2yr_mean_citedness": 0,
       "h_index": 16,
       "i10_index": 21
     },
@@ -83,24 +83,6 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "count": 16,
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
         "count": 16,
@@ -112,6 +94,24 @@
         "field": {
           "id": "https://openalex.org/fields/22",
           "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "count": 16,
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -159,7 +159,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001095,
+        "value": 0.0001128,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -176,7 +176,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001,
+        "value": 0.0001037,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -193,7 +193,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000596,
+        "value": 0.0000607,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -210,7 +210,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000426,
+        "value": 0.0000526,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -227,7 +227,7 @@
       {
         "id": "https://openalex.org/T11225",
         "display_name": "Geothermal Energy Systems and Applications",
-        "value": 0.0000365,
+        "value": 0.0000366,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -243,18 +243,6 @@
       }
     ],
     "x_concepts": [
-      {
-        "id": "10138342",
-        "wikidata": "https://www.wikidata.org/wiki/Q43015",
-        "display_name": "Finance",
-        "score": 0.18003514409065247
-      },
-      {
-        "id": "104779481",
-        "wikidata": "https://www.wikidata.org/wiki/Q50707",
-        "display_name": "Composite number",
-        "score": 0
-      },
       {
         "id": "104873425",
         "wikidata": "https://www.wikidata.org/wiki/Q205768",
@@ -272,6 +260,18 @@
         "wikidata": "https://www.wikidata.org/wiki/Q1867977",
         "display_name": "Refinery",
         "score": 0.4868990480899811
+      },
+      {
+        "id": "10138342",
+        "wikidata": "https://www.wikidata.org/wiki/Q43015",
+        "display_name": "Finance",
+        "score": 0.18003514409065247
+      },
+      {
+        "id": "104779481",
+        "wikidata": "https://www.wikidata.org/wiki/Q50707",
+        "display_name": "Composite number",
+        "score": 0
       }
     ],
     "counts_by_year": [
@@ -297,7 +297,7 @@
         "year": 2003,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 64
+        "cited_by_count": 66
       },
       {
         "year": 2005,
@@ -369,13 +369,13 @@
         "year": 2018,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 49
+        "cited_by_count": 51
       },
       {
         "year": 2019,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 27
+        "cited_by_count": 28
       },
       {
         "year": 2021,
@@ -387,20 +387,20 @@
         "year": 2023,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 6
+        "cited_by_count": 7
       }
     ],
-    "longest_name": "None LE NINDRE, YVES-MICHEL, and JACQUES",
+    "longest_name": "LE NINDRE, YVES-MICHEL, and JACQUES",
     "parsed_longest_name": {
       "first": "yves-michel",
       "middle": "",
-      "last": "none le nindre",
+      "last": "le nindre",
       "suffix": "and jacques",
       "nickname": ""
     },
-    "block_key": "y none le nindre",
+    "block_key": "y le nindre",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054427253",
-    "updated_date": "2025-11-06T04:12:42.849631",
+    "updated_date": "2026-01-29T04:20:28.980091",
     "created_date": "2016-06-24"
   },
   "works": [
@@ -27169,7 +27169,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.93343628,
+        "value": 0.93331165,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27685,7 +27685,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.80114236,
+        "value": 0.80085773,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31639,7 +31639,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.72567717,
+        "value": 0.725929,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37117,7 +37117,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49700133,
+        "value": 0.49689177,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38438,7 +38438,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.51175539,
+        "value": 0.51203425,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40631,7 +40631,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60510333,
+        "value": 0.60514164,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41200,7 +41200,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16922954,
+        "value": 0.16898927,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },

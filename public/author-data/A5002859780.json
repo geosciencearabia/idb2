@@ -4,9 +4,8 @@
     "orcid": null,
     "display_name": "Abdulaziz A. Al-Duaiji",
     "display_name_alternatives": [
-      "Abdulaziz A. Al-Duaiji",
-      "Abdulaziz Abdullah Al-Duaiji",
-      "A.. Al-Duaiji"
+      "A. Al-Duaiji",
+      "Abdulaziz A. Al-Duaiji"
     ],
     "works_count": 8,
     "cited_by_count": 61,
@@ -74,24 +73,6 @@
         }
       },
       {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "count": 3,
-        "score": 0.9997000098228455,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
         "count": 3,
@@ -110,13 +91,13 @@
         }
       },
       {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "count": 2,
-        "score": 1,
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "count": 3,
+        "score": 0.9997000098228455,
         "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -139,6 +120,24 @@
         "field": {
           "id": "https://openalex.org/fields/22",
           "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "count": 2,
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -184,7 +183,7 @@
       {
         "id": "https://openalex.org/T13925",
         "display_name": "Offshore Engineering and Technologies",
-        "value": 0.0000124,
+        "value": 0.0000125,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -199,26 +198,9 @@
         }
       },
       {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.000011,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000098,
+        "value": 0.0000121,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -231,21 +213,26 @@
           "id": "https://openalex.org/domains/3",
           "display_name": "Physical Sciences"
         }
+      },
+      {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "value": 0.0000111,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
       }
     ],
     "x_concepts": [
-      {
-        "id": "104873425",
-        "wikidata": "https://www.wikidata.org/wiki/Q205768",
-        "display_name": "Sedimentology",
-        "score": 0.4181065261363983
-      },
-      {
-        "id": "104873425",
-        "wikidata": "https://www.wikidata.org/wiki/Q205768",
-        "display_name": "Sedimentology",
-        "score": 0.6989713311195374
-      },
       {
         "id": "107832698",
         "wikidata": "https://www.wikidata.org/wiki/Q65955",
@@ -259,10 +246,22 @@
         "score": 0.8367594480514526
       },
       {
+        "id": "104873425",
+        "wikidata": "https://www.wikidata.org/wiki/Q205768",
+        "display_name": "Sedimentology",
+        "score": 0.6989713311195374
+      },
+      {
         "id": "108615695",
         "wikidata": "https://www.wikidata.org/wiki/Q12880211",
         "display_name": "Coal mining",
         "score": 0.5181699991226196
+      },
+      {
+        "id": "104873425",
+        "wikidata": "https://www.wikidata.org/wiki/Q205768",
+        "display_name": "Sedimentology",
+        "score": 0.4181065261363983
       }
     ],
     "counts_by_year": [
@@ -303,17 +302,17 @@
         "cited_by_count": 2
       }
     ],
-    "longest_name": "Abdulaziz Abdullah Al-Duaiji",
+    "longest_name": "Abdulaziz A. Al-Duaiji",
     "parsed_longest_name": {
       "first": "abdulaziz",
-      "middle": "abdullah",
+      "middle": "a",
       "last": "al-duaiji",
       "suffix": "",
       "nickname": ""
     },
     "block_key": "a al-duaiji",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5002859780",
-    "updated_date": "2025-11-06T04:12:42.849631",
+    "updated_date": "2026-01-29T04:20:28.980091",
     "created_date": "2019-12-05"
   },
   "works": [
@@ -771,9 +770,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -2555,9 +2554,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -5871,9 +5870,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -6865,9 +6864,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
+          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],

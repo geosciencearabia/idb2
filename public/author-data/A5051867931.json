@@ -4,13 +4,13 @@
     "orcid": null,
     "display_name": "Jacques Manivit",
     "display_name_alternatives": [
-      "Jacques Manivit",
-      "J. Manivit"
+      "J. Manivit",
+      "Jacques Manivit"
     ],
     "works_count": 8,
-    "cited_by_count": 309,
+    "cited_by_count": 310,
     "summary_stats": {
-      "2yr_mean_citedness": 4,
+      "2yr_mean_citedness": 0,
       "h_index": 5,
       "i10_index": 5
     },
@@ -31,8 +31,7 @@
           ]
         },
         "years": [
-          2001,
-          1987
+          2001
         ]
       }
     ],
@@ -111,17 +110,17 @@
         }
       },
       {
-        "id": "https://openalex.org/T11088",
-        "display_name": "Marine Bivalve and Aquaculture Studies",
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
         "count": 1,
-        "score": 0.9783999919891357,
+        "score": 0.9945999979972839,
         "subfield": {
-          "id": "https://openalex.org/subfields/2306",
-          "display_name": "Global and Planetary Change"
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
         },
         "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -133,7 +132,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.000035,
+        "value": 0.0000358,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -150,7 +149,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000263,
+        "value": 0.0000271,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -167,7 +166,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000186,
+        "value": 0.000019,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -184,7 +183,7 @@
       {
         "id": "https://openalex.org/T12097",
         "display_name": "Aquatic Invertebrate Ecology and Behavior",
-        "value": 0.0000064,
+        "value": 0.000007,
         "subfield": {
           "id": "https://openalex.org/subfields/2303",
           "display_name": "Ecology"
@@ -201,7 +200,7 @@
       {
         "id": "https://openalex.org/T11088",
         "display_name": "Marine Bivalve and Aquaculture Studies",
-        "value": 0.0000059,
+        "value": 0.0000061,
         "subfield": {
           "id": "https://openalex.org/subfields/2306",
           "display_name": "Global and Planetary Change"
@@ -217,6 +216,18 @@
       }
     ],
     "x_concepts": [
+      {
+        "id": "109281948",
+        "wikidata": "https://www.wikidata.org/wiki/Q134783",
+        "display_name": "Stratigraphy",
+        "score": 0.633910596370697
+      },
+      {
+        "id": "109281948",
+        "wikidata": "https://www.wikidata.org/wiki/Q134783",
+        "display_name": "Stratigraphy",
+        "score": 0.5971027612686157
+      },
       {
         "id": "100951216",
         "wikidata": "https://www.wikidata.org/wiki/Q7692853",
@@ -234,18 +245,6 @@
         "wikidata": "https://www.wikidata.org/wiki/Q749565",
         "display_name": "Structural basin",
         "score": 0.07175356149673462
-      },
-      {
-        "id": "109281948",
-        "wikidata": "https://www.wikidata.org/wiki/Q134783",
-        "display_name": "Stratigraphy",
-        "score": 0.633910596370697
-      },
-      {
-        "id": "109281948",
-        "wikidata": "https://www.wikidata.org/wiki/Q134783",
-        "display_name": "Stratigraphy",
-        "score": 0.5971027612686157
       }
     ],
     "counts_by_year": [
@@ -283,7 +282,7 @@
         "year": 2023,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 4
+        "cited_by_count": 5
       }
     ],
     "longest_name": "Jacques Manivit",
@@ -296,7 +295,7 @@
     },
     "block_key": "j manivit",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051867931",
-    "updated_date": "2025-11-06T04:12:42.849631",
+    "updated_date": "2026-01-29T04:20:28.980091",
     "created_date": "2025-10-10"
   },
   "works": [
@@ -2157,8 +2156,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2641,8 +2640,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -3866,8 +3865,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4903,8 +4902,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5951,8 +5950,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],

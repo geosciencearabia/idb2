@@ -4,10 +4,10 @@
     "orcid": "https://orcid.org/0000-0002-5595-0017",
     "display_name": "Ayman Al-Lehyani",
     "display_name_alternatives": [
-      "Ayman Al-Lehyani",
       "A. Al-Lehyani",
-      "Ayman Fazea Al-Lehyani",
-      "Ayman F. Al-Lehyani"
+      "Ayman Al-Lehyani",
+      "Ayman F. Al-Lehyani",
+      "Ayman Fazea Al-Lehyani"
     ],
     "works_count": 7,
     "cited_by_count": 83,
@@ -33,25 +33,13 @@
           ]
         },
         "years": [
-          2025,
           2019,
           2013,
           2011
         ]
       }
     ],
-    "last_known_institutions": [
-      {
-        "id": "https://openalex.org/I134085113",
-        "ror": "https://ror.org/03yez3163",
-        "display_name": "King Fahd University of Petroleum and Minerals",
-        "country_code": "SA",
-        "type": "education",
-        "lineage": [
-          "https://openalex.org/I134085113"
-        ]
-      }
-    ],
+    "last_known_institutions": null,
     "topics": [
       {
         "id": "https://openalex.org/T10271",
@@ -126,17 +114,17 @@
         }
       },
       {
-        "id": "https://openalex.org/T10572",
-        "display_name": "Geophysical and Geoelectrical Methods",
+        "id": "https://openalex.org/T10320",
+        "display_name": "Neural Networks and Applications",
         "count": 1,
-        "score": 0.9994000196456909,
+        "score": 0.38839998841285706,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
         },
         "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -148,7 +136,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0000171,
+        "value": 0.0000199,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -165,7 +153,7 @@
       {
         "id": "https://openalex.org/T13885",
         "display_name": "Geophysics and Sensor Technology",
-        "value": 0.0000136,
+        "value": 0.000015,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -216,7 +204,7 @@
       {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "value": 0.0000063,
+        "value": 0.0000064,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -233,18 +221,6 @@
     ],
     "x_concepts": [
       {
-        "id": "105795698",
-        "wikidata": "https://www.wikidata.org/wiki/Q12483",
-        "display_name": "Statistics",
-        "score": 0.37087157368659973
-      },
-      {
-        "id": "105795698",
-        "wikidata": "https://www.wikidata.org/wiki/Q12483",
-        "display_name": "Statistics",
-        "score": 0.1563560664653778
-      },
-      {
         "id": "111461898",
         "wikidata": "https://www.wikidata.org/wiki/Q2008968",
         "display_name": "Seismic refraction",
@@ -254,13 +230,25 @@
         "id": "11413529",
         "wikidata": "https://www.wikidata.org/wiki/Q8366",
         "display_name": "Algorithm",
-        "score": 0.4003548324108124
+        "score": 0.44678792357444763
+      },
+      {
+        "id": "105795698",
+        "wikidata": "https://www.wikidata.org/wiki/Q12483",
+        "display_name": "Statistics",
+        "score": 0.37087157368659973
       },
       {
         "id": "11413529",
         "wikidata": "https://www.wikidata.org/wiki/Q8366",
         "display_name": "Algorithm",
         "score": 0.2855991721153259
+      },
+      {
+        "id": "105795698",
+        "wikidata": "https://www.wikidata.org/wiki/Q12483",
+        "display_name": "Statistics",
+        "score": 0.1563560664653778
       }
     ],
     "counts_by_year": [
@@ -311,7 +299,7 @@
     },
     "block_key": "a al-lehyani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5059100961",
-    "updated_date": "2025-11-06T04:12:42.849631",
+    "updated_date": "2026-01-29T04:20:28.980091",
     "created_date": "2025-10-10"
   },
   "works": [
@@ -790,16 +778,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -2166,9 +2154,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7099999785423279
         }
       ],
       "awards": [
@@ -2193,8 +2181,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -2772,8 +2760,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -3326,8 +3314,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4329,16 +4317,16 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2238788930.pdf",
@@ -4773,8 +4761,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5875,8 +5863,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410159041.pdf",

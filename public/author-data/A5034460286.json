@@ -4,13 +4,13 @@
     "orcid": "https://orcid.org/0000-0002-6155-0845",
     "display_name": "Moaz Salih",
     "display_name_alternatives": [
-      "Moaz Salih",
-      "M. Salih"
+      "M. Salih",
+      "Moaz Salih"
     ],
     "works_count": 22,
-    "cited_by_count": 108,
+    "cited_by_count": 115,
     "summary_stats": {
-      "2yr_mean_citedness": 0.5555555555555556,
+      "2yr_mean_citedness": 0.7777777777777778,
       "h_index": 5,
       "i10_index": 4
     },
@@ -38,6 +38,22 @@
           2020,
           2017
         ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I4210118538",
+          "ror": "https://ror.org/02em1tr51",
+          "display_name": "University of Petroleum",
+          "country_code": "ID",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210118538"
+          ]
+        },
+        "years": [
+          2025,
+          2020
+        ]
       }
     ],
     "last_known_institutions": [
@@ -49,6 +65,16 @@
         "type": "education",
         "lineage": [
           "https://openalex.org/I134085113"
+        ]
+      },
+      {
+        "id": "https://openalex.org/I4210118538",
+        "ror": "https://ror.org/02em1tr51",
+        "display_name": "University of Petroleum",
+        "country_code": "ID",
+        "type": "education",
+        "lineage": [
+          "https://openalex.org/I4210118538"
         ]
       }
     ],
@@ -79,6 +105,24 @@
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "count": 5,
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -124,31 +168,13 @@
           "id": "https://openalex.org/domains/3",
           "display_name": "Physical Sciences"
         }
-      },
-      {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 5,
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
       }
     ],
     "topic_share": [
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000373,
+        "value": 0.0000379,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -165,7 +191,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000287,
+        "value": 0.0000288,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -182,7 +208,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000219,
+        "value": 0.0000226,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -197,12 +223,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T10271",
-        "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.0000171,
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "value": 0.0000202,
         "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -214,12 +240,12 @@
         }
       },
       {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000164,
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "value": 0.0000199,
         "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
         },
         "field": {
           "id": "https://openalex.org/fields/19",
@@ -233,10 +259,10 @@
     ],
     "x_concepts": [
       {
-        "id": "104873425",
-        "wikidata": "https://www.wikidata.org/wiki/Q205768",
-        "display_name": "Sedimentology",
-        "score": 0.4656117260456085
+        "id": "107832698",
+        "wikidata": "https://www.wikidata.org/wiki/Q65955",
+        "display_name": "Devonian",
+        "score": 0.8513491749763489
       },
       {
         "id": "104873425",
@@ -245,16 +271,16 @@
         "score": 0.5546791553497314
       },
       {
-        "id": "107832698",
-        "wikidata": "https://www.wikidata.org/wiki/Q65955",
-        "display_name": "Devonian",
-        "score": 0.8513491749763489
+        "id": "104873425",
+        "wikidata": "https://www.wikidata.org/wiki/Q205768",
+        "display_name": "Sedimentology",
+        "score": 0.4656117260456085
       },
       {
         "id": "109007969",
         "wikidata": "https://www.wikidata.org/wiki/Q749565",
         "display_name": "Structural basin",
-        "score": 0.07235541939735413
+        "score": 0.12062755227088928
       }
     ],
     "counts_by_year": [
@@ -274,25 +300,25 @@
         "year": 2020,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 54
+        "cited_by_count": 56
       },
       {
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 12
+        "cited_by_count": 14
       },
       {
         "year": 2022,
         "works_count": 6,
         "oa_works_count": 2,
-        "cited_by_count": 10
+        "cited_by_count": 11
       },
       {
         "year": 2024,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 4
+        "cited_by_count": 6
       },
       {
         "year": 2025,
@@ -311,7 +337,7 @@
     },
     "block_key": "m salih",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034460286",
-    "updated_date": "2025-12-04T23:47:47.292601",
+    "updated_date": "2026-01-29T04:20:28.980091",
     "created_date": "2025-10-10"
   },
   "works": [
@@ -882,8 +908,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -1843,8 +1869,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3240,8 +3266,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5556,8 +5582,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8604,8 +8630,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9836,8 +9862,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10844,7 +10870,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01797843,
+        "value": 0.01794991,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14400,7 +14426,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03779888,
+        "value": 0.03765459,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14640,8 +14666,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -15909,8 +15935,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

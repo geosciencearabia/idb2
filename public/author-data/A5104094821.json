@@ -4,17 +4,19 @@
     "orcid": null,
     "display_name": "Khalid Al‐Ramadan",
     "display_name_alternatives": [
-      "Khalid Al‐Ramadan",
+      "KHALID Al-Ramadan",
+      "Khalid A. Al‐Ramadan",
       "Khalid AL-RAMADAN",
       "Khalid Al-Ramadan",
-      "Khalid Al‑Ramadan",
       "Khalid Al-ramadan",
-      "Khalid A. Al‐Ramadan"
+      "Khalid Al‐Ramadan",
+      "Khalid Al‑Ramadan",
+      "Michele Morsilli"
     ],
     "works_count": 19,
-    "cited_by_count": 103,
+    "cited_by_count": 107,
     "summary_stats": {
-      "2yr_mean_citedness": 1.5555555555555556,
+      "2yr_mean_citedness": 1.8888888888888888,
       "h_index": 6,
       "i10_index": 6
     },
@@ -23,21 +25,6 @@
       "orcid": null
     },
     "affiliations": [
-      {
-        "institution": {
-          "id": "https://openalex.org/I53276908",
-          "ror": "https://ror.org/0008kv292",
-          "display_name": "Marymount University",
-          "country_code": "US",
-          "type": "education",
-          "lineage": [
-            "https://openalex.org/I53276908"
-          ]
-        },
-        "years": [
-          2012
-        ]
-      },
       {
         "institution": {
           "id": "https://openalex.org/I134085113",
@@ -56,6 +43,21 @@
           2021,
           2013,
           2009
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I53276908",
+          "ror": "https://ror.org/0008kv292",
+          "display_name": "Marymount University",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I53276908"
+          ]
+        },
+        "years": [
+          2012
         ]
       }
     ],
@@ -145,17 +147,17 @@
         }
       },
       {
-        "id": "https://openalex.org/T11852",
-        "display_name": "Clay minerals and soil interactions",
+        "id": "https://openalex.org/T10001",
+        "display_name": "Geological and Geochemical Analysis",
         "count": 3,
-        "score": 0.9988999962806702,
+        "score": 0.9995999932289124,
         "subfield": {
-          "id": "https://openalex.org/subfields/2502",
-          "display_name": "Biomaterials"
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
         },
         "field": {
-          "id": "https://openalex.org/fields/25",
-          "display_name": "Materials Science"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -167,7 +169,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000335,
+        "value": 0.0000341,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -184,7 +186,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000283,
+        "value": 0.0000287,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -201,7 +203,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000263,
+        "value": 0.0000271,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -218,7 +220,7 @@
       {
         "id": "https://openalex.org/T11852",
         "display_name": "Clay minerals and soil interactions",
-        "value": 0.0000248,
+        "value": 0.0000256,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -235,7 +237,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000221,
+        "value": 0.0000222,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -255,7 +257,13 @@
         "id": "104873425",
         "wikidata": "https://www.wikidata.org/wiki/Q205768",
         "display_name": "Sedimentology",
-        "score": 0.42985332012176514
+        "score": 0.8264502286911011
+      },
+      {
+        "id": "106487976",
+        "wikidata": "https://www.wikidata.org/wiki/Q685816",
+        "display_name": "Matrix (chemical analysis)",
+        "score": 0.7088465690612793
       },
       {
         "id": "104873425",
@@ -267,13 +275,7 @@
         "id": "104873425",
         "wikidata": "https://www.wikidata.org/wiki/Q205768",
         "display_name": "Sedimentology",
-        "score": 0.8264502286911011
-      },
-      {
-        "id": "106487976",
-        "wikidata": "https://www.wikidata.org/wiki/Q685816",
-        "display_name": "Matrix (chemical analysis)",
-        "score": 0.7088465690612793
+        "score": 0.42985332012176514
       }
     ],
     "counts_by_year": [
@@ -293,7 +295,7 @@
         "year": 2013,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 20
+        "cited_by_count": 21
       },
       {
         "year": 2014,
@@ -329,7 +331,7 @@
         "year": 2025,
         "works_count": 7,
         "oa_works_count": 3,
-        "cited_by_count": 4
+        "cited_by_count": 7
       }
     ],
     "longest_name": "Khalid A. Al‐Ramadan",
@@ -342,7 +344,7 @@
     },
     "block_key": "k al‐ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104094821",
-    "updated_date": "2025-11-28T02:08:47.144824",
+    "updated_date": "2026-01-29T04:20:28.980091",
     "created_date": "2019-08-13"
   },
   "works": [
@@ -787,8 +789,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -1954,8 +1956,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -2680,8 +2682,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -3620,8 +3622,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
@@ -5582,8 +5584,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -9983,8 +9985,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -15202,8 +15204,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -16055,8 +16057,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
