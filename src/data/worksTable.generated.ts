@@ -38671,12 +38671,12 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Studies and Exploration"
     ],
     "institutions": [
-      "Taiz University",
       "Kazan Federal University",
+      "Taiz University",
       "King Saud University",
       "University of Technology Malaysia",
-      "Instytut Nauk Geologicznych",
       "Jagiellonian University",
+      "Instytut Nauk Geologicznych",
       "University of the Fraser Valley",
       "Abdul Wali Khan University Mardan"
     ]
@@ -119952,7 +119952,7 @@ export const worksTable: WorkTableRecord[] = [
       "Abdulkader M. Afifi"
     ],
     "title": "Neoproterozoic juvenile continental crust formation in the Arabian Shield (Khamal intrusive complex, Western Arabia)",
-    "publicationDate": "2026-01-01",
+    "publicationDate": "2026-01-24",
     "year": 2026,
     "venue": "Lithos",
     "citations": 0,
@@ -119962,12 +119962,12 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geochemical Analysis"
     ],
     "institutions": [
-      "King Abdullah University of Science and Technology",
       "University of Pavia",
       "Institute of Geosciences and Earth Resources",
       "Global Earthquake Model",
       "University of Florence",
-      "Saudi Aramco (Saudi Arabia)"
+      "Saudi Aramco (Saudi Arabia)",
+      "King Abdullah University of Science and Technology"
     ]
   },
   {
