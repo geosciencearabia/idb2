@@ -683,7 +683,7 @@
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.95985328,
+        "value": 0.95981621,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -977,15 +977,29 @@
       ],
       "mesh": [
         {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
+          "descriptor_ui": "D000860",
+          "descriptor_name": "Hypoxia",
           "qualifier_ui": null,
           "qualifier_name": null,
-          "is_major_topic": false
+          "is_major_topic": true
         },
         {
-          "descriptor_ui": "D002247",
-          "descriptor_name": "Carbon Isotopes",
+          "descriptor_ui": "D000860",
+          "descriptor_name": "Hypoxia",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D000860",
+          "descriptor_name": "Hypoxia",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D001083",
+          "descriptor_name": "Arabia",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -998,6 +1012,55 @@
           "is_major_topic": false
         },
         {
+          "descriptor_ui": "D001083",
+          "descriptor_name": "Arabia",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002247",
+          "descriptor_name": "Carbon Isotopes",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002247",
+          "descriptor_name": "Carbon Isotopes",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D002247",
+          "descriptor_name": "Carbon Isotopes",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
           "descriptor_ui": "D009792",
           "descriptor_name": "Oceans and Seas",
           "qualifier_ui": null,
@@ -1005,11 +1068,18 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D000860",
-          "descriptor_name": "Hypoxia",
+          "descriptor_ui": "D009792",
+          "descriptor_name": "Oceans and Seas",
           "qualifier_ui": null,
           "qualifier_name": null,
-          "is_major_topic": true
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D009792",
+          "descriptor_name": "Oceans and Seas",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
         },
         {
           "descriptor_ui": "D019015",
@@ -1019,80 +1089,10 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002247",
-          "descriptor_name": "Carbon Isotopes",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001083",
-          "descriptor_name": "Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009792",
-          "descriptor_name": "Oceans and Seas",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000860",
-          "descriptor_name": "Hypoxia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
           "descriptor_ui": "D019015",
           "descriptor_name": "Geologic Sediments",
           "qualifier_ui": "Q000737",
           "qualifier_name": "chemistry",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002247",
-          "descriptor_name": "Carbon Isotopes",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001083",
-          "descriptor_name": "Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D009792",
-          "descriptor_name": "Oceans and Seas",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000860",
-          "descriptor_name": "Hypoxia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
           "is_major_topic": true
         },
         {
@@ -1175,21 +1175,24 @@
           "landing_page_url": "https://doaj.org/article/05688748a2f24faea2e2ac323255dd10",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "repository"
+            "type": "journal"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -1302,8 +1305,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4307414375.pdf",
@@ -1399,7 +1402,647 @@
         "https://openalex.org/W2323144091",
         "https://openalex.org/W2169921515"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "13": [
+          148
+        ],
+        "Abstract": [
+          0
+        ],
+        "The": [
+          1,
+          180,
+          209
+        ],
+        "Toarcian": [
+          2,
+          107,
+          286
+        ],
+        "Oceanic": [
+          3
+        ],
+        "Anoxic": [
+          4
+        ],
+        "Event": [
+          5
+        ],
+        "(T-OAE)": [
+          6
+        ],
+        "and": [
+          7,
+          22,
+          26,
+          90,
+          118,
+          152,
+          173,
+          242,
+          269,
+          287
+        ],
+        "its": [
+          8
+        ],
+        "corresponding": [
+          9
+        ],
+        "Carbon": [
+          10
+        ],
+        "Isotope": [
+          11
+        ],
+        "Excursion": [
+          12
+        ],
+        "(CIE)": [
+          13
+        ],
+        "have": [
+          14,
+          75,
+          187,
+          258
+        ],
+        "been": [
+          15,
+          76
+        ],
+        "reported": [
+          16,
+          58
+        ],
+        "widely": [
+          17
+        ],
+        "across": [
+          18
+        ],
+        "the": [
+          19,
+          31,
+          35,
+          39,
+          42,
+          47,
+          54,
+          88,
+          106,
+          112,
+          115,
+          127,
+          144,
+          156,
+          161,
+          169,
+          177,
+          190,
+          196,
+          214,
+          221,
+          227,
+          236,
+          240,
+          244,
+          253,
+          262,
+          266,
+          282,
+          285
+        ],
+        "Tethyan": [
+          20
+        ],
+        "region": [
+          21
+        ],
+        "globally.": [
+          23,
+          179
+        ],
+        "In": [
+          24,
+          96
+        ],
+        "Arabia,": [
+          25
+        ],
+        "based": [
+          27
+        ],
+        "on": [
+          28,
+          105
+        ],
+        "ammonite": [
+          29
+        ],
+        "dating,": [
+          30
+        ],
+        "time": [
+          32,
+          289
+        ],
+        "window": [
+          33
+        ],
+        "of": [
+          34,
+          41,
+          46,
+          53,
+          92,
+          114,
+          121,
+          130,
+          163,
+          171,
+          182,
+          198,
+          217,
+          239,
+          246,
+          265,
+          275
+        ],
+        "T-OAE": [
+          36,
+          178,
+          228
+        ],
+        "coincided": [
+          37,
+          167
+        ],
+        "with": [
+          38,
+          168,
+          281
+        ],
+        "deposition": [
+          40,
+          162,
+          193
+        ],
+        "reddish": [
+          43
+        ],
+        "siliciclastic": [
+          44,
+          249
+        ],
+        "unit": [
+          45
+        ],
+        "Marrat": [
+          48,
+          108,
+          164,
+          192
+        ],
+        "Formation.": [
+          49
+        ],
+        "However,": [
+          50
+        ],
+        "no": [
+          51
+        ],
+        "evidence": [
+          52
+        ],
+        "T-OAE/CIE": [
+          55,
+          123
+        ],
+        "was": [
+          56,
+          103
+        ],
+        "ever": [
+          57
+        ],
+        "from": [
+          59
+        ],
+        "Arabia": [
+          60
+        ],
+        "because": [
+          61
+        ],
+        "these": [
+          62,
+          72
+        ],
+        "red": [
+          63,
+          73,
+          165,
+          250
+        ],
+        "beds": [
+          64,
+          74,
+          166,
+          251
+        ],
+        "were": [
+          65
+        ],
+        "previously": [
+          66
+        ],
+        "interpreted": [
+          67,
+          185
+        ],
+        "as": [
+          68,
+          78
+        ],
+        "continental": [
+          69
+        ],
+        "deposits.": [
+          70
+        ],
+        "Recently,": [
+          71
+        ],
+        "recognized": [
+          77
+        ],
+        "shallow": [
+          79,
+          140,
+          247
+        ],
+        "marine": [
+          80,
+          142,
+          207,
+          248
+        ],
+        "deposits": [
+          81
+        ],
+        "which": [
+          82
+        ],
+        "opened": [
+          83
+        ],
+        "an": [
+          84
+        ],
+        "opportunity": [
+          85
+        ],
+        "to": [
+          86,
+          110,
+          176,
+          186,
+          195,
+          203
+        ],
+        "assess": [
+          87
+        ],
+        "occurrence": [
+          89
+        ],
+        "expression": [
+          91
+        ],
+        "T-OAE–CIE": [
+          93
+        ],
+        "in": [
+          94,
+          124,
+          155,
+          220,
+          252,
+          284
+        ],
+        "Arabia.": [
+          95,
+          125
+        ],
+        "this": [
+          97,
+          256
+        ],
+        "study,": [
+          98
+        ],
+        "a": [
+          99,
+          139
+        ],
+        "multiproxy": [
+          100
+        ],
+        "geochemical": [
+          101
+        ],
+        "characterization": [
+          102
+        ],
+        "performed": [
+          104
+        ],
+        "Formation": [
+          109
+        ],
+        "infer": [
+          111
+        ],
+        "chemistry": [
+          113
+        ],
+        "paleowater": [
+          116
+        ],
+        "column": [
+          117
+        ],
+        "identify": [
+          119
+        ],
+        "intervals": [
+          120
+        ],
+        "possible": [
+          122,
+          215
+        ],
+        "While": [
+          126
+        ],
+        "low": [
+          128
+        ],
+        "concentrations": [
+          129
+        ],
+        "redox-sensitive": [
+          131
+        ],
+        "elements": [
+          132
+        ],
+        "(Mo,": [
+          133
+        ],
+        "U,": [
+          134
+        ],
+        "V,": [
+          135
+        ],
+        "Cr)": [
+          136
+        ],
+        "may": [
+          137,
+          229
+        ],
+        "indicate": [
+          138
+        ],
+        "oxic": [
+          141,
+          206
+        ],
+        "settings,": [
+          143
+        ],
+        "coupled": [
+          145
+        ],
+        "negative": [
+          146
+        ],
+        "δ": [
+          147
+        ],
+        "C": [
+          149
+        ],
+        "organic": [
+          150
+        ],
+        "excursion": [
+          151
+        ],
+        "apparent": [
+          153
+        ],
+        "increase": [
+          154
+        ],
+        "chemical": [
+          157
+        ],
+        "weathering": [
+          158
+        ],
+        "suggests": [
+          159
+        ],
+        "that": [
+          160
+        ],
+        "development": [
+          170,
+          216
+        ],
+        "T-CIE": [
+          172,
+          241,
+          267
+        ],
+        "possibly": [
+          174
+        ],
+        "time-equivalent": [
+          175
+        ],
+        "origin": [
+          181,
+          245
+        ],
+        "reddening": [
+          183
+        ],
+        "is": [
+          184
+        ],
+        "occurred": [
+          188
+        ],
+        "during": [
+          189
+        ],
+        "middle": [
+          191
+        ],
+        "due": [
+          194
+        ],
+        "stabilization": [
+          197
+        ],
+        "unstable": [
+          199
+        ],
+        "hydrous": [
+          200
+        ],
+        "iron": [
+          201
+        ],
+        "oxides": [
+          202
+        ],
+        "hematite": [
+          204
+        ],
+        "under": [
+          205
+        ],
+        "conditions.": [
+          208
+        ],
+        "proposed": [
+          210
+        ],
+        "model": [
+          211
+        ],
+        "further": [
+          212
+        ],
+        "indicates": [
+          213
+        ],
+        "source": [
+          218,
+          278
+        ],
+        "rocks": [
+          219,
+          279
+        ],
+        "deep,": [
+          222
+        ],
+        "anoxic": [
+          223
+        ],
+        "environment": [
+          224
+        ],
+        "counterpart": [
+          225
+        ],
+        "where": [
+          226
+        ],
+        "be": [
+          230
+        ],
+        "expressed.": [
+          231
+        ],
+        "Since": [
+          232
+        ],
+        "our": [
+          233
+        ],
+        "study": [
+          234
+        ],
+        "documents": [
+          235
+        ],
+        "first": [
+          237
+        ],
+        "record": [
+          238
+        ],
+        "discuss": [
+          243
+        ],
+        "Arabian": [
+          254
+        ],
+        "Plate,": [
+          255
+        ],
+        "will": [
+          257
+        ],
+        "significant": [
+          259
+        ],
+        "implications": [
+          260
+        ],
+        "for": [
+          261,
+          270
+        ],
+        "overall": [
+          263
+        ],
+        "understanding": [
+          264
+        ],
+        "globally": [
+          268
+        ],
+        "hydrocarbon": [
+          271
+        ],
+        "exploration": [
+          272
+        ],
+        "through": [
+          273
+        ],
+        "realizations": [
+          274
+        ],
+        "potential": [
+          276
+        ],
+        "new": [
+          277
+        ],
+        "associated": [
+          280
+        ],
+        "OAEs": [
+          283
+        ],
+        "other": [
+          288
+        ],
+        "intervals.": [
+          290
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -1418,7 +2061,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1991,8 +2634,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2673,8 +3316,8 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -2732,7 +3375,7 @@
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.97452794,
+        "value": 0.97424199,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2940,8 +3583,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -3073,7 +3716,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-22T23:29:09.771500",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3691,8 +4334,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 138,
@@ -4016,18 +4659,18 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
             },
             {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -4146,8 +4789,8 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -4206,7 +4849,7 @@
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.91229548,
+        "value": 0.9113183,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4406,8 +5049,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -4508,7 +5151,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5084,8 +5727,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 175,
@@ -5879,8 +6522,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 181,
@@ -6408,7 +7051,7 @@
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.94507245,
+        "value": 0.94472247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6704,21 +7347,24 @@
           "landing_page_url": "https://doaj.org/article/ec2db9c3c7c54bc9b435a4b41cb5a1b7",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "repository"
+            "type": "journal"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -6777,8 +7423,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf"
@@ -6866,7 +7512,613 @@
         "https://openalex.org/W2377029182",
         "https://openalex.org/W3140727949"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Ferruginous": [
+          1,
+          125
+        ],
+        "deposits": [
+          2,
+          33,
+          44,
+          53,
+          79,
+          126,
+          184,
+          197
+        ],
+        "are": [
+          3,
+          212
+        ],
+        "iron-rich": [
+          4
+        ],
+        "sediments": [
+          5
+        ],
+        "or": [
+          6
+        ],
+        "sedimentary": [
+          7,
+          17
+        ],
+        "rocks": [
+          8,
+          241,
+          254
+        ],
+        "found": [
+          9,
+          34,
+          129
+        ],
+        "in": [
+          10,
+          19,
+          35,
+          45,
+          114,
+          121,
+          130,
+          166,
+          186,
+          198,
+          230
+        ],
+        "various": [
+          11
+        ],
+        "sizes,": [
+          12
+        ],
+        "shapes,": [
+          13
+        ],
+        "and": [
+          14,
+          29,
+          42,
+          60,
+          68,
+          72,
+          82,
+          90,
+          99,
+          148,
+          170,
+          192,
+          215,
+          257,
+          262
+        ],
+        "compositions": [
+          15
+        ],
+        "within": [
+          16
+        ],
+        "strata": [
+          18
+        ],
+        "different": [
+          20,
+          187,
+          204
+        ],
+        "depositional": [
+          21,
+          188,
+          232
+        ],
+        "settings.": [
+          22
+        ],
+        "This": [
+          23,
+          234
+        ],
+        "study": [
+          24,
+          235
+        ],
+        "investigates": [
+          25
+        ],
+        "the": [
+          26,
+          36,
+          97,
+          103,
+          131,
+          139,
+          145,
+          149,
+          155,
+          161,
+          194,
+          208,
+          219,
+          238,
+          243,
+          247
+        ],
+        "characteristics,": [
+          27
+        ],
+        "distribution,": [
+          28
+        ],
+        "origin": [
+          30
+        ],
+        "of": [
+          31,
+          51,
+          102,
+          134,
+          144,
+          154,
+          242,
+          250
+        ],
+        "ferruginous": [
+          32,
+          52,
+          78,
+          108,
+          168,
+          183,
+          196
+        ],
+        "Late": [
+          37
+        ],
+        "Ordovician": [
+          38
+        ],
+        "glaciogenic": [
+          39,
+          201
+        ],
+        "Sarah": [
+          40,
+          104
+        ],
+        "Formation": [
+          41,
+          147
+        ],
+        "surrounding": [
+          43
+        ],
+        "central": [
+          46
+        ],
+        "Saudi": [
+          47
+        ],
+        "Arabia.": [
+          48
+        ],
+        "Several": [
+          49
+        ],
+        "types": [
+          50
+        ],
+        "have": [
+          54
+        ],
+        "been": [
+          55
+        ],
+        "identified": [
+          56,
+          77
+        ],
+        "through": [
+          57
+        ],
+        "field": [
+          58
+        ],
+        "observations": [
+          59
+        ],
+        "laboratory": [
+          61
+        ],
+        "investigations,": [
+          62
+        ],
+        "including": [
+          63
+        ],
+        "thin-section": [
+          64
+        ],
+        "petrography,": [
+          65
+        ],
+        "geochemical,": [
+          66
+        ],
+        "surface,": [
+          67
+        ],
+        "bulk": [
+          69
+        ],
+        "mineralogical": [
+          70,
+          205
+        ],
+        "analyses,": [
+          71
+        ],
+        "computed": [
+          73
+        ],
+        "tomography": [
+          74
+        ],
+        "scans.": [
+          75
+        ],
+        "The": [
+          76,
+          252
+        ],
+        "include": [
+          80
+        ],
+        "solid": [
+          81,
+          210
+        ],
+        "rinded": [
+          83,
+          118,
+          220
+        ],
+        "concretions,": [
+          84
+        ],
+        "pipes,": [
+          85
+        ],
+        "layers,": [
+          86
+        ],
+        "ferricretes,": [
+          87
+        ],
+        "liesegang": [
+          88
+        ],
+        "bands,": [
+          89
+        ],
+        "fracture": [
+          91
+        ],
+        "infills.": [
+          92
+        ],
+        "They": [
+          93
+        ],
+        "were": [
+          94,
+          111,
+          127,
+          246,
+          255
+        ],
+        "associated": [
+          95
+        ],
+        "with": [
+          96
+        ],
+        "periglacial": [
+          98
+        ],
+        "proglacial": [
+          100
+        ],
+        "facies": [
+          101
+        ],
+        "Formation.": [
+          105,
+          157
+        ],
+        "For": [
+          106
+        ],
+        "instance,": [
+          107
+        ],
+        "deformed": [
+          109
+        ],
+        "layers": [
+          110
+        ],
+        "mainly": [
+          112
+        ],
+        "observed": [
+          113
+        ],
+        "subglacial": [
+          115
+        ],
+        "facies,": [
+          116,
+          136
+        ],
+        "while": [
+          117,
+          218
+        ],
+        "concretions": [
+          119,
+          211,
+          221
+        ],
+        "occurred": [
+          120
+        ],
+        "bleached": [
+          122
+        ],
+        "glaciofluvial": [
+          123
+        ],
+        "facies.": [
+          124
+        ],
+        "also": [
+          128
+        ],
+        "uppermost": [
+          132
+        ],
+        "parts": [
+          133
+        ],
+        "non-glacial": [
+          135
+        ],
+        "such": [
+          137
+        ],
+        "as": [
+          138,
+          175
+        ],
+        "shallow": [
+          140
+        ],
+        "marine": [
+          141
+        ],
+        "Quwarah": [
+          142
+        ],
+        "Member": [
+          143,
+          153
+        ],
+        "Qasim": [
+          146
+        ],
+        "braided": [
+          150
+        ],
+        "deltaic": [
+          151
+        ],
+        "Sajir": [
+          152
+        ],
+        "Saq": [
+          156
+        ],
+        "Compositionally,": [
+          158
+        ],
+        "goethite": [
+          159
+        ],
+        "was": [
+          160
+        ],
+        "dominant": [
+          162
+        ],
+        "iron": [
+          163
+        ],
+        "oxide": [
+          164
+        ],
+        "mineral": [
+          165
+        ],
+        "all": [
+          167
+        ],
+        "deposits,": [
+          169
+        ],
+        "it": [
+          171
+        ],
+        "is": [
+          172
+        ],
+        "mostly": [
+          173
+        ],
+        "distributed": [
+          174
+        ],
+        "cement,": [
+          176
+        ],
+        "filling": [
+          177
+        ],
+        "pore": [
+          178
+        ],
+        "spaces.": [
+          179
+        ],
+        "In": [
+          180
+        ],
+        "comparison": [
+          181
+        ],
+        "to": [
+          182,
+          223
+        ],
+        "reported": [
+          185,
+          229
+        ],
+        "settings": [
+          189
+        ],
+        "on": [
+          190
+        ],
+        "Earth": [
+          191
+        ],
+        "Mars,": [
+          193
+        ],
+        "studied": [
+          195,
+          209
+        ],
+        "an": [
+          199
+        ],
+        "ancient": [
+          200
+        ],
+        "setting": [
+          202
+        ],
+        "exhibit": [
+          203
+        ],
+        "characteristics.": [
+          206
+        ],
+        "Specifically,": [
+          207
+        ],
+        "less": [
+          213
+        ],
+        "abundant": [
+          214
+        ],
+        "primarily": [
+          216
+        ],
+        "amalgamated,": [
+          217
+        ],
+        "appear": [
+          222
+        ],
+        "be": [
+          224
+        ],
+        "more": [
+          225
+        ],
+        "mature": [
+          226
+        ],
+        "than": [
+          227
+        ],
+        "those": [
+          228
+        ],
+        "other": [
+          231
+        ],
+        "environments.": [
+          233
+        ],
+        "suggests": [
+          236
+        ],
+        "that": [
+          237
+        ],
+        "weathered": [
+          239
+        ],
+        "basement": [
+          240
+        ],
+        "Arabian": [
+          244
+        ],
+        "Shield": [
+          245
+        ],
+        "primary": [
+          248
+        ],
+        "source": [
+          249
+        ],
+        "iron.": [
+          251
+        ],
+        "iron-bearing": [
+          253
+        ],
+        "eroded": [
+          256
+        ],
+        "transported": [
+          258
+        ],
+        "by": [
+          259
+        ],
+        "Hirnantian": [
+          260
+        ],
+        "glaciation": [
+          261
+        ],
+        "deglaciation": [
+          263
+        ],
+        "processes.": [
+          264
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -6881,7 +8133,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7573,8 +8825,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -8283,8 +9535,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1997639027.pdf",
@@ -9318,8 +10570,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 163,
@@ -9814,8 +11066,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10820,8 +12072,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11197,8 +12449,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 76,

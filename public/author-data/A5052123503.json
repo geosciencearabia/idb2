@@ -610,8 +610,8 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 6,
       "corresponding_author_ids": [
-        "https://openalex.org/A5015584307",
-        "https://openalex.org/A5006480587"
+        "https://openalex.org/A5006480587",
+        "https://openalex.org/A5015584307"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I167576493",
@@ -631,7 +631,7 @@
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.86674508,
+        "value": 0.86663668,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -898,8 +898,15 @@
       ],
       "mesh": [
         {
-          "descriptor_ui": "D059629",
-          "descriptor_name": "Signal-To-Noise Ratio",
+          "descriptor_ui": "D013016",
+          "descriptor_name": "Sound",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D013016",
+          "descriptor_name": "Sound",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -919,18 +926,11 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D059629",
-          "descriptor_name": "Signal-To-Noise Ratio",
+          "descriptor_ui": "D014057",
+          "descriptor_name": "Tomography, X-Ray Computed",
           "qualifier_ui": null,
           "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D013016",
-          "descriptor_name": "Sound",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
+          "is_major_topic": true
         },
         {
           "descriptor_ui": "D014057",
@@ -954,18 +954,18 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D013016",
-          "descriptor_name": "Sound",
+          "descriptor_ui": "D059629",
+          "descriptor_name": "Signal-To-Noise Ratio",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D014057",
-          "descriptor_name": "Tomography, X-Ray Computed",
+          "descriptor_ui": "D059629",
+          "descriptor_name": "Signal-To-Noise Ratio",
           "qualifier_ui": null,
           "qualifier_name": null,
-          "is_major_topic": true
+          "is_major_topic": false
         }
       ],
       "locations_count": 5,
@@ -1038,21 +1038,24 @@
           "landing_page_url": "https://doaj.org/article/672d2cf1207349d98cb88b85df571f3b",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "repository"
+            "type": "journal"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -1699,7 +1702,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2234,8 +2237,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.4300000071525574
         }
       ],
@@ -3470,8 +3473,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.4300000071525574
         }
       ],
@@ -8203,8 +8206,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6899999976158142
         }
       ],
@@ -11507,8 +11510,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.4300000071525574
         }
       ],
@@ -12432,8 +12435,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6600000262260437
         }
       ],
@@ -14876,8 +14879,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.7200000286102295
         }
       ],
@@ -15833,8 +15836,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8199999928474426
         }
       ],
@@ -17381,8 +17384,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8100000023841858
         }
       ],
@@ -19203,8 +19206,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.47999998927116394
         }
       ],
@@ -21056,8 +21059,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6399999856948853
         }
       ],
@@ -21362,8 +21365,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.6299999952316284
         }
       ],

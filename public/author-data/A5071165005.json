@@ -175,7 +175,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000253,
+        "value": 0.0000252,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -192,7 +192,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.000023,
+        "value": 0.0000229,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -209,7 +209,7 @@
       {
         "id": "https://openalex.org/T10271",
         "display_name": "Seismic Imaging and Inversion Techniques",
-        "value": 0.000012,
+        "value": 0.0000119,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -1637,12 +1637,46 @@
             "display_name": "Xin Ju",
             "orcid": "https://orcid.org/0000-0003-4110-7472"
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210095188",
+              "display_name": "Environmental and Water Resources Engineering",
+              "ror": "https://ror.org/00mn2bk17",
+              "country_code": "IL",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210095188"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "IL",
+            "US"
+          ],
+          "is_corresponding": false,
           "raw_author_name": "Xin Ju",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Energy Science and Engineering, Stanford University, Stanford, United States of America"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Energy Science and Engineering, Stanford University, Stanford, United States of America",
+              "institution_ids": [
+                "https://openalex.org/I4210095188",
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1651,12 +1685,34 @@
             "display_name": "François P. Hamon",
             "orcid": "https://orcid.org/0000-0001-8229-963X"
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I103084370",
+              "display_name": "Total (France)",
+              "ror": "https://ror.org/04sk34n56",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I103084370"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "François P. Hamon",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "TotalEnergies E&P Research and Technology USA, Houston, United States of America"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "TotalEnergies E&P Research and Technology USA, Houston, United States of America",
+              "institution_ids": [
+                "https://openalex.org/I103084370"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1665,12 +1721,34 @@
             "display_name": "Gege Wen",
             "orcid": "https://orcid.org/0000-0003-1668-3777"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47508984",
+              "display_name": "Imperial College London",
+              "ror": "https://ror.org/041kmwe10",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Gege Wen",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Earth Science and Engineering Department, Faculty of Engineering, Imperial College, London, United Kingdom"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Science and Engineering Department, Faculty of Engineering, Imperial College, London, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1679,12 +1757,46 @@
             "display_name": "Rayan Kanfar",
             "orcid": "https://orcid.org/0000-0003-4321-5573"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210095188",
+              "display_name": "Environmental and Water Resources Engineering",
+              "ror": "https://ror.org/00mn2bk17",
+              "country_code": "IL",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210095188"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "IL",
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Rayan Kanfar",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Energy Science and Engineering, Stanford University, Stanford, United States of America"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Energy Science and Engineering, Stanford University, Stanford, United States of America",
+              "institution_ids": [
+                "https://openalex.org/I4210095188",
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1693,12 +1805,34 @@
             "display_name": "Mauricio Araya–Polo",
             "orcid": "https://orcid.org/0000-0002-5537-1840"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I103084370",
+              "display_name": "Total (France)",
+              "ror": "https://ror.org/04sk34n56",
+              "country_code": "FR",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I103084370"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mauricio Araya-Polo",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "TotalEnergies E&P Research and Technology USA, Houston, United States of America"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "TotalEnergies E&P Research and Technology USA, Houston, United States of America",
+              "institution_ids": [
+                "https://openalex.org/I103084370"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -1707,21 +1841,57 @@
             "display_name": "Hamdi A. Tchelepi",
             "orcid": "https://orcid.org/0000-0002-3084-6635"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210095188",
+              "display_name": "Environmental and Water Resources Engineering",
+              "ror": "https://ror.org/00mn2bk17",
+              "country_code": "IL",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210095188"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I97018004",
+              "display_name": "Stanford University",
+              "ror": "https://ror.org/00f54p054",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ],
+          "countries": [
+            "IL",
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Hamdi A. Tchelepi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Energy Science and Engineering, Stanford University, Stanford, United States of America"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Energy Science and Engineering, Stanford University, Stanford, United States of America",
+              "institution_ids": [
+                "https://openalex.org/I4210095188",
+                "https://openalex.org/I97018004"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 4,
       "institutions_distinct_count": 6,
       "corresponding_author_ids": [
-        "https://openalex.org/A5036781407"
+        "https://openalex.org/A5047662931"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I103084370"
+      ],
       "apc_list": {
         "value": 3630,
         "currency": "USD",
@@ -1732,7 +1902,7 @@
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.92253165,
+        "value": 0.92192838,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1994,7 +2164,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-22T23:10:17.713674",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {

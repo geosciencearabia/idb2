@@ -986,8 +986,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -1440,7 +1440,7 @@
       "has_fulltext": true,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.94686705,
+        "value": 0.9465936,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1858,21 +1858,24 @@
           "landing_page_url": "https://doaj.org/article/aff794d49607408ab50183c593039556",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "repository"
+            "type": "journal"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -1978,8 +1981,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4388818709.pdf"
@@ -2413,7 +2416,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3000,8 +3003,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -3869,7 +3872,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.96021732,
+        "value": 0.95981079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4247,8 +4250,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 166,
@@ -4443,7 +4446,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-12-21T01:58:51.020947",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4510,12 +4513,34 @@
             "display_name": "Xiaolan Jia",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
           "raw_author_name": "Xiaolan Jia",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -4524,12 +4549,34 @@
             "display_name": "Mohammad Alsuwaidi",
             "orcid": "https://orcid.org/0000-0002-2477-0654"
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "Mohammad Alsuwaidi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University of Science and Technology, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -4538,12 +4585,34 @@
             "display_name": "Daniel Morad",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I123387679",
+              "display_name": "Uppsala University",
+              "ror": "https://ror.org/048a87296",
+              "country_code": "SE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I123387679"
+              ]
+            }
+          ],
+          "countries": [
+            "SE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Daniel Morad",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Petrographica, Vikvagen 82, SE-75655 Uppsala, Sweden"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petrographica, Vikvagen 82, SE-75655 Uppsala, Sweden",
+              "institution_ids": [
+                "https://openalex.org/I123387679"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -4552,12 +4621,34 @@
             "display_name": "Juan Diego Martín Martín",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71999127",
+              "display_name": "Universitat de Barcelona",
+              "ror": "https://ror.org/021018s57",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71999127"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Juan Diego Martín-Martín",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Departament de Mineralogia, Petrologia i Geologia Aplicada, Facultat de Ciències de la Terra, Universitat de Barcelona (UB), c/ Martí i Franquès s/n. 08028, Barcelona, Spain"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Departament de Mineralogia, Petrologia i Geologia Aplicada, Facultat de Ciències de la Terra, Universitat de Barcelona (UB), c/ Martí i Franquès s/n. 08028, Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I71999127"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -4566,12 +4657,64 @@
             "display_name": "Xia Wang",
             "orcid": "https://orcid.org/0000-0002-5256-0611"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I211433327",
+              "display_name": "Ministry of Natural Resources",
+              "ror": "https://ror.org/02kxqx159",
+              "country_code": "CN",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I211433327",
+                "https://openalex.org/I4210127390"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I31595395",
+              "display_name": "Chengdu University of Technology",
+              "ror": "https://ror.org/05pejbw21",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I31595395"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210098205",
+              "display_name": "State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation",
+              "ror": "https://ror.org/00ftbmy59",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210098205"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Xia Wang",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Key Laboratory of Deep-time Geography and Environment Reconstruction and Applications of Ministry of Natural Resources, Chengdu University of Technology, Chengdu 610059, China",
+            "State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation & Institute of Sedimentary Geology, Chengdu University of Technology, Chengdu 610059, China"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Key Laboratory of Deep-time Geography and Environment Reconstruction and Applications of Ministry of Natural Resources, Chengdu University of Technology, Chengdu 610059, China",
+              "institution_ids": [
+                "https://openalex.org/I31595395",
+                "https://openalex.org/I211433327"
+              ]
+            },
+            {
+              "raw_affiliation_string": "State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation & Institute of Sedimentary Geology, Chengdu University of Technology, Chengdu 610059, China",
+              "institution_ids": [
+                "https://openalex.org/I31595395",
+                "https://openalex.org/I4210098205"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -4580,12 +4723,34 @@
             "display_name": "Kate Al Tameemi",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97699614",
+              "display_name": "Abu Dhabi National Oil (United Arab Emirates)",
+              "ror": "https://ror.org/010e8pt90",
+              "country_code": "AE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I97699614"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Kate Al Tameemi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "ADNOC Upstream Subsurface Excellence Division, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ADNOC Upstream Subsurface Excellence Division, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I97699614"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -4594,21 +4759,45 @@
             "display_name": "Bashayer Al Muhairi",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I97699614",
+              "display_name": "Abu Dhabi National Oil (United Arab Emirates)",
+              "ror": "https://ror.org/010e8pt90",
+              "country_code": "AE",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I97699614"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Bashayer Al Muhairi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "ADNOC Upstream Subsurface Excellence Division, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "ADNOC Upstream Subsurface Excellence Division, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I97699614"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 4,
       "institutions_distinct_count": 7,
       "corresponding_author_ids": [
-        "https://openalex.org/A5100580215"
+        "https://openalex.org/A5018306569"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I176601375"
+      ],
       "apc_list": {
         "value": 3070,
         "currency": "USD",
@@ -4619,7 +4808,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.9487557,
+        "value": 0.94831815,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4966,8 +5155,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -5088,7 +5277,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-12-23T23:11:35.936235",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5884,8 +6073,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -6827,8 +7016,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -7660,8 +7849,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -9028,8 +9217,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -10202,8 +10391,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -11042,8 +11231,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -11932,8 +12121,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 124,
@@ -12318,9 +12507,9 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 5,
       "corresponding_author_ids": [
-        "https://openalex.org/A5022931957",
         "https://openalex.org/A5009481606",
         "https://openalex.org/A5018306569",
+        "https://openalex.org/A5022931957",
         "https://openalex.org/A5044402103",
         "https://openalex.org/A5052331702"
       ],
@@ -12341,7 +12530,7 @@
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.94762592,
+        "value": 0.94700752,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12611,29 +12800,8 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D055114",
-          "descriptor_name": "X-Ray Microtomography",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D014479",
-          "descriptor_name": "United Arab Emirates",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D008855",
-          "descriptor_name": "Microscopy, Electron, Scanning",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D002254",
-          "descriptor_name": "Carbonates",
+          "descriptor_ui": "D002119",
+          "descriptor_name": "Calcium Carbonate",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": true
@@ -12646,15 +12814,29 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D055114",
-          "descriptor_name": "X-Ray Microtomography",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": false
+          "descriptor_ui": "D002254",
+          "descriptor_name": "Carbonates",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
         },
         {
-          "descriptor_ui": "D014479",
-          "descriptor_name": "United Arab Emirates",
+          "descriptor_ui": "D002254",
+          "descriptor_name": "Carbonates",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D002254",
+          "descriptor_name": "Carbonates",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D008855",
+          "descriptor_name": "Microscopy, Electron, Scanning",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -12667,24 +12849,10 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D002254",
-          "descriptor_name": "Carbonates",
+          "descriptor_ui": "D008855",
+          "descriptor_name": "Microscopy, Electron, Scanning",
           "qualifier_ui": null,
           "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D002119",
-          "descriptor_name": "Calcium Carbonate",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D055114",
-          "descriptor_name": "X-Ray Microtomography",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
           "is_major_topic": false
         },
         {
@@ -12695,18 +12863,39 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D008855",
-          "descriptor_name": "Microscopy, Electron, Scanning",
+          "descriptor_ui": "D014479",
+          "descriptor_name": "United Arab Emirates",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D002254",
-          "descriptor_name": "Carbonates",
+          "descriptor_ui": "D014479",
+          "descriptor_name": "United Arab Emirates",
           "qualifier_ui": null,
           "qualifier_name": null,
-          "is_major_topic": true
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D055114",
+          "descriptor_name": "X-Ray Microtomography",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D055114",
+          "descriptor_name": "X-Ray Microtomography",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D055114",
+          "descriptor_name": "X-Ray Microtomography",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": false
         }
       ],
       "locations_count": 4,
@@ -12808,21 +12997,24 @@
           "landing_page_url": "https://doaj.org/article/4dd90660e75a482cab2d6405133f3145",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "repository"
+            "type": "journal"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -12886,8 +13078,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391640940.pdf",
@@ -13503,7 +13695,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13568,14 +13760,71 @@
           "author": {
             "id": "https://openalex.org/A5081766026",
             "display_name": "Abdulquadri O. Alabere",
-            "orcid": "https://orcid.org/0000-0002-1015-1094"
+            "orcid": null
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I20303223",
+              "display_name": "BP (United Kingdom)",
+              "ror": "https://ror.org/01zctcs90",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I20303223"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I32062511",
+              "display_name": "Heriot-Watt University",
+              "ror": "https://ror.org/04mghma93",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I32062511"
+              ]
+            }
+          ],
+          "countries": [
+            "AE",
+            "GB"
+          ],
+          "is_corresponding": false,
           "raw_author_name": "Abdulquadri O. Alabere",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "BP International Limited, Chertsey Road, Sundbury-On-Thames, Surrey, TW16 7LN, London, United Kingdom",
+            "Department of Earth Sciences, Khalifa University, Abu Dhabi P.O. Box 127788, United Arab Emirates",
+            "School of Energy, Geoscience, Infrastructure and Society, Heriot-Watt University, Edinburgh, EH14 4AS, United Kingdom"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BP International Limited, Chertsey Road, Sundbury-On-Thames, Surrey, TW16 7LN, London, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I20303223"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi P.O. Box 127788, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Energy, Geoscience, Infrastructure and Society, Heriot-Watt University, Edinburgh, EH14 4AS, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I32062511"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -13584,12 +13833,34 @@
             "display_name": "Mohamed Soufiane Jouini",
             "orcid": "https://orcid.org/0000-0001-9741-0636"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mohamed Soufiane Jouini",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Mathematics, Khalifa University, Abu Dhabi P.O. Box 127788, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Mathematics, Khalifa University, Abu Dhabi P.O. Box 127788, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -13598,12 +13869,34 @@
             "display_name": "Mohammad Alsuwaidi",
             "orcid": "https://orcid.org/0000-0002-2477-0654"
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "Mohammad Alsuwaidi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University, Abu Dhabi P.O. Box 127788, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi P.O. Box 127788, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -13612,12 +13905,34 @@
             "display_name": "Daniel Morad",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I123387679",
+              "display_name": "Uppsala University",
+              "ror": "https://ror.org/048a87296",
+              "country_code": "SE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I123387679"
+              ]
+            }
+          ],
+          "countries": [
+            "SE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Daniel Morad",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Petrographica, Vikvagen 82, SE-75655, Uppsala, Sweden"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petrographica, Vikvagen 82, SE-75655, Uppsala, Sweden",
+              "institution_ids": [
+                "https://openalex.org/I123387679"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -13626,12 +13941,52 @@
             "display_name": "Fadi H. Nader",
             "orcid": "https://orcid.org/0000-0002-4379-0175"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I193662353",
+              "display_name": "Utrecht University",
+              "ror": "https://ror.org/04pp8hn57",
+              "country_code": "NL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I193662353"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I265217849",
+              "display_name": "IFP Énergies nouvelles",
+              "ror": "https://ror.org/03gcbhc33",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I265217849"
+              ]
+            }
+          ],
+          "countries": [
+            "FR",
+            "NL"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Fadi H. Nader",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Utrecht University, Utrecht, the Netherlands",
+            "IFP Energy Nouvelles, 1-4 Av. De Bois-Preau, 92852, Ruiel-Malmaison, France"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Utrecht University, Utrecht, the Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I193662353"
+              ]
+            },
+            {
+              "raw_affiliation_string": "IFP Energy Nouvelles, 1-4 Av. De Bois-Preau, 92852, Ruiel-Malmaison, France",
+              "institution_ids": [
+                "https://openalex.org/I265217849"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -13640,12 +13995,34 @@
             "display_name": "Fateh Bouchala",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Fateh Bouchalaa",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University, Abu Dhabi P.O. Box 127788, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi P.O. Box 127788, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -13654,12 +14031,34 @@
             "display_name": "Emad W. Al-Shalabi",
             "orcid": "https://orcid.org/0000-0003-2055-1398"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Emad W. Al-Shalabi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, Khalifa University, PO Box 127788, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, Khalifa University, PO Box 127788, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -13668,21 +14067,46 @@
             "display_name": "Osama Al Jallad",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I36527812",
+              "display_name": "Halliburton (United Kingdom)",
+              "ror": "https://ror.org/01jn7ba52",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I36527812",
+                "https://openalex.org/I4210137549"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Osama Al Jallad",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Former Ingrain A Halliburton Service, Mussafah, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Former Ingrain A Halliburton Service, Mussafah, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I36527812"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 5,
       "institutions_distinct_count": 8,
       "corresponding_author_ids": [
-        "https://openalex.org/A5081766026"
+        "https://openalex.org/A5018306569"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I176601375"
+      ],
       "apc_list": {
         "value": 3490,
         "currency": "USD",
@@ -13693,7 +14117,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.86535531,
+        "value": 0.8642406,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14152,8 +14576,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -14273,7 +14697,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2025-12-22T23:10:17.713674",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14968,8 +15392,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -16083,8 +16507,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -16930,8 +17354,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4393031684.pdf"
@@ -17812,7 +18236,7 @@
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.6682616,
+        "value": 0.66749299,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18192,25 +18616,28 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:07261e89759f4bc08842bfea90c432d8",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doaj.org/article/07261e89759f4bc08842bfea90c432d8",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "repository"
+            "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -18301,8 +18728,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4377293771.pdf"
@@ -18760,7 +19187,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-01-26T23:06:41.788003",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18948,16 +19375,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -18965,6 +19382,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
               ]
             }
           ],
@@ -18996,16 +19423,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210118538",
-              "display_name": "University of Petroleum",
-              "ror": "https://ror.org/02em1tr51",
-              "country_code": "ID",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210118538"
-              ]
-            },
-            {
               "id": "https://openalex.org/I134085113",
               "display_name": "King Fahd University of Petroleum and Minerals",
               "ror": "https://ror.org/03yez3163",
@@ -19013,6 +19430,16 @@
               "type": "education",
               "lineage": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
               ]
             }
           ],
@@ -19127,7 +19554,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.96070803,
+        "value": 0.96026629,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -19470,8 +19897,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 89,
@@ -19589,7 +20016,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-26T23:06:41.788003",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20264,18 +20691,21 @@
           "landing_page_url": "https://doaj.org/article/af4f9df1edd14c2fa14a59be13a5b39c",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "repository"
+            "type": "journal"
           },
           "license": "cc-by-sa",
           "license_id": "https://openalex.org/licenses/cc-by-sa",
@@ -20358,8 +20788,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3182053178.pdf",
@@ -20849,7 +21279,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21558,8 +21988,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4324044724.pdf"
@@ -21779,14 +22209,36 @@
           "author": {
             "id": "https://openalex.org/A5041641220",
             "display_name": "Ahmed Abdeldaim",
-            "orcid": "https://orcid.org/0000-0002-1869-8131"
+            "orcid": null
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I189575948",
+              "display_name": "South Valley University",
+              "ror": "https://ror.org/00jxshx33",
+              "country_code": "EG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I189575948"
+              ]
+            }
+          ],
+          "countries": [
+            "EG"
+          ],
+          "is_corresponding": false,
           "raw_author_name": "Ahmed Abdeldaim",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geology Department, Faculty of Science, South Valley University, 83523 Qena, Egypt"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Department, Faculty of Science, South Valley University, 83523 Qena, Egypt",
+              "institution_ids": [
+                "https://openalex.org/I189575948"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -21795,12 +22247,34 @@
             "display_name": "Sherif Farouk",
             "orcid": "https://orcid.org/0000-0003-1133-7461"
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I88126159",
+              "display_name": "Egyptian Petroleum Research Institute",
+              "ror": "https://ror.org/044panr52",
+              "country_code": "EG",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I88126159"
+              ]
+            }
+          ],
+          "countries": [
+            "EG"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "Sherif Farouk",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Exploration Department, Egyptian Petroleum Research Institute, Nasr City 11727, Egypt"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Exploration Department, Egyptian Petroleum Research Institute, Nasr City 11727, Egypt",
+              "institution_ids": [
+                "https://openalex.org/I88126159"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -21809,26 +22283,70 @@
             "display_name": "Wolfgang Ruebsam",
             "orcid": "https://orcid.org/0000-0003-3952-7830"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I32021983",
+              "display_name": "Christian-Albrechts-Universität zu Kiel",
+              "ror": "https://ror.org/04v76ef78",
+              "country_code": "DE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I32021983"
+              ]
+            }
+          ],
+          "countries": [
+            "DE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Wolfgang Ruebsam",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Organic and Isotope Geochemistry, Institute of Geoscience, University of Kiel, Kiel, Germany"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Organic and Isotope Geochemistry, Institute of Geoscience, University of Kiel, Kiel, Germany",
+              "institution_ids": [
+                "https://openalex.org/I32021983"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5001905156",
             "display_name": "Zaineb Elamri",
-            "orcid": "https://orcid.org/0000-0002-1616-6078"
+            "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I55167344",
+              "display_name": "University of Kairouan",
+              "ror": "https://ror.org/024mpte60",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I55167344"
+              ]
+            }
+          ],
+          "countries": [
+            "TN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Zaineb Elamri",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Institute of Arts and Crafts, University of Kairouan, Kasserine, Tunisia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Arts and Crafts, University of Kairouan, Kasserine, Tunisia",
+              "institution_ids": [
+                "https://openalex.org/I55167344"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -21837,12 +22355,34 @@
             "display_name": "Mohammad Alsuwaidi",
             "orcid": "https://orcid.org/0000-0002-2477-0654"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I176601375",
+              "display_name": "Khalifa University of Science and Technology",
+              "ror": "https://ror.org/05hffr360",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mohammad Alsuwaidi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Khalifa University, Abu Dhabi, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I176601375"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -21851,21 +22391,45 @@
             "display_name": "Khaled Al-Kahtany",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I28022161",
+              "display_name": "King Saud University",
+              "ror": "https://ror.org/02f81g417",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28022161"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Khaled Al-Kahtany",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geology and Geophysics Department, College of Science, King Saud University, Riyadh, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology and Geophysics Department, College of Science, King Saud University, Riyadh, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I28022161"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 5,
       "institutions_distinct_count": 6,
       "corresponding_author_ids": [
-        "https://openalex.org/A5041641220"
+        "https://openalex.org/A5004740184"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I88126159"
+      ],
       "apc_list": {
         "value": 3080,
         "currency": "USD",
@@ -21876,7 +22440,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.91869141,
+        "value": 0.91739197,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -22144,8 +22708,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 105,
@@ -22275,7 +22839,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-12-21T01:58:51.020947",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22951,8 +23515,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 115,
@@ -24171,8 +24735,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 86,
@@ -25684,8 +26248,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 130,
@@ -26459,8 +27023,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -27762,8 +28326,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28435,8 +28999,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2890054025.pdf",
@@ -29758,8 +30322,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -31295,8 +31859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32449,8 +33013,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33397,8 +33961,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33948,8 +34512,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -34811,8 +35375,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4311692305.pdf",
@@ -35592,8 +36156,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386256654.pdf"
@@ -36537,8 +37101,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -37880,8 +38444,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -39038,8 +39602,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 107,
@@ -39439,8 +40003,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -40632,8 +41196,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 95,
@@ -40970,8 +41534,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41282,8 +41846,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

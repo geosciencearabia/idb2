@@ -875,8 +875,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -893,8 +893,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -1384,8 +1384,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -1789,7 +1789,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.76628608,
+        "value": 0.763666,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2085,18 +2085,25 @@
       ],
       "mesh": [
         {
-          "descriptor_ui": "D019015",
-          "descriptor_name": "Geologic Sediments",
-          "qualifier_ui": "Q000032",
-          "qualifier_name": "analysis",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D016571",
-          "descriptor_name": "Neural Networks, Computer",
+          "descriptor_ui": "D000098432",
+          "descriptor_name": "Detection Algorithms",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000098432",
+          "descriptor_name": "Detection Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D000465",
+          "descriptor_name": "Algorithms",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
         },
         {
           "descriptor_ui": "D000465",
@@ -2113,8 +2120,22 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D000098432",
-          "descriptor_name": "Detection Algorithms",
+          "descriptor_ui": "D007091",
+          "descriptor_name": "Image Processing, Computer-Assisted",
+          "qualifier_ui": "Q000379",
+          "qualifier_name": "methods",
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D016571",
+          "descriptor_name": "Neural Networks, Computer",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D016571",
+          "descriptor_name": "Neural Networks, Computer",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -2127,32 +2148,11 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D016571",
-          "descriptor_name": "Neural Networks, Computer",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D000465",
-          "descriptor_name": "Algorithms",
-          "qualifier_ui": null,
-          "qualifier_name": null,
+          "descriptor_ui": "D019015",
+          "descriptor_name": "Geologic Sediments",
+          "qualifier_ui": "Q000032",
+          "qualifier_name": "analysis",
           "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D007091",
-          "descriptor_name": "Image Processing, Computer-Assisted",
-          "qualifier_ui": "Q000379",
-          "qualifier_name": "methods",
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D000098432",
-          "descriptor_name": "Detection Algorithms",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
         }
       ],
       "locations_count": 4,
@@ -2225,21 +2225,24 @@
           "landing_page_url": "https://doaj.org/article/6a4f94e65b8e47c894a9acbb06e6a1bb",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "repository"
+            "type": "journal"
           },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -2312,15 +2315,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -2881,7 +2884,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3572,8 +3575,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -3585,8 +3588,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 40,
@@ -4215,15 +4218,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -5056,8 +5059,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 58,
@@ -5523,15 +5526,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -6247,8 +6250,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -6876,8 +6879,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -6889,8 +6892,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -7447,8 +7450,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -7460,8 +7463,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -7973,8 +7976,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -8598,8 +8601,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 48,
@@ -9120,8 +9123,8 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9133,8 +9136,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -9643,8 +9646,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -10187,8 +10190,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11288,15 +11291,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -12638,8 +12641,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -13014,8 +13017,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13518,8 +13521,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -14525,8 +14528,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14910,8 +14913,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15311,8 +15314,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15692,8 +15695,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15966,8 +15969,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16293,15 +16296,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16752,15 +16755,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18110,8 +18113,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18511,15 +18514,15 @@
       "sustainable_development_goals": [
         {
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19393,7 +19396,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.39039602,
+        "value": 0.38757826,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19548,25 +19551,28 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:6a58a1f771004793b01293a18b1edae5",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doaj.org/article/6a58a1f771004793b01293a18b1edae5",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
+            "id": "https://openalex.org/S112646816",
+            "display_name": "SHILAP Revista de lepidopterología",
+            "issn_l": "0300-5267",
+            "issn": [
+              "0300-5267",
+              "2340-4078"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
             "is_core": false,
             "host_organization": null,
             "host_organization_name": null,
             "host_organization_lineage": [],
             "host_organization_lineage_names": [],
-            "type": "repository"
+            "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -19642,8 +19648,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415407716.pdf"
@@ -19688,526 +19694,9 @@
         "https://openalex.org/W4409462518"
       ],
       "related_works": [],
-      "abstract_inverted_index": {
-        "Core-based": [
-          0
-        ],
-        "data": [
-          1
-        ],
-        "provide": [
-          2,
-          193
-        ],
-        "critical": [
-          3
-        ],
-        "insights": [
-          4,
-          194
-        ],
-        "into": [
-          5
-        ],
-        "subsurface": [
-          6
-        ],
-        "reservoir": [
-          7,
-          65,
-          91,
-          201
-        ],
-        "characterization": [
-          8
-        ],
-        "by": [
-          9,
-          28
-        ],
-        "offering": [
-          10
-        ],
-        "direct": [
-          11
-        ],
-        "observations": [
-          12
-        ],
-        "of": [
-          13,
-          41,
-          75,
-          98,
-          169,
-          178
-        ],
-        "rock": [
-          14
-        ],
-        "formations,": [
-          15
-        ],
-        "including": [
-          16
-        ],
-        "lithology,": [
-          17
-        ],
-        "sedimentary": [
-          18,
-          156
-        ],
-        "structures,": [
-          19
-        ],
-        "and": [
-          20,
-          37,
-          72,
-          132,
-          158,
-          182
-        ],
-        "minerals.": [
-          21
-        ],
-        "However,": [
-          22
-        ],
-        "core": [
-          23,
-          76,
-          84,
-          104,
-          180
-        ],
-        "analysis": [
-          24
-        ],
-        "is": [
-          25,
-          61
-        ],
-        "frequently": [
-          26
-        ],
-        "compromised": [
-          27
-        ],
-        "missing": [
-          29,
-          83
-        ],
-        "intervals": [
-          30,
-          131
-        ],
-        "resulting": [
-          31
-        ],
-        "from": [
-          32
-        ],
-        "extraction": [
-          33
-        ],
-        "damage,": [
-          34
-        ],
-        "handling": [
-          35,
-          142
-        ],
-        "losses,": [
-          36
-        ],
-        "the": [
-          38,
-          68,
-          96,
-          167,
-          176,
-          183,
-          187
-        ],
-        "common": [
-          39
-        ],
-        "practice": [
-          40
-        ],
-        "drilling": [
-          42
-        ],
-        "inch-size": [
-          43
-        ],
-        "plugs": [
-          44
-        ],
-        "for": [
-          45,
-          63,
-          81,
-          103,
-          195
-        ],
-        "laboratory": [
-          46
-        ],
-        "analysis.": [
-          47
-        ],
-        "These": [
-          48
-        ],
-        "gaps": [
-          49
-        ],
-        "create": [
-          50
-        ],
-        "significant": [
-          51
-        ],
-        "interpretation": [
-          52
-        ],
-        "challenges,": [
-          53
-        ],
-        "particularly": [
-          54
-        ],
-        "in": [
-          55,
-          90,
-          112,
-          128,
-          141,
-          154,
-          164
-        ],
-        "heterogeneous": [
-          56,
-          144
-        ],
-        "formations": [
-          57
-        ],
-        "where": [
-          58
-        ],
-        "spatial": [
-          59
-        ],
-        "continuity": [
-          60
-        ],
-        "essential": [
-          62
-        ],
-        "accurate": [
-          64
-        ],
-        "modeling.": [
-          66
-        ],
-        "Given": [
-          67
-        ],
-        "high": [
-          69
-        ],
-        "operational": [
-          70
-        ],
-        "costs": [
-          71
-        ],
-        "strategic": [
-          73
-        ],
-        "value": [
-          74
-        ],
-        "data,": [
-          77
-        ],
-        "developing": [
-          78
-        ],
-        "reliable": [
-          79
-        ],
-        "methods": [
-          80,
-          191
-        ],
-        "reconstructing": [
-          82,
-          129
-        ],
-        "sections": [
-          85
-        ],
-        "represents": [
-          86
-        ],
-        "a": [
-          87
-        ],
-        "crucial": [
-          88
-        ],
-        "advancement": [
-          89
-        ],
-        "evaluation.": [
-          92
-        ],
-        "This": [
-          93
-        ],
-        "study": [
-          94
-        ],
-        "investigates": [
-          95
-        ],
-        "application": [
-          97
-        ],
-        "Stable": [
-          99
-        ],
-        "Diffusion": [
-          100
-        ],
-        "Model": [
-          101
-        ],
-        "(SDM)": [
-          102
-        ],
-        "interval/plug": [
-          105
-        ],
-        "reconstruction,": [
-          106
-        ],
-        "building": [
-          107
-        ],
-        "on": [
-          108
-        ],
-        "its": [
-          109,
-          139
-        ],
-        "proven": [
-          110
-        ],
-        "success": [
-          111
-        ],
-        "conditioned": [
-          113
-        ],
-        "image": [
-          114
-        ],
-        "inpainting": [
-          115
-        ],
-        "tasks.": [
-          116
-        ],
-        "Through": [
-          117
-        ],
-        "systematic": [
-          118
-        ],
-        "evaluation": [
-          119
-        ],
-        "across": [
-          120
-        ],
-        "diverse": [
-          121
-        ],
-        "depositional": [
-          122
-        ],
-        "environments,": [
-          123
-        ],
-        "we": [
-          124
-        ],
-        "demonstrate": [
-          125
-        ],
-        "SDM's": [
-          126
-        ],
-        "effectiveness": [
-          127
-        ],
-        "homogeneous": [
-          130
-        ],
-        "gradual": [
-          133
-        ],
-        "facies": [
-          134,
-          148,
-          171
-        ],
-        "transition": [
-          135
-        ],
-        "zones,": [
-          136
-        ],
-        "while": [
-          137
-        ],
-        "testing": [
-          138
-        ],
-        "limitations": [
-          140
-        ],
-        "complex": [
-          143
-        ],
-        "zones": [
-          145
-        ],
-        "with": [
-          146,
-          186
-        ],
-        "abrupt": [
-          147
-        ],
-        "changes.": [
-          149
-        ],
-        "The": [
-          150
-        ],
-        "model": [
-          151
-        ],
-        "shows": [
-          152
-        ],
-        "strengths": [
-          153
-        ],
-        "restoring": [
-          155
-        ],
-        "textures": [
-          157
-        ],
-        "bedding": [
-          159
-        ],
-        "architectures": [
-          160
-        ],
-        "but": [
-          161
-        ],
-        "faces": [
-          162
-        ],
-        "challenges": [
-          163
-        ],
-        "accurately": [
-          165
-        ],
-        "predicting": [
-          166
-        ],
-        "locations": [
-          168
-        ],
-        "sharp": [
-          170
-        ],
-        "boundaries.": [
-          172
-        ],
-        "Our": [
-          173
-        ],
-        "approach": [
-          174
-        ],
-        "enhances": [
-          175
-        ],
-        "utility": [
-          177
-        ],
-        "incomplete": [
-          179
-        ],
-        "images,": [
-          181
-        ],
-        "findings": [
-          184
-        ],
-        "along": [
-          185
-        ],
-        "proposed": [
-          188
-        ],
-        "potential": [
-          189
-        ],
-        "improvement": [
-          190
-        ],
-        "may": [
-          192
-        ],
-        "other": [
-          196
-        ],
-        "researchers": [
-          197
-        ],
-        "to": [
-          198
-        ],
-        "further": [
-          199
-        ],
-        "reduce": [
-          200
-        ],
-        "assessment": [
-          202
-        ],
-        "uncertainties.": [
-          203
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-22T00:00:00"
     }
   ]

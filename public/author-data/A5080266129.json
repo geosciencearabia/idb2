@@ -384,7 +384,7 @@
           "author": {
             "id": "https://openalex.org/A5067104728",
             "display_name": "Muhammad Naveed Butt",
-            "orcid": "https://orcid.org/0000-0002-1699-7429"
+            "orcid": null
           },
           "institutions": [
             {
@@ -564,7 +564,7 @@
           "author": {
             "id": "https://openalex.org/A5009697450",
             "display_name": "Muhammad Hammad Malik",
-            "orcid": "https://orcid.org/0000-0002-9451-0188"
+            "orcid": null
           },
           "institutions": [
             {
@@ -635,8 +635,8 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -694,7 +694,7 @@
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.97474934,
+        "value": 0.97449279,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -994,8 +994,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -1111,7 +1111,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-01-21T23:30:37.877113",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1178,12 +1178,34 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Abdulwahab M. Bello",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1192,12 +1214,34 @@
             "display_name": "Musa Bappah Usman",
             "orcid": "https://orcid.org/0000-0001-9989-6115"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Musa B. Usman",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1206,26 +1250,77 @@
             "display_name": "Abduljamiu O. Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abduljamiu O. Amao",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1234,12 +1329,34 @@
             "display_name": "Murtada Al-Hashem",
             "orcid": "https://orcid.org/0009-0005-4916-7930"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Murtada Al-Hashem",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1248,12 +1365,34 @@
             "display_name": "Kachalla Aliyuda",
             "orcid": "https://orcid.org/0000-0003-1738-1287"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Aliyuda Kachalla",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1262,12 +1401,64 @@
             "display_name": "Usman Abubakar",
             "orcid": "https://orcid.org/0000-0003-0203-0038"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I116953780",
+              "display_name": "Tongji University",
+              "ror": "https://ror.org/03rc6as71",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116953780"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4391767744",
+              "display_name": "State Key Laboratory of Marine Geology",
+              "ror": "https://ror.org/02bxj9z30",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I116953780",
+                "https://openalex.org/I4391767744"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Usman Abubakar",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+            "State Key Laboratory of Marine Geology, School of Ocean and Earth Science, Tongji University, Shanghai, 200092, China"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            },
+            {
+              "raw_affiliation_string": "State Key Laboratory of Marine Geology, School of Ocean and Earth Science, Tongji University, Shanghai, 200092, China",
+              "institution_ids": [
+                "https://openalex.org/I116953780",
+                "https://openalex.org/I4391767744"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1276,12 +1467,34 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Anas M. Salisu",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1290,12 +1503,34 @@
             "display_name": "Shehu Mukkafa",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387156178",
+              "display_name": "Federal University Dutse",
+              "ror": "https://ror.org/0278jft56",
+              "country_code": null,
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4387156178"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Shehu Mukkafa",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I4387156178"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1304,40 +1539,106 @@
             "display_name": "Ibrahim Abdulkarim Kwami",
             "orcid": "https://orcid.org/0000-0001-6771-3505"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Ibrahim A. Kwami",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5023943770",
             "display_name": "Oluwafemi E. Aro",
-            "orcid": "https://orcid.org/0000-0003-0646-0553"
+            "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210092225",
+              "display_name": "ET Enterprises (United Kingdom)",
+              "ror": "https://ror.org/00hsg6w24",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210092225"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Oluwafemi E. Aro",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Chemostrat Ltd., 1 Ravenscroft Court, Buttington Enterprise Park, Welshpool, SY21 8SL, United Kingdom"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Chemostrat Ltd., 1 Ravenscroft Court, Buttington Enterprise Park, Welshpool, SY21 8SL, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I4210092225"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5067104728",
             "display_name": "Muhammad Naveed Butt",
-            "orcid": "https://orcid.org/0000-0002-1699-7429"
+            "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Muhammad Naveed Butt",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1346,12 +1647,34 @@
             "display_name": "Abubakar Sadiq Maigari",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I169864488",
+              "display_name": "Abubakar Tafawa Balewa University",
+              "ror": "https://ror.org/019vfke14",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abubakar S. Maigari",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1360,12 +1683,34 @@
             "display_name": "Abubakar Yusuf",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abubakar Yusuf",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1374,12 +1719,34 @@
             "display_name": "Lukman U. Chiroma",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Lukman U. Chiroma",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -1388,21 +1755,45 @@
             "display_name": "Olumuyiwa T. Akinsanpe",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45711476",
+              "display_name": "Obafemi Awolowo University",
+              "ror": "https://ror.org/04snhqa82",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I45711476"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Olumuyiwa T. Akinsanpe",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Obafemi Awolowo University, Ile Ife, Osun State, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Obafemi Awolowo University, Ile Ife, Osun State, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I45711476"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 4,
       "institutions_distinct_count": 16,
       "corresponding_author_ids": [
         "https://openalex.org/A5014657720"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": {
         "value": 3490,
         "currency": "USD",
@@ -1413,7 +1804,7 @@
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.98311951,
+        "value": 0.98289444,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1643,8 +2034,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426
         }
       ],
@@ -1821,7 +2212,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1888,12 +2279,34 @@
             "display_name": "Abdulwahab Muhammad Bello",
             "orcid": "https://orcid.org/0000-0002-4637-9883"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Abdulwahab M. Bello",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1902,12 +2315,34 @@
             "display_name": "Musa Bappah Usman",
             "orcid": "https://orcid.org/0000-0001-9989-6115"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Musa B. Usman",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1916,12 +2351,34 @@
             "display_name": "Abduljamiu O. Amao",
             "orcid": "https://orcid.org/0000-0001-8203-851X"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abduljamiu O. Amao",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1930,26 +2387,77 @@
             "display_name": "Anas Muhammad Salisu",
             "orcid": "https://orcid.org/0009-0002-6134-0511"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Anas M. Salisu",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1958,12 +2466,46 @@
             "display_name": "Usman Abubakar",
             "orcid": "https://orcid.org/0000-0003-0203-0038"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I116953780",
+              "display_name": "Tongji University",
+              "ror": "https://ror.org/03rc6as71",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116953780"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4391767744",
+              "display_name": "State Key Laboratory of Marine Geology",
+              "ror": "https://ror.org/02bxj9z30",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I116953780",
+                "https://openalex.org/I4391767744"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Usman Abubakar",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "State Key Laboratory of Marine Geology, School of Ocean and Earth Science, Tongji University, Shanghai, 200092, China"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "State Key Laboratory of Marine Geology, School of Ocean and Earth Science, Tongji University, Shanghai, 200092, China",
+              "institution_ids": [
+                "https://openalex.org/I116953780",
+                "https://openalex.org/I4391767744"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1972,12 +2514,34 @@
             "display_name": "Shehu Mukkafa",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4387156178",
+              "display_name": "Federal University Dutse",
+              "ror": "https://ror.org/0278jft56",
+              "country_code": null,
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4387156178"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Shehu Mukkafa",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Environmental Management and Toxicology, Federal University Dutse, Dutse, Jigawa, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I4387156178"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -1986,12 +2550,34 @@
             "display_name": "Ibrahim Abdulkarim Kwami",
             "orcid": "https://orcid.org/0000-0001-6771-3505"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Ibrahim A. Kwami",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2000,12 +2586,34 @@
             "display_name": "Lukman U. Chiroma",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Lukman U. Chiroma",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2014,12 +2622,34 @@
             "display_name": "Murtada Al-Hashem",
             "orcid": "https://orcid.org/0009-0005-4916-7930"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Murtada Al-Hashem",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2028,12 +2658,34 @@
             "display_name": "Abubakar Yusuf",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abubakar Yusuf",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2042,12 +2694,34 @@
             "display_name": "Abubakar Sadiq Maigari",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I169864488",
+              "display_name": "Abubakar Tafawa Balewa University",
+              "ror": "https://ror.org/019vfke14",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abubakar S. Maigari",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2056,26 +2730,70 @@
             "display_name": "Kachalla Aliyuda",
             "orcid": "https://orcid.org/0000-0003-1738-1287"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I876237426",
+              "display_name": "Gombe State University",
+              "ror": "https://ror.org/04fbh1w34",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Aliyuda Kachalla",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Gombe State University, Tudun Wada, P.M.B 127, Gombe, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I876237426"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5023943770",
             "display_name": "Oluwafemi E. Aro",
-            "orcid": "https://orcid.org/0000-0003-0646-0553"
+            "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210092225",
+              "display_name": "ET Enterprises (United Kingdom)",
+              "ror": "https://ror.org/00hsg6w24",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210092225"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Oluwafemi E. Aro",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Chemostrat Ltd., 1 Ravenscroft Court, Buttington Enterprise Park, Welshpool, SY21 8SL, United Kingdom"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Chemostrat Ltd., 1 Ravenscroft Court, Buttington Enterprise Park, Welshpool, SY21 8SL, United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I4210092225"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2084,12 +2802,34 @@
             "display_name": "Muhammad Azzam Ismail",
             "orcid": "https://orcid.org/0000-0002-5341-7374"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I169864488",
+              "display_name": "Abubakar Tafawa Balewa University",
+              "ror": "https://ror.org/019vfke14",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Muhammad A. Ismai'l",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -2098,12 +2838,34 @@
             "display_name": "Umar S. Umar",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I169864488",
+              "display_name": "Abubakar Tafawa Balewa University",
+              "ror": "https://ror.org/019vfke14",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Umar S. Umar",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geology Programme, Abubakar Tafawa Balewa University, PMB 0248, Bauchi, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I169864488"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -2112,21 +2874,45 @@
             "display_name": "Olumuyiwa T. Akinsanpe",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I45711476",
+              "display_name": "Obafemi Awolowo University",
+              "ror": "https://ror.org/04snhqa82",
+              "country_code": "NG",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I45711476"
+              ]
+            }
+          ],
+          "countries": [
+            "NG"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Olumuyiwa T. Akinsanpe",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Department of Geology, Obafemi Awolowo University, Ile Ife, Osun State, Nigeria"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Obafemi Awolowo University, Ile Ife, Osun State, Nigeria",
+              "institution_ids": [
+                "https://openalex.org/I45711476"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 4,
       "institutions_distinct_count": 17,
       "corresponding_author_ids": [
         "https://openalex.org/A5014657720"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": {
         "value": 3490,
         "currency": "USD",
@@ -2137,7 +2923,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.91757808,
+        "value": 0.91667606,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2557,7 +3343,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-12-21T01:58:51.020947",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2024-11-28T00:00:00"
     },
     {
@@ -2770,6 +3556,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I116953780",
+              "display_name": "Tongji University",
+              "ror": "https://ror.org/03rc6as71",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I116953780"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767744",
               "display_name": "State Key Laboratory of Marine Geology",
               "ror": "https://ror.org/02bxj9z30",
@@ -2778,16 +3574,6 @@
               "lineage": [
                 "https://openalex.org/I116953780",
                 "https://openalex.org/I4391767744"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I116953780",
-              "display_name": "Tongji University",
-              "ror": "https://ror.org/03rc6as71",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I116953780"
               ]
             },
             {
@@ -2867,8 +3653,8 @@
           "author_position": "middle",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -3055,7 +3841,7 @@
           "author": {
             "id": "https://openalex.org/A5109617590",
             "display_name": "M.B. Abubakar",
-            "orcid": "https://orcid.org/0000-0002-7794-4435"
+            "orcid": null
           },
           "institutions": [
             {
@@ -3178,7 +3964,7 @@
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.96132532,
+        "value": 0.96098079,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3456,8 +4242,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -3614,7 +4400,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-01-22T23:29:09.771500",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3771,18 +4557,18 @@
           "is_corresponding": false,
           "raw_author_name": "Abdullah Alqubalee",
           "raw_affiliation_strings": [
-            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
             },
             {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -3901,8 +4687,8 @@
           "author_position": "last",
           "author": {
             "id": "https://openalex.org/A5085007251",
-            "display_name": "Khalid Al–Ramadan",
-            "orcid": "https://orcid.org/0000-0002-4872-6201"
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
           },
           "institutions": [
             {
@@ -3961,7 +4747,7 @@
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.91229548,
+        "value": 0.9113183,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4153,8 +4939,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716
         }
       ],
@@ -4263,7 +5049,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5716,8 +6502,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4099999964237213
         }
       ],
