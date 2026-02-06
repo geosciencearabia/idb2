@@ -7609,7 +7609,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-01-16",
     "year": 2017,
     "venue": "International Geology Review",
-    "citations": 188,
+    "citations": 189,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -7705,7 +7705,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-12-19",
     "year": 2018,
     "venue": "Geochemistry Geophysics Geosystems",
-    "citations": 185,
+    "citations": 186,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -7819,7 +7819,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-11-17",
     "year": 2020,
     "venue": "Geochemistry Geophysics Geosystems",
-    "citations": 94,
+    "citations": 95,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -8727,45 +8727,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4392659943",
-    "doi": "https://doi.org/10.1016/j.jsg.2024.105105",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5100637085",
-      "A5020724652",
-      "A5052716474",
-      "A5060484107",
-      "A5101316414"
-    ],
-    "firstAuthorLastName": "Li",
-    "allAuthors": [
-      "Xiaofan Li",
-      "Han Zheng",
-      "Huan Li",
-      "Scott Whattam",
-      "Wei Pi",
-      "Linlin Zeng"
-    ],
-    "title": "Finite strain, kinematic vorticity, rheological behavior and thermochronology of the Diancang Shan complex: Insights into channel flow of the southeastern Tibetan plateau",
-    "publicationDate": "2024-03-11",
-    "year": 2024,
-    "venue": "Journal of Structural Geology",
-    "citations": 2,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Central South University",
-      "Northwest University",
-      "State Key Laboratory of Continental Dynamics",
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W1518117129",
     "doi": "https://doi.org/10.1029/2007gc001710",
     "program": "",
@@ -9627,6 +9588,45 @@ export const worksTable: WorkTableRecord[] = [
       "Groundwater and Isotope Geochemistry"
     ],
     "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4392659943",
+    "doi": "https://doi.org/10.1016/j.jsg.2024.105105",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5100637085",
+      "A5020724652",
+      "A5052716474",
+      "A5060484107",
+      "A5101316414"
+    ],
+    "firstAuthorLastName": "Li",
+    "allAuthors": [
+      "Xiaofan Li",
+      "Han Zheng",
+      "Huan Li",
+      "Scott Whattam",
+      "Wei Pi",
+      "Linlin Zeng"
+    ],
+    "title": "Finite strain, kinematic vorticity, rheological behavior and thermochronology of the Diancang Shan complex: Insights into channel flow of the southeastern Tibetan plateau",
+    "publicationDate": "2024-03-11",
+    "year": 2024,
+    "venue": "Journal of Structural Geology",
+    "citations": 2,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Central South University",
+      "Northwest University",
+      "State Key Laboratory of Continental Dynamics",
       "King Fahd University of Petroleum and Minerals"
     ]
   },
@@ -21261,6 +21261,154 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W7127588909",
+    "doi": "https://doi.org/10.5281/zenodo.18487795",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5125087995",
+      "A5125045689",
+      "A5009810098",
+      "A5013976612",
+      "A5125042446",
+      "A5125022392",
+      "A5124980643",
+      "A5033951300",
+      "A5030084676",
+      "A5062915518",
+      "A5125022185",
+      "A5086919759",
+      "A5124987720",
+      "A5125079445",
+      "A5036916178",
+      "A5125094748",
+      "A5078011030",
+      "A5125020998",
+      "A5125039393",
+      "A5067901321",
+      "A5049286867",
+      "A5125008875",
+      "A5125010964",
+      "A5125001287",
+      "A5032601901",
+      "A5064788534",
+      "A5124987189"
+    ],
+    "firstAuthorLastName": "Reagan",
+    "allAuthors": [
+      "Mark K. Reagan",
+      "Julian A. Pearce",
+      "Katerina Petronotis",
+      "Renat Almeev",
+      "Aaron J. Avery",
+      "Claire A. Carvallo",
+      "Timothy Chapman",
+      "Gail Christeson",
+      "Eric Ferre",
+      "Marguerite Godard",
+      "Daniel E. Heaton",
+      "Maria Kirchenbaur",
+      "Walter Kurz",
+      "Steffen O. Kutterolf",
+      "Hong yan Li",
+      "Yibing Li",
+      "Katsuyoshi Michibayashi",
+      "Sally Morgan",
+      "Wendy R. Nelson",
+      "Julie Prytulak",
+      "Marie Python",
+      "Alastair H.F. Robertson",
+      "Jeffrey G. Ryan",
+      "William W. Sager",
+      "Tetsuya Sakuyama",
+      "John W. Shervais",
+      "Kenji Shimizu",
+      "Scott Whattam"
+    ],
+    "title": "IODP Expedition 352 Rig instrumentation",
+    "publicationDate": "2015-09-29",
+    "year": 2015,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W7127616610",
+    "doi": "https://doi.org/10.5281/zenodo.18487794",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5125087995",
+      "A5125045689",
+      "A5009810098",
+      "A5013976612",
+      "A5125042446",
+      "A5125022392",
+      "A5124980643",
+      "A5033951300",
+      "A5030084676",
+      "A5062915518",
+      "A5125022185",
+      "A5086919759",
+      "A5124987720",
+      "A5125079445",
+      "A5036916178",
+      "A5125094748",
+      "A5078011030",
+      "A5125020998",
+      "A5125039393",
+      "A5067901321",
+      "A5049286867",
+      "A5125008875",
+      "A5125010964",
+      "A5125001287",
+      "A5032601901",
+      "A5064788534",
+      "A5124987189"
+    ],
+    "firstAuthorLastName": "Reagan",
+    "allAuthors": [
+      "Mark K. Reagan",
+      "Julian A. Pearce",
+      "Katerina Petronotis",
+      "Renat Almeev",
+      "Aaron J. Avery",
+      "Claire A. Carvallo",
+      "Timothy Chapman",
+      "Gail Christeson",
+      "Eric Ferre",
+      "Marguerite Godard",
+      "Daniel E. Heaton",
+      "Maria Kirchenbaur",
+      "Walter Kurz",
+      "Steffen O. Kutterolf",
+      "Hong yan Li",
+      "Yibing Li",
+      "Katsuyoshi Michibayashi",
+      "Sally Morgan",
+      "Wendy R. Nelson",
+      "Julie Prytulak",
+      "Marie Python",
+      "Alastair H.F. Robertson",
+      "Jeffrey G. Ryan",
+      "William W. Sager",
+      "Tetsuya Sakuyama",
+      "John W. Shervais",
+      "Kenji Shimizu",
+      "Scott Whattam"
+    ],
+    "title": "IODP Expedition 352 Rig instrumentation",
+    "publicationDate": "2015-09-29",
+    "year": 2015,
+    "venue": "Zenodo (CERN European Organization for Nuclear Research)",
+    "citations": 0,
+    "topics": [],
+    "institutions": []
+  },
+  {
     "workId": "https://openalex.org/W2783004461",
     "doi": "https://doi.org/10.1007/978-3-319-71216-1",
     "program": "",
@@ -30149,38 +30297,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4292342220",
-    "doi": "https://doi.org/10.1016/j.cscm.2022.e01414",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5027197211",
-    "allAuthorOpenAlexIds": [
-      "A5027197211",
-      "A5085372277",
-      "A5006643635",
-      "A5057612065"
-    ],
-    "firstAuthorLastName": "Alimi",
-    "allAuthors": [
-      "Wasiu Alimi",
-      "Saheed Kolawole Adekunle",
-      "Shamsad Ahmad",
-      "Abduljamiu O. Amao"
-    ],
-    "title": "Carbon dioxide sequestration characteristics of concrete mixtures incorporating high-volume cement kiln dust",
-    "publicationDate": "2022-08-17",
-    "year": 2022,
-    "venue": "Case Studies in Construction Materials",
-    "citations": 20,
-    "topics": [
-      "Concrete and Cement Materials Research",
-      "Concrete Corrosion and Durability",
-      "Recycled Aggregate Concrete Performance"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4389886269",
     "doi": "https://doi.org/10.1021/acs.energyfuels.3c03958",
     "program": "",
@@ -30210,44 +30326,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4307414375",
-    "doi": "https://doi.org/10.1038/s41598-022-21716-0",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5027197211",
-    "allAuthorOpenAlexIds": [
-      "A5027197211",
-      "A5078743538",
-      "A5059881838",
-      "A5080748045",
-      "A5014347484",
-      "A5085007251"
-    ],
-    "firstAuthorLastName": "Alnazghah",
-    "allAuthors": [
-      "Mahmoud Alnazghah",
-      "Ardiansyah Koeshidayatullah",
-      "Abdulkarim Al-Hussaini",
-      "Abduljamiu O. Amao",
-      "Haijun Song",
-      "Khalid Al–Ramadan"
-    ],
-    "title": "Evidence for the early Toarcian Carbon Isotope Excursion (T-CIE) from the shallow marine siliciclastic red beds of Arabia",
-    "publicationDate": "2022-10-27",
-    "year": 2022,
-    "venue": "Scientific Reports",
-    "citations": 13,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Elemental Analysis"
-    ],
-    "institutions": [
-      "Saudi Aramco (Saudi Arabia)",
-      "King Fahd University of Petroleum and Minerals",
-      "China University of Geosciences"
     ]
   },
   {
@@ -30876,6 +30954,38 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4292342220",
+    "doi": "https://doi.org/10.1016/j.cscm.2022.e01414",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5027197211",
+    "allAuthorOpenAlexIds": [
+      "A5027197211",
+      "A5085372277",
+      "A5006643635",
+      "A5057612065"
+    ],
+    "firstAuthorLastName": "Alimi",
+    "allAuthors": [
+      "Wasiu Alimi",
+      "Saheed Kolawole Adekunle",
+      "Shamsad Ahmad",
+      "Abduljamiu O. Amao"
+    ],
+    "title": "Carbon dioxide sequestration characteristics of concrete mixtures incorporating high-volume cement kiln dust",
+    "publicationDate": "2022-08-17",
+    "year": 2022,
+    "venue": "Case Studies in Construction Materials",
+    "citations": 20,
+    "topics": [
+      "Concrete and Cement Materials Research",
+      "Concrete Corrosion and Durability",
+      "Recycled Aggregate Concrete Performance"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4226494982",
     "doi": "https://doi.org/10.1021/acs.energyfuels.2c00232",
     "program": "",
@@ -30946,6 +31056,44 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4307414375",
+    "doi": "https://doi.org/10.1038/s41598-022-21716-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5027197211",
+    "allAuthorOpenAlexIds": [
+      "A5027197211",
+      "A5078743538",
+      "A5059881838",
+      "A5080748045",
+      "A5014347484",
+      "A5085007251"
+    ],
+    "firstAuthorLastName": "Alnazghah",
+    "allAuthors": [
+      "Mahmoud Alnazghah",
+      "Ardiansyah Koeshidayatullah",
+      "Abdulkarim Al-Hussaini",
+      "Abduljamiu O. Amao",
+      "Haijun Song",
+      "Khalid Al–Ramadan"
+    ],
+    "title": "Evidence for the early Toarcian Carbon Isotope Excursion (T-CIE) from the shallow marine siliciclastic red beds of Arabia",
+    "publicationDate": "2022-10-27",
+    "year": 2022,
+    "venue": "Scientific Reports",
+    "citations": 13,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "King Fahd University of Petroleum and Minerals",
+      "China University of Geosciences"
     ]
   },
   {
@@ -35665,8 +35813,8 @@ export const worksTable: WorkTableRecord[] = [
       "Geological formations and processes"
     ],
     "institutions": [
-      "Pan-Atlantic University",
       "University of Petroleum",
+      "Pan-Atlantic University",
       "Saad Specialist Hospital",
       "University of Ibadan"
     ]
@@ -65379,7 +65527,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2016-10-16",
     "year": 2016,
     "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 40,
+    "citations": 41,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -66925,58 +67073,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W3082615075",
-    "doi": "https://doi.org/10.1016/j.earscirev.2020.103332",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5039685767",
-    "allAuthorOpenAlexIds": [
-      "A5039685767",
-      "A5055756953",
-      "A5018588151",
-      "A5013023999",
-      "A5073496917",
-      "A5083308766",
-      "A5057636859",
-      "A5018003523",
-      "A5002010059",
-      "A5068233695",
-      "A5039737037",
-      "A5069691170"
-    ],
-    "firstAuthorLastName": "Schootbrugge",
-    "allAuthors": [
-      "Bas van de Schootbrugge",
-      "Carolien van der Weijst",
-      "Teuntje P. Hollaar",
-      "Marco Vecoli",
-      "Paul K. Strother",
-      "Natascha Kuhlmann",
-      "Jean Thein",
-      "Henk Visscher",
-      "Han van Konijnenburg‐van Cittert",
-      "Martin Schobben",
-      "Appy Sluijs",
-      "Sofie Lindström"
-    ],
-    "title": "Catastrophic soil loss associated with end-Triassic deforestation",
-    "publicationDate": "2020-09-01",
-    "year": 2020,
-    "venue": "Earth-Science Reviews",
-    "citations": 55,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Geological and Geochemical Analysis"
-    ],
-    "institutions": [
-      "Utrecht University",
-      "Saudi Aramco (Saudi Arabia)",
-      "Boston College",
-      "University of Bonn",
-      "Geological Survey of Denmark and Greenland"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2005364852",
     "doi": "https://doi.org/10.1016/j.revpalbo.2014.08.018",
     "program": "",
@@ -67518,6 +67614,58 @@ export const worksTable: WorkTableRecord[] = [
       "Université de Lille",
       "Centre National de la Recherche Scientifique",
       "University of Bremen"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3082615075",
+    "doi": "https://doi.org/10.1016/j.earscirev.2020.103332",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5039685767",
+    "allAuthorOpenAlexIds": [
+      "A5039685767",
+      "A5055756953",
+      "A5018588151",
+      "A5013023999",
+      "A5073496917",
+      "A5083308766",
+      "A5057636859",
+      "A5018003523",
+      "A5002010059",
+      "A5068233695",
+      "A5039737037",
+      "A5069691170"
+    ],
+    "firstAuthorLastName": "Schootbrugge",
+    "allAuthors": [
+      "Bas van de Schootbrugge",
+      "Carolien van der Weijst",
+      "Teuntje P. Hollaar",
+      "Marco Vecoli",
+      "Paul K. Strother",
+      "Natascha Kuhlmann",
+      "Jean Thein",
+      "Henk Visscher",
+      "Han van Konijnenburg‐van Cittert",
+      "Martin Schobben",
+      "Appy Sluijs",
+      "Sofie Lindström"
+    ],
+    "title": "Catastrophic soil loss associated with end-Triassic deforestation",
+    "publicationDate": "2020-09-01",
+    "year": 2020,
+    "venue": "Earth-Science Reviews",
+    "citations": 55,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Geological and Geochemical Analysis"
+    ],
+    "institutions": [
+      "Utrecht University",
+      "Saudi Aramco (Saudi Arabia)",
+      "Boston College",
+      "University of Bonn",
+      "Geological Survey of Denmark and Greenland"
     ]
   },
   {
@@ -84175,7 +84323,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-07-26",
     "year": 2011,
     "venue": "Journal of African Earth Sciences",
-    "citations": 756,
+    "citations": 757,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -84293,7 +84441,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-04-06",
     "year": 2017,
     "venue": "Gondwana Research",
-    "citations": 618,
+    "citations": 619,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -84345,7 +84493,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-12-24",
     "year": 2020,
     "venue": "Earth-Science Reviews",
-    "citations": 437,
+    "citations": 438,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -86190,7 +86338,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-04-12",
     "year": 2014,
     "venue": "Geoscience Frontiers",
-    "citations": 55,
+    "citations": 56,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -88381,6 +88529,72 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2803691778",
+    "doi": "https://doi.org/10.1016/j.lithos.2018.05.026",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090122630",
+      "A5057911678",
+      "A5054002352"
+    ],
+    "firstAuthorLastName": "Gillespie",
+    "allAuthors": [
+      "Jack Gillespie",
+      "Stijn Glorie",
+      "А. К. Khudoley",
+      "Alan S. Collins"
+    ],
+    "title": "Detrital apatite U-Pb and trace element analysis as a provenance tool: Insights from the Yenisey Ridge (Siberia)",
+    "publicationDate": "2018-05-26",
+    "year": 2018,
+    "venue": "Lithos",
+    "citations": 51,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "University of Adelaide",
+      "St Petersburg University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W1974412454",
+    "doi": "https://doi.org/10.1130/g31547.1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5039701585",
+      "A5067737483",
+      "A5079718055"
+    ],
+    "firstAuthorLastName": "Heron",
+    "allAuthors": [
+      "Daniel Paul Le Heron",
+      "Grant M. Cox",
+      "Anita Trundley",
+      "Alan S. Collins"
+    ],
+    "title": "Sea ice-free conditions during the Sturtian glaciation (early Cryogenian), South Australia",
+    "publicationDate": "2010-12-03",
+    "year": 2010,
+    "venue": "Geology",
+    "citations": 50,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Methane Hydrates and Related Phenomena"
+    ],
+    "institutions": [
+      "Royal Holloway University of London",
+      "University of Adelaide"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2562252683",
     "doi": "https://doi.org/10.1130/b31474.1",
     "program": "",
@@ -88420,72 +88634,6 @@ export const worksTable: WorkTableRecord[] = [
       "Curtin University",
       "University of Adelaide",
       "National Centre for Earth Science Studies"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2803691778",
-    "doi": "https://doi.org/10.1016/j.lithos.2018.05.026",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5090122630",
-      "A5057911678",
-      "A5054002352"
-    ],
-    "firstAuthorLastName": "Gillespie",
-    "allAuthors": [
-      "Jack Gillespie",
-      "Stijn Glorie",
-      "А. К. Khudoley",
-      "Alan S. Collins"
-    ],
-    "title": "Detrital apatite U-Pb and trace element analysis as a provenance tool: Insights from the Yenisey Ridge (Siberia)",
-    "publicationDate": "2018-05-26",
-    "year": 2018,
-    "venue": "Lithos",
-    "citations": 50,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "University of Adelaide",
-      "St Petersburg University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W1974412454",
-    "doi": "https://doi.org/10.1130/g31547.1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5039701585",
-      "A5067737483",
-      "A5079718055"
-    ],
-    "firstAuthorLastName": "Heron",
-    "allAuthors": [
-      "Daniel Paul Le Heron",
-      "Grant M. Cox",
-      "Anita Trundley",
-      "Alan S. Collins"
-    ],
-    "title": "Sea ice-free conditions during the Sturtian glaciation (early Cryogenian), South Australia",
-    "publicationDate": "2010-12-03",
-    "year": 2010,
-    "venue": "Geology",
-    "citations": 49,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Methane Hydrates and Related Phenomena"
-    ],
-    "institutions": [
-      "Royal Holloway University of London",
-      "University of Adelaide"
     ]
   },
   {
@@ -89323,7 +89471,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-01-10",
     "year": 2018,
     "venue": "Precambrian Research",
-    "citations": 35,
+    "citations": 36,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -91220,7 +91368,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Khalifa University of Science and Technology",
-      "University of Adelaide",
+      "The University of Adelaide",
       "Hessisches Landesmuseum Darmstadt",
       "King Fahd University of Petroleum and Minerals"
     ]
@@ -104123,72 +104271,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4401444371",
-    "doi": "https://doi.org/10.1038/s41598-024-69536-8",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5006028315",
-      "A5078588753",
-      "A5045424185",
-      "A5087068443"
-    ],
-    "firstAuthorLastName": "Harishidayat",
-    "allAuthors": [
-      "Dicky Harishidayat",
-      "Yakufu Niyazi",
-      "Heather Stewart",
-      "Abdullatif Al‐Shuhail",
-      "Alan J. Jamieson"
-    ],
-    "title": "Submarine canyon development controlled by slope failure and oceanographic process interactions",
-    "publicationDate": "2024-08-09",
-    "year": 2024,
-    "venue": "Scientific Reports",
-    "citations": 5,
-    "topics": [
-      "Geological formations and processes",
-      "Methane Hydrates and Related Phenomena",
-      "Hydrocarbon exploration and reservoir analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Western Australia",
-      "ET Enterprises (United Kingdom)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4411866371",
-    "doi": "https://doi.org/10.1038/s41598-025-06332-y",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5091233497",
-      "A5024607591"
-    ],
-    "firstAuthorLastName": "Surachman",
-    "allAuthors": [
-      "Lutfi Mulyadi Surachman",
-      "SanLinn I. Kaka",
-      "Abdullatif Al‐Shuhail"
-    ],
-    "title": "Acoustic impedance inversion via voting stacked regression (VStaR) algorithms",
-    "publicationDate": "2025-07-01",
-    "year": 2025,
-    "venue": "Scientific Reports",
-    "citations": 4,
-    "topics": [
-      "Underwater Acoustics Research",
-      "Speech and Audio Processing",
-      "Geophysical Methods and Applications"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4409191406",
     "doi": "https://doi.org/10.1007/s13369-025-10121-0",
     "program": "",
@@ -104659,6 +104741,72 @@ export const worksTable: WorkTableRecord[] = [
       "Seismic Imaging and Inversion Techniques",
       "Drilling and Well Engineering",
       "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4401444371",
+    "doi": "https://doi.org/10.1038/s41598-024-69536-8",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5006028315",
+      "A5078588753",
+      "A5045424185",
+      "A5087068443"
+    ],
+    "firstAuthorLastName": "Harishidayat",
+    "allAuthors": [
+      "Dicky Harishidayat",
+      "Yakufu Niyazi",
+      "Heather Stewart",
+      "Abdullatif Al‐Shuhail",
+      "Alan J. Jamieson"
+    ],
+    "title": "Submarine canyon development controlled by slope failure and oceanographic process interactions",
+    "publicationDate": "2024-08-09",
+    "year": 2024,
+    "venue": "Scientific Reports",
+    "citations": 5,
+    "topics": [
+      "Geological formations and processes",
+      "Methane Hydrates and Related Phenomena",
+      "Hydrocarbon exploration and reservoir analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Western Australia",
+      "ET Enterprises (United Kingdom)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4411866371",
+    "doi": "https://doi.org/10.1038/s41598-025-06332-y",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5091233497",
+      "A5024607591"
+    ],
+    "firstAuthorLastName": "Surachman",
+    "allAuthors": [
+      "Lutfi Mulyadi Surachman",
+      "SanLinn I. Kaka",
+      "Abdullatif Al‐Shuhail"
+    ],
+    "title": "Acoustic impedance inversion via voting stacked regression (VStaR) algorithms",
+    "publicationDate": "2025-07-01",
+    "year": 2025,
+    "venue": "Scientific Reports",
+    "citations": 4,
+    "topics": [
+      "Underwater Acoustics Research",
+      "Speech and Audio Processing",
+      "Geophysical Methods and Applications"
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
@@ -117733,45 +117881,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4406872080",
-    "doi": "https://doi.org/10.1016/j.ccst.2025.100375",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5074794653",
-    "allAuthorOpenAlexIds": [
-      "A5074794653",
-      "A5050034030",
-      "A5069874671",
-      "A5114305640",
-      "A5028526938",
-      "A5031210408",
-      "A5067974945"
-    ],
-    "firstAuthorLastName": "Rowaihy",
-    "allAuthors": [
-      "Feras Rowaihy",
-      "Ali Hamieh",
-      "Naser Odeh",
-      "Mohamad Hejazi",
-      "Mohammed Al-Juaied",
-      "Abdulkader M. Afifi",
-      "Hussein Hoteit"
-    ],
-    "title": "Decarbonizing Saudi Arabia energy and industrial sectors: Assessment of carbon capture cost",
-    "publicationDate": "2025-01-27",
-    "year": 2025,
-    "venue": "Carbon Capture Science & Technology",
-    "citations": 8,
-    "topics": [
-      "Energy, Environment, and Transportation Policies",
-      "Carbon Dioxide Capture Technologies",
-      "Hybrid Renewable Energy Systems"
-    ],
-    "institutions": [
-      "King Abdullah University of Science and Technology",
-      "King Abdullah Petroleum Studies and Research Center"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4388945405",
     "doi": "https://doi.org/10.1144/sp546-2022-327",
     "program": "",
@@ -117916,6 +118025,81 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W4409152923",
+    "doi": "https://doi.org/10.1038/s43247-025-02224-1",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5074794653",
+    "allAuthorOpenAlexIds": [
+      "A5074794653",
+      "A5050189974",
+      "A5060797133",
+      "A5054072678",
+      "A5011593488",
+      "A5067031857",
+      "A5056357474",
+      "A5066630823",
+      "A5088672322",
+      "A5014817761",
+      "A5003470372",
+      "A5073522953",
+      "A5037966215",
+      "A5109842318",
+      "A5068599201",
+      "A5100670258",
+      "A5081088819",
+      "A5049872558"
+    ],
+    "firstAuthorLastName": "Zaki",
+    "allAuthors": [
+      "Abdallah S. Zaki",
+      "Antoine Delaunay",
+      "Guillaume Baby",
+      "Negar Haghipour",
+      "Cécile Blanchet",
+      "Anne Dallmeyer",
+      "Pietro Sternai",
+      "Sam Woor",
+      "Omar Wani",
+      "Hany Khalil",
+      "Mathieu Schuster",
+      "Michael D. Petraglia",
+      "Florence Sylvestre",
+      "Giovan Peyrotty",
+      "Mohamed R. Ali",
+      "Frans van Buchem",
+      "Abdulkader M. Afifi",
+      "Sébastien Castelltort"
+    ],
+    "title": "Monsoonal imprint on late Quaternary landscapes of the Rub’ al Khali Desert",
+    "publicationDate": "2025-04-03",
+    "year": 2025,
+    "venue": "Communications Earth & Environment",
+    "citations": 2,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Landslides and related hazards",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "California Institute of Technology",
+      "University of Geneva",
+      "King Abdullah University of Science and Technology",
+      "ETH Zurich",
+      "GFZ Helmholtz Centre for Geosciences",
+      "Max Planck Institute for Meteorology",
+      "University of Milano-Bicocca",
+      "University of the Fraser Valley",
+      "University of British Columbia",
+      "Alexandria University",
+      "Griffith University",
+      "The University of Queensland",
+      "Institut de Recherche pour le Développement",
+      "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement",
+      "Centre National de la Recherche Scientifique",
+      "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4399187534",
     "doi": "https://doi.org/10.3997/2214-4609.2024101507",
     "program": "",
@@ -117968,81 +118152,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Abdullah University of Science and Technology",
       "Kootenay Association for Science & Technology",
       "University of Iceland"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4409152923",
-    "doi": "https://doi.org/10.1038/s43247-025-02224-1",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5074794653",
-    "allAuthorOpenAlexIds": [
-      "A5074794653",
-      "A5050189974",
-      "A5060797133",
-      "A5054072678",
-      "A5011593488",
-      "A5067031857",
-      "A5056357474",
-      "A5066630823",
-      "A5088672322",
-      "A5014817761",
-      "A5003470372",
-      "A5073522953",
-      "A5037966215",
-      "A5109842318",
-      "A5068599201",
-      "A5100670258",
-      "A5081088819",
-      "A5049872558"
-    ],
-    "firstAuthorLastName": "Zaki",
-    "allAuthors": [
-      "Abdallah S. Zaki",
-      "Antoine Delaunay",
-      "Guillaume Baby",
-      "Negar Haghipour",
-      "Cécile Blanchet",
-      "Anne Dallmeyer",
-      "Pietro Sternai",
-      "Sam Woor",
-      "Omar Wani",
-      "Hany Khalil",
-      "Mathieu Schuster",
-      "Michael D. Petraglia",
-      "Florence Sylvestre",
-      "Giovan Peyrotty",
-      "Mohamed R. Ali",
-      "Frans van Buchem",
-      "Abdulkader M. Afifi",
-      "Sébastien Castelltort"
-    ],
-    "title": "Monsoonal imprint on late Quaternary landscapes of the Rub’ al Khali Desert",
-    "publicationDate": "2025-04-03",
-    "year": 2025,
-    "venue": "Communications Earth & Environment",
-    "citations": 1,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Landslides and related hazards",
-      "Geological formations and processes"
-    ],
-    "institutions": [
-      "California Institute of Technology",
-      "University of Geneva",
-      "King Abdullah University of Science and Technology",
-      "ETH Zurich",
-      "GFZ Helmholtz Centre for Geosciences",
-      "Max Planck Institute for Meteorology",
-      "University of Milano-Bicocca",
-      "University of the Fraser Valley",
-      "University of British Columbia",
-      "Alexandria University",
-      "Griffith University",
-      "The University of Queensland",
-      "Institut de Recherche pour le Développement",
-      "Centre de Recherche et d’Enseignement de Géosciences de l’Environnement",
-      "Centre National de la Recherche Scientifique",
-      "Institut National de Recherche pour l'Agriculture, l'Alimentation et l'Environnement"
     ]
   },
   {
@@ -118276,6 +118385,45 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Abdullah University of Science and Technology",
       "Istituto Nazionale di Geofisica e Vulcanologia"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4406872080",
+    "doi": "https://doi.org/10.1016/j.ccst.2025.100375",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5074794653",
+    "allAuthorOpenAlexIds": [
+      "A5074794653",
+      "A5050034030",
+      "A5069874671",
+      "A5114305640",
+      "A5028526938",
+      "A5031210408",
+      "A5067974945"
+    ],
+    "firstAuthorLastName": "Rowaihy",
+    "allAuthors": [
+      "Feras Rowaihy",
+      "Ali Hamieh",
+      "Naser Odeh",
+      "Mohamad Hejazi",
+      "Mohammed Al-Juaied",
+      "Abdulkader M. Afifi",
+      "Hussein Hoteit"
+    ],
+    "title": "Decarbonizing Saudi Arabia energy and industrial sectors: Assessment of carbon capture cost",
+    "publicationDate": "2025-01-27",
+    "year": 2025,
+    "venue": "Carbon Capture Science & Technology",
+    "citations": 8,
+    "topics": [
+      "Energy, Environment, and Transportation Policies",
+      "Carbon Dioxide Capture Technologies",
+      "Hybrid Renewable Energy Systems"
+    ],
+    "institutions": [
+      "King Abdullah University of Science and Technology",
+      "King Abdullah Petroleum Studies and Research Center"
     ]
   },
   {
@@ -123288,6 +123436,32 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W1998093513",
+    "doi": "https://doi.org/10.1016/j.oregeorev.2014.09.022",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5081695998",
+    "allAuthorOpenAlexIds": [
+      "A5081695998"
+    ],
+    "firstAuthorLastName": "Al‐Khirbash",
+    "allAuthors": [
+      "Salah Al‐Khirbash"
+    ],
+    "title": "Genesis and mineralogical classification of Ni-laterites, Oman Mountains",
+    "publicationDate": "2014-09-28",
+    "year": 2014,
+    "venue": "Ore Geology Reviews",
+    "citations": 40,
+    "topics": [
+      "Geochemistry and Elemental Analysis",
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "Sultan Qaboos University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2471286038",
     "doi": "https://doi.org/10.1080/00206814.2016.1207207",
     "program": "",
@@ -123316,32 +123490,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Swedish Museum of Natural History",
       "Stockholm University",
-      "Sultan Qaboos University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W1998093513",
-    "doi": "https://doi.org/10.1016/j.oregeorev.2014.09.022",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5081695998",
-    "allAuthorOpenAlexIds": [
-      "A5081695998"
-    ],
-    "firstAuthorLastName": "Al‐Khirbash",
-    "allAuthors": [
-      "Salah Al‐Khirbash"
-    ],
-    "title": "Genesis and mineralogical classification of Ni-laterites, Oman Mountains",
-    "publicationDate": "2014-09-28",
-    "year": 2014,
-    "venue": "Ore Geology Reviews",
-    "citations": 39,
-    "topics": [
-      "Geochemistry and Elemental Analysis",
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
       "Sultan Qaboos University"
     ]
   },
@@ -131776,6 +131924,34 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W2082197446",
+    "doi": "https://doi.org/10.1016/s0031-0182(00)00042-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5102809672",
+    "allAuthorOpenAlexIds": [
+      "A5102809672",
+      "A5065340854"
+    ],
+    "firstAuthorLastName": "Abed",
+    "allAuthors": [
+      "Abdulkader M. Abed",
+      "Rima Yaghan"
+    ],
+    "title": "On the paleoclimate of Jordan during the last glacial maximum",
+    "publicationDate": "2000-07-01",
+    "year": 2000,
+    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
+    "citations": 52,
+    "topics": [
+      "Geology and Paleoclimatology Research",
+      "Pleistocene-Era Hominins and Archaeology",
+      "Marine and environmental studies"
+    ],
+    "institutions": [
+      "University of Jordan"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2336549484",
     "doi": "https://doi.org/10.2113/geoarabia200199",
     "program": "",
@@ -131859,34 +132035,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of Jordan",
       "Birzeit University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2082197446",
-    "doi": "https://doi.org/10.1016/s0031-0182(00)00042-0",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5102809672",
-    "allAuthorOpenAlexIds": [
-      "A5102809672",
-      "A5065340854"
-    ],
-    "firstAuthorLastName": "Abed",
-    "allAuthors": [
-      "Abdulkader M. Abed",
-      "Rima Yaghan"
-    ],
-    "title": "On the paleoclimate of Jordan during the last glacial maximum",
-    "publicationDate": "2000-07-01",
-    "year": 2000,
-    "venue": "Palaeogeography Palaeoclimatology Palaeoecology",
-    "citations": 51,
-    "topics": [
-      "Geology and Paleoclimatology Research",
-      "Pleistocene-Era Hominins and Archaeology",
-      "Marine and environmental studies"
-    ],
-    "institutions": [
-      "University of Jordan"
     ]
   },
   {
