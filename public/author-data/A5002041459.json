@@ -2609,8 +2609,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5899999737739563
         }
       ],
@@ -3127,6 +3127,1780 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4408327353",
+      "doi": "https://doi.org/10.1016/j.apgeochem.2025.106355",
+      "title": "Best practices of utilizing principal component analysis in chemostratigraphic studies",
+      "display_name": "Best practices of utilizing principal component analysis in chemostratigraphic studies",
+      "publication_year": 2025,
+      "publication_date": "2025-03-11",
+      "ids": {
+        "openalex": "https://openalex.org/W4408327353",
+        "doi": "https://doi.org/10.1016/j.apgeochem.2025.106355"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.apgeochem.2025.106355",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.apgeochem.2025.106355",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S105929320",
+          "display_name": "Applied Geochemistry",
+          "issn_l": "0883-2927",
+          "issn": [
+            "0883-2927",
+            "1872-9134"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Geochemistry",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5002041459",
+            "display_name": "Nikolaos A. Michael",
+            "orcid": "https://orcid.org/0000-0002-6113-9589"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Nikolaos A. Michael",
+          "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009963240",
+            "display_name": "Mustafa A. Al Ibrahim",
+            "orcid": "https://orcid.org/0000-0001-9765-0162"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mustafa A. Al Ibrahim",
+          "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045570928",
+            "display_name": "Christian Scheibe",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christian Scheibe",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013083803",
+            "display_name": "Neil W. Craigie",
+            "orcid": "https://orcid.org/0000-0002-9728-9036"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Neil Craigie",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5002041459"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210143841"
+      ],
+      "apc_list": {
+        "value": 3350,
+        "currency": "USD",
+        "value_usd": 3350
+      },
+      "apc_paid": null,
+      "fwci": 19.27898059,
+      "has_fulltext": false,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": {
+        "value": 0.98143963,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 96,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "186",
+        "issue": null,
+        "first_page": "106355",
+        "last_page": "106355"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "score": 0.9993000030517578,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.9912999868392944,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10946",
+          "display_name": "Radioactivity and Radon Measurements",
+          "score": 0.9794999957084656,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3614",
+            "display_name": "Radiological and Ultrasound Technology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/36",
+            "display_name": "Health Professions"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/4",
+            "display_name": "Health Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/principal-component-analysis",
+          "display_name": "Principal component analysis",
+          "score": 0.6826322078704834
+        },
+        {
+          "id": "https://openalex.org/keywords/component",
+          "display_name": "Component (thermodynamics)",
+          "score": 0.5186752080917358
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.3742525577545166
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.2999750077724457
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.1608414649963379
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C27438332",
+          "wikidata": "https://www.wikidata.org/wiki/Q2873",
+          "display_name": "Principal component analysis",
+          "level": 2,
+          "score": 0.6826322078704834
+        },
+        {
+          "id": "https://openalex.org/C168167062",
+          "wikidata": "https://www.wikidata.org/wiki/Q1117970",
+          "display_name": "Component (thermodynamics)",
+          "level": 2,
+          "score": 0.5186752080917358
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.3742525577545166
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.2999750077724457
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.1608414649963379
+        },
+        {
+          "id": "https://openalex.org/C97355855",
+          "wikidata": "https://www.wikidata.org/wiki/Q11473",
+          "display_name": "Thermodynamics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.apgeochem.2025.106355",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.apgeochem.2025.106355",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S105929320",
+            "display_name": "Applied Geochemistry",
+            "issn_l": "0883-2927",
+            "issn": [
+              "0883-2927",
+              "1872-9134"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Applied Geochemistry",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2",
+          "score": 0.6800000071525574
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 46,
+      "referenced_works": [
+        "https://openalex.org/W1920010643",
+        "https://openalex.org/W1965555277",
+        "https://openalex.org/W1990839417",
+        "https://openalex.org/W2005604628",
+        "https://openalex.org/W2016848487",
+        "https://openalex.org/W2021651273",
+        "https://openalex.org/W2024923518",
+        "https://openalex.org/W2025458469",
+        "https://openalex.org/W2042299971",
+        "https://openalex.org/W2072498451",
+        "https://openalex.org/W2087689197",
+        "https://openalex.org/W2089227677",
+        "https://openalex.org/W2092904239",
+        "https://openalex.org/W2124390624",
+        "https://openalex.org/W2137690751",
+        "https://openalex.org/W2145804763",
+        "https://openalex.org/W2252686556",
+        "https://openalex.org/W2396859177",
+        "https://openalex.org/W2477536975",
+        "https://openalex.org/W2503993098",
+        "https://openalex.org/W2517057392",
+        "https://openalex.org/W2530005595",
+        "https://openalex.org/W2726137661",
+        "https://openalex.org/W2742221252",
+        "https://openalex.org/W2784277501",
+        "https://openalex.org/W3023798565",
+        "https://openalex.org/W3126847908",
+        "https://openalex.org/W4200232387",
+        "https://openalex.org/W4243034119",
+        "https://openalex.org/W4285268216",
+        "https://openalex.org/W4368351261",
+        "https://openalex.org/W4378229710",
+        "https://openalex.org/W4403267492",
+        "https://openalex.org/W6640122379",
+        "https://openalex.org/W6655568089",
+        "https://openalex.org/W6656758449",
+        "https://openalex.org/W6656789564",
+        "https://openalex.org/W6678618728",
+        "https://openalex.org/W6681447697",
+        "https://openalex.org/W6684856879",
+        "https://openalex.org/W6721337010",
+        "https://openalex.org/W6723459858",
+        "https://openalex.org/W6742177861",
+        "https://openalex.org/W6805199229",
+        "https://openalex.org/W6839915920",
+        "https://openalex.org/W6852492747"
+      ],
+      "related_works": [
+        "https://openalex.org/W1975632186",
+        "https://openalex.org/W3027745756",
+        "https://openalex.org/W3205213561",
+        "https://openalex.org/W2531880140",
+        "https://openalex.org/W2036609560",
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W346861917",
+        "https://openalex.org/W3024018414",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W2126145365"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-02-07T08:09:18.108334",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4200232387",
+      "doi": "https://doi.org/10.2118/204892-ms",
+      "title": "Automations in Chemostratigraphy: Toward Robust Chemical Data Analysis and Interpretation",
+      "display_name": "Automations in Chemostratigraphy: Toward Robust Chemical Data Analysis and Interpretation",
+      "publication_year": 2021,
+      "publication_date": "2021-12-15",
+      "ids": {
+        "openalex": "https://openalex.org/W4200232387",
+        "doi": "https://doi.org/10.2118/204892-ms"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2118/204892-ms",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.2118/204892-ms",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "SPE Middle East Oil &amp; Gas Show and Conference",
+        "raw_type": "proceedings-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5002041459",
+            "display_name": "Nikolaos A. Michael",
+            "orcid": "https://orcid.org/0000-0002-6113-9589"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Nikolaos A. Michael",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045570928",
+            "display_name": "Christian Scheibe",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christian Scheibe",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5013083803",
+            "display_name": "Neil W. Craigie",
+            "orcid": "https://orcid.org/0000-0002-9728-9036"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Neil W. Craigie",
+          "raw_affiliation_strings": [
+            "Saudi Aramco"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5002041459"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.18862885,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 99
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "score": 0.9980999827384949,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9980999827384949,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12282",
+          "display_name": "Mineral Processing and Grinding",
+          "score": 0.9908000230789185,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10640",
+          "display_name": "Spectroscopy and Chemometric Analyses",
+          "score": 0.9376000165939331,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1602",
+            "display_name": "Analytical Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/16",
+            "display_name": "Chemistry"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/chemostratigraphy",
+          "display_name": "Chemostratigraphy",
+          "score": 0.7482656836509705
+        },
+        {
+          "id": "https://openalex.org/keywords/principal-component-analysis",
+          "display_name": "Principal component analysis",
+          "score": 0.5894122123718262
+        },
+        {
+          "id": "https://openalex.org/keywords/workflow",
+          "display_name": "Workflow",
+          "score": 0.5604220628738403
+        },
+        {
+          "id": "https://openalex.org/keywords/automation",
+          "display_name": "Automation",
+          "score": 0.5073129534721375
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.4904031753540039
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.46845102310180664
+        },
+        {
+          "id": "https://openalex.org/keywords/data-mining",
+          "display_name": "Data mining",
+          "score": 0.45386600494384766
+        },
+        {
+          "id": "https://openalex.org/keywords/exploratory-data-analysis",
+          "display_name": "Exploratory data analysis",
+          "score": 0.4214523136615753
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.3948971629142761
+        },
+        {
+          "id": "https://openalex.org/keywords/pattern-recognition",
+          "display_name": "Pattern recognition (psychology)",
+          "score": 0.32447075843811035
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.15953660011291504
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C190890723",
+          "wikidata": "https://www.wikidata.org/wiki/Q2729912",
+          "display_name": "Chemostratigraphy",
+          "level": 4,
+          "score": 0.7482656836509705
+        },
+        {
+          "id": "https://openalex.org/C27438332",
+          "wikidata": "https://www.wikidata.org/wiki/Q2873",
+          "display_name": "Principal component analysis",
+          "level": 2,
+          "score": 0.5894122123718262
+        },
+        {
+          "id": "https://openalex.org/C177212765",
+          "wikidata": "https://www.wikidata.org/wiki/Q627335",
+          "display_name": "Workflow",
+          "level": 2,
+          "score": 0.5604220628738403
+        },
+        {
+          "id": "https://openalex.org/C115901376",
+          "wikidata": "https://www.wikidata.org/wiki/Q184199",
+          "display_name": "Automation",
+          "level": 2,
+          "score": 0.5073129534721375
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.4904031753540039
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.46845102310180664
+        },
+        {
+          "id": "https://openalex.org/C124101348",
+          "wikidata": "https://www.wikidata.org/wiki/Q172491",
+          "display_name": "Data mining",
+          "level": 1,
+          "score": 0.45386600494384766
+        },
+        {
+          "id": "https://openalex.org/C120894424",
+          "wikidata": "https://www.wikidata.org/wiki/Q1322871",
+          "display_name": "Exploratory data analysis",
+          "level": 2,
+          "score": 0.4214523136615753
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.3948971629142761
+        },
+        {
+          "id": "https://openalex.org/C153180895",
+          "wikidata": "https://www.wikidata.org/wiki/Q7148389",
+          "display_name": "Pattern recognition (psychology)",
+          "level": 2,
+          "score": 0.32447075843811035
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.15953660011291504
+        },
+        {
+          "id": "https://openalex.org/C78519656",
+          "wikidata": "https://www.wikidata.org/wiki/Q101333",
+          "display_name": "Mechanical engineering",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C164304813",
+          "wikidata": "https://www.wikidata.org/wiki/Q25276",
+          "display_name": "Isotope",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C185059815",
+          "wikidata": "https://www.wikidata.org/wiki/Q471790",
+          "display_name": "Isotopes of carbon",
+          "level": 3,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C77088390",
+          "wikidata": "https://www.wikidata.org/wiki/Q8513",
+          "display_name": "Database",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2118/204892-ms",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.2118/204892-ms",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "SPE Middle East Oil &amp; Gas Show and Conference",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Peace, Justice and strong institutions",
+          "id": "https://metadata.un.org/sdg/16",
+          "score": 0.49000000953674316
+        },
+        {
+          "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10",
+          "score": 0.4699999988079071
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 6,
+      "referenced_works": [
+        "https://openalex.org/W194170838",
+        "https://openalex.org/W2170193952",
+        "https://openalex.org/W2783004461",
+        "https://openalex.org/W2996180162",
+        "https://openalex.org/W6684856879",
+        "https://openalex.org/W6748319368"
+      ],
+      "related_works": [
+        "https://openalex.org/W28661983",
+        "https://openalex.org/W2891837369",
+        "https://openalex.org/W2595958670",
+        "https://openalex.org/W1998534612",
+        "https://openalex.org/W3097255087",
+        "https://openalex.org/W2885552844",
+        "https://openalex.org/W1975632186",
+        "https://openalex.org/W2945890006",
+        "https://openalex.org/W4312685627",
+        "https://openalex.org/W2039965506"
+      ],
+      "abstract_inverted_index": {
+        "15": [
+          13
+        ],
+        "50": [
+          33
+        ],
+        "Abstract": [
+          0
+        ],
+        "Elemental": [
+          1
+        ],
+        "chemostratigraphy": [
+          2
+        ],
+        "has": [
+          3,
+          244,
+          260
+        ],
+        "become": [
+          4
+        ],
+        "an": [
+          5
+        ],
+        "established": [
+          6
+        ],
+        "stratigraphic": [
+          7,
+          157
+        ],
+        "correlation": [
+          8
+        ],
+        "technique": [
+          9
+        ],
+        "over": [
+          10
+        ],
+        "the": [
+          11,
+          36,
+          40,
+          72,
+          108,
+          114,
+          121,
+          172,
+          192,
+          228,
+          249,
+          285,
+          310,
+          328
+        ],
+        "last": [
+          12
+        ],
+        "years.": [
+          14
+        ],
+        "Geochemical": [
+          15
+        ],
+        "data": [
+          16,
+          48,
+          174
+        ],
+        "are": [
+          17,
+          49,
+          129,
+          142,
+          296,
+          312
+        ],
+        "generated": [
+          18
+        ],
+        "from": [
+          19
+        ],
+        "rock": [
+          20
+        ],
+        "samples": [
+          21
+        ],
+        "(e.g.,": [
+          22
+        ],
+        "ditch": [
+          23
+        ],
+        "cuttings,": [
+          24
+        ],
+        "cores": [
+          25
+        ],
+        "or": [
+          26
+        ],
+        "hand": [
+          27
+        ],
+        "specimens)": [
+          28
+        ],
+        "for": [
+          29,
+          113,
+          218
+        ],
+        "up": [
+          30
+        ],
+        "to": [
+          31,
+          85,
+          119,
+          134,
+          148,
+          154,
+          160,
+          190,
+          247,
+          281,
+          325
+        ],
+        "c.": [
+          32
+        ],
+        "elements": [
+          34,
+          74
+        ],
+        "in": [
+          35,
+          39,
+          60,
+          91,
+          197,
+          269,
+          284
+        ],
+        "range": [
+          37
+        ],
+        "Na-U": [
+          38
+        ],
+        "periodic": [
+          41
+        ],
+        "table": [
+          42
+        ],
+        "using": [
+          43,
+          276
+        ],
+        "various": [
+          44,
+          264
+        ],
+        "analytical": [
+          45
+        ],
+        "techniques.": [
+          46
+        ],
+        "The": [
+          47,
+          65,
+          99,
+          164,
+          257,
+          272
+        ],
+        "commonly": [
+          50
+        ],
+        "displayed": [
+          51
+        ],
+        "and": [
+          52,
+          57,
+          95,
+          125,
+          138,
+          150,
+          159,
+          175,
+          267,
+          294,
+          321
+        ],
+        "interpreted": [
+          53
+        ],
+        "as": [
+          54,
+          131,
+          144,
+          182
+        ],
+        "ratios,": [
+          55
+        ],
+        "indices": [
+          56
+        ],
+        "proxy": [
+          58
+        ],
+        "values": [
+          59
+        ],
+        "profile": [
+          61,
+          198
+        ],
+        "form": [
+          62
+        ],
+        "against": [
+          63
+        ],
+        "depth.": [
+          64
+        ],
+        "large": [
+          66,
+          100
+        ],
+        "number": [
+          67,
+          101,
+          193
+        ],
+        "of": [
+          68,
+          102,
+          107,
+          171,
+          194,
+          230,
+          251,
+          309,
+          327
+        ],
+        "possible": [
+          69
+        ],
+        "combinations": [
+          70
+        ],
+        "between": [
+          71,
+          97,
+          205,
+          254
+        ],
+        "determined": [
+          73,
+          222
+        ],
+        "(more": [
+          75
+        ],
+        "than": [
+          76
+        ],
+        "a": [
+          77,
+          82,
+          145,
+          152,
+          168,
+          183
+        ],
+        "thousand": [
+          78
+        ],
+        "combinations),": [
+          79
+        ],
+        "makes": [
+          80
+        ],
+        "it": [
+          81
+        ],
+        "time-consuming": [
+          83
+        ],
+        "effort": [
+          84
+        ],
+        "identify": [
+          86,
+          161
+        ],
+        "meaningful": [
+          87
+        ],
+        "variations": [
+          88
+        ],
+        "that": [
+          89,
+          105,
+          116
+        ],
+        "resulted": [
+          90
+        ],
+        "correlative": [
+          92,
+          252
+        ],
+        "chemostratigraphic": [
+          93,
+          216,
+          273
+        ],
+        "boundaries": [
+          94,
+          253
+        ],
+        "zones": [
+          96
+        ],
+        "wells.": [
+          98
+        ],
+        "combination": [
+          103
+        ],
+        "means": [
+          104
+        ],
+        "30-40%": [
+          106
+        ],
+        "information": [
+          109
+        ],
+        "is": [
+          110,
+          188,
+          212,
+          221,
+          303,
+          330
+        ],
+        "not": [
+          111
+        ],
+        "used": [
+          112,
+          189
+        ],
+        "correlations": [
+          115,
+          274
+        ],
+        "maybe": [
+          117
+        ],
+        "crucial": [
+          118
+        ],
+        "understand": [
+          120
+        ],
+        "geological": [
+          122,
+          162,
+          265
+        ],
+        "processes.": [
+          123
+        ],
+        "Automation": [
+          124
+        ],
+        "artificial": [
+          126
+        ],
+        "intelligence": [
+          127
+        ],
+        "(AI)": [
+          128
+        ],
+        "envisaged": [
+          130
+        ],
+        "likely": [
+          132
+        ],
+        "solutions": [
+          133
+        ],
+        "this": [
+          135,
+          277
+        ],
+        "challenge.": [
+          136
+        ],
+        "Statistical": [
+          137
+        ],
+        "machine": [
+          139,
+          299
+        ],
+        "learning": [
+          140,
+          238,
+          300
+        ],
+        "techniques": [
+          141
+        ],
+        "tested": [
+          143,
+          262
+        ],
+        "first": [
+          146
+        ],
+        "step": [
+          147
+        ],
+        "automate": [
+          149
+        ],
+        "establish": [
+          151
+        ],
+        "workflow": [
+          153,
+          165,
+          259,
+          278,
+          287,
+          311
+        ],
+        "define": [
+          155,
+          215
+        ],
+        "(chemo-)": [
+          156
+        ],
+        "boundaries,": [
+          158
+        ],
+        "formations.": [
+          163
+        ],
+        "commences": [
+          166
+        ],
+        "with": [
+          167,
+          177,
+          319
+        ],
+        "quality": [
+          169
+        ],
+        "check": [
+          170
+        ],
+        "input": [
+          173
+        ],
+        "then": [
+          176,
+          213
+        ],
+        "principle": [
+          178
+        ],
+        "component": [
+          179
+        ],
+        "analysis": [
+          180,
+          242
+        ],
+        "(PCA)": [
+          181
+        ],
+        "multivariate": [
+          184
+        ],
+        "statistical": [
+          185,
+          208,
+          235
+        ],
+        "method.": [
+          186
+        ],
+        "PCA": [
+          187
+        ],
+        "minimize": [
+          191
+        ],
+        "elements/ratios": [
+          195
+        ],
+        "plotted": [
+          196
+        ],
+        "form,": [
+          199
+        ],
+        "whilst": [
+          200
+        ],
+        "simultaneously": [
+          201
+        ],
+        "identifying": [
+          202
+        ],
+        "multidimensional": [
+          203
+        ],
+        "relationships": [
+          204
+        ],
+        "them.": [
+          206
+        ],
+        "A": [
+          207,
+          315
+        ],
+        "boundary": [
+          209
+        ],
+        "picking": [
+          210
+        ],
+        "method": [
+          211
+        ],
+        "applied": [
+          214
+        ],
+        "zones,": [
+          217
+        ],
+        "which": [
+          219,
+          226
+        ],
+        "reliability": [
+          220
+        ],
+        "utilizing": [
+          223
+        ],
+        "quartile": [
+          224
+        ],
+        "analysis,": [
+          225
+        ],
+        "tests": [
+          227
+        ],
+        "overlap": [
+          229
+        ],
+        "chemical": [
+          231
+        ],
+        "signals": [
+          232
+        ],
+        "across": [
+          233
+        ],
+        "these": [
+          234
+        ],
+        "boundaries.": [
+          236
+        ],
+        "Machine": [
+          237
+        ],
+        "via": [
+          239,
+          301
+        ],
+        "discriminant": [
+          240
+        ],
+        "function": [
+          241
+        ],
+        "(DFA)": [
+          243
+        ],
+        "been": [
+          245,
+          261
+        ],
+        "developed": [
+          246
+        ],
+        "predict": [
+          248
+        ],
+        "placement": [
+          250
+        ],
+        "adjacent": [
+          255
+        ],
+        "sections/wells.": [
+          256
+        ],
+        "proposed": [
+          258,
+          275
+        ],
+        "on": [
+          263
+        ],
+        "formations": [
+          266
+        ],
+        "areas": [
+          268
+        ],
+        "Saudi": [
+          270
+        ],
+        "Arabia.": [
+          271
+        ],
+        "broadly": [
+          279
+        ],
+        "correspond": [
+          280
+        ],
+        "those": [
+          282
+        ],
+        "defined": [
+          283
+        ],
+        "standard": [
+          286
+        ],
+        "by": [
+          288
+        ],
+        "experienced": [
+          289
+        ],
+        "chemostratigraphers,": [
+          290
+        ],
+        "while": [
+          291
+        ],
+        "interpretation": [
+          292
+        ],
+        "times": [
+          293
+        ],
+        "subjectivity": [
+          295
+        ],
+        "reduced.": [
+          297
+        ],
+        "While": [
+          298
+        ],
+        "DFA": [
+          302
+        ],
+        "currently": [
+          304
+        ],
+        "further": [
+          305
+        ],
+        "researched,": [
+          306
+        ],
+        "early": [
+          307
+        ],
+        "results": [
+          308
+        ],
+        "very": [
+          313
+        ],
+        "encouraging.": [
+          314
+        ],
+        "user-friendly": [
+          316
+        ],
+        "software": [
+          317
+        ],
+        "application": [
+          318
+        ],
+        "workflows": [
+          320
+        ],
+        "algorithms": [
+          322
+        ],
+        "ultimately": [
+          323
+        ],
+        "leading": [
+          324
+        ],
+        "automation": [
+          326
+        ],
+        "processes": [
+          329
+        ],
+        "under": [
+          331
+        ],
+        "development.": [
+          332
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-02-07T08:09:18.108334",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4724,8 +6498,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5299999713897705
         }
       ],
@@ -5833,8 +7607,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.75
         }
       ],
@@ -6945,8 +8719,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -7559,1772 +9333,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4408327353",
-      "doi": "https://doi.org/10.1016/j.apgeochem.2025.106355",
-      "title": "Best practices of utilizing principal component analysis in chemostratigraphic studies",
-      "display_name": "Best practices of utilizing principal component analysis in chemostratigraphic studies",
-      "publication_year": 2025,
-      "publication_date": "2025-03-11",
-      "ids": {
-        "openalex": "https://openalex.org/W4408327353",
-        "doi": "https://doi.org/10.1016/j.apgeochem.2025.106355"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.apgeochem.2025.106355",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.apgeochem.2025.106355",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S105929320",
-          "display_name": "Applied Geochemistry",
-          "issn_l": "0883-2927",
-          "issn": [
-            "0883-2927",
-            "1872-9134"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Applied Geochemistry",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5002041459",
-            "display_name": "Nikolaos A. Michael",
-            "orcid": "https://orcid.org/0000-0002-6113-9589"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Nikolaos A. Michael",
-          "raw_affiliation_strings": [
-            "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5009963240",
-            "display_name": "Mustafa A. Al Ibrahim",
-            "orcid": "https://orcid.org/0000-0001-9765-0162"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mustafa A. Al Ibrahim",
-          "raw_affiliation_strings": [
-            "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "EXPEC Advanced Research Center, Geology Technology Division, Saudi Aramco, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5045570928",
-            "display_name": "Christian Scheibe",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Christian Scheibe",
-          "raw_affiliation_strings": [
-            "Saudi Aramco, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5013083803",
-            "display_name": "Neil W. Craigie",
-            "orcid": "https://orcid.org/0000-0002-9728-9036"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Neil Craigie",
-          "raw_affiliation_strings": [
-            "Saudi Aramco, Dhahran, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5002041459"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210143841"
-      ],
-      "apc_list": {
-        "value": 3350,
-        "currency": "USD",
-        "value_usd": 3350
-      },
-      "apc_paid": null,
-      "fwci": 14.45923544,
-      "has_fulltext": false,
-      "cited_by_count": 3,
-      "citation_normalized_percentile": {
-        "value": 0.97363639,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 96,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "186",
-        "issue": null,
-        "first_page": "106355",
-        "last_page": "106355"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.9993000030517578,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11740",
-          "display_name": "Geochemistry and Elemental Analysis",
-          "score": 0.9912999868392944,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10946",
-          "display_name": "Radioactivity and Radon Measurements",
-          "score": 0.9794999957084656,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3614",
-            "display_name": "Radiological and Ultrasound Technology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/36",
-            "display_name": "Health Professions"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/4",
-            "display_name": "Health Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/principal-component-analysis",
-          "display_name": "Principal component analysis",
-          "score": 0.6826322078704834
-        },
-        {
-          "id": "https://openalex.org/keywords/component",
-          "display_name": "Component (thermodynamics)",
-          "score": 0.5186752080917358
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.3742525577545166
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.2999750077724457
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.1608414649963379
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C27438332",
-          "wikidata": "https://www.wikidata.org/wiki/Q2873",
-          "display_name": "Principal component analysis",
-          "level": 2,
-          "score": 0.6826322078704834
-        },
-        {
-          "id": "https://openalex.org/C168167062",
-          "wikidata": "https://www.wikidata.org/wiki/Q1117970",
-          "display_name": "Component (thermodynamics)",
-          "level": 2,
-          "score": 0.5186752080917358
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.3742525577545166
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.2999750077724457
-        },
-        {
-          "id": "https://openalex.org/C154945302",
-          "wikidata": "https://www.wikidata.org/wiki/Q11660",
-          "display_name": "Artificial intelligence",
-          "level": 1,
-          "score": 0.1608414649963379
-        },
-        {
-          "id": "https://openalex.org/C97355855",
-          "wikidata": "https://www.wikidata.org/wiki/Q11473",
-          "display_name": "Thermodynamics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.apgeochem.2025.106355",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.apgeochem.2025.106355",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S105929320",
-            "display_name": "Applied Geochemistry",
-            "issn_l": "0883-2927",
-            "issn": [
-              "0883-2927",
-              "1872-9134"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Applied Geochemistry",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/2",
-          "display_name": "Zero hunger",
-          "score": 0.6800000071525574
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 46,
-      "referenced_works": [
-        "https://openalex.org/W1920010643",
-        "https://openalex.org/W1965555277",
-        "https://openalex.org/W1990839417",
-        "https://openalex.org/W2005604628",
-        "https://openalex.org/W2016848487",
-        "https://openalex.org/W2021651273",
-        "https://openalex.org/W2024923518",
-        "https://openalex.org/W2025458469",
-        "https://openalex.org/W2042299971",
-        "https://openalex.org/W2072498451",
-        "https://openalex.org/W2087689197",
-        "https://openalex.org/W2089227677",
-        "https://openalex.org/W2092904239",
-        "https://openalex.org/W2124390624",
-        "https://openalex.org/W2137690751",
-        "https://openalex.org/W2145804763",
-        "https://openalex.org/W2252686556",
-        "https://openalex.org/W2396859177",
-        "https://openalex.org/W2477536975",
-        "https://openalex.org/W2503993098",
-        "https://openalex.org/W2517057392",
-        "https://openalex.org/W2530005595",
-        "https://openalex.org/W2726137661",
-        "https://openalex.org/W2742221252",
-        "https://openalex.org/W2784277501",
-        "https://openalex.org/W3023798565",
-        "https://openalex.org/W3126847908",
-        "https://openalex.org/W4200232387",
-        "https://openalex.org/W4243034119",
-        "https://openalex.org/W4285268216",
-        "https://openalex.org/W4368351261",
-        "https://openalex.org/W4378229710",
-        "https://openalex.org/W4403267492",
-        "https://openalex.org/W6640122379",
-        "https://openalex.org/W6655568089",
-        "https://openalex.org/W6656758449",
-        "https://openalex.org/W6656789564",
-        "https://openalex.org/W6678618728",
-        "https://openalex.org/W6681447697",
-        "https://openalex.org/W6684856879",
-        "https://openalex.org/W6721337010",
-        "https://openalex.org/W6723459858",
-        "https://openalex.org/W6742177861",
-        "https://openalex.org/W6805199229",
-        "https://openalex.org/W6839915920",
-        "https://openalex.org/W6852492747"
-      ],
-      "related_works": [
-        "https://openalex.org/W1975632186",
-        "https://openalex.org/W3027745756",
-        "https://openalex.org/W3205213561",
-        "https://openalex.org/W2531880140",
-        "https://openalex.org/W2036609560",
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W346861917",
-        "https://openalex.org/W3024018414",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W2126145365"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-01-19T04:01:09.351973",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4200232387",
-      "doi": "https://doi.org/10.2118/204892-ms",
-      "title": "Automations in Chemostratigraphy: Toward Robust Chemical Data Analysis and Interpretation",
-      "display_name": "Automations in Chemostratigraphy: Toward Robust Chemical Data Analysis and Interpretation",
-      "publication_year": 2021,
-      "publication_date": "2021-12-15",
-      "ids": {
-        "openalex": "https://openalex.org/W4200232387",
-        "doi": "https://doi.org/10.2118/204892-ms"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2118/204892-ms",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.2118/204892-ms",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "SPE Middle East Oil &amp; Gas Show and Conference",
-        "raw_type": "proceedings-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5002041459",
-            "display_name": "Nikolaos A. Michael",
-            "orcid": "https://orcid.org/0000-0002-6113-9589"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Nikolaos A. Michael",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5045570928",
-            "display_name": "Christian Scheibe",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Christian Scheibe",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5013083803",
-            "display_name": "Neil W. Craigie",
-            "orcid": "https://orcid.org/0000-0002-9728-9036"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Neil W. Craigie",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5002041459"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.1886851,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 95
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.9980999827384949,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9980999827384949,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12282",
-          "display_name": "Mineral Processing and Grinding",
-          "score": 0.9908000230789185,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10640",
-          "display_name": "Spectroscopy and Chemometric Analyses",
-          "score": 0.9376000165939331,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1602",
-            "display_name": "Analytical Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/16",
-            "display_name": "Chemistry"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/chemostratigraphy",
-          "display_name": "Chemostratigraphy",
-          "score": 0.7482656836509705
-        },
-        {
-          "id": "https://openalex.org/keywords/principal-component-analysis",
-          "display_name": "Principal component analysis",
-          "score": 0.5894122123718262
-        },
-        {
-          "id": "https://openalex.org/keywords/workflow",
-          "display_name": "Workflow",
-          "score": 0.5604220628738403
-        },
-        {
-          "id": "https://openalex.org/keywords/automation",
-          "display_name": "Automation",
-          "score": 0.5073129534721375
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.4904031753540039
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.46845102310180664
-        },
-        {
-          "id": "https://openalex.org/keywords/data-mining",
-          "display_name": "Data mining",
-          "score": 0.45386600494384766
-        },
-        {
-          "id": "https://openalex.org/keywords/exploratory-data-analysis",
-          "display_name": "Exploratory data analysis",
-          "score": 0.4214523136615753
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.3948971629142761
-        },
-        {
-          "id": "https://openalex.org/keywords/pattern-recognition",
-          "display_name": "Pattern recognition (psychology)",
-          "score": 0.32447075843811035
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.15953660011291504
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C190890723",
-          "wikidata": "https://www.wikidata.org/wiki/Q2729912",
-          "display_name": "Chemostratigraphy",
-          "level": 4,
-          "score": 0.7482656836509705
-        },
-        {
-          "id": "https://openalex.org/C27438332",
-          "wikidata": "https://www.wikidata.org/wiki/Q2873",
-          "display_name": "Principal component analysis",
-          "level": 2,
-          "score": 0.5894122123718262
-        },
-        {
-          "id": "https://openalex.org/C177212765",
-          "wikidata": "https://www.wikidata.org/wiki/Q627335",
-          "display_name": "Workflow",
-          "level": 2,
-          "score": 0.5604220628738403
-        },
-        {
-          "id": "https://openalex.org/C115901376",
-          "wikidata": "https://www.wikidata.org/wiki/Q184199",
-          "display_name": "Automation",
-          "level": 2,
-          "score": 0.5073129534721375
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.4904031753540039
-        },
-        {
-          "id": "https://openalex.org/C154945302",
-          "wikidata": "https://www.wikidata.org/wiki/Q11660",
-          "display_name": "Artificial intelligence",
-          "level": 1,
-          "score": 0.46845102310180664
-        },
-        {
-          "id": "https://openalex.org/C124101348",
-          "wikidata": "https://www.wikidata.org/wiki/Q172491",
-          "display_name": "Data mining",
-          "level": 1,
-          "score": 0.45386600494384766
-        },
-        {
-          "id": "https://openalex.org/C120894424",
-          "wikidata": "https://www.wikidata.org/wiki/Q1322871",
-          "display_name": "Exploratory data analysis",
-          "level": 2,
-          "score": 0.4214523136615753
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.3948971629142761
-        },
-        {
-          "id": "https://openalex.org/C153180895",
-          "wikidata": "https://www.wikidata.org/wiki/Q7148389",
-          "display_name": "Pattern recognition (psychology)",
-          "level": 2,
-          "score": 0.32447075843811035
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.15953660011291504
-        },
-        {
-          "id": "https://openalex.org/C78519656",
-          "wikidata": "https://www.wikidata.org/wiki/Q101333",
-          "display_name": "Mechanical engineering",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C164304813",
-          "wikidata": "https://www.wikidata.org/wiki/Q25276",
-          "display_name": "Isotope",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C185059815",
-          "wikidata": "https://www.wikidata.org/wiki/Q471790",
-          "display_name": "Isotopes of carbon",
-          "level": 3,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C77088390",
-          "wikidata": "https://www.wikidata.org/wiki/Q8513",
-          "display_name": "Database",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2118/204892-ms",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.2118/204892-ms",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "SPE Middle East Oil &amp; Gas Show and Conference",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/16",
-          "display_name": "Peace, Justice and strong institutions",
-          "score": 0.49000000953674316
-        },
-        {
-          "id": "https://metadata.un.org/sdg/10",
-          "display_name": "Reduced inequalities",
-          "score": 0.4699999988079071
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 6,
-      "referenced_works": [
-        "https://openalex.org/W194170838",
-        "https://openalex.org/W2170193952",
-        "https://openalex.org/W2783004461",
-        "https://openalex.org/W2996180162",
-        "https://openalex.org/W6684856879",
-        "https://openalex.org/W6748319368"
-      ],
-      "related_works": [
-        "https://openalex.org/W28661983",
-        "https://openalex.org/W2891837369",
-        "https://openalex.org/W2595958670",
-        "https://openalex.org/W1998534612",
-        "https://openalex.org/W3097255087",
-        "https://openalex.org/W2885552844",
-        "https://openalex.org/W1975632186",
-        "https://openalex.org/W2945890006",
-        "https://openalex.org/W4312685627",
-        "https://openalex.org/W2039965506"
-      ],
-      "abstract_inverted_index": {
-        "15": [
-          13
-        ],
-        "50": [
-          33
-        ],
-        "Abstract": [
-          0
-        ],
-        "Elemental": [
-          1
-        ],
-        "chemostratigraphy": [
-          2
-        ],
-        "has": [
-          3,
-          244,
-          260
-        ],
-        "become": [
-          4
-        ],
-        "an": [
-          5
-        ],
-        "established": [
-          6
-        ],
-        "stratigraphic": [
-          7,
-          157
-        ],
-        "correlation": [
-          8
-        ],
-        "technique": [
-          9
-        ],
-        "over": [
-          10
-        ],
-        "the": [
-          11,
-          36,
-          40,
-          72,
-          108,
-          114,
-          121,
-          172,
-          192,
-          228,
-          249,
-          285,
-          310,
-          328
-        ],
-        "last": [
-          12
-        ],
-        "years.": [
-          14
-        ],
-        "Geochemical": [
-          15
-        ],
-        "data": [
-          16,
-          48,
-          174
-        ],
-        "are": [
-          17,
-          49,
-          129,
-          142,
-          296,
-          312
-        ],
-        "generated": [
-          18
-        ],
-        "from": [
-          19
-        ],
-        "rock": [
-          20
-        ],
-        "samples": [
-          21
-        ],
-        "(e.g.,": [
-          22
-        ],
-        "ditch": [
-          23
-        ],
-        "cuttings,": [
-          24
-        ],
-        "cores": [
-          25
-        ],
-        "or": [
-          26
-        ],
-        "hand": [
-          27
-        ],
-        "specimens)": [
-          28
-        ],
-        "for": [
-          29,
-          113,
-          218
-        ],
-        "up": [
-          30
-        ],
-        "to": [
-          31,
-          85,
-          119,
-          134,
-          148,
-          154,
-          160,
-          190,
-          247,
-          281,
-          325
-        ],
-        "c.": [
-          32
-        ],
-        "elements": [
-          34,
-          74
-        ],
-        "in": [
-          35,
-          39,
-          60,
-          91,
-          197,
-          269,
-          284
-        ],
-        "range": [
-          37
-        ],
-        "Na-U": [
-          38
-        ],
-        "periodic": [
-          41
-        ],
-        "table": [
-          42
-        ],
-        "using": [
-          43,
-          276
-        ],
-        "various": [
-          44,
-          264
-        ],
-        "analytical": [
-          45
-        ],
-        "techniques.": [
-          46
-        ],
-        "The": [
-          47,
-          65,
-          99,
-          164,
-          257,
-          272
-        ],
-        "commonly": [
-          50
-        ],
-        "displayed": [
-          51
-        ],
-        "and": [
-          52,
-          57,
-          95,
-          125,
-          138,
-          150,
-          159,
-          175,
-          267,
-          294,
-          321
-        ],
-        "interpreted": [
-          53
-        ],
-        "as": [
-          54,
-          131,
-          144,
-          182
-        ],
-        "ratios,": [
-          55
-        ],
-        "indices": [
-          56
-        ],
-        "proxy": [
-          58
-        ],
-        "values": [
-          59
-        ],
-        "profile": [
-          61,
-          198
-        ],
-        "form": [
-          62
-        ],
-        "against": [
-          63
-        ],
-        "depth.": [
-          64
-        ],
-        "large": [
-          66,
-          100
-        ],
-        "number": [
-          67,
-          101,
-          193
-        ],
-        "of": [
-          68,
-          102,
-          107,
-          171,
-          194,
-          230,
-          251,
-          309,
-          327
-        ],
-        "possible": [
-          69
-        ],
-        "combinations": [
-          70
-        ],
-        "between": [
-          71,
-          97,
-          205,
-          254
-        ],
-        "determined": [
-          73,
-          222
-        ],
-        "(more": [
-          75
-        ],
-        "than": [
-          76
-        ],
-        "a": [
-          77,
-          82,
-          145,
-          152,
-          168,
-          183
-        ],
-        "thousand": [
-          78
-        ],
-        "combinations),": [
-          79
-        ],
-        "makes": [
-          80
-        ],
-        "it": [
-          81
-        ],
-        "time-consuming": [
-          83
-        ],
-        "effort": [
-          84
-        ],
-        "identify": [
-          86,
-          161
-        ],
-        "meaningful": [
-          87
-        ],
-        "variations": [
-          88
-        ],
-        "that": [
-          89,
-          105,
-          116
-        ],
-        "resulted": [
-          90
-        ],
-        "correlative": [
-          92,
-          252
-        ],
-        "chemostratigraphic": [
-          93,
-          216,
-          273
-        ],
-        "boundaries": [
-          94,
-          253
-        ],
-        "zones": [
-          96
-        ],
-        "wells.": [
-          98
-        ],
-        "combination": [
-          103
-        ],
-        "means": [
-          104
-        ],
-        "30-40%": [
-          106
-        ],
-        "information": [
-          109
-        ],
-        "is": [
-          110,
-          188,
-          212,
-          221,
-          303,
-          330
-        ],
-        "not": [
-          111
-        ],
-        "used": [
-          112,
-          189
-        ],
-        "correlations": [
-          115,
-          274
-        ],
-        "maybe": [
-          117
-        ],
-        "crucial": [
-          118
-        ],
-        "understand": [
-          120
-        ],
-        "geological": [
-          122,
-          162,
-          265
-        ],
-        "processes.": [
-          123
-        ],
-        "Automation": [
-          124
-        ],
-        "artificial": [
-          126
-        ],
-        "intelligence": [
-          127
-        ],
-        "(AI)": [
-          128
-        ],
-        "envisaged": [
-          130
-        ],
-        "likely": [
-          132
-        ],
-        "solutions": [
-          133
-        ],
-        "this": [
-          135,
-          277
-        ],
-        "challenge.": [
-          136
-        ],
-        "Statistical": [
-          137
-        ],
-        "machine": [
-          139,
-          299
-        ],
-        "learning": [
-          140,
-          238,
-          300
-        ],
-        "techniques": [
-          141
-        ],
-        "tested": [
-          143,
-          262
-        ],
-        "first": [
-          146
-        ],
-        "step": [
-          147
-        ],
-        "automate": [
-          149
-        ],
-        "establish": [
-          151
-        ],
-        "workflow": [
-          153,
-          165,
-          259,
-          278,
-          287,
-          311
-        ],
-        "define": [
-          155,
-          215
-        ],
-        "(chemo-)": [
-          156
-        ],
-        "boundaries,": [
-          158
-        ],
-        "formations.": [
-          163
-        ],
-        "commences": [
-          166
-        ],
-        "with": [
-          167,
-          177,
-          319
-        ],
-        "quality": [
-          169
-        ],
-        "check": [
-          170
-        ],
-        "input": [
-          173
-        ],
-        "then": [
-          176,
-          213
-        ],
-        "principle": [
-          178
-        ],
-        "component": [
-          179
-        ],
-        "analysis": [
-          180,
-          242
-        ],
-        "(PCA)": [
-          181
-        ],
-        "multivariate": [
-          184
-        ],
-        "statistical": [
-          185,
-          208,
-          235
-        ],
-        "method.": [
-          186
-        ],
-        "PCA": [
-          187
-        ],
-        "minimize": [
-          191
-        ],
-        "elements/ratios": [
-          195
-        ],
-        "plotted": [
-          196
-        ],
-        "form,": [
-          199
-        ],
-        "whilst": [
-          200
-        ],
-        "simultaneously": [
-          201
-        ],
-        "identifying": [
-          202
-        ],
-        "multidimensional": [
-          203
-        ],
-        "relationships": [
-          204
-        ],
-        "them.": [
-          206
-        ],
-        "A": [
-          207,
-          315
-        ],
-        "boundary": [
-          209
-        ],
-        "picking": [
-          210
-        ],
-        "method": [
-          211
-        ],
-        "applied": [
-          214
-        ],
-        "zones,": [
-          217
-        ],
-        "which": [
-          219,
-          226
-        ],
-        "reliability": [
-          220
-        ],
-        "utilizing": [
-          223
-        ],
-        "quartile": [
-          224
-        ],
-        "analysis,": [
-          225
-        ],
-        "tests": [
-          227
-        ],
-        "overlap": [
-          229
-        ],
-        "chemical": [
-          231
-        ],
-        "signals": [
-          232
-        ],
-        "across": [
-          233
-        ],
-        "these": [
-          234
-        ],
-        "boundaries.": [
-          236
-        ],
-        "Machine": [
-          237
-        ],
-        "via": [
-          239,
-          301
-        ],
-        "discriminant": [
-          240
-        ],
-        "function": [
-          241
-        ],
-        "(DFA)": [
-          243
-        ],
-        "been": [
-          245,
-          261
-        ],
-        "developed": [
-          246
-        ],
-        "predict": [
-          248
-        ],
-        "placement": [
-          250
-        ],
-        "adjacent": [
-          255
-        ],
-        "sections/wells.": [
-          256
-        ],
-        "proposed": [
-          258,
-          275
-        ],
-        "on": [
-          263
-        ],
-        "formations": [
-          266
-        ],
-        "areas": [
-          268
-        ],
-        "Saudi": [
-          270
-        ],
-        "Arabia.": [
-          271
-        ],
-        "broadly": [
-          279
-        ],
-        "correspond": [
-          280
-        ],
-        "those": [
-          282
-        ],
-        "defined": [
-          283
-        ],
-        "standard": [
-          286
-        ],
-        "by": [
-          288
-        ],
-        "experienced": [
-          289
-        ],
-        "chemostratigraphers,": [
-          290
-        ],
-        "while": [
-          291
-        ],
-        "interpretation": [
-          292
-        ],
-        "times": [
-          293
-        ],
-        "subjectivity": [
-          295
-        ],
-        "reduced.": [
-          297
-        ],
-        "While": [
-          298
-        ],
-        "DFA": [
-          302
-        ],
-        "currently": [
-          304
-        ],
-        "further": [
-          305
-        ],
-        "researched,": [
-          306
-        ],
-        "early": [
-          307
-        ],
-        "results": [
-          308
-        ],
-        "very": [
-          313
-        ],
-        "encouraging.": [
-          314
-        ],
-        "user-friendly": [
-          316
-        ],
-        "software": [
-          317
-        ],
-        "application": [
-          318
-        ],
-        "workflows": [
-          320
-        ],
-        "algorithms": [
-          322
-        ],
-        "ultimately": [
-          323
-        ],
-        "leading": [
-          324
-        ],
-        "automation": [
-          326
-        ],
-        "processes": [
-          329
-        ],
-        "under": [
-          331
-        ],
-        "development.": [
-          332
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4200187165",
       "doi": "https://doi.org/10.2118/204591-ms",
       "title": "New Workflow of Sediment Mass Balancing, from Local Datasets, for Predicting Basin Scale Trends",
@@ -9778,8 +9786,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579
         }
       ],
@@ -13331,8 +13339,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8528909683227539
         }
       ],
