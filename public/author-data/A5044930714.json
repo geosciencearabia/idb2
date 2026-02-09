@@ -286,7 +286,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000315,
+        "value": 0.0000314,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -474,7 +474,7 @@
     },
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-02-03T19:50:13.913683",
+    "updated_date": "2026-02-08T12:19:28.444621",
     "created_date": "2019-12-13"
   },
   "works": [
@@ -1816,8 +1816,8 @@
         "https://openalex.org/A5037966215"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I1341618623",
-        "https://openalex.org/I103187081"
+        "https://openalex.org/I103187081",
+        "https://openalex.org/I1341618623"
       ],
       "apc_list": {
         "value": 9750,
@@ -1833,7 +1833,7 @@
       "has_fulltext": false,
       "cited_by_count": 180,
       "citation_normalized_percentile": {
-        "value": 0.99959759,
+        "value": 0.99959793,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2151,36 +2151,8 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D004777",
-          "descriptor_name": "Environment",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D005580",
-          "descriptor_name": "Fossils",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D063426",
-          "descriptor_name": "Human Migration",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
+          "descriptor_ui": "D001106",
+          "descriptor_name": "Archaeology",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -2200,36 +2172,8 @@
           "is_major_topic": false
         },
         {
-          "descriptor_ui": "D005580",
-          "descriptor_name": "Fossils",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D063426",
-          "descriptor_name": "Human Migration",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": true
-        },
-        {
-          "descriptor_ui": "D006801",
-          "descriptor_name": "Humans",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D012529",
-          "descriptor_name": "Saudi Arabia",
-          "qualifier_ui": null,
-          "qualifier_name": null,
-          "is_major_topic": false
-        },
-        {
-          "descriptor_ui": "D001106",
-          "descriptor_name": "Archaeology",
+          "descriptor_ui": "D004777",
+          "descriptor_name": "Environment",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
@@ -2249,11 +2193,32 @@
           "is_major_topic": true
         },
         {
-          "descriptor_ui": "D063426",
-          "descriptor_name": "Human Migration",
+          "descriptor_ui": "D005580",
+          "descriptor_name": "Fossils",
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D005580",
+          "descriptor_name": "Fossils",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D006801",
+          "descriptor_name": "Humans",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
         },
         {
           "descriptor_ui": "D006801",
@@ -2268,6 +2233,41 @@
           "qualifier_ui": null,
           "qualifier_name": null,
           "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012529",
+          "descriptor_name": "Saudi Arabia",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D012529",
+          "descriptor_name": "Saudi Arabia",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": false
+        },
+        {
+          "descriptor_ui": "D063426",
+          "descriptor_name": "Human Migration",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D063426",
+          "descriptor_name": "Human Migration",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
+        },
+        {
+          "descriptor_ui": "D063426",
+          "descriptor_name": "Human Migration",
+          "qualifier_ui": null,
+          "qualifier_name": null,
+          "is_major_topic": true
         }
       ],
       "locations_count": 10,
@@ -2442,22 +2442,7 @@
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5935238",
           "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
+          "source": null,
           "license": null,
           "license_id": null,
           "version": "submittedVersion",
@@ -2501,7 +2486,7 @@
           "landing_page_url": "https://www.repository.cam.ac.uk/handle/1810/278306",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401776",
+            "id": "https://openalex.org/S4306401777",
             "display_name": "Apollo (University of Cambridge)",
             "issn_l": null,
             "issn": null,
@@ -2576,8 +2561,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -2692,7 +2677,612 @@
         "https://openalex.org/W2412941886",
         "https://openalex.org/W4385958259"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "5": [
+          197
+        ],
+        "85": [
+          93
+        ],
+        "Understanding": [
+          0
+        ],
+        "the": [
+          1,
+          6,
+          18,
+          50,
+          63,
+          89,
+          97,
+          104,
+          110,
+          117,
+          128,
+          190,
+          242
+        ],
+        "timing": [
+          2
+        ],
+        "and": [
+          3,
+          20,
+          54,
+          76,
+          127,
+          212
+        ],
+        "character": [
+          4
+        ],
+        "of": [
+          5,
+          8,
+          12,
+          35,
+          66,
+          106,
+          122,
+          133,
+          151,
+          179,
+          193,
+          223,
+          245,
+          250
+        ],
+        "expansion": [
+          7
+        ],
+        "Homo": [
+          9
+        ],
+        "sapiens": [
+          10,
+          86,
+          139,
+          220
+        ],
+        "out": [
+          11,
+          34,
+          222
+        ],
+        "Africa": [
+          13,
+          36,
+          126,
+          224
+        ],
+        "is": [
+          14,
+          116
+        ],
+        "critical": [
+          15
+        ],
+        "for": [
+          16,
+          176
+        ],
+        "inferring": [
+          17
+        ],
+        "colonization": [
+          19
+        ],
+        "admixture": [
+          21
+        ],
+        "processes": [
+          22
+        ],
+        "that": [
+          23,
+          32,
+          47,
+          60,
+          84,
+          137,
+          206
+        ],
+        "underpin": [
+          24
+        ],
+        "global": [
+          25
+        ],
+        "population": [
+          26
+        ],
+        "history.": [
+          27
+        ],
+        "It": [
+          28
+        ],
+        "has": [
+          29
+        ],
+        "been": [
+          30
+        ],
+        "argued": [
+          31
+        ],
+        "dispersal": [
+          33
+        ],
+        "had": [
+          37
+        ],
+        "an": [
+          38
+        ],
+        "early": [
+          39,
+          207
+        ],
+        "phase,": [
+          40,
+          57
+        ],
+        "particularly": [
+          41
+        ],
+        "~130-90": [
+          42
+        ],
+        "thousand": [
+          43
+        ],
+        "years": [
+          44
+        ],
+        "ago": [
+          45
+        ],
+        "(ka),": [
+          46
+        ],
+        "reached": [
+          48
+        ],
+        "only": [
+          49
+        ],
+        "East": [
+          51,
+          74
+        ],
+        "Mediterranean": [
+          52,
+          232
+        ],
+        "Levant,": [
+          53
+        ],
+        "a": [
+          55,
+          149,
+          161,
+          174,
+          186
+        ],
+        "later": [
+          56,
+          191
+        ],
+        "~60-50": [
+          58
+        ],
+        "ka,": [
+          59,
+          181
+        ],
+        "extended": [
+          61,
+          239
+        ],
+        "across": [
+          62
+        ],
+        "diverse": [
+          64
+        ],
+        "environments": [
+          65
+        ],
+        "Eurasia": [
+          67
+        ],
+        "to": [
+          68,
+          228,
+          236
+        ],
+        "Sahul.": [
+          69
+        ],
+        "However,": [
+          70
+        ],
+        "recent": [
+          71
+        ],
+        "findings": [
+          72
+        ],
+        "from": [
+          73,
+          103,
+          199
+        ],
+        "Asia": [
+          75
+        ],
+        "Sahul": [
+          77
+        ],
+        "challenge": [
+          78
+        ],
+        "this": [
+          79
+        ],
+        "model.": [
+          80
+        ],
+        "Here": [
+          81
+        ],
+        "we": [
+          82,
+          183
+        ],
+        "show": [
+          83
+        ],
+        "H.": [
+          85,
+          138,
+          219
+        ],
+        "was": [
+          87
+        ],
+        "in": [
+          88,
+          109,
+          158,
+          189
+        ],
+        "Arabian": [
+          90
+        ],
+        "Peninsula": [
+          91
+        ],
+        "before": [
+          92
+        ],
+        "ka.": [
+          94
+        ],
+        "We": [
+          95
+        ],
+        "describe": [
+          96
+        ],
+        "Al": [
+          98,
+          107,
+          134,
+          177,
+          203
+        ],
+        "Wusta-1": [
+          99
+        ],
+        "(AW-1)": [
+          100
+        ],
+        "intermediate": [
+          101
+        ],
+        "phalanx": [
+          102
+        ],
+        "site": [
+          105
+        ],
+        "Wusta": [
+          108,
+          135,
+          178,
+          204
+        ],
+        "Nefud": [
+          111
+        ],
+        "desert,": [
+          112
+        ],
+        "Saudi": [
+          113
+        ],
+        "Arabia.": [
+          114
+        ],
+        "AW-1": [
+          115
+        ],
+        "oldest": [
+          118
+        ],
+        "directly": [
+          119
+        ],
+        "dated": [
+          120
+        ],
+        "fossil": [
+          121
+        ],
+        "our": [
+          123
+        ],
+        "species": [
+          124
+        ],
+        "outside": [
+          125
+        ],
+        "Levant.": [
+          129
+        ],
+        "The": [
+          130
+        ],
+        "palaeoenvironmental": [
+          131
+        ],
+        "context": [
+          132
+        ],
+        "demonstrates": [
+          136
+        ],
+        "using": [
+          140
+        ],
+        "Middle": [
+          141
+        ],
+        "Palaeolithic": [
+          142
+        ],
+        "stone": [
+          143
+        ],
+        "tools": [
+          144
+        ],
+        "dispersed": [
+          145
+        ],
+        "into": [
+          146,
+          241
+        ],
+        "Arabia": [
+          147
+        ],
+        "during": [
+          148
+        ],
+        "phase": [
+          150
+        ],
+        "increased": [
+          152
+        ],
+        "precipitation": [
+          153
+        ],
+        "driven": [
+          154
+        ],
+        "by": [
+          155,
+          248
+        ],
+        "orbital": [
+          156
+        ],
+        "forcing,": [
+          157
+        ],
+        "association": [
+          159
+        ],
+        "with": [
+          160,
+          185
+        ],
+        "primarily": [
+          162
+        ],
+        "African": [
+          163
+        ],
+        "fauna.": [
+          164
+        ],
+        "A": [
+          165
+        ],
+        "Bayesian": [
+          166
+        ],
+        "model": [
+          167
+        ],
+        "incorporating": [
+          168
+        ],
+        "independent": [
+          169
+        ],
+        "chronometric": [
+          170
+        ],
+        "age": [
+          171
+        ],
+        "estimates": [
+          172
+        ],
+        "indicates": [
+          173
+        ],
+        "chronology": [
+          175
+        ],
+        "~95-86": [
+          180
+        ],
+        "which": [
+          182
+        ],
+        "correlate": [
+          184
+        ],
+        "humid": [
+          187
+        ],
+        "episode": [
+          188
+        ],
+        "part": [
+          192
+        ],
+        "Marine": [
+          194
+        ],
+        "Isotope": [
+          195
+        ],
+        "Stage": [
+          196
+        ],
+        "known": [
+          198
+        ],
+        "various": [
+          200
+        ],
+        "regional": [
+          201
+        ],
+        "records.": [
+          202
+        ],
+        "shows": [
+          205
+        ],
+        "dispersals": [
+          208,
+          221
+        ],
+        "were": [
+          209,
+          225
+        ],
+        "more": [
+          210
+        ],
+        "spatially": [
+          211
+        ],
+        "temporally": [
+          213
+        ],
+        "extensive": [
+          214
+        ],
+        "than": [
+          215
+        ],
+        "previously": [
+          216
+        ],
+        "thought.": [
+          217
+        ],
+        "Early": [
+          218
+        ],
+        "not": [
+          226
+        ],
+        "limited": [
+          227
+        ],
+        "winter": [
+          229
+        ],
+        "rainfall-fed": [
+          230
+        ],
+        "Levantine": [
+          231
+        ],
+        "woodlands": [
+          233
+        ],
+        "immediately": [
+          234
+        ],
+        "adjacent": [
+          235
+        ],
+        "Africa,": [
+          237
+        ],
+        "but": [
+          238
+        ],
+        "deep": [
+          240
+        ],
+        "semi-arid": [
+          243
+        ],
+        "grasslands": [
+          244
+        ],
+        "Arabia,": [
+          246
+        ],
+        "facilitated": [
+          247
+        ],
+        "periods": [
+          249
+        ],
+        "enhanced": [
+          251
+        ],
+        "monsoonal": [
+          252
+        ],
+        "rainfall.": [
+          253
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -2731,7 +3321,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-01-13T01:12:25.745995",
+      "updated_date": "2026-02-09T09:26:11.010843",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3404,8 +3994,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971608975.pdf",
@@ -3931,6 +4521,1416 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2399942965",
+      "doi": "https://doi.org/10.1016/j.quascirev.2016.05.016",
+      "title": "Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia: Implications for biogeography and palaeoecology",
+      "display_name": "Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia: Implications for biogeography and palaeoecology",
+      "publication_year": 2016,
+      "publication_date": "2016-05-18",
+      "ids": {
+        "openalex": "https://openalex.org/W2399942965",
+        "doi": "https://doi.org/10.1016/j.quascirev.2016.05.016",
+        "mag": "2399942965"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.quascirev.2016.05.016",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.quascirev.2016.05.016",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S81424476",
+          "display_name": "Quaternary Science Reviews",
+          "issn_l": "0277-3791",
+          "issn": [
+            "0277-3791",
+            "1873-457X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Quaternary Science Reviews",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://kclpure.kcl.ac.uk/portal/en/publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5026745332",
+            "display_name": "Christopher Stimpson",
+            "orcid": "https://orcid.org/0000-0003-4327-4987"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210140987",
+              "display_name": "Oxford Archaeology",
+              "ror": "https://ror.org/045f8jj92",
+              "country_code": "GB",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210140987"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Christopher M. Stimpson",
+          "raw_affiliation_strings": [
+            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
+              "institution_ids": [
+                "https://openalex.org/I4210140987",
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008745120",
+            "display_name": "Adrian M. Lister",
+            "orcid": "https://orcid.org/0000-0002-7985-138X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1336856363",
+              "display_name": "Natural History Museum",
+              "ror": "https://ror.org/039zvsn29",
+              "country_code": "GB",
+              "type": "archive",
+              "lineage": [
+                "https://openalex.org/I1336856363"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Adrian Lister",
+          "raw_affiliation_strings": [
+            "Earth Sciences Department, Natural History Museum, London SW7 5BD, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Department, Natural History Museum, London SW7 5BD, UK",
+              "institution_ids": [
+                "https://openalex.org/I1336856363"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5005196675",
+            "display_name": "Ash Parton",
+            "orcid": "https://orcid.org/0000-0002-1547-7675"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210140987",
+              "display_name": "Oxford Archaeology",
+              "ror": "https://ror.org/045f8jj92",
+              "country_code": "GB",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210140987"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ash Parton",
+          "raw_affiliation_strings": [
+            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
+              "institution_ids": [
+                "https://openalex.org/I4210140987",
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5039171376",
+            "display_name": "Laine Clark‐Balzan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210140987",
+              "display_name": "Oxford Archaeology",
+              "ror": "https://ror.org/045f8jj92",
+              "country_code": "GB",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210140987"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Laine Clark-Balzan",
+          "raw_affiliation_strings": [
+            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
+              "institution_ids": [
+                "https://openalex.org/I4210140987",
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031524231",
+            "display_name": "Paul S. Breeze",
+            "orcid": "https://orcid.org/0000-0003-2575-8021"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I183935753",
+              "display_name": "King's College London",
+              "ror": "https://ror.org/0220mzb33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Paul S. Breeze",
+          "raw_affiliation_strings": [
+            "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
+            "Department of Geography, King's College London, Strand, London WC2R 2LS, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
+              "institution_ids": [
+                "https://openalex.org/I183935753"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geography, King's College London, Strand, London WC2R 2LS, UK",
+              "institution_ids": [
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5108481153",
+            "display_name": "Nick Drake",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I183935753",
+              "display_name": "King's College London",
+              "ror": "https://ror.org/0220mzb33",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124357947",
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nick A. Drake",
+          "raw_affiliation_strings": [
+            "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
+            "Department of Geography, King's College London, Strand, London WC2R 2LS, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
+              "institution_ids": [
+                "https://openalex.org/I183935753"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geography, King's College London, Strand, London WC2R 2LS, UK",
+              "institution_ids": [
+                "https://openalex.org/I183935753"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5087955542",
+            "display_name": "Huw S. Groucutt",
+            "orcid": "https://orcid.org/0000-0002-9111-1720"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210140987",
+              "display_name": "Oxford Archaeology",
+              "ror": "https://ror.org/045f8jj92",
+              "country_code": "GB",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210140987"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Huw S. Groucutt",
+          "raw_affiliation_strings": [
+            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
+              "institution_ids": [
+                "https://openalex.org/I4210140987",
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5012731321",
+            "display_name": "Richard P. Jennings",
+            "orcid": "https://orcid.org/0000-0001-9996-7518"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210140987",
+              "display_name": "Oxford Archaeology",
+              "ror": "https://ror.org/045f8jj92",
+              "country_code": "GB",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210140987"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Richard Jennings",
+          "raw_affiliation_strings": [
+            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
+              "institution_ids": [
+                "https://openalex.org/I4210140987",
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5090082899",
+            "display_name": "Eleanor M. L. Scerri",
+            "orcid": "https://orcid.org/0000-0002-7468-9977"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210140987",
+              "display_name": "Oxford Archaeology",
+              "ror": "https://ror.org/045f8jj92",
+              "country_code": "GB",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210140987"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Eleanor M.L. Scerri",
+          "raw_affiliation_strings": [
+            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
+              "institution_ids": [
+                "https://openalex.org/I4210140987",
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085090223",
+            "display_name": "Tom S. White",
+            "orcid": "https://orcid.org/0000-0001-9056-7286"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210140987",
+              "display_name": "Oxford Archaeology",
+              "ror": "https://ror.org/045f8jj92",
+              "country_code": "GB",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210140987"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Tom S. White",
+          "raw_affiliation_strings": [
+            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
+              "institution_ids": [
+                "https://openalex.org/I4210140987",
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5045873226",
+            "display_name": "Muhammad Zahir",
+            "orcid": "https://orcid.org/0000-0002-1765-6319"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I263208278",
+              "display_name": "Hazara University",
+              "ror": "https://ror.org/018y22094",
+              "country_code": "PK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I263208278"
+              ]
+            }
+          ],
+          "countries": [
+            "PK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad Zahir",
+          "raw_affiliation_strings": [
+            "Hazara University, Karakoram Hwy, Dhodial 21120, Pakistan"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Hazara University, Karakoram Hwy, Dhodial 21120, Pakistan",
+              "institution_ids": [
+                "https://openalex.org/I263208278"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5060957276",
+            "display_name": "Mathieu Duval",
+            "orcid": "https://orcid.org/0000-0003-3181-7753"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210107073",
+              "display_name": "National Research Center on Human Evolution",
+              "ror": "https://ror.org/01nse6g27",
+              "country_code": "ES",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210107073"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mathieu Duval",
+          "raw_affiliation_strings": [
+            "Centro Nacional de Investigación sobre la Evolución Humana (CENIEH), Paseo de Atapuerca, 3, 09002 Burgos, Spain"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Centro Nacional de Investigación sobre la Evolución Humana (CENIEH), Paseo de Atapuerca, 3, 09002 Burgos, Spain",
+              "institution_ids": [
+                "https://openalex.org/I4210107073"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5014664106",
+            "display_name": "Rainer Grün",
+            "orcid": "https://orcid.org/0000-0003-1366-3674"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I11701301",
+              "display_name": "Griffith University",
+              "ror": "https://ror.org/02sc3r913",
+              "country_code": "AU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I11701301"
+              ]
+            }
+          ],
+          "countries": [
+            "AU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rainer Grün",
+          "raw_affiliation_strings": [
+            "Environmental Futures Research Institute, Nathan Campus, Griffith University, 170 Kessels Road, QLD 4111, Australia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Futures Research Institute, Nathan Campus, Griffith University, 170 Kessels Road, QLD 4111, Australia",
+              "institution_ids": [
+                "https://openalex.org/I11701301"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028580948",
+            "display_name": "Abdulaziz Al-Omari",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Abdulaziz Al-Omari",
+          "raw_affiliation_strings": [
+            "Saudi Commission for Tourism and National Heritage, P.O Box 66680, Riyadh 11586, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Commission for Tourism and National Heritage, P.O Box 66680, Riyadh 11586, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070992934",
+            "display_name": "Khalid Sultan M. Al Murayyi",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Sultan M. Al Murayyi",
+          "raw_affiliation_strings": [
+            "Saudi Commission for Tourism and National Heritage, P.O Box 66680, Riyadh 11586, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Commission for Tourism and National Heritage, P.O Box 66680, Riyadh 11586, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067218163",
+            "display_name": "Iyad S. Zalmout",
+            "orcid": "https://orcid.org/0000-0003-1874-801X"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Iyaed S. Zalmout",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5074597612",
+            "display_name": "Yahya A. Mufarreh",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Yahya A. Mufarreh",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044930714",
+            "display_name": "Abdullah Memesh",
+            "orcid": "https://orcid.org/0000-0001-8551-3240"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullah M. Memesh",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5037966215",
+            "display_name": "Michael D. Petraglia",
+            "orcid": "https://orcid.org/0000-0003-2522-5727"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210140987",
+              "display_name": "Oxford Archaeology",
+              "ror": "https://ror.org/045f8jj92",
+              "country_code": "GB",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210140987"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I40120149",
+              "display_name": "University of Oxford",
+              "ror": "https://ror.org/052gg0110",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michael D. Petraglia",
+          "raw_affiliation_strings": [
+            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
+              "institution_ids": [
+                "https://openalex.org/I4210140987",
+                "https://openalex.org/I40120149"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 4,
+      "institutions_distinct_count": 19,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5026745332"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I40120149",
+        "https://openalex.org/I4210140987"
+      ],
+      "apc_list": {
+        "value": 3660,
+        "currency": "USD",
+        "value_usd": 3660
+      },
+      "apc_paid": {
+        "value": 3660,
+        "currency": "USD",
+        "value_usd": 3660
+      },
+      "fwci": 28.66272993,
+      "has_fulltext": false,
+      "cited_by_count": 47,
+      "citation_normalized_percentile": {
+        "value": 0.99392579,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "143",
+        "issue": null,
+        "first_page": "13",
+        "last_page": "36"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10421",
+        "display_name": "Pleistocene-Era Hominins and Archaeology",
+        "score": 0.9994000196456909,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3314",
+          "display_name": "Anthropology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10421",
+          "display_name": "Pleistocene-Era Hominins and Archaeology",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3314",
+            "display_name": "Anthropology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11354",
+          "display_name": "Evolution and Paleontology Studies",
+          "score": 0.9993000030517578,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10199",
+          "display_name": "Wildlife Ecology and Conservation",
+          "score": 0.996999979019165,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2303",
+            "display_name": "Ecology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/crocuta-crocuta",
+          "display_name": "Crocuta crocuta",
+          "score": 0.9075850248336792
+        },
+        {
+          "id": "https://openalex.org/keywords/oryx",
+          "display_name": "Oryx",
+          "score": 0.729926586151123
+        },
+        {
+          "id": "https://openalex.org/keywords/pleistocene",
+          "display_name": "Pleistocene",
+          "score": 0.6806701421737671
+        },
+        {
+          "id": "https://openalex.org/keywords/paleoecology",
+          "display_name": "Paleoecology",
+          "score": 0.6534476280212402
+        },
+        {
+          "id": "https://openalex.org/keywords/equus",
+          "display_name": "Equus",
+          "score": 0.5943517088890076
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.5351482629776001
+        },
+        {
+          "id": "https://openalex.org/keywords/early-pleistocene",
+          "display_name": "Early Pleistocene",
+          "score": 0.4636107385158539
+        },
+        {
+          "id": "https://openalex.org/keywords/biogeography",
+          "display_name": "Biogeography",
+          "score": 0.4575454592704773
+        },
+        {
+          "id": "https://openalex.org/keywords/fauna",
+          "display_name": "Fauna",
+          "score": 0.45649635791778564
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.395376056432724
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.3663453161716461
+        },
+        {
+          "id": "https://openalex.org/keywords/panthera",
+          "display_name": "Panthera",
+          "score": 0.3252362608909607
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.24793976545333862
+        },
+        {
+          "id": "https://openalex.org/keywords/predation",
+          "display_name": "Predation",
+          "score": 0.14905667304992676
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2911002212",
+          "wikidata": "https://www.wikidata.org/wiki/Q178089",
+          "display_name": "Crocuta crocuta",
+          "level": 4,
+          "score": 0.9075850248336792
+        },
+        {
+          "id": "https://openalex.org/C2779536738",
+          "wikidata": "https://www.wikidata.org/wiki/Q658179",
+          "display_name": "Oryx",
+          "level": 2,
+          "score": 0.729926586151123
+        },
+        {
+          "id": "https://openalex.org/C53570757",
+          "wikidata": "https://www.wikidata.org/wiki/Q25546",
+          "display_name": "Pleistocene",
+          "level": 2,
+          "score": 0.6806701421737671
+        },
+        {
+          "id": "https://openalex.org/C177882397",
+          "wikidata": "https://www.wikidata.org/wiki/Q1337995",
+          "display_name": "Paleoecology",
+          "level": 2,
+          "score": 0.6534476280212402
+        },
+        {
+          "id": "https://openalex.org/C2778604835",
+          "wikidata": "https://www.wikidata.org/wiki/Q27022",
+          "display_name": "Equus",
+          "level": 2,
+          "score": 0.5943517088890076
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.5351482629776001
+        },
+        {
+          "id": "https://openalex.org/C2777775986",
+          "wikidata": "https://www.wikidata.org/wiki/Q444693",
+          "display_name": "Early Pleistocene",
+          "level": 3,
+          "score": 0.4636107385158539
+        },
+        {
+          "id": "https://openalex.org/C123575903",
+          "wikidata": "https://www.wikidata.org/wiki/Q52106",
+          "display_name": "Biogeography",
+          "level": 2,
+          "score": 0.4575454592704773
+        },
+        {
+          "id": "https://openalex.org/C125471540",
+          "wikidata": "https://www.wikidata.org/wiki/Q104021",
+          "display_name": "Fauna",
+          "level": 2,
+          "score": 0.45649635791778564
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.395376056432724
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.3663453161716461
+        },
+        {
+          "id": "https://openalex.org/C2778611284",
+          "wikidata": "https://www.wikidata.org/wiki/Q127960",
+          "display_name": "Panthera",
+          "level": 3,
+          "score": 0.3252362608909607
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.24793976545333862
+        },
+        {
+          "id": "https://openalex.org/C188382862",
+          "wikidata": "https://www.wikidata.org/wiki/Q170430",
+          "display_name": "Predation",
+          "level": 2,
+          "score": 0.14905667304992676
+        }
+      ],
+      "mesh": [],
+      "locations_count": 4,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.quascirev.2016.05.016",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.quascirev.2016.05.016",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S81424476",
+            "display_name": "Quaternary Science Reviews",
+            "issn_l": "0277-3791",
+            "issn": [
+              "0277-3791",
+              "1873-457X"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Quaternary Science Reviews",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
+          "is_oa": true,
+          "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
+          "pdf_url": null,
+          "source": null,
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
+        },
+        {
+          "id": "pmh:oai:research-repository.griffith.edu.au:10072/142575",
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/10072/142575",
+          "pdf_url": "http://hdl.handle.net/10072/142575",
+          "source": {
+            "id": "https://openalex.org/S4306402548",
+            "display_name": "Griffith Research Online (Griffith University, Queensland, Australia)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I11701301",
+            "host_organization_name": "Griffith University",
+            "host_organization_lineage": [
+              "https://openalex.org/I11701301"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Journal article"
+        },
+        {
+          "id": "pmh:oai:researchonline.ljmu.ac.uk:9395",
+          "is_oa": true,
+          "landing_page_url": null,
+          "pdf_url": "https://researchonline.ljmu.ac.uk/id/eprint/9395/1/Middle%20Pleistocene%20vertebrate%20fossils%20from%20the%20Nefud%20Desert%2C%20Saudi%20Arabia%20Implications%20for%20biogeography%20and%20palaeoecology.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306401246",
+            "display_name": "Liverpool John Moores University",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I63098007",
+            "host_organization_name": "Liverpool John Moores University",
+            "host_organization_lineage": [
+              "https://openalex.org/I63098007"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
+        "is_oa": true,
+        "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
+        "pdf_url": null,
+        "source": null,
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
+        "raw_type": "info:eu-repo/semantics/publishedVersion"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
+          "score": 0.6200000047683716
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G2710629218",
+          "display_name": null,
+          "funder_award_id": "295719",
+          "funder_id": "https://openalex.org/F4320334678",
+          "funder_display_name": "European Research Council"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321145",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417"
+        },
+        {
+          "id": "https://openalex.org/F4320334678",
+          "display_name": "European Research Council",
+          "ror": "https://ror.org/0472cxd90"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 137,
+      "referenced_works": [
+        "https://openalex.org/W96887878",
+        "https://openalex.org/W420749915",
+        "https://openalex.org/W433770221",
+        "https://openalex.org/W567395029",
+        "https://openalex.org/W602277926",
+        "https://openalex.org/W607823811",
+        "https://openalex.org/W617951419",
+        "https://openalex.org/W620733261",
+        "https://openalex.org/W622904322",
+        "https://openalex.org/W639966810",
+        "https://openalex.org/W651572359",
+        "https://openalex.org/W946392161",
+        "https://openalex.org/W956051031",
+        "https://openalex.org/W967671957",
+        "https://openalex.org/W1157801866",
+        "https://openalex.org/W1505313636",
+        "https://openalex.org/W1518492939",
+        "https://openalex.org/W1530663570",
+        "https://openalex.org/W1558059555",
+        "https://openalex.org/W1639897087",
+        "https://openalex.org/W1904147513",
+        "https://openalex.org/W1963635216",
+        "https://openalex.org/W1964139502",
+        "https://openalex.org/W1967671327",
+        "https://openalex.org/W1969267634",
+        "https://openalex.org/W1976470426",
+        "https://openalex.org/W1976915931",
+        "https://openalex.org/W1977121797",
+        "https://openalex.org/W1978109366",
+        "https://openalex.org/W1979481103",
+        "https://openalex.org/W1979995366",
+        "https://openalex.org/W1980175570",
+        "https://openalex.org/W1981862598",
+        "https://openalex.org/W1988076578",
+        "https://openalex.org/W1989836548",
+        "https://openalex.org/W1990549740",
+        "https://openalex.org/W1993020205",
+        "https://openalex.org/W1997069508",
+        "https://openalex.org/W1999007585",
+        "https://openalex.org/W2006215277",
+        "https://openalex.org/W2006375292",
+        "https://openalex.org/W2009097639",
+        "https://openalex.org/W2009401014",
+        "https://openalex.org/W2014666871",
+        "https://openalex.org/W2014867403",
+        "https://openalex.org/W2015263214",
+        "https://openalex.org/W2016714437",
+        "https://openalex.org/W2018136872",
+        "https://openalex.org/W2018186221",
+        "https://openalex.org/W2020024443",
+        "https://openalex.org/W2024387700",
+        "https://openalex.org/W2026422363",
+        "https://openalex.org/W2029580669",
+        "https://openalex.org/W2031530681",
+        "https://openalex.org/W2032047325",
+        "https://openalex.org/W2034497917",
+        "https://openalex.org/W2037202533",
+        "https://openalex.org/W2043300515",
+        "https://openalex.org/W2044156160",
+        "https://openalex.org/W2048698093",
+        "https://openalex.org/W2049892828",
+        "https://openalex.org/W2051269073",
+        "https://openalex.org/W2051877223",
+        "https://openalex.org/W2052560903",
+        "https://openalex.org/W2060260739",
+        "https://openalex.org/W2060403935",
+        "https://openalex.org/W2063362230",
+        "https://openalex.org/W2063889048",
+        "https://openalex.org/W2065705778",
+        "https://openalex.org/W2067844575",
+        "https://openalex.org/W2076985972",
+        "https://openalex.org/W2077008787",
+        "https://openalex.org/W2078756967",
+        "https://openalex.org/W2081032415",
+        "https://openalex.org/W2081399207",
+        "https://openalex.org/W2084806222",
+        "https://openalex.org/W2085645837",
+        "https://openalex.org/W2088574208",
+        "https://openalex.org/W2091801963",
+        "https://openalex.org/W2096227733",
+        "https://openalex.org/W2099882465",
+        "https://openalex.org/W2103784258",
+        "https://openalex.org/W2104814038",
+        "https://openalex.org/W2113480311",
+        "https://openalex.org/W2124707706",
+        "https://openalex.org/W2125910896",
+        "https://openalex.org/W2131747309",
+        "https://openalex.org/W2131972066",
+        "https://openalex.org/W2143286714",
+        "https://openalex.org/W2152061115",
+        "https://openalex.org/W2159078449",
+        "https://openalex.org/W2169757152",
+        "https://openalex.org/W2180135016",
+        "https://openalex.org/W2182492197",
+        "https://openalex.org/W2183707334",
+        "https://openalex.org/W2186079313",
+        "https://openalex.org/W2203743328",
+        "https://openalex.org/W2227337831",
+        "https://openalex.org/W2294506137",
+        "https://openalex.org/W2314470123",
+        "https://openalex.org/W2320932017",
+        "https://openalex.org/W2330315151",
+        "https://openalex.org/W2337457383",
+        "https://openalex.org/W2338265185",
+        "https://openalex.org/W2344454302",
+        "https://openalex.org/W2417564639",
+        "https://openalex.org/W2483018400",
+        "https://openalex.org/W2483704369",
+        "https://openalex.org/W2520526102",
+        "https://openalex.org/W2619898200",
+        "https://openalex.org/W2756009250",
+        "https://openalex.org/W2801128589",
+        "https://openalex.org/W2893855236",
+        "https://openalex.org/W2945137223",
+        "https://openalex.org/W2969434329",
+        "https://openalex.org/W2970417199",
+        "https://openalex.org/W3154992949",
+        "https://openalex.org/W4233308957",
+        "https://openalex.org/W4241223499",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W4290680548",
+        "https://openalex.org/W6603965756",
+        "https://openalex.org/W6619704192",
+        "https://openalex.org/W6624941521",
+        "https://openalex.org/W6625381175",
+        "https://openalex.org/W6627293803",
+        "https://openalex.org/W6627425754",
+        "https://openalex.org/W6652879029",
+        "https://openalex.org/W6686069931",
+        "https://openalex.org/W6686572304",
+        "https://openalex.org/W6687797516",
+        "https://openalex.org/W6721624981",
+        "https://openalex.org/W6767240591",
+        "https://openalex.org/W6807747304",
+        "https://openalex.org/W6823771152",
+        "https://openalex.org/W6884906971",
+        "https://openalex.org/W7024986184"
+      ],
+      "related_works": [
+        "https://openalex.org/W2902769270",
+        "https://openalex.org/W2069435054",
+        "https://openalex.org/W3046608291",
+        "https://openalex.org/W1595552319",
+        "https://openalex.org/W2025304948",
+        "https://openalex.org/W1997678249",
+        "https://openalex.org/W2100678472",
+        "https://openalex.org/W4221088205",
+        "https://openalex.org/W2044980050",
+        "https://openalex.org/W2198907987"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-02-09T09:26:11.010843",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4381681826",
       "doi": "https://doi.org/10.5802/crgeos.217",
       "title": "The Middle to Late Triassic of Central Saudi Arabia with emphasis on the Jilh Formation. Part I: lithostratigraphy, facies and paleoenvironments, palaeontology and biostratigraphic age calibration from outcrop studies",
@@ -4100,13 +6100,13 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.92838186,
+        "value": 0.92807064,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 89,
-        "max": 100
+        "max": 99
       },
       "biblio": {
         "volume": "355",
@@ -4426,24 +6426,17 @@
           "landing_page_url": "https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.5802/crgeos.217/",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S140186129",
-            "display_name": "Annales de la faculté des sciences de Toulouse Mathématiques",
-            "issn_l": "0240-2963",
-            "issn": [
-              "0240-2963",
-              "2258-7519"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4361727469",
-            "host_organization_name": "Cellule MathDoc/CEDRAM",
-            "host_organization_lineage": [
-              "https://openalex.org/P4361727469"
-            ],
-            "host_organization_lineage_names": [
-              "Cellule MathDoc/CEDRAM"
-            ],
+            "id": "https://openalex.org/S4306511365",
+            "display_name": "Geoscience",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
             "type": "journal"
           },
           "license": "cc-by",
@@ -4456,28 +6449,12 @@
         },
         {
           "id": "pmh:oai:doaj.org/article:736bda46d40a46f192a01f6d1b3473fc",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doaj.org/article/736bda46d40a46f192a01f6d1b3473fc",
           "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "source": null,
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -4523,8 +6500,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -5444,1417 +7421,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-05T00:54:17.221276",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2399942965",
-      "doi": "https://doi.org/10.1016/j.quascirev.2016.05.016",
-      "title": "Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia: Implications for biogeography and palaeoecology",
-      "display_name": "Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia: Implications for biogeography and palaeoecology",
-      "publication_year": 2016,
-      "publication_date": "2016-05-18",
-      "ids": {
-        "openalex": "https://openalex.org/W2399942965",
-        "doi": "https://doi.org/10.1016/j.quascirev.2016.05.016",
-        "mag": "2399942965"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.quascirev.2016.05.016",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.quascirev.2016.05.016",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S81424476",
-          "display_name": "Quaternary Science Reviews",
-          "issn_l": "0277-3791",
-          "issn": [
-            "0277-3791",
-            "1873-457X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Quaternary Science Reviews",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://kclpure.kcl.ac.uk/portal/en/publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5026745332",
-            "display_name": "Christopher Stimpson",
-            "orcid": "https://orcid.org/0000-0003-4327-4987"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Christopher M. Stimpson",
-          "raw_affiliation_strings": [
-            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210140987",
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5008745120",
-            "display_name": "Adrian M. Lister",
-            "orcid": "https://orcid.org/0000-0002-7985-138X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I1336856363",
-              "display_name": "Natural History Museum",
-              "ror": "https://ror.org/039zvsn29",
-              "country_code": "GB",
-              "type": "archive",
-              "lineage": [
-                "https://openalex.org/I1336856363"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Adrian Lister",
-          "raw_affiliation_strings": [
-            "Earth Sciences Department, Natural History Museum, London SW7 5BD, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Department, Natural History Museum, London SW7 5BD, UK",
-              "institution_ids": [
-                "https://openalex.org/I1336856363"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5005196675",
-            "display_name": "Ash Parton",
-            "orcid": "https://orcid.org/0000-0002-1547-7675"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ash Parton",
-          "raw_affiliation_strings": [
-            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210140987",
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5039171376",
-            "display_name": "Laine Clark‐Balzan",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Laine Clark-Balzan",
-          "raw_affiliation_strings": [
-            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210140987",
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5031524231",
-            "display_name": "Paul S. Breeze",
-            "orcid": "https://orcid.org/0000-0003-2575-8021"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I183935753",
-              "display_name": "King's College London",
-              "ror": "https://ror.org/0220mzb33",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I124357947",
-                "https://openalex.org/I183935753"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Paul S. Breeze",
-          "raw_affiliation_strings": [
-            "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
-            "Department of Geography, King's College London, Strand, London WC2R 2LS, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
-              "institution_ids": [
-                "https://openalex.org/I183935753"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geography, King's College London, Strand, London WC2R 2LS, UK",
-              "institution_ids": [
-                "https://openalex.org/I183935753"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5108481153",
-            "display_name": "Nick Drake",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I183935753",
-              "display_name": "King's College London",
-              "ror": "https://ror.org/0220mzb33",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I124357947",
-                "https://openalex.org/I183935753"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Nick A. Drake",
-          "raw_affiliation_strings": [
-            "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
-            "Department of Geography, King's College London, Strand, London WC2R 2LS, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geography, King’s College London, Strand, London WC2R 2LS, UK",
-              "institution_ids": [
-                "https://openalex.org/I183935753"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geography, King's College London, Strand, London WC2R 2LS, UK",
-              "institution_ids": [
-                "https://openalex.org/I183935753"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5087955542",
-            "display_name": "Huw S. Groucutt",
-            "orcid": "https://orcid.org/0000-0002-9111-1720"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Huw S. Groucutt",
-          "raw_affiliation_strings": [
-            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210140987",
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5012731321",
-            "display_name": "Richard P. Jennings",
-            "orcid": "https://orcid.org/0000-0001-9996-7518"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Richard Jennings",
-          "raw_affiliation_strings": [
-            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210140987",
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5090082899",
-            "display_name": "Eleanor M. L. Scerri",
-            "orcid": "https://orcid.org/0000-0002-7468-9977"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Eleanor M.L. Scerri",
-          "raw_affiliation_strings": [
-            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210140987",
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5085090223",
-            "display_name": "Tom S. White",
-            "orcid": "https://orcid.org/0000-0001-9056-7286"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Tom S. White",
-          "raw_affiliation_strings": [
-            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210140987",
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5045873226",
-            "display_name": "Muhammad Zahir",
-            "orcid": "https://orcid.org/0000-0002-1765-6319"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I263208278",
-              "display_name": "Hazara University",
-              "ror": "https://ror.org/018y22094",
-              "country_code": "PK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I263208278"
-              ]
-            }
-          ],
-          "countries": [
-            "PK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Muhammad Zahir",
-          "raw_affiliation_strings": [
-            "Hazara University, Karakoram Hwy, Dhodial 21120, Pakistan"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Hazara University, Karakoram Hwy, Dhodial 21120, Pakistan",
-              "institution_ids": [
-                "https://openalex.org/I263208278"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5060957276",
-            "display_name": "Mathieu Duval",
-            "orcid": "https://orcid.org/0000-0003-3181-7753"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210107073",
-              "display_name": "National Research Center on Human Evolution",
-              "ror": "https://ror.org/01nse6g27",
-              "country_code": "ES",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210107073"
-              ]
-            }
-          ],
-          "countries": [
-            "ES"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mathieu Duval",
-          "raw_affiliation_strings": [
-            "Centro Nacional de Investigación sobre la Evolución Humana (CENIEH), Paseo de Atapuerca, 3, 09002 Burgos, Spain"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Centro Nacional de Investigación sobre la Evolución Humana (CENIEH), Paseo de Atapuerca, 3, 09002 Burgos, Spain",
-              "institution_ids": [
-                "https://openalex.org/I4210107073"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5014664106",
-            "display_name": "Rainer Grün",
-            "orcid": "https://orcid.org/0000-0003-1366-3674"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I11701301",
-              "display_name": "Griffith University",
-              "ror": "https://ror.org/02sc3r913",
-              "country_code": "AU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I11701301"
-              ]
-            }
-          ],
-          "countries": [
-            "AU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Rainer Grün",
-          "raw_affiliation_strings": [
-            "Environmental Futures Research Institute, Nathan Campus, Griffith University, 170 Kessels Road, QLD 4111, Australia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Futures Research Institute, Nathan Campus, Griffith University, 170 Kessels Road, QLD 4111, Australia",
-              "institution_ids": [
-                "https://openalex.org/I11701301"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5028580948",
-            "display_name": "Abdulaziz Al-Omari",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Abdulaziz Al-Omari",
-          "raw_affiliation_strings": [
-            "Saudi Commission for Tourism and National Heritage, P.O Box 66680, Riyadh 11586, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Commission for Tourism and National Heritage, P.O Box 66680, Riyadh 11586, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5070992934",
-            "display_name": "Khalid Sultan M. Al Murayyi",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid Sultan M. Al Murayyi",
-          "raw_affiliation_strings": [
-            "Saudi Commission for Tourism and National Heritage, P.O Box 66680, Riyadh 11586, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Commission for Tourism and National Heritage, P.O Box 66680, Riyadh 11586, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5067218163",
-            "display_name": "Iyad S. Zalmout",
-            "orcid": "https://orcid.org/0000-0003-1874-801X"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Iyaed S. Zalmout",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5074597612",
-            "display_name": "Yahya A. Mufarreh",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Yahya A. Mufarreh",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044930714",
-            "display_name": "Abdullah Memesh",
-            "orcid": "https://orcid.org/0000-0001-8551-3240"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullah M. Memesh",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey, Palaeontology Unit, Jeddah 21514, Saudi Arabia",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5037966215",
-            "display_name": "Michael D. Petraglia",
-            "orcid": "https://orcid.org/0000-0003-2522-5727"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210140987",
-              "display_name": "Oxford Archaeology",
-              "ror": "https://ror.org/045f8jj92",
-              "country_code": "GB",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210140987"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I40120149",
-              "display_name": "University of Oxford",
-              "ror": "https://ror.org/052gg0110",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Michael D. Petraglia",
-          "raw_affiliation_strings": [
-            "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Archaeology, Research Laboratory for Archaeology and the History of Art, Hayes House, 75 George Street, University of Oxford, Oxford OX1 2BQ, UK",
-              "institution_ids": [
-                "https://openalex.org/I4210140987",
-                "https://openalex.org/I40120149"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 4,
-      "institutions_distinct_count": 19,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5026745332"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I40120149",
-        "https://openalex.org/I4210140987"
-      ],
-      "apc_list": {
-        "value": 3660,
-        "currency": "USD",
-        "value_usd": 3660
-      },
-      "apc_paid": {
-        "value": 3660,
-        "currency": "USD",
-        "value_usd": 3660
-      },
-      "fwci": 28.66272993,
-      "has_fulltext": false,
-      "cited_by_count": 47,
-      "citation_normalized_percentile": {
-        "value": 0.99392615,
-        "is_in_top_1_percent": true,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "143",
-        "issue": null,
-        "first_page": "13",
-        "last_page": "36"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10421",
-        "display_name": "Pleistocene-Era Hominins and Archaeology",
-        "score": 0.9994000196456909,
-        "subfield": {
-          "id": "https://openalex.org/subfields/3314",
-          "display_name": "Anthropology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/33",
-          "display_name": "Social Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10421",
-          "display_name": "Pleistocene-Era Hominins and Archaeology",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3314",
-            "display_name": "Anthropology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/33",
-            "display_name": "Social Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11354",
-          "display_name": "Evolution and Paleontology Studies",
-          "score": 0.9993000030517578,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10199",
-          "display_name": "Wildlife Ecology and Conservation",
-          "score": 0.996999979019165,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/crocuta-crocuta",
-          "display_name": "Crocuta crocuta",
-          "score": 0.9075850248336792
-        },
-        {
-          "id": "https://openalex.org/keywords/oryx",
-          "display_name": "Oryx",
-          "score": 0.729926586151123
-        },
-        {
-          "id": "https://openalex.org/keywords/pleistocene",
-          "display_name": "Pleistocene",
-          "score": 0.6806701421737671
-        },
-        {
-          "id": "https://openalex.org/keywords/paleoecology",
-          "display_name": "Paleoecology",
-          "score": 0.6534476280212402
-        },
-        {
-          "id": "https://openalex.org/keywords/equus",
-          "display_name": "Equus",
-          "score": 0.5943517088890076
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.5351482629776001
-        },
-        {
-          "id": "https://openalex.org/keywords/early-pleistocene",
-          "display_name": "Early Pleistocene",
-          "score": 0.4636107385158539
-        },
-        {
-          "id": "https://openalex.org/keywords/biogeography",
-          "display_name": "Biogeography",
-          "score": 0.4575454592704773
-        },
-        {
-          "id": "https://openalex.org/keywords/fauna",
-          "display_name": "Fauna",
-          "score": 0.45649635791778564
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.395376056432724
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.3663453161716461
-        },
-        {
-          "id": "https://openalex.org/keywords/panthera",
-          "display_name": "Panthera",
-          "score": 0.3252362608909607
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.24793976545333862
-        },
-        {
-          "id": "https://openalex.org/keywords/predation",
-          "display_name": "Predation",
-          "score": 0.14905667304992676
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2911002212",
-          "wikidata": "https://www.wikidata.org/wiki/Q178089",
-          "display_name": "Crocuta crocuta",
-          "level": 4,
-          "score": 0.9075850248336792
-        },
-        {
-          "id": "https://openalex.org/C2779536738",
-          "wikidata": "https://www.wikidata.org/wiki/Q658179",
-          "display_name": "Oryx",
-          "level": 2,
-          "score": 0.729926586151123
-        },
-        {
-          "id": "https://openalex.org/C53570757",
-          "wikidata": "https://www.wikidata.org/wiki/Q25546",
-          "display_name": "Pleistocene",
-          "level": 2,
-          "score": 0.6806701421737671
-        },
-        {
-          "id": "https://openalex.org/C177882397",
-          "wikidata": "https://www.wikidata.org/wiki/Q1337995",
-          "display_name": "Paleoecology",
-          "level": 2,
-          "score": 0.6534476280212402
-        },
-        {
-          "id": "https://openalex.org/C2778604835",
-          "wikidata": "https://www.wikidata.org/wiki/Q27022",
-          "display_name": "Equus",
-          "level": 2,
-          "score": 0.5943517088890076
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.5351482629776001
-        },
-        {
-          "id": "https://openalex.org/C2777775986",
-          "wikidata": "https://www.wikidata.org/wiki/Q444693",
-          "display_name": "Early Pleistocene",
-          "level": 3,
-          "score": 0.4636107385158539
-        },
-        {
-          "id": "https://openalex.org/C123575903",
-          "wikidata": "https://www.wikidata.org/wiki/Q52106",
-          "display_name": "Biogeography",
-          "level": 2,
-          "score": 0.4575454592704773
-        },
-        {
-          "id": "https://openalex.org/C125471540",
-          "wikidata": "https://www.wikidata.org/wiki/Q104021",
-          "display_name": "Fauna",
-          "level": 2,
-          "score": 0.45649635791778564
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.395376056432724
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.3663453161716461
-        },
-        {
-          "id": "https://openalex.org/C2778611284",
-          "wikidata": "https://www.wikidata.org/wiki/Q127960",
-          "display_name": "Panthera",
-          "level": 3,
-          "score": 0.3252362608909607
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.24793976545333862
-        },
-        {
-          "id": "https://openalex.org/C188382862",
-          "wikidata": "https://www.wikidata.org/wiki/Q170430",
-          "display_name": "Predation",
-          "level": 2,
-          "score": 0.14905667304992676
-        }
-      ],
-      "mesh": [],
-      "locations_count": 4,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.quascirev.2016.05.016",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.quascirev.2016.05.016",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S81424476",
-            "display_name": "Quaternary Science Reviews",
-            "issn_l": "0277-3791",
-            "issn": [
-              "0277-3791",
-              "1873-457X"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Quaternary Science Reviews",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
-          "is_oa": true,
-          "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
-          "pdf_url": null,
-          "source": null,
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
-          "raw_type": "info:eu-repo/semantics/publishedVersion"
-        },
-        {
-          "id": "pmh:oai:research-repository.griffith.edu.au:10072/142575",
-          "is_oa": true,
-          "landing_page_url": "http://hdl.handle.net/10072/142575",
-          "pdf_url": "http://hdl.handle.net/10072/142575",
-          "source": {
-            "id": "https://openalex.org/S4306402548",
-            "display_name": "Griffith Research Online (Griffith University, Queensland, Australia)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I11701301",
-            "host_organization_name": "Griffith University",
-            "host_organization_lineage": [
-              "https://openalex.org/I11701301"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Journal article"
-        },
-        {
-          "id": "pmh:oai:researchonline.ljmu.ac.uk:9395",
-          "is_oa": true,
-          "landing_page_url": null,
-          "pdf_url": "https://researchonline.ljmu.ac.uk/id/eprint/9395/1/Middle%20Pleistocene%20vertebrate%20fossils%20from%20the%20Nefud%20Desert%2C%20Saudi%20Arabia%20Implications%20for%20biogeography%20and%20palaeoecology.pdf",
-          "source": {
-            "id": "https://openalex.org/S4306401246",
-            "display_name": "Liverpool John Moores University",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I63098007",
-            "host_organization_name": "Liverpool John Moores University",
-            "host_organization_lineage": [
-              "https://openalex.org/I63098007"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
-        "is_oa": true,
-        "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
-        "pdf_url": null,
-        "source": null,
-        "license": "other-oa",
-        "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
-        "raw_type": "info:eu-repo/semantics/publishedVersion"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6200000047683716
-        }
-      ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G2710629218",
-          "display_name": null,
-          "funder_award_id": "295719",
-          "funder_id": "https://openalex.org/F4320334678",
-          "funder_display_name": "European Research Council"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320321145",
-          "display_name": "King Saud University",
-          "ror": "https://ror.org/02f81g417"
-        },
-        {
-          "id": "https://openalex.org/F4320334678",
-          "display_name": "European Research Council",
-          "ror": "https://ror.org/0472cxd90"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 137,
-      "referenced_works": [
-        "https://openalex.org/W96887878",
-        "https://openalex.org/W420749915",
-        "https://openalex.org/W433770221",
-        "https://openalex.org/W567395029",
-        "https://openalex.org/W602277926",
-        "https://openalex.org/W607823811",
-        "https://openalex.org/W617951419",
-        "https://openalex.org/W620733261",
-        "https://openalex.org/W622904322",
-        "https://openalex.org/W639966810",
-        "https://openalex.org/W651572359",
-        "https://openalex.org/W946392161",
-        "https://openalex.org/W956051031",
-        "https://openalex.org/W967671957",
-        "https://openalex.org/W1157801866",
-        "https://openalex.org/W1505313636",
-        "https://openalex.org/W1518492939",
-        "https://openalex.org/W1530663570",
-        "https://openalex.org/W1558059555",
-        "https://openalex.org/W1639897087",
-        "https://openalex.org/W1904147513",
-        "https://openalex.org/W1963635216",
-        "https://openalex.org/W1964139502",
-        "https://openalex.org/W1967671327",
-        "https://openalex.org/W1969267634",
-        "https://openalex.org/W1976470426",
-        "https://openalex.org/W1976915931",
-        "https://openalex.org/W1977121797",
-        "https://openalex.org/W1978109366",
-        "https://openalex.org/W1979481103",
-        "https://openalex.org/W1979995366",
-        "https://openalex.org/W1980175570",
-        "https://openalex.org/W1981862598",
-        "https://openalex.org/W1988076578",
-        "https://openalex.org/W1989836548",
-        "https://openalex.org/W1990549740",
-        "https://openalex.org/W1993020205",
-        "https://openalex.org/W1997069508",
-        "https://openalex.org/W1999007585",
-        "https://openalex.org/W2006215277",
-        "https://openalex.org/W2006375292",
-        "https://openalex.org/W2009097639",
-        "https://openalex.org/W2009401014",
-        "https://openalex.org/W2014666871",
-        "https://openalex.org/W2014867403",
-        "https://openalex.org/W2015263214",
-        "https://openalex.org/W2016714437",
-        "https://openalex.org/W2018136872",
-        "https://openalex.org/W2018186221",
-        "https://openalex.org/W2020024443",
-        "https://openalex.org/W2024387700",
-        "https://openalex.org/W2026422363",
-        "https://openalex.org/W2029580669",
-        "https://openalex.org/W2031530681",
-        "https://openalex.org/W2032047325",
-        "https://openalex.org/W2034497917",
-        "https://openalex.org/W2037202533",
-        "https://openalex.org/W2043300515",
-        "https://openalex.org/W2044156160",
-        "https://openalex.org/W2048698093",
-        "https://openalex.org/W2049892828",
-        "https://openalex.org/W2051269073",
-        "https://openalex.org/W2051877223",
-        "https://openalex.org/W2052560903",
-        "https://openalex.org/W2060260739",
-        "https://openalex.org/W2060403935",
-        "https://openalex.org/W2063362230",
-        "https://openalex.org/W2063889048",
-        "https://openalex.org/W2065705778",
-        "https://openalex.org/W2067844575",
-        "https://openalex.org/W2076985972",
-        "https://openalex.org/W2077008787",
-        "https://openalex.org/W2078756967",
-        "https://openalex.org/W2081032415",
-        "https://openalex.org/W2081399207",
-        "https://openalex.org/W2084806222",
-        "https://openalex.org/W2085645837",
-        "https://openalex.org/W2088574208",
-        "https://openalex.org/W2091801963",
-        "https://openalex.org/W2096227733",
-        "https://openalex.org/W2099882465",
-        "https://openalex.org/W2103784258",
-        "https://openalex.org/W2104814038",
-        "https://openalex.org/W2113480311",
-        "https://openalex.org/W2124707706",
-        "https://openalex.org/W2125910896",
-        "https://openalex.org/W2131747309",
-        "https://openalex.org/W2131972066",
-        "https://openalex.org/W2143286714",
-        "https://openalex.org/W2152061115",
-        "https://openalex.org/W2159078449",
-        "https://openalex.org/W2169757152",
-        "https://openalex.org/W2180135016",
-        "https://openalex.org/W2182492197",
-        "https://openalex.org/W2183707334",
-        "https://openalex.org/W2186079313",
-        "https://openalex.org/W2203743328",
-        "https://openalex.org/W2227337831",
-        "https://openalex.org/W2294506137",
-        "https://openalex.org/W2314470123",
-        "https://openalex.org/W2320932017",
-        "https://openalex.org/W2330315151",
-        "https://openalex.org/W2337457383",
-        "https://openalex.org/W2338265185",
-        "https://openalex.org/W2344454302",
-        "https://openalex.org/W2417564639",
-        "https://openalex.org/W2483018400",
-        "https://openalex.org/W2483704369",
-        "https://openalex.org/W2520526102",
-        "https://openalex.org/W2619898200",
-        "https://openalex.org/W2756009250",
-        "https://openalex.org/W2801128589",
-        "https://openalex.org/W2893855236",
-        "https://openalex.org/W2945137223",
-        "https://openalex.org/W2969434329",
-        "https://openalex.org/W2970417199",
-        "https://openalex.org/W3154992949",
-        "https://openalex.org/W4233308957",
-        "https://openalex.org/W4241223499",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W4290680548",
-        "https://openalex.org/W6603965756",
-        "https://openalex.org/W6619704192",
-        "https://openalex.org/W6624941521",
-        "https://openalex.org/W6625381175",
-        "https://openalex.org/W6627293803",
-        "https://openalex.org/W6627425754",
-        "https://openalex.org/W6652879029",
-        "https://openalex.org/W6686069931",
-        "https://openalex.org/W6686572304",
-        "https://openalex.org/W6687797516",
-        "https://openalex.org/W6721624981",
-        "https://openalex.org/W6767240591",
-        "https://openalex.org/W6807747304",
-        "https://openalex.org/W6823771152",
-        "https://openalex.org/W6884906971",
-        "https://openalex.org/W7024986184"
-      ],
-      "related_works": [
-        "https://openalex.org/W2902769270",
-        "https://openalex.org/W2069435054",
-        "https://openalex.org/W3046608291",
-        "https://openalex.org/W1595552319",
-        "https://openalex.org/W2025304948",
-        "https://openalex.org/W1997678249",
-        "https://openalex.org/W2100678472",
-        "https://openalex.org/W4221088205",
-        "https://openalex.org/W2044980050",
-        "https://openalex.org/W2198907987"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-02-07T08:09:18.108334",
+      "updated_date": "2026-02-09T09:26:11.010843",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7486,7 +8053,7 @@
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.8485802,
+        "value": 0.84861527,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7947,8 +8514,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -8054,7 +8621,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-09T09:26:11.010843",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8638,8 +9205,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1496924522.pdf",
@@ -9889,8 +10456,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4254410303.pdf",
@@ -10900,8 +11467,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -11295,7 +11862,7 @@
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.48621941,
+        "value": 0.48627504,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11701,8 +12268,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3203435426.pdf",
@@ -12196,7 +12763,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-05T00:54:17.221276",
+      "updated_date": "2026-02-09T09:26:11.010843",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12812,8 +13379,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -14063,8 +14630,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1604102604.pdf",
@@ -15641,8 +16208,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -16113,8 +16680,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -16805,7 +17372,7 @@
           "countries": [
             "CN"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China"
@@ -16852,7 +17419,7 @@
             "CN",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Ziying Li",
           "raw_affiliation_strings": [
             "Beijing Research Institute of Uranium Geology, Beijing 100029, China",
@@ -17310,8 +17877,8 @@
       "countries_distinct_count": 2,
       "institutions_distinct_count": 12,
       "corresponding_author_ids": [
+        "https://openalex.org/A5006640587",
         "https://openalex.org/A5044930714",
-        "https://openalex.org/A5101699144",
         "https://openalex.org/A5109396102"
       ],
       "corresponding_institution_ids": [
@@ -17332,7 +17899,7 @@
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89099725,
+        "value": 0.8910139,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17730,8 +18297,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3146973300.pdf",
@@ -18300,7 +18867,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-07T08:09:18.108334",
+      "updated_date": "2026-02-09T09:26:11.010843",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18853,8 +19420,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -19231,8 +19798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19875,7 +20442,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.86650495,
+        "value": 0.86637359,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20227,18 +20794,16 @@
           "landing_page_url": "https://brgm.hal.science/hal-04438935",
           "pdf_url": "https://brgm.hal.science/hal-04438935/document",
           "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -20252,32 +20817,25 @@
         },
         {
           "id": "pmh:oai:centre-mersenne.org:CRGEOS_2023__355_S2_99_0",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.5802/crgeos.227/",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S140186129",
-            "display_name": "Annales de la faculté des sciences de Toulouse Mathématiques",
-            "issn_l": "0240-2963",
-            "issn": [
-              "0240-2963",
-              "2258-7519"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4361727469",
-            "host_organization_name": "Cellule MathDoc/CEDRAM",
-            "host_organization_lineage": [
-              "https://openalex.org/P4361727469"
-            ],
-            "host_organization_lineage_names": [
-              "Cellule MathDoc/CEDRAM"
-            ],
+            "id": "https://openalex.org/S4306511365",
+            "display_name": "Geoscience",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -20289,25 +20847,9 @@
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/55e6ed9f507a445197b9305672301bcd",
           "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S112646816",
-            "display_name": "SHILAP Revista de lepidopterología",
-            "issn_l": "0300-5267",
-            "issn": [
-              "0300-5267",
-              "2340-4078"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "source": null,
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -20359,8 +20901,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf"
@@ -21027,7 +21569,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-06T03:54:58.731219",
+      "updated_date": "2026-02-09T09:26:11.010843",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21592,8 +22134,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22513,8 +23055,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -23594,8 +24136,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -23971,8 +24513,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415609376.pdf"
@@ -24472,8 +25014,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf"
@@ -26444,8 +26986,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -27144,8 +27686,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
