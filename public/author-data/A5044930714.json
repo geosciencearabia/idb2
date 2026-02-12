@@ -320,7 +320,7 @@
       {
         "id": "https://openalex.org/T11354",
         "display_name": "Evolution and Paleontology Studies",
-        "value": 0.0000178,
+        "value": 0.0000177,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -474,8 +474,8 @@
     },
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-02-09T12:19:41.486839",
-    "created_date": "2019-12-13"
+    "updated_date": "2026-02-11T12:21:17",
+    "created_date": "2019-12-13T00:00:00"
   },
   "works": [
     {
@@ -535,7 +535,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "gold",
+        "oa_status": "green",
         "oa_url": "https://kclpure.kcl.ac.uk/portal/en/publications/b96822e2-bbb0-4177-b101-1cfcc1c4bb4f",
         "any_repository_has_fulltext": true
       },
@@ -1824,16 +1824,12 @@
         "currency": "EUR",
         "value_usd": 11690
       },
-      "apc_paid": {
-        "value": 9750,
-        "currency": "EUR",
-        "value_usd": 11690
-      },
+      "apc_paid": null,
       "fwci": 156.90035442,
       "has_fulltext": false,
-      "cited_by_count": 180,
+      "cited_by_count": 181,
       "citation_normalized_percentile": {
-        "value": 0.99959793,
+        "value": 0.999598,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2341,7 +2337,22 @@
           "is_oa": true,
           "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/b96822e2-bbb0-4177-b101-1cfcc1c4bb4f",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306400216",
+            "display_name": "Research Portal (King's College London)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I183935753",
+            "host_organization_name": "King's College London",
+            "host_organization_lineage": [
+              "https://openalex.org/I183935753"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
           "license": "other-oa",
           "license_id": "https://openalex.org/licenses/other-oa",
           "version": "publishedVersion",
@@ -2442,7 +2453,22 @@
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/5935238",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
           "license": null,
           "license_id": null,
           "version": "submittedVersion",
@@ -2542,7 +2568,22 @@
         "is_oa": true,
         "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/b96822e2-bbb0-4177-b101-1cfcc1c4bb4f",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306400216",
+          "display_name": "Research Portal (King's College London)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I183935753",
+          "host_organization_name": "King's College London",
+          "host_organization_lineage": [
+            "https://openalex.org/I183935753"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
         "license": "other-oa",
         "license_id": "https://openalex.org/licenses/other-oa",
         "version": "publishedVersion",
@@ -2553,16 +2594,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 97,
@@ -2677,613 +2718,12 @@
         "https://openalex.org/W2412941886",
         "https://openalex.org/W4385958259"
       ],
-      "abstract_inverted_index": {
-        "5": [
-          197
-        ],
-        "85": [
-          93
-        ],
-        "Understanding": [
-          0
-        ],
-        "the": [
-          1,
-          6,
-          18,
-          50,
-          63,
-          89,
-          97,
-          104,
-          110,
-          117,
-          128,
-          190,
-          242
-        ],
-        "timing": [
-          2
-        ],
-        "and": [
-          3,
-          20,
-          54,
-          76,
-          127,
-          212
-        ],
-        "character": [
-          4
-        ],
-        "of": [
-          5,
-          8,
-          12,
-          35,
-          66,
-          106,
-          122,
-          133,
-          151,
-          179,
-          193,
-          223,
-          245,
-          250
-        ],
-        "expansion": [
-          7
-        ],
-        "Homo": [
-          9
-        ],
-        "sapiens": [
-          10,
-          86,
-          139,
-          220
-        ],
-        "out": [
-          11,
-          34,
-          222
-        ],
-        "Africa": [
-          13,
-          36,
-          126,
-          224
-        ],
-        "is": [
-          14,
-          116
-        ],
-        "critical": [
-          15
-        ],
-        "for": [
-          16,
-          176
-        ],
-        "inferring": [
-          17
-        ],
-        "colonization": [
-          19
-        ],
-        "admixture": [
-          21
-        ],
-        "processes": [
-          22
-        ],
-        "that": [
-          23,
-          32,
-          47,
-          60,
-          84,
-          137,
-          206
-        ],
-        "underpin": [
-          24
-        ],
-        "global": [
-          25
-        ],
-        "population": [
-          26
-        ],
-        "history.": [
-          27
-        ],
-        "It": [
-          28
-        ],
-        "has": [
-          29
-        ],
-        "been": [
-          30
-        ],
-        "argued": [
-          31
-        ],
-        "dispersal": [
-          33
-        ],
-        "had": [
-          37
-        ],
-        "an": [
-          38
-        ],
-        "early": [
-          39,
-          207
-        ],
-        "phase,": [
-          40,
-          57
-        ],
-        "particularly": [
-          41
-        ],
-        "~130-90": [
-          42
-        ],
-        "thousand": [
-          43
-        ],
-        "years": [
-          44
-        ],
-        "ago": [
-          45
-        ],
-        "(ka),": [
-          46
-        ],
-        "reached": [
-          48
-        ],
-        "only": [
-          49
-        ],
-        "East": [
-          51,
-          74
-        ],
-        "Mediterranean": [
-          52,
-          232
-        ],
-        "Levant,": [
-          53
-        ],
-        "a": [
-          55,
-          149,
-          161,
-          174,
-          186
-        ],
-        "later": [
-          56,
-          191
-        ],
-        "~60-50": [
-          58
-        ],
-        "ka,": [
-          59,
-          181
-        ],
-        "extended": [
-          61,
-          239
-        ],
-        "across": [
-          62
-        ],
-        "diverse": [
-          64
-        ],
-        "environments": [
-          65
-        ],
-        "Eurasia": [
-          67
-        ],
-        "to": [
-          68,
-          228,
-          236
-        ],
-        "Sahul.": [
-          69
-        ],
-        "However,": [
-          70
-        ],
-        "recent": [
-          71
-        ],
-        "findings": [
-          72
-        ],
-        "from": [
-          73,
-          103,
-          199
-        ],
-        "Asia": [
-          75
-        ],
-        "Sahul": [
-          77
-        ],
-        "challenge": [
-          78
-        ],
-        "this": [
-          79
-        ],
-        "model.": [
-          80
-        ],
-        "Here": [
-          81
-        ],
-        "we": [
-          82,
-          183
-        ],
-        "show": [
-          83
-        ],
-        "H.": [
-          85,
-          138,
-          219
-        ],
-        "was": [
-          87
-        ],
-        "in": [
-          88,
-          109,
-          158,
-          189
-        ],
-        "Arabian": [
-          90
-        ],
-        "Peninsula": [
-          91
-        ],
-        "before": [
-          92
-        ],
-        "ka.": [
-          94
-        ],
-        "We": [
-          95
-        ],
-        "describe": [
-          96
-        ],
-        "Al": [
-          98,
-          107,
-          134,
-          177,
-          203
-        ],
-        "Wusta-1": [
-          99
-        ],
-        "(AW-1)": [
-          100
-        ],
-        "intermediate": [
-          101
-        ],
-        "phalanx": [
-          102
-        ],
-        "site": [
-          105
-        ],
-        "Wusta": [
-          108,
-          135,
-          178,
-          204
-        ],
-        "Nefud": [
-          111
-        ],
-        "desert,": [
-          112
-        ],
-        "Saudi": [
-          113
-        ],
-        "Arabia.": [
-          114
-        ],
-        "AW-1": [
-          115
-        ],
-        "oldest": [
-          118
-        ],
-        "directly": [
-          119
-        ],
-        "dated": [
-          120
-        ],
-        "fossil": [
-          121
-        ],
-        "our": [
-          123
-        ],
-        "species": [
-          124
-        ],
-        "outside": [
-          125
-        ],
-        "Levant.": [
-          129
-        ],
-        "The": [
-          130
-        ],
-        "palaeoenvironmental": [
-          131
-        ],
-        "context": [
-          132
-        ],
-        "demonstrates": [
-          136
-        ],
-        "using": [
-          140
-        ],
-        "Middle": [
-          141
-        ],
-        "Palaeolithic": [
-          142
-        ],
-        "stone": [
-          143
-        ],
-        "tools": [
-          144
-        ],
-        "dispersed": [
-          145
-        ],
-        "into": [
-          146,
-          241
-        ],
-        "Arabia": [
-          147
-        ],
-        "during": [
-          148
-        ],
-        "phase": [
-          150
-        ],
-        "increased": [
-          152
-        ],
-        "precipitation": [
-          153
-        ],
-        "driven": [
-          154
-        ],
-        "by": [
-          155,
-          248
-        ],
-        "orbital": [
-          156
-        ],
-        "forcing,": [
-          157
-        ],
-        "association": [
-          159
-        ],
-        "with": [
-          160,
-          185
-        ],
-        "primarily": [
-          162
-        ],
-        "African": [
-          163
-        ],
-        "fauna.": [
-          164
-        ],
-        "A": [
-          165
-        ],
-        "Bayesian": [
-          166
-        ],
-        "model": [
-          167
-        ],
-        "incorporating": [
-          168
-        ],
-        "independent": [
-          169
-        ],
-        "chronometric": [
-          170
-        ],
-        "age": [
-          171
-        ],
-        "estimates": [
-          172
-        ],
-        "indicates": [
-          173
-        ],
-        "chronology": [
-          175
-        ],
-        "~95-86": [
-          180
-        ],
-        "which": [
-          182
-        ],
-        "correlate": [
-          184
-        ],
-        "humid": [
-          187
-        ],
-        "episode": [
-          188
-        ],
-        "part": [
-          192
-        ],
-        "Marine": [
-          194
-        ],
-        "Isotope": [
-          195
-        ],
-        "Stage": [
-          196
-        ],
-        "known": [
-          198
-        ],
-        "various": [
-          200
-        ],
-        "regional": [
-          201
-        ],
-        "records.": [
-          202
-        ],
-        "shows": [
-          205
-        ],
-        "dispersals": [
-          208,
-          221
-        ],
-        "were": [
-          209,
-          225
-        ],
-        "more": [
-          210
-        ],
-        "spatially": [
-          211
-        ],
-        "temporally": [
-          213
-        ],
-        "extensive": [
-          214
-        ],
-        "than": [
-          215
-        ],
-        "previously": [
-          216
-        ],
-        "thought.": [
-          217
-        ],
-        "Early": [
-          218
-        ],
-        "not": [
-          226
-        ],
-        "limited": [
-          227
-        ],
-        "winter": [
-          229
-        ],
-        "rainfall-fed": [
-          230
-        ],
-        "Levantine": [
-          231
-        ],
-        "woodlands": [
-          233
-        ],
-        "immediately": [
-          234
-        ],
-        "adjacent": [
-          235
-        ],
-        "Africa,": [
-          237
-        ],
-        "but": [
-          238
-        ],
-        "deep": [
-          240
-        ],
-        "semi-arid": [
-          243
-        ],
-        "grasslands": [
-          244
-        ],
-        "Arabia,": [
-          246
-        ],
-        "facilitated": [
-          247
-        ],
-        "periods": [
-          249
-        ],
-        "enhanced": [
-          251
-        ],
-        "monsoonal": [
-          252
-        ],
-        "rainfall.": [
-          253
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
         {
           "year": 2025,
           "cited_by_count": 14
@@ -3321,7 +2761,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-09T09:26:11.010843",
+      "updated_date": "2026-02-12T00:53:03.260389",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3986,16 +3426,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2971608975.pdf",
@@ -5701,9 +5141,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -5728,8 +5168,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 137,
@@ -6500,8 +5940,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -8514,8 +7954,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -9197,16 +8637,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1496924522.pdf",
@@ -10442,9 +9882,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5400000214576721,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10456,8 +9896,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4254410303.pdf",
@@ -11467,8 +10907,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -12227,9 +11667,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -12268,8 +11708,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3203435426.pdf",
@@ -13063,7 +12503,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.87457818,
+        "value": 0.87349601,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13317,18 +12757,16 @@
           "landing_page_url": "http://zaguan.unizar.es/record/151223",
           "pdf_url": "https://zaguan.unizar.es/record/151223/files/texto_completo.pdf",
           "source": {
-            "id": "https://openalex.org/S4306401812",
-            "display_name": "Zaguan (University of Zaragoza Repository)",
+            "id": "https://openalex.org/S4306402461",
+            "display_name": "Zaguan (Universidad de Zaragoza)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I255234318",
-            "host_organization_name": "Universidad de Zaragoza",
-            "host_organization_lineage": [
-              "https://openalex.org/I255234318"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -13379,8 +12817,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -14048,7 +13486,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-02-10T21:29:10.735309",
+      "updated_date": "2026-02-12T08:01:53.621143",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14622,16 +14060,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1604102604.pdf",
@@ -16194,9 +15632,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16208,8 +15646,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -16672,16 +16110,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -17899,7 +17337,7 @@
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.89102222,
+        "value": 0.89056691,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18283,9 +17721,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -18297,8 +17735,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3146973300.pdf",
@@ -18867,7 +18305,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-10T21:29:10.735309",
+      "updated_date": "2026-02-12T08:01:53.621143",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19412,16 +18850,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -19798,8 +19236,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20901,8 +20339,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf"
@@ -22134,8 +21572,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23047,16 +22485,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -24136,8 +23574,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -24513,8 +23951,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415609376.pdf"
@@ -25014,8 +24452,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf"
@@ -26986,8 +26424,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -27686,8 +27124,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
