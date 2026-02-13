@@ -365,7 +365,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002422,
+        "value": 0.000242,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -433,7 +433,7 @@
       {
         "id": "https://openalex.org/T12234",
         "display_name": "Mollusks and Parasites Studies",
-        "value": 0.0000802,
+        "value": 0.0000801,
         "subfield": {
           "id": "https://openalex.org/subfields/1109",
           "display_name": "Insect Science"
@@ -762,7 +762,7 @@
     },
     "block_key": "r enay",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084630459",
-    "updated_date": "2026-02-11T12:21:17",
+    "updated_date": "2026-02-12T12:20:27",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1073,8 +1073,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.75,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -1510,8 +1510,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -1973,8 +1973,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4300000071525574,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -3184,8 +3184,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -3828,8 +3828,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4399999976158142,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -5015,8 +5015,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -6673,8 +6673,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -7144,8 +7144,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6600000262260437,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -7566,8 +7566,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -8176,8 +8176,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -8766,8 +8766,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -9836,8 +9836,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -10896,8 +10896,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -12253,6 +12253,21 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4387155970",
+              "display_name": "GeoRessources",
+              "ror": "https://ror.org/04mq2px33",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4387155970",
+                "https://openalex.org/I4387156182",
+                "https://openalex.org/I90183372",
+                "https://openalex.org/I90183372"
+              ]
+            },
+            {
               "id": "https://openalex.org/I90183372",
               "display_name": "Université de Lorraine",
               "ror": "https://ror.org/04vfs2w97",
@@ -12275,7 +12290,8 @@
             {
               "raw_affiliation_string": "GeoRessources (Université de Lorraine, Faculté des Sciences et Technologies, rue Jacques Callot, BP 70239, 54506 Vandoeuvre-lès-Nancy Cedex  - France)",
               "institution_ids": [
-                "https://openalex.org/I90183372"
+                "https://openalex.org/I90183372",
+                "https://openalex.org/I4387155970"
               ]
             }
           ]
@@ -12426,7 +12442,7 @@
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.78139966,
+        "value": 0.78139403,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12740,8 +12756,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -12880,7 +12896,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-10T06:17:13.238206",
+      "updated_date": "2026-02-13T15:27:49.765798",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13643,8 +13659,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -14969,8 +14985,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -15544,8 +15560,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -16144,8 +16160,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -16658,8 +16674,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -17811,8 +17827,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -18218,8 +18234,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -18923,8 +18939,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6200000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -19069,9 +19085,9 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "gold",
+        "oa_status": "green",
         "oa_url": "https://hal.science/hal-02511298",
-        "any_repository_has_fulltext": null
+        "any_repository_has_fulltext": true
       },
       "authorships": [
         {
@@ -19125,6 +19141,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I177064439",
+              "display_name": "Université de Bourgogne",
+              "ror": "https://ror.org/03k1bsr36",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I177064439"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210158426",
               "display_name": "Biogéosciences",
               "ror": "https://ror.org/04mzqjs78",
@@ -19138,16 +19164,6 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210158426",
                 "https://openalex.org/I4405253280"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I177064439",
-              "display_name": "Université de Bourgogne",
-              "ror": "https://ror.org/03k1bsr36",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I177064439"
               ]
             }
           ],
@@ -19241,6 +19257,16 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4210091437",
+              "display_name": "Sorbonne Paris Cité",
+              "ror": "https://ror.org/001z21q04",
+              "country_code": "FR",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210091437"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210097099",
               "display_name": "Institut des Sciences de la Terre de Paris",
               "ror": "https://ror.org/00xagyq07",
@@ -19252,16 +19278,6 @@
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210148025"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210091437",
-              "display_name": "Sorbonne Paris Cité",
-              "ror": "https://ror.org/001z21q04",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I4210091437"
               ]
             }
           ],
@@ -19299,6 +19315,26 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210091437",
+              "display_name": "Sorbonne Paris Cité",
+              "ror": "https://ror.org/001z21q04",
+              "country_code": "FR",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210091437"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210097099",
               "display_name": "Institut des Sciences de la Terre de Paris",
               "ror": "https://ror.org/00xagyq07",
@@ -19313,16 +19349,6 @@
               ]
             },
             {
-              "id": "https://openalex.org/I39804081",
-              "display_name": "Sorbonne Université",
-              "ror": "https://ror.org/02en5vm52",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39804081"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210126236",
               "display_name": "Institute of Paleoprimatology Human Paleontology Evolution and Paleoenvironments",
               "ror": "https://ror.org/0325zb480",
@@ -19334,16 +19360,6 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210126236"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210091437",
-              "display_name": "Sorbonne Paris Cité",
-              "ror": "https://ror.org/001z21q04",
-              "country_code": "FR",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I4210091437"
-              ]
             }
           ],
           "countries": [
@@ -19352,21 +19368,22 @@
           "is_corresponding": false,
           "raw_author_name": "Laurent Riquier",
           "raw_affiliation_strings": [
-            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
             "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
+            "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
             "SU - Sorbonne Université (21 rue de l’École de médecine - 75006 Paris - France)"
           ],
           "affiliations": [
             {
-              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
+              "raw_affiliation_string": "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
               "institution_ids": [
-                "https://openalex.org/I4210097099"
+                "https://openalex.org/I4210097099",
+                "https://openalex.org/I4210126236"
               ]
             },
             {
-              "raw_affiliation_string": "ISTEP-PPB - Paléoenvironnemements Paléoclimats, Bassins (4, Place Jussieu 75252 PARIS Cedex 05 - )",
+              "raw_affiliation_string": "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)",
               "institution_ids": [
-                "https://openalex.org/I4210126236"
+                "https://openalex.org/I4210097099"
               ]
             },
             {
@@ -19387,6 +19404,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I177064439",
+              "display_name": "Université de Bourgogne",
+              "ror": "https://ror.org/03k1bsr36",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I177064439"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210158426",
               "display_name": "Biogéosciences",
               "ror": "https://ror.org/04mzqjs78",
@@ -19400,16 +19427,6 @@
                 "https://openalex.org/I4210107625",
                 "https://openalex.org/I4210158426",
                 "https://openalex.org/I4405253280"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I177064439",
-              "display_name": "Université de Bourgogne",
-              "ror": "https://ror.org/03k1bsr36",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I177064439"
               ]
             }
           ],
@@ -19436,9 +19453,19 @@
           "author": {
             "id": "https://openalex.org/A5091837089",
             "display_name": "Marie‐Françoise Brunet",
-            "orcid": "https://orcid.org/0000-0002-4130-3679"
+            "orcid": null
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
             {
               "id": "https://openalex.org/I4210091437",
               "display_name": "Sorbonne Paris Cité",
@@ -19461,16 +19488,6 @@
                 "https://openalex.org/I39804081",
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210148025"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I39804081",
-              "display_name": "Sorbonne Université",
-              "ror": "https://ror.org/02en5vm52",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I39804081"
               ]
             }
           ],
@@ -19508,6 +19525,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
               "id": "https://openalex.org/I113428412",
               "display_name": "École Normale Supérieure de Lyon",
               "ror": "https://ror.org/04zmssz18",
@@ -19519,24 +19547,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I86767153",
-              "display_name": "Université Jean Monnet",
-              "ror": "https://ror.org/04yznqr36",
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "education",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I86767153"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
+                "https://openalex.org/I1294671590"
               ]
             },
             {
@@ -19557,13 +19574,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
+              "id": "https://openalex.org/I86767153",
+              "display_name": "Université Jean Monnet",
+              "ror": "https://ror.org/04yznqr36",
               "country_code": "FR",
-              "type": "government",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I86767153"
               ]
             }
           ],
@@ -19597,13 +19614,14 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Université Claude Bernard Lyon 1",
+              "ror": "https://ror.org/029brtt94",
               "country_code": "FR",
-              "type": "government",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I1294671590"
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
               ]
             },
             {
@@ -19618,13 +19636,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I86767153",
-              "display_name": "Université Jean Monnet",
-              "ror": "https://ror.org/04yznqr36",
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
               "country_code": "FR",
-              "type": "education",
+              "type": "government",
               "lineage": [
-                "https://openalex.org/I86767153"
+                "https://openalex.org/I1294671590"
               ]
             },
             {
@@ -19645,14 +19663,13 @@
               ]
             },
             {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Université Claude Bernard Lyon 1",
-              "ror": "https://ror.org/029brtt94",
+              "id": "https://openalex.org/I86767153",
+              "display_name": "Université Jean Monnet",
+              "ror": "https://ror.org/04yznqr36",
               "country_code": "FR",
               "type": "education",
               "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
+                "https://openalex.org/I86767153"
               ]
             }
           ],
@@ -19686,16 +19703,6 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I4210160189",
-              "display_name": "Institut Polytechnique de Bordeaux",
-              "ror": "https://ror.org/054qv7y42",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210160189"
-              ]
-            },
-            {
               "id": "https://openalex.org/I4210097332",
               "display_name": "Institut de Mécanique et d'Ingénierie de Bordeaux",
               "ror": "https://ror.org/00wrnm709",
@@ -19711,6 +19718,16 @@
                 "https://openalex.org/I4210095849",
                 "https://openalex.org/I4210097332",
                 "https://openalex.org/I4210134562",
+                "https://openalex.org/I4210160189"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210160189",
+              "display_name": "Institut Polytechnique de Bordeaux",
+              "ror": "https://ror.org/054qv7y42",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
                 "https://openalex.org/I4210160189"
               ]
             }
@@ -19795,20 +19812,20 @@
           "is_corresponding": false,
           "raw_author_name": "Pieter T. Visscher",
           "raw_affiliation_strings": [
-            "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
-            "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)"
+            "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
+            "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)"
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "BGS - Biogéosciences [UMR 6282] (Université de Bourgogne - 6 boulevard Gabriel - 21000 Dijon - France)",
               "institution_ids": [
                 "https://openalex.org/I4210158426",
                 "https://openalex.org/I177064439"
               ]
+            },
+            {
+              "raw_affiliation_string": "Departments of Marine Sciences & Geosciences (Groton\r\nCT 06340 - United States)",
+              "institution_ids": []
             }
           ]
         }
@@ -19825,16 +19842,12 @@
         "currency": "USD",
         "value_usd": 3430
       },
-      "apc_paid": {
-        "value": 3430,
-        "currency": "USD",
-        "value_usd": 3430
-      },
+      "apc_paid": null,
       "fwci": 2.57868542,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.90111971,
+        "value": 0.90112378,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20252,7 +20265,22 @@
           "is_oa": true,
           "landing_page_url": "https://hal.science/hal-02511298",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
           "license": "other-oa",
           "license_id": "https://openalex.org/licenses/other-oa",
           "version": "submittedVersion",
@@ -20266,7 +20294,22 @@
           "is_oa": false,
           "landing_page_url": "https://hal.sorbonne-universite.fr/hal-03625451",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
           "license": null,
           "license_id": null,
           "version": "submittedVersion",
@@ -20308,7 +20351,22 @@
         "is_oa": true,
         "landing_page_url": "https://hal.science/hal-02511298",
         "pdf_url": null,
-        "source": null,
+        "source": {
+          "id": "https://openalex.org/S4306402512",
+          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I1294671590",
+          "host_organization_name": "Centre National de la Recherche Scientifique",
+          "host_organization_lineage": [
+            "https://openalex.org/I1294671590"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
         "license": "other-oa",
         "license_id": "https://openalex.org/licenses/other-oa",
         "version": "submittedVersion",
@@ -20320,8 +20378,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -20476,985 +20534,7 @@
         "https://openalex.org/W2058844413",
         "https://openalex.org/W4246494560"
       ],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          26,
-          252,
-          330,
-          392,
-          419
-        ],
-        "Late": [
-          1,
-          386
-        ],
-        "Jurassic": [
-          2,
-          439
-        ],
-        "was": [
-          3,
-          88
-        ],
-        "a": [
-          4,
-          162,
-          231,
-          269,
-          286
-        ],
-        "period": [
-          5
-        ],
-        "of": [
-          6,
-          14,
-          20,
-          48,
-          57,
-          60,
-          66,
-          95,
-          117,
-          128,
-          132,
-          135,
-          168,
-          181,
-          216,
-          237,
-          244,
-          257,
-          262,
-          272,
-          285,
-          302,
-          305,
-          337,
-          350,
-          394,
-          411
-        ],
-        "major": [
-          7,
-          409
-        ],
-        "global": [
-          8
-        ],
-        "carbon": [
-          9,
-          413
-        ],
-        "cycle": [
-          10,
-          414
-        ],
-        "perturbations": [
-          11,
-          410
-        ],
-        "with": [
-          12,
-          139,
-          172,
-          197,
-          282,
-          334,
-          400,
-          429
-        ],
-        "episodes": [
-          13,
-          195
-        ],
-        "anoxia": [
-          15,
-          422,
-          440
-        ],
-        "leading": [
-          16
-        ],
-        "to": [
-          17,
-          46,
-          91,
-          157,
-          161,
-          234,
-          314,
-          347,
-          352
-        ],
-        "regional": [
-          18,
-          353
-        ],
-        "accumulation": [
-          19
-        ],
-        "organic": [
-          21,
-          50,
-          84,
-          119,
-          166,
-          292,
-          363,
-          395,
-          432
-        ],
-        "matter": [
-          22,
-          167,
-          396
-        ],
-        "in": [
-          23,
-          34,
-          103,
-          110,
-          115,
-          177,
-          220,
-          323,
-          356,
-          406,
-          425
-        ],
-        "sediments": [
-          24
-        ],
-        "worldwide.": [
-          25
-        ],
-        "Tubiegatan": [
-          27
-        ],
-        "section": [
-          28
-        ],
-        "(SW": [
-          29
-        ],
-        "Gissar": [
-          30
-        ],
-        "Mountains,": [
-          31
-        ],
-        "Uzbekistan)": [
-          32
-        ],
-        "located": [
-          33
-        ],
-        "the": [
-          35,
-          71,
-          93,
-          124,
-          126,
-          178,
-          182,
-          198,
-          210,
-          214,
-          221,
-          235,
-          242,
-          247,
-          260,
-          263,
-          273,
-          278,
-          283,
-          291,
-          295,
-          300,
-          303,
-          306,
-          311,
-          315,
-          324,
-          335,
-          348,
-          357,
-          369,
-          385,
-          412,
-          416,
-          430,
-          438
-        ],
-        "Northern": [
-          36
-        ],
-        "Tethys,": [
-          37
-        ],
-        "shows": [
-          38
-        ],
-        "atypical": [
-          39
-        ],
-        "organic-rich": [
-          40,
-          97,
-          183,
-          264,
-          296
-        ],
-        "limestone": [
-          41
-        ],
-        "and": [
-          42,
-          63,
-          85,
-          106,
-          120,
-          131,
-          189,
-          212,
-          246,
-          320,
-          326,
-          376,
-          444
-        ],
-        "marl": [
-          43
-        ],
-        "deposits": [
-          44,
-          297
-        ],
-        "(up": [
-          45
-        ],
-        "6%": [
-          47
-        ],
-        "total": [
-          49
-        ],
-        "carbon)": [
-          51
-        ],
-        "marked": [
-          52
-        ],
-        "by": [
-          53,
-          202,
-          318
-        ],
-        "pronounced": [
-          54
-        ],
-        "negative": [
-          55
-        ],
-        "excursions": [
-          56
-        ],
-        "δ13Ccarb": [
-          58,
-          108,
-          250
-        ],
-        "(amplitude": [
-          59,
-          65
-        ],
-        "ca.": [
-          61,
-          67
-        ],
-        "12‰)": [
-          62
-        ],
-        "δ13Corg": [
-          64
-        ],
-        "4‰)": [
-          68
-        ],
-        "recorded": [
-          69
-        ],
-        "during": [
-          70,
-          277,
-          384,
-          415
-        ],
-        "Middle": [
-          72
-        ],
-        "Oxfordian": [
-          73
-        ],
-        "(Transversarium": [
-          74
-        ],
-        "Zone).": [
-          75
-        ],
-        "A": [
-          76
-        ],
-        "transdisciplinary": [
-          77
-        ],
-        "approach": [
-          78
-        ],
-        "including": [
-          79
-        ],
-        "sedimentology,": [
-          80
-        ],
-        "palynofacies": [
-          81,
-          158
-        ],
-        "characterization,": [
-          82
-        ],
-        "mineralogy,": [
-          83
-        ],
-        "inorganic": [
-          86
-        ],
-        "geochemistry": [
-          87
-        ],
-        "carried": [
-          89
-        ],
-        "out": [
-          90
-        ],
-        "elucidate": [
-          92
-        ],
-        "origin": [
-          94
-        ],
-        "these": [
-          96,
-          143,
-          225
-        ],
-        "deposits.": [
-          98,
-          293
-        ],
-        "Highest": [
-          99
-        ],
-        "TOC": [
-          100
-        ],
-        "are": [
-          101,
-          145,
-          365
-        ],
-        "measured": [
-          102
-        ],
-        "nodular": [
-          104
-        ],
-        "limestones,": [
-          105
-        ],
-        "lowest": [
-          107
-        ],
-        "values": [
-          109
-        ],
-        "thinly": [
-          111
-        ],
-        "laminated": [
-          112,
-          148
-        ],
-        "facies": [
-          113
-        ],
-        "consisting": [
-          114
-        ],
-        "alternances": [
-          116
-        ],
-        "infra-millimeter-thick": [
-          118
-        ],
-        "carbonate": [
-          121
-        ],
-        "laminae.": [
-          122
-        ],
-        "In": [
-          123,
-          224
-        ],
-        "latter,": [
-          125,
-          226
-        ],
-        "presence": [
-          127,
-          336
-        ],
-        "organic-carbonate": [
-          129
-        ],
-        "peloids": [
-          130
-        ],
-        "possible": [
-          133
-        ],
-        "remnants": [
-          134
-        ],
-        "exopolymeric": [
-          136
-        ],
-        "substances": [
-          137
-        ],
-        "associated": [
-          138
-        ],
-        "clay": [
-          140
-        ],
-        "indicate": [
-          141,
-          192
-        ],
-        "that": [
-          142
-        ],
-        "structures": [
-          144
-        ],
-        "probably": [
-          146,
-          213,
-          229
-        ],
-        "mineralized": [
-          147
-        ],
-        "benthic": [
-          149
-        ],
-        "microbial": [
-          150,
-          218,
-          222,
-          362
-        ],
-        "mats": [
-          151
-        ],
-        "(i.e.,": [
-          152
-        ],
-        "stromatolites).": [
-          153
-        ],
-        "Rock-Eval": [
-          154
-        ],
-        "pyrolysis": [
-          155
-        ],
-        "coupled": [
-          156,
-          333,
-          399
-        ],
-        "analyses": [
-          159
-        ],
-        "point": [
-          160
-        ],
-        "dominant": [
-          163
-        ],
-        "altered": [
-          164
-        ],
-        "marine": [
-          165
-        ],
-        "probable": [
-          169
-        ],
-        "algal/microbial": [
-          170
-        ],
-        "origin,": [
-          171
-        ],
-        "subordinate": [
-          173
-        ],
-        "continental": [
-          174
-        ],
-        "phytoclasts": [
-          175
-        ],
-        "inputs": [
-          176
-        ],
-        "upper": [
-          179
-        ],
-        "part": [
-          180
-        ],
-        "interval.": [
-          184,
-          418
-        ],
-        "Trace": [
-          185
-        ],
-        "elements": [
-          186
-        ],
-        "(U/Th,": [
-          187
-        ],
-        "V/Cr": [
-          188
-        ],
-        "Mo/Al": [
-          190
-        ],
-        "ratios)": [
-          191
-        ],
-        "two": [
-          193
-        ],
-        "anoxic": [
-          194,
-          354
-        ],
-        "coinciding": [
-          196
-        ],
-        "highest": [
-          199
-        ],
-        "TOC,": [
-          200
-        ],
-        "punctuated": [
-          201
-        ],
-        "dysoxic": [
-          203
-        ],
-        "periods.": [
-          204
-        ],
-        "Such": [
-          205
-        ],
-        "O2-depleted": [
-          206
-        ],
-        "conditions": [
-          207,
-          355
-        ],
-        "have": [
-          208,
-          345,
-          405
-        ],
-        "allowed": [
-          209
-        ],
-        "preservation": [
-          211
-        ],
-        "development": [
-          215
-        ],
-        "anaerobic": [
-          217
-        ],
-        "communities": [
-          219
-        ],
-        "mats.": [
-          223
-        ],
-        "sulfate": [
-          227
-        ],
-        "reduction": [
-          228
-        ],
-        "had": [
-          230
-        ],
-        "significant": [
-          232
-        ],
-        "contribution": [
-          233
-        ],
-        "production": [
-          236
-        ],
-        "carbonates,": [
-          238
-        ],
-        "which": [
-          239
-        ],
-        "would": [
-          240
-        ],
-        "explain": [
-          241
-        ],
-        "precipitation": [
-          243
-        ],
-        "pyrite": [
-          245
-        ],
-        "relatively": [
-          248,
-          420
-        ],
-        "low": [
-          249
-        ],
-        "values.": [
-          251
-        ],
-        "progressive": [
-          253,
-          270
-        ],
-        "decrease": [
-          254
-        ],
-        "then": [
-          255
-        ],
-        "disappearance": [
-          256
-        ],
-        "kaolinite": [
-          258
-        ],
-        "from": [
-          259,
-          310,
-          377
-        ],
-        "base": [
-          261
-        ],
-        "interval,": [
-          265
-        ],
-        "is": [
-          266
-        ],
-        "interpreted": [
-          267
-        ],
-        "as": [
-          268,
-          341
-        ],
-        "aridification": [
-          271
-        ],
-        "Amu": [
-          274,
-          307,
-          358
-        ],
-        "Darya": [
-          275,
-          308,
-          359
-        ],
-        "Basin": [
-          276,
-          309
-        ],
-        "Transversarium": [
-          279
-        ],
-        "Zone,": [
-          280
-        ],
-        "culminating": [
-          281
-        ],
-        "progradation": [
-          284
-        ],
-        "large-scale": [
-          287
-        ],
-        "gypsum": [
-          288
-        ],
-        "sabkha": [
-          289
-        ],
-        "overlying": [
-          290
-        ],
-        "Overall,": [
-          294
-        ],
-        "could": [
-          298,
-          344,
-          404
-        ],
-        "record": [
-          299
-        ],
-        "onset": [
-          301
-        ],
-        "disconnection": [
-          304
-        ],
-        "open": [
-          312
-        ],
-        "sea": [
-          313
-        ],
-        "south,": [
-          316
-        ],
-        "induced": [
-          317,
-          408
-        ],
-        "compression": [
-          319
-        ],
-        "subsequent": [
-          321
-        ],
-        "uplifts": [
-          322
-        ],
-        "Afghan": [
-          325
-        ],
-        "Central": [
-          327,
-          381
-        ],
-        "Iranian": [
-          328
-        ],
-        "blocks.": [
-          329
-        ],
-        "elevated": [
-          331
-        ],
-        "evaporation,": [
-          332
-        ],
-        "hydrological": [
-          338
-        ],
-        "barriers": [
-          339
-        ],
-        "(such": [
-          340
-        ],
-        "coral": [
-          342
-        ],
-        "reefs)": [
-          343
-        ],
-        "led": [
-          346
-        ],
-        "formation": [
-          349
-        ],
-        "local": [
-          351
-        ],
-        "Basin.": [
-          360
-        ],
-        "Similar": [
-          361
-        ],
-        "accumulations": [
-          364
-        ],
-        "recently": [
-          366
-        ],
-        "known": [
-          367
-        ],
-        "throughout": [
-          368
-        ],
-        "Tethys": [
-          370
-        ],
-        "(e.g.,": [
-          371,
-          380,
-          441
-        ],
-        "Arabian": [
-          372
-        ],
-        "Plate,": [
-          373
-        ],
-        "Western": [
-          374
-        ],
-        "Europe)": [
-          375
-        ],
-        "other": [
-          378
-        ],
-        "oceans": [
-          379
-        ],
-        "Atlantic,": [
-          382
-        ],
-        "Pacific)": [
-          383
-        ],
-        "Jurassic,": [
-          387
-        ],
-        "suggesting": [
-          388
-        ],
-        "common": [
-          389
-        ],
-        "controlling": [
-          390
-        ],
-        "factors.": [
-          391
-        ],
-        "increase": [
-          393
-        ],
-        "storage": [
-          397
-        ],
-        "worldwide": [
-          398
-        ],
-        "potential": [
-          401
-        ],
-        "methane": [
-          402
-        ],
-        "release": [
-          403
-        ],
-        "turn": [
-          407
-        ],
-        "Oxfordian-Kimmeridgian": [
-          417
-        ],
-        "shallow": [
-          421
-        ],
-        "model": [
-          423
-        ],
-        "proposed": [
-          424,
-          436
-        ],
-        "this": [
-          426
-        ],
-        "study": [
-          427
-        ],
-        "contrasts": [
-          428
-        ],
-        "well-known": [
-          431
-        ],
-        "carbon-rich": [
-          433
-        ],
-        "pelagic": [
-          434
-        ],
-        "models": [
-          435
-        ],
-        "for": [
-          437
-        ],
-        "Toarcian,": [
-          442
-        ],
-        "Kimmeridgian)": [
-          443
-        ],
-        "Cretaceous": [
-          445
-        ],
-        "OAEs.": [
-          446
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2025,
@@ -21477,7 +20557,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-09T09:26:11.010843",
+      "updated_date": "2026-02-13T15:27:49.765798",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23304,8 +22384,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -27440,8 +26520,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -28444,8 +27524,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -28962,8 +28042,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6800000071525574,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
@@ -29446,8 +28526,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -29970,8 +29050,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -30502,8 +29582,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.550000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -30927,8 +30007,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6399999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -32376,8 +31456,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -32944,8 +32024,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6100000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
@@ -33702,8 +32782,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5400000214576721,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
@@ -35290,8 +34370,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -35993,8 +35073,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -36801,8 +35881,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -37338,8 +36418,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6000000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -37733,8 +36813,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -38605,8 +37685,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -39478,8 +38558,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -40113,8 +39193,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -40515,8 +39595,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4099999964237213,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -40872,8 +39952,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
@@ -41488,8 +40568,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -42731,8 +41811,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4000000059604645,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -43381,8 +42461,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.44999998807907104,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -43814,6 +42894,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4407990293",
+              "display_name": null,
+              "ror": null,
+              "country_code": null,
+              "type": null,
+              "lineage": [
+                "https://openalex.org/I4407990293"
+              ]
+            },
+            {
               "id": "https://openalex.org/I90843659",
               "display_name": "Université de franche-comté",
               "ror": "https://ror.org/03pcc9z86",
@@ -43836,7 +42926,8 @@
             {
               "raw_affiliation_string": "Universite de Franche-Comte, France",
               "institution_ids": [
-                "https://openalex.org/I90843659"
+                "https://openalex.org/I90843659",
+                "https://openalex.org/I4407990293"
               ]
             }
           ]
@@ -43862,7 +42953,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.09243601,
+        "value": 0.09235596,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44525,7 +43616,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-13T15:27:49.765798",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44988,8 +44079,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -46002,8 +45093,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -46424,8 +45515,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
@@ -46834,8 +45925,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -47550,8 +46641,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -48529,8 +47620,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -49338,8 +48429,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -49587,8 +48678,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6100000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
@@ -49806,8 +48897,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -50467,8 +49558,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6100000143051147,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
@@ -50868,8 +49959,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -51302,8 +50393,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5600000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -51730,8 +50821,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -52148,8 +51239,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -52634,8 +51725,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -53003,8 +52094,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -54370,8 +53461,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -55000,8 +54091,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -56282,8 +55373,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4000000059604645,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -57441,8 +56532,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -58296,8 +57387,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/16",
-          "score": 0.7699999809265137,
-          "display_name": "Peace, Justice and strong institutions"
+          "display_name": "Peace, Justice and strong institutions",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -59071,7 +58162,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.50089689,
+        "value": 0.50089067,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59525,8 +58616,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -61185,8 +60276,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
@@ -61280,6 +60371,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I177064439",
+              "display_name": "Université de Bourgogne",
+              "ror": "https://ror.org/03k1bsr36",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I177064439"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210158426",
               "display_name": "Biogéosciences",
               "ror": "https://ror.org/04mzqjs78",
@@ -61308,6 +60409,7 @@
             {
               "raw_affiliation_string": "Biogéosciences [UMR 6282]",
               "institution_ids": [
+                "https://openalex.org/I177064439",
                 "https://openalex.org/I4210158426"
               ]
             }
@@ -61321,6 +60423,16 @@
             "orcid": null
           },
           "institutions": [
+            {
+              "id": "https://openalex.org/I177064439",
+              "display_name": "Université de Bourgogne",
+              "ror": "https://ror.org/03k1bsr36",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I177064439"
+              ]
+            },
             {
               "id": "https://openalex.org/I4210158426",
               "display_name": "Biogéosciences",
@@ -61350,6 +60462,7 @@
             {
               "raw_affiliation_string": "Biogéosciences [UMR 6282]",
               "institution_ids": [
+                "https://openalex.org/I177064439",
                 "https://openalex.org/I4210158426"
               ]
             }
@@ -61625,6 +60738,7 @@
         "https://openalex.org/A5076555974"
       ],
       "corresponding_institution_ids": [
+        "https://openalex.org/I177064439",
         "https://openalex.org/I4210158426"
       ],
       "apc_list": null,
@@ -61633,7 +60747,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38193734,
+        "value": 0.38192902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61855,7 +60969,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-10T06:17:13.238206",
+      "updated_date": "2026-02-13T15:27:49.765798",
       "created_date": "2025-10-10T00:00:00"
     }
   ]
