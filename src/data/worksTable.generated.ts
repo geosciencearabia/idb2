@@ -3041,7 +3041,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1989-07-01",
     "year": 1989,
     "venue": "Journal of Petroleum Geology",
-    "citations": 189,
+    "citations": 190,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geochemical Analysis",
@@ -9425,6 +9425,43 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4308862435",
+    "doi": "https://doi.org/10.1007/s00410-022-01968-9",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5011750653",
+    "allAuthorOpenAlexIds": [
+      "A5011750653",
+      "A5058038066",
+      "A5042158045",
+      "A5067442143"
+    ],
+    "firstAuthorLastName": "Whattam",
+    "allAuthors": [
+      "Scott Whattam",
+      "Jan C.M. De Hoog",
+      "Matthew I. Leybourne",
+      "Mohamed Zaki Khedr"
+    ],
+    "title": "Link between melt-impregnation and metamorphism of Atlantis Massif peridotite (IODP Expedition 357)",
+    "publicationDate": "2022-11-01",
+    "year": 2022,
+    "venue": "Contributions to Mineralogy and Petrology",
+    "citations": 12,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "High-pressure geophysics and materials",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "James Hutton Institute",
+      "University of Edinburgh",
+      "Queen's University",
+      "Arthur B. McDonald-Canadian Astroparticle Physics Research Institute",
+      "Kafrelsheikh University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4386140262",
     "doi": "https://doi.org/10.1080/00206814.2023.2250846",
     "program": "",
@@ -10047,43 +10084,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "International Ocean Discovery Program"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4308862435",
-    "doi": "https://doi.org/10.1007/s00410-022-01968-9",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5011750653",
-    "allAuthorOpenAlexIds": [
-      "A5011750653",
-      "A5058038066",
-      "A5042158045",
-      "A5067442143"
-    ],
-    "firstAuthorLastName": "Whattam",
-    "allAuthors": [
-      "Scott Whattam",
-      "Jan C.M. De Hoog",
-      "Matthew I. Leybourne",
-      "Mohamed Zaki Khedr"
-    ],
-    "title": "Link between melt-impregnation and metamorphism of Atlantis Massif peridotite (IODP Expedition 357)",
-    "publicationDate": "2022-11-01",
-    "year": 2022,
-    "venue": "Contributions to Mineralogy and Petrology",
-    "citations": 11,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "High-pressure geophysics and materials",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "James Hutton Institute",
-      "University of Edinburgh",
-      "Queen's University",
-      "Arthur B. McDonald-Canadian Astroparticle Physics Research Institute",
-      "Kafrelsheikh University"
     ]
   },
   {
@@ -23468,6 +23468,32 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2320630643",
+    "doi": "https://doi.org/10.1007/s005310100225",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5013195813",
+    "allAuthorOpenAlexIds": [
+      "A5013195813"
+    ],
+    "firstAuthorLastName": "Knaust",
+    "allAuthors": [
+      "Dirk Knaust"
+    ],
+    "title": "Pinch-and-swell structures at the Middle/Upper Muschelkalk boundary (Triassic): evidence of earthquake effects (seismites) in the Germanic Basin",
+    "publicationDate": "2002-03-01",
+    "year": 2002,
+    "venue": "International Journal of Earth Sciences",
+    "citations": 28,
+    "topics": [
+      "Geological Studies and Exploration",
+      "Geological formations and processes",
+      "Geological and Geophysical Studies"
+    ],
+    "institutions": [
+      "Shell (Norway)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2902720888",
     "doi": "https://doi.org/10.1306/13652177m1153807",
     "program": "",
@@ -23719,32 +23745,6 @@ export const worksTable: WorkTableRecord[] = [
       "Equinor (Norway)",
       "Peace Arch Hospital",
       "University of Alberta"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2320630643",
-    "doi": "https://doi.org/10.1007/s005310100225",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5013195813",
-    "allAuthorOpenAlexIds": [
-      "A5013195813"
-    ],
-    "firstAuthorLastName": "Knaust",
-    "allAuthors": [
-      "Dirk Knaust"
-    ],
-    "title": "Pinch-and-swell structures at the Middle/Upper Muschelkalk boundary (Triassic): evidence of earthquake effects (seismites) in the Germanic Basin",
-    "publicationDate": "2002-03-01",
-    "year": 2002,
-    "venue": "International Journal of Earth Sciences",
-    "citations": 27,
-    "topics": [
-      "Geological Studies and Exploration",
-      "Geological formations and processes",
-      "Geological and Geophysical Studies"
-    ],
-    "institutions": [
-      "Shell (Norway)"
     ]
   },
   {
@@ -26043,7 +26043,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-10-14",
     "year": 2022,
     "venue": "Applied Energy",
-    "citations": 26,
+    "citations": 27,
     "topics": [
       "Energy Load and Power Forecasting",
       "Reservoir Engineering and Simulation Methods",
@@ -47601,7 +47601,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-04-26",
     "year": 2023,
     "venue": "Chemosphere",
-    "citations": 43,
+    "citations": 44,
     "topics": [
       "Water Quality Monitoring Technologies",
       "Surface Modification and Superhydrophobicity",
@@ -47822,7 +47822,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-08-03",
     "year": 2022,
     "venue": "Journal of King Saud University - Computer and Information Sciences",
-    "citations": 29,
+    "citations": 30,
     "topics": [
       "Hydrological Forecasting Using AI",
       "Groundwater flow and contamination studies",
@@ -47930,7 +47930,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-04-01",
     "year": 2024,
     "venue": "Heliyon",
-    "citations": 23,
+    "citations": 25,
     "topics": [
       "Wastewater Treatment and Reuse",
       "Groundwater and Isotope Geochemistry",
@@ -48280,7 +48280,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-07-03",
     "year": 2021,
     "venue": "Water",
-    "citations": 20,
+    "citations": 21,
     "topics": [
       "Groundwater and Isotope Geochemistry",
       "Geochemistry and Elemental Analysis",
@@ -79282,7 +79282,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2013-07-17",
     "year": 2013,
     "venue": "Aeolian Research",
-    "citations": 70,
+    "citations": 71,
     "topics": [
       "Aeolian processes and effects",
       "Geology and Paleoclimatology Research",
@@ -83669,7 +83669,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-04-09",
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
-    "citations": 181,
+    "citations": 182,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -84674,7 +84674,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-12-24",
     "year": 2020,
     "venue": "Earth-Science Reviews",
-    "citations": 439,
+    "citations": 440,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -84889,7 +84889,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2008-11-26",
     "year": 2008,
     "venue": "Gondwana Research",
-    "citations": 231,
+    "citations": 232,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -102344,7 +102344,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2001-07-01",
     "year": 2001,
     "venue": "GeoArabia",
-    "citations": 520,
+    "citations": 521,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological formations and processes",
@@ -104998,6 +104998,42 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4389450736",
+    "doi": "https://doi.org/10.1029/2023ea003014",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5054922583",
+    "allAuthorOpenAlexIds": [
+      "A5054922583",
+      "A5035410353",
+      "A5077467560",
+      "A5090360842",
+      "A5082388493"
+    ],
+    "firstAuthorLastName": "Awais",
+    "allAuthors": [
+      "Muhammad Awais",
+      "Sherif M. Hanafy",
+      "Saifullah Shafiq",
+      "Abdullatif Al‐Shuhail",
+      "Umair bin Waheed"
+    ],
+    "title": "First Break Traveltime Picking Using Unsupervised Machine Learning and Super‐Virtual Refraction Interferometry",
+    "publicationDate": "2023-12-01",
+    "year": 2023,
+    "venue": "Earth and Space Science",
+    "citations": 3,
+    "topics": [
+      "Seismology and Earthquake Studies",
+      "Seismic Imaging and Inversion Techniques",
+      "Seismic Waves and Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Queensland",
+      "Queensland University of Technology"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2588217779",
     "doi": "https://doi.org/10.1111/1365-2478.12491",
     "program": "",
@@ -106384,42 +106420,6 @@ export const worksTable: WorkTableRecord[] = [
       "Ankara University",
       "University of Sharjah",
       "Aristotle University of Thessaloniki"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4389450736",
-    "doi": "https://doi.org/10.1029/2023ea003014",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5054922583",
-    "allAuthorOpenAlexIds": [
-      "A5054922583",
-      "A5035410353",
-      "A5077467560",
-      "A5090360842",
-      "A5082388493"
-    ],
-    "firstAuthorLastName": "Awais",
-    "allAuthors": [
-      "Muhammad Awais",
-      "Sherif M. Hanafy",
-      "Saifullah Shafiq",
-      "Abdullatif Al‐Shuhail",
-      "Umair bin Waheed"
-    ],
-    "title": "First Break Traveltime Picking Using Unsupervised Machine Learning and Super‐Virtual Refraction Interferometry",
-    "publicationDate": "2023-12-01",
-    "year": 2023,
-    "venue": "Earth and Space Science",
-    "citations": 2,
-    "topics": [
-      "Seismology and Earthquake Studies",
-      "Seismic Imaging and Inversion Techniques",
-      "Seismic Waves and Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Queensland",
-      "Queensland University of Technology"
     ]
   },
   {
@@ -117734,7 +117734,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2009-07-01",
     "year": 2009,
     "venue": "GeoArabia",
-    "citations": 132,
+    "citations": 133,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "earthquake and tectonic studies",
@@ -124560,7 +124560,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-07-01",
     "year": 2007,
     "venue": "GeoArabia",
-    "citations": 197,
+    "citations": 198,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -131750,7 +131750,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-12-27",
     "year": 2019,
     "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 32,
+    "citations": 33,
     "topics": [
       "Enhanced Oil Recovery Techniques",
       "Hydraulic Fracturing and Reservoir Analysis",
