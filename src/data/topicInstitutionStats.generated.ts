@@ -20,7 +20,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1223,
-    "citations": 21342
+    "citations": 21344
   },
   {
     "id": "https://openalex.org/T10109",
@@ -38,7 +38,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10001",
     "name": "Geological and Geochemical Analysis",
     "publications": 636,
-    "citations": 30803
+    "citations": 30804
   },
   {
     "id": "https://openalex.org/T10965",
@@ -62,7 +62,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 337,
-    "citations": 4037
+    "citations": 4038
   },
   {
     "id": "https://openalex.org/T10995",
@@ -122,7 +122,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11740",
     "name": "Geochemistry and Elemental Analysis",
     "publications": 136,
-    "citations": 3385
+    "citations": 3386
   },
   {
     "id": "https://openalex.org/T11588",
@@ -146,13 +146,13 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T11630",
     "name": "Petroleum Processing and Analysis",
     "publications": 98,
-    "citations": 2088
+    "citations": 2089
   },
   {
     "id": "https://openalex.org/T11302",
     "name": "CO2 Sequestration and Geologic Interactions",
     "publications": 98,
-    "citations": 1564
+    "citations": 1565
   },
   {
     "id": "https://openalex.org/T12073",
@@ -170,7 +170,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10398",
     "name": "Groundwater and Isotope Geochemistry",
     "publications": 70,
-    "citations": 665
+    "citations": 666
   },
   {
     "id": "https://openalex.org/T13067",
@@ -536,7 +536,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10139",
     "name": "Heavy metals in environment",
     "publications": 10,
-    "citations": 109
+    "citations": 110
   },
   {
     "id": "https://openalex.org/T10033",
@@ -1433,6 +1433,12 @@ export const topicStats: TopicStats[] = [
     "citations": 8
   },
   {
+    "id": "https://openalex.org/T10162",
+    "name": "Online and Blended Learning",
+    "publications": 2,
+    "citations": 8
+  },
+  {
     "id": "https://openalex.org/T10687",
     "name": "Innovative concrete reinforcement materials",
     "publications": 2,
@@ -1447,12 +1453,6 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T11331",
     "name": "Fecal contamination and water quality",
-    "publications": 2,
-    "citations": 7
-  },
-  {
-    "id": "https://openalex.org/T10162",
-    "name": "Online and Blended Learning",
     "publications": 2,
     "citations": 7
   },
@@ -2357,6 +2357,12 @@ export const topicStats: TopicStats[] = [
     "citations": 2
   },
   {
+    "id": "https://openalex.org/T14182",
+    "name": "Technology-Enhanced Education Studies",
+    "publications": 1,
+    "citations": 2
+  },
+  {
     "id": "https://openalex.org/T10734",
     "name": "Information and Cyber Security",
     "publications": 1,
@@ -2503,12 +2509,6 @@ export const topicStats: TopicStats[] = [
   {
     "id": "https://openalex.org/T10005",
     "name": "Ecology and Vegetation Dynamics Studies",
-    "publications": 1,
-    "citations": 1
-  },
-  {
-    "id": "https://openalex.org/T14182",
-    "name": "Technology-Enhanced Education Studies",
     "publications": 1,
     "citations": 1
   },
@@ -3287,7 +3287,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 877,
-    "citations": 9566
+    "citations": 9567
   },
   {
     "id": "https://openalex.org/I5681781",
@@ -3311,7 +3311,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I1294671590",
     "name": "Centre National de la Recherche Scientifique",
     "publications": 127,
-    "citations": 5463
+    "citations": 5464
   },
   {
     "id": "https://openalex.org/I60342839",
@@ -3323,7 +3323,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I47818738",
     "name": "Sultan Qaboos University",
     "publications": 107,
-    "citations": 1488
+    "citations": 1489
   },
   {
     "id": "https://openalex.org/I33849332",
@@ -3341,7 +3341,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I28022161",
     "name": "King Saud University",
     "publications": 89,
-    "citations": 887
+    "citations": 888
   },
   {
     "id": "https://openalex.org/I49324905",
@@ -3401,7 +3401,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I21203515",
     "name": "Kazan Federal University",
     "publications": 46,
-    "citations": 340
+    "citations": 341
   },
   {
     "id": "https://openalex.org/I176601375",
@@ -3425,7 +3425,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4576418",
     "name": "University of Technology Malaysia",
     "publications": 37,
-    "citations": 213
+    "citations": 214
   },
   {
     "id": "https://openalex.org/I19820366",
@@ -3461,7 +3461,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I4210128123",
     "name": "Instytut Nauk Geologicznych",
     "publications": 29,
-    "citations": 735
+    "citations": 736
   },
   {
     "id": "https://openalex.org/I4388891817",
@@ -3473,7 +3473,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I126596746",
     "name": "Jagiellonian University",
     "publications": 28,
-    "citations": 596
+    "citations": 597
   },
   {
     "id": "https://openalex.org/I170239107",
@@ -3521,7 +3521,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I88126159",
     "name": "Egyptian Petroleum Research Institute",
     "publications": 23,
-    "citations": 200
+    "citations": 201
   },
   {
     "id": "https://openalex.org/I98677209",
@@ -5921,7 +5921,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I98905743",
     "name": "Kastamonu University",
     "publications": 3,
-    "citations": 9
+    "citations": 10
   },
   {
     "id": "https://openalex.org/I138564716",
@@ -7163,7 +7163,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I152195623",
     "name": "Misurata University",
     "publications": 2,
-    "citations": 7
+    "citations": 8
   },
   {
     "id": "https://openalex.org/I87339560",
@@ -8480,6 +8480,12 @@ export const institutionStats: InstitutionStats[] = [
     "citations": 30
   },
   {
+    "id": "https://openalex.org/I189590672",
+    "name": "Kansas State University",
+    "publications": 1,
+    "citations": 30
+  },
+  {
     "id": "https://openalex.org/I4626487",
     "name": "King Faisal University",
     "publications": 1,
@@ -8524,12 +8530,6 @@ export const institutionStats: InstitutionStats[] = [
   {
     "id": "https://openalex.org/I2801277386",
     "name": "Emirates Foundation",
-    "publications": 1,
-    "citations": 29
-  },
-  {
-    "id": "https://openalex.org/I189590672",
-    "name": "Kansas State University",
     "publications": 1,
     "citations": 29
   },

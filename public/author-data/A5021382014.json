@@ -896,16 +896,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2049,9 +2049,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2073,8 +2073,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -4465,16 +4465,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
           "score": 0.4399999976158142,
-          "display_name": "Quality Education"
+          "id": "https://metadata.un.org/sdg/4"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4251869326.pdf",
@@ -5352,8 +5352,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2254901902.pdf",
@@ -5643,1950 +5643,6 @@
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4246434093",
-      "doi": "https://doi.org/10.22587/ajbas.2019.13.10.14",
-      "title": "Factors Effecting Information Security Management and theirimpacts on Organization performance in the work environment:Case study; Hatif Libya Company ( HLC )",
-      "display_name": "Factors Effecting Information Security Management and theirimpacts on Organization performance in the work environment:Case study; Hatif Libya Company ( HLC )",
-      "publication_year": 2019,
-      "publication_date": "2019-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4246434093",
-        "doi": "https://doi.org/10.22587/ajbas.2019.13.10.14"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.22587/ajbas.2019.13.10.14",
-        "is_oa": true,
-        "landing_page_url": "http://doi.org/10.22587/ajbas.2019.13.10.14",
-        "pdf_url": "https://doi.org/10.22587/ajbas.2019.13.10.14",
-        "source": {
-          "id": "https://openalex.org/S2764745110",
-          "display_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
-          "issn_l": "1991-8178",
-          "issn": [
-            "1991-8178",
-            "2309-8414"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4376894233",
-          "host_organization_name": "International Network for Scientific Information Publication",
-          "host_organization_lineage": [
-            "https://openalex.org/P4376894233"
-          ],
-          "host_organization_lineage_names": [
-            "International Network for Scientific Information Publication"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://doi.org/10.22587/ajbas.2019.13.10.14",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5095476073",
-            "display_name": "Jamal Elattresh",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I98905743",
-              "display_name": "Kastamonu University",
-              "ror": "https://ror.org/015scty35",
-              "country_code": "TR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I98905743"
-              ]
-            }
-          ],
-          "countries": [
-            "TR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Jamal Elattresh",
-          "raw_affiliation_strings": [
-            "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
-            "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-            "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-            "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            },
-            {
-              "raw_affiliation_string": "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            },
-            {
-              "raw_affiliation_string": "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5021382014",
-            "display_name": "Khalid Al Ramadan",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I98905743",
-              "display_name": "Kastamonu University",
-              "ror": "https://ror.org/015scty35",
-              "country_code": "TR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I98905743"
-              ]
-            }
-          ],
-          "countries": [
-            "TR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid Ramadan",
-          "raw_affiliation_strings": [
-            "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-            "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-            "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
-            "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            },
-            {
-              "raw_affiliation_string": "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            },
-            {
-              "raw_affiliation_string": "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            },
-            {
-              "raw_affiliation_string": "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5084570764",
-            "display_name": "Ümit Tokeşer",
-            "orcid": "https://orcid.org/0000-0003-4773-8291"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I98905743",
-              "display_name": "Kastamonu University",
-              "ror": "https://ror.org/015scty35",
-              "country_code": "TR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I98905743"
-              ]
-            }
-          ],
-          "countries": [
-            "TR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Umit Tokeser",
-          "raw_affiliation_strings": [
-            "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-            "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-            "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
-            "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            },
-            {
-              "raw_affiliation_string": "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            },
-            {
-              "raw_affiliation_string": "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
-              "institution_ids": [
-                "https://openalex.org/I98905743"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "K Al-Mabrouk",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "K Al-Mabrouk",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "J Soar",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "J Soar",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "N Alhgig",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "N Alhgig",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "R Mehta",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R Mehta",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "M Amanullah",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M Amanullah",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "A Kalam",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A Kalam",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "A Zayegh",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A Zayegh",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "A Aladwani",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A Aladwani",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "W Boehmer",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "W Boehmer",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "L Bodin",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "L Bodin",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "L Gordon",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "L Gordon",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "M Loeb",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M Loeb",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "S Bezweek",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S Bezweek",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "C Egbu",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "C Egbu",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "A Busoud",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A Busoud",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "D ivkovi",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "D ivkovi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "K Colorafi",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "K Colorafi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "B Evans",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "B Evans",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "G Disterer",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "G Disterer",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "C Hsu",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "C Hsu",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "T Wang",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "T Wang",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "A Lu",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A Lu",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "K Huang",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "K Huang",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "J Wu",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "J Wu",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "S Lu",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S Lu",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Y Lin",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Y Lin",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "B Maumbe",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "B Maumbe",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "V Owei",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "V Owei",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "H Alexander",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "H Alexander",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "N Manochehri",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "N Manochehri",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "R Al-Esmail",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R Al-Esmail",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "R Ashrafi",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R Ashrafi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "L Murugiah",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "L Murugiah",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "H Akgam",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "H Akgam",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "B Mai",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "B Mai",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "T Parsons",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "T Parsons",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "V Prybutok",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "V Prybutok",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "K Namuduri",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "K Namuduri",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Narain Singh",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Narain Singh",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "A Gupta",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A Gupta",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "M Ojha",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M Ojha",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "A",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "S Pal",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S Pal",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "S Anand",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "S Anand",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "M Pattinson",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M Pattinson",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "M Butavicius",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M Butavicius",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "K Parsons",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "K Parsons",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "A Mccormac",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A Mccormac",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "C Jerram",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "C Jerram",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "R Prokupets",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R Prokupets",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "M Regelski",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M Regelski",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "R Rowlingson",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R Rowlingson",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "R Winsborrow",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R Winsborrow",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Z Soomro",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Z Soomro",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "M Shah",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M Shah",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "J Ahmed",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "J Ahmed",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "A Shameli-Sendi",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "A Shameli-Sendi",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "R Aghababaei-Barzegar",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "R Aghababaei-Barzegar",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "M Cheriet",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "M Cheriet",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "T Subramani",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "T Subramani",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "T Kumar",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "T Kumar",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "J Twati",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "J Twati",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": null,
-            "display_name": "J Gammack",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "J Gammack",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 66,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5095476073"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I98905743"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.36401004,
-      "has_fulltext": true,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.75326748,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10734",
-        "display_name": "Information and Cyber Security",
-        "score": 0.9036999940872192,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1710",
-          "display_name": "Information Systems"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10734",
-          "display_name": "Information and Cyber Security",
-          "score": 0.9036999940872192,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1710",
-            "display_name": "Information Systems"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/work",
-          "display_name": "Work (physics)",
-          "score": 0.6894456744194031
-        },
-        {
-          "id": "https://openalex.org/keywords/business",
-          "display_name": "Business",
-          "score": 0.4869571626186371
-        },
-        {
-          "id": "https://openalex.org/keywords/process-management",
-          "display_name": "Process management",
-          "score": 0.36158645153045654
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.34511154890060425
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.1057666540145874
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C18762648",
-          "wikidata": "https://www.wikidata.org/wiki/Q42213",
-          "display_name": "Work (physics)",
-          "level": 2,
-          "score": 0.6894456744194031
-        },
-        {
-          "id": "https://openalex.org/C144133560",
-          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
-          "display_name": "Business",
-          "level": 0,
-          "score": 0.4869571626186371
-        },
-        {
-          "id": "https://openalex.org/C195094911",
-          "wikidata": "https://www.wikidata.org/wiki/Q14167904",
-          "display_name": "Process management",
-          "level": 1,
-          "score": 0.36158645153045654
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.34511154890060425
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.1057666540145874
-        },
-        {
-          "id": "https://openalex.org/C78519656",
-          "wikidata": "https://www.wikidata.org/wiki/Q101333",
-          "display_name": "Mechanical engineering",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.22587/ajbas.2019.13.10.14",
-          "is_oa": true,
-          "landing_page_url": "http://doi.org/10.22587/ajbas.2019.13.10.14",
-          "pdf_url": "https://doi.org/10.22587/ajbas.2019.13.10.14",
-          "source": {
-            "id": "https://openalex.org/S2764745110",
-            "display_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
-            "issn_l": "1991-8178",
-            "issn": [
-              "1991-8178",
-              "2309-8414"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4376894233",
-            "host_organization_name": "International Network for Scientific Information Publication",
-            "host_organization_lineage": [
-              "https://openalex.org/P4376894233"
-            ],
-            "host_organization_lineage_names": [
-              "International Network for Scientific Information Publication"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.22587/ajbas.2019.13.10.14",
-        "is_oa": true,
-        "landing_page_url": "http://doi.org/10.22587/ajbas.2019.13.10.14",
-        "pdf_url": "https://doi.org/10.22587/ajbas.2019.13.10.14",
-        "source": {
-          "id": "https://openalex.org/S2764745110",
-          "display_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
-          "issn_l": "1991-8178",
-          "issn": [
-            "1991-8178",
-            "2309-8414"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4376894233",
-          "host_organization_name": "International Network for Scientific Information Publication",
-          "host_organization_lineage": [
-            "https://openalex.org/P4376894233"
-          ],
-          "host_organization_lineage_names": [
-            "International Network for Scientific Information Publication"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/8",
-          "score": 0.550000011920929,
-          "display_name": "Decent work and economic growth"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4246434093.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4246434093.grobid-xml"
-      },
-      "referenced_works_count": 39,
-      "referenced_works": [
-        "https://openalex.org/W839306605",
-        "https://openalex.org/W1499316066",
-        "https://openalex.org/W1507365153",
-        "https://openalex.org/W1602002062",
-        "https://openalex.org/W1611342103",
-        "https://openalex.org/W1664717116",
-        "https://openalex.org/W1968011213",
-        "https://openalex.org/W2003676537",
-        "https://openalex.org/W2030483670",
-        "https://openalex.org/W2049214960",
-        "https://openalex.org/W2085421914",
-        "https://openalex.org/W2093619978",
-        "https://openalex.org/W2119716788",
-        "https://openalex.org/W2124658619",
-        "https://openalex.org/W2154257511",
-        "https://openalex.org/W2156461271",
-        "https://openalex.org/W2174850379",
-        "https://openalex.org/W2208596391",
-        "https://openalex.org/W2212054291",
-        "https://openalex.org/W2261736760",
-        "https://openalex.org/W2296469796",
-        "https://openalex.org/W2297459312",
-        "https://openalex.org/W2397181947",
-        "https://openalex.org/W2486598854",
-        "https://openalex.org/W2529668073",
-        "https://openalex.org/W2761738843",
-        "https://openalex.org/W2886987691",
-        "https://openalex.org/W3118658950",
-        "https://openalex.org/W3180371685",
-        "https://openalex.org/W4233748210",
-        "https://openalex.org/W4250388344",
-        "https://openalex.org/W4301248776",
-        "https://openalex.org/W4396935714",
-        "https://openalex.org/W6632901372",
-        "https://openalex.org/W6635829090",
-        "https://openalex.org/W6657911402",
-        "https://openalex.org/W6658730127",
-        "https://openalex.org/W6798234594",
-        "https://openalex.org/W6922530732"
-      ],
-      "related_works": [
-        "https://openalex.org/W1716775",
-        "https://openalex.org/W16784206",
-        "https://openalex.org/W26754671",
-        "https://openalex.org/W24801123",
-        "https://openalex.org/W6074086",
-        "https://openalex.org/W26882545",
-        "https://openalex.org/W10651703",
-        "https://openalex.org/W27142670",
-        "https://openalex.org/W34428273",
-        "https://openalex.org/W42309608"
-      ],
-      "abstract_inverted_index": {
-        "Information": [
-          0
-        ],
-        "security": [
-          1,
-          27,
-          37,
-          65,
-          156,
-          188,
-          244
-        ],
-        "(InfoSec)": [
-          2
-        ],
-        "is": [
-          3,
-          8,
-          49,
-          218
-        ],
-        "an": [
-          4,
-          88,
-          219
-        ],
-        "important": [
-          5,
-          220
-        ],
-        "issue": [
-          6
-        ],
-        "which": [
-          7
-        ],
-        "gaining": [
-          9
-        ],
-        "more": [
-          10,
-          12
-        ],
-        "and": [
-          11,
-          31,
-          54,
-          86,
-          138,
-          147,
-          160,
-          164,
-          184,
-          206,
-          210,
-          251
-        ],
-        "interest": [
-          13
-        ],
-        "by": [
-          14,
-          59,
-          84
-        ],
-        "organizations": [
-          15,
-          223,
-          225
-        ],
-        "worldwide.This": [
-          16
-        ],
-        "study": [
-          17,
-          48,
-          72,
-          93,
-          174,
-          217
-        ],
-        "aims": [
-          18
-        ],
-        "to": [
-          19,
-          33,
-          50,
-          79,
-          91,
-          104,
-          121,
-          133,
-          149,
-          192,
-          201,
-          238,
-          247,
-          253,
-          256
-        ],
-        "evaluate": [
-          20,
-          51,
-          150
-        ],
-        "the": [
-          21,
-          40,
-          52,
-          55,
-          61,
-          69,
-          81,
-          92,
-          108,
-          111,
-          125,
-          134,
-          145,
-          151,
-          172,
-          231
-        ],
-        "service": [
-          22
-        ],
-        "management": [
-          23,
-          28,
-          38,
-          66,
-          157,
-          245
-        ],
-        "approach": [
-          24,
-          78
-        ],
-        "of": [
-          25,
-          46,
-          57,
-          63,
-          153,
-          180,
-          186,
-          230,
-          242
-        ],
-        "information": [
-          26,
-          36,
-          64,
-          155,
-          187,
-          195,
-          243
-        ],
-        "that": [
-          29,
-          117
-        ],
-        "applied": [
-          30,
-          143
-        ],
-        "utilized": [
-          32
-        ],
-        "improve": [
-          34
-        ],
-        "effective": [
-          35
-        ],
-        "in": [
-          39,
-          171
-        ],
-        "Hatif": [
-          41
-        ],
-        "Libya": [
-          42
-        ],
-        "Company": [
-          43
-        ],
-        "(HLC).The": [
-          44
-        ],
-        "aim": [
-          45
-        ],
-        "this": [
-          47,
-          181,
-          214
-        ],
-        "processes": [
-          53,
-          140
-        ],
-        "performance": [
-          56,
-          250
-        ],
-        "HLC": [
-          58,
-          159,
-          199
-        ],
-        "following": [
-          60
-        ],
-        "improvements": [
-          62
-        ],
-        "standards": [
-          67
-        ],
-        "at": [
-          68,
-          228
-        ],
-        "company.This": [
-          70
-        ],
-        "research": [
-          71,
-          77,
-          135,
-          216
-        ],
-        "has": [
-          73,
-          141
-        ],
-        "used": [
-          74
-        ],
-        "a": [
-          75
-        ],
-        "descriptive": [
-          76
-        ],
-        "collect": [
-          80
-        ],
-        "required": [
-          82
-        ],
-        "data": [
-          83,
-          106
-        ],
-        "designing": [
-          85
-        ],
-        "distributing": [
-          87
-        ],
-        "online": [
-          89
-        ],
-        "questionnaire": [
-          90
-        ],
-        "participants.An": [
-          94
-        ],
-        "interpretive": [
-          95
-        ],
-        "case-study": [
-          96
-        ],
-        "approach,": [
-          97
-        ],
-        "as": [
-          98,
-          100,
-          127,
-          129,
-          224
-        ],
-        "well": [
-          99,
-          128
-        ],
-        "questionnaires,": [
-          101
-        ],
-        "were": [
-          102
-        ],
-        "employed": [
-          103
-        ],
-        "support": [
-          105
-        ],
-        "gathering.On": [
-          107
-        ],
-        "other": [
-          109
-        ],
-        "hand,": [
-          110
-        ],
-        "researchers": [
-          112
-        ],
-        "have": [
-          113,
-          189
-        ],
-        "reviewed": [
-          114
-        ],
-        "previous": [
-          115
-        ],
-        "studies": [
-          116
-        ],
-        "talked": [
-          118
-        ],
-        "about": [
-          119
-        ],
-        "subjects": [
-          120
-        ],
-        "compare": [
-          122
-        ],
-        "among": [
-          123,
-          131
-        ],
-        "identifying": [
-          124
-        ],
-        "similarities": [
-          126
-        ],
-        "differences": [
-          130
-        ],
-        "related": [
-          132,
-          162
-        ],
-        "topic.The": [
-          136
-        ],
-        "discussion": [
-          137
-        ],
-        "analysis": [
-          139
-        ],
-        "been": [
-          142,
-          190
-        ],
-        "for": [
-          144,
-          158,
-          166,
-          196,
-          221
-        ],
-        "findings": [
-          146
-        ],
-        "results": [
-          148
-        ],
-        "importance": [
-          152
-        ],
-        "considering": [
-          154
-        ],
-        "Libyan": [
-          161,
-          222
-        ],
-        "companies;": [
-          163
-        ],
-        "also,": [
-          165
-        ],
-        "those": [
-          167
-        ],
-        "who": [
-          168,
-          234
-        ],
-        "are": [
-          169,
-          226,
-          236
-        ],
-        "interested": [
-          170
-        ],
-        "same": [
-          173
-        ],
-        "subject.In": [
-          175
-        ],
-        "conclusion,": [
-          176
-        ],
-        "The": [
-          177
-        ],
-        "main": [
-          178
-        ],
-        "objective": [
-          179
-        ],
-        "research,": [
-          182
-        ],
-        "concepts": [
-          183
-        ],
-        "principles": [
-          185
-        ],
-        "tested": [
-          191
-        ],
-        "deliver": [
-          193
-        ],
-        "actionable": [
-          194
-        ],
-        "decision-makers": [
-          197
-        ],
-        "within": [
-          198
-        ],
-        "firm": [
-          200
-        ],
-        "manage": [
-          202
-        ],
-        "their": [
-          203,
-          208
-        ],
-        "corporate": [
-          204
-        ],
-        "assets": [
-          205
-        ],
-        "ensure": [
-          207,
-          239
-        ],
-        "resilience": [
-          209
-        ],
-        "increase": [
-          211,
-          248
-        ],
-        "productivity.In": [
-          212
-        ],
-        "addition,": [
-          213
-        ],
-        "practical": [
-          215
-        ],
-        "working": [
-          227
-        ],
-        "one": [
-          229
-        ],
-        "development": [
-          232
-        ],
-        "countries": [
-          233
-        ],
-        "they": [
-          235
-        ],
-        "seeking": [
-          237
-        ],
-        "high": [
-          240
-        ],
-        "level": [
-          241
-        ],
-        "factors": [
-          246
-        ],
-        "company's": [
-          249
-        ],
-        "productivity": [
-          252
-        ],
-        "make": [
-          254
-        ],
-        "time": [
-          255
-        ],
-        "market.": [
-          257
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-01-09T06:25:30.743933",
-      "created_date": "2022-05-12T00:00:00"
     },
     {
       "id": "https://openalex.org/W4231640444",
@@ -9145,16 +7201,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
+      "fwci": 0.65421325,
       "has_fulltext": true,
-      "cited_by_count": 1,
+      "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.53252068,
+        "value": 0.82346807,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 94
       },
       "biblio": {
@@ -9388,16 +7444,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/4",
+          "display_name": "Quality Education",
           "score": 0.4099999964237213,
-          "display_name": "Quality Education"
+          "id": "https://metadata.un.org/sdg/4"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4231640444.pdf",
@@ -9476,6 +7532,1954 @@
       "counts_by_year": [
         {
           "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-02-16T07:36:33.822630",
+      "created_date": "2022-05-12T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4246434093",
+      "doi": "https://doi.org/10.22587/ajbas.2019.13.10.14",
+      "title": "Factors Effecting Information Security Management and theirimpacts on Organization performance in the work environment:Case study; Hatif Libya Company ( HLC )",
+      "display_name": "Factors Effecting Information Security Management and theirimpacts on Organization performance in the work environment:Case study; Hatif Libya Company ( HLC )",
+      "publication_year": 2019,
+      "publication_date": "2019-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4246434093",
+        "doi": "https://doi.org/10.22587/ajbas.2019.13.10.14"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.22587/ajbas.2019.13.10.14",
+        "is_oa": true,
+        "landing_page_url": "http://doi.org/10.22587/ajbas.2019.13.10.14",
+        "pdf_url": "https://doi.org/10.22587/ajbas.2019.13.10.14",
+        "source": {
+          "id": "https://openalex.org/S2764745110",
+          "display_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
+          "issn_l": "1991-8178",
+          "issn": [
+            "1991-8178",
+            "2309-8414"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4376894233",
+          "host_organization_name": "International Network for Scientific Information Publication",
+          "host_organization_lineage": [
+            "https://openalex.org/P4376894233"
+          ],
+          "host_organization_lineage_names": [
+            "International Network for Scientific Information Publication"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.22587/ajbas.2019.13.10.14",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5095476073",
+            "display_name": "Jamal Elattresh",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98905743",
+              "display_name": "Kastamonu University",
+              "ror": "https://ror.org/015scty35",
+              "country_code": "TR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98905743"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Jamal Elattresh",
+          "raw_affiliation_strings": [
+            "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
+            "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+            "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+            "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            },
+            {
+              "raw_affiliation_string": "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            },
+            {
+              "raw_affiliation_string": "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021382014",
+            "display_name": "Khalid Al Ramadan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98905743",
+              "display_name": "Kastamonu University",
+              "ror": "https://ror.org/015scty35",
+              "country_code": "TR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98905743"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Ramadan",
+          "raw_affiliation_strings": [
+            "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+            "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+            "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
+            "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            },
+            {
+              "raw_affiliation_string": "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            },
+            {
+              "raw_affiliation_string": "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            },
+            {
+              "raw_affiliation_string": "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084570764",
+            "display_name": "Ümit Tokeşer",
+            "orcid": "https://orcid.org/0000-0003-4773-8291"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I98905743",
+              "display_name": "Kastamonu University",
+              "ror": "https://ror.org/015scty35",
+              "country_code": "TR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I98905743"
+              ]
+            }
+          ],
+          "countries": [
+            "TR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Umit Tokeser",
+          "raw_affiliation_strings": [
+            "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+            "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+            "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
+            "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            },
+            {
+              "raw_affiliation_string": "2Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            },
+            {
+              "raw_affiliation_string": "3Department of Mathematics, Faculty of Science and letters, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Computer Science, Institute of Materials and Engineering, Kastamonu University/Turkey",
+              "institution_ids": [
+                "https://openalex.org/I98905743"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "K Al-Mabrouk",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K Al-Mabrouk",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "J Soar",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J Soar",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "N Alhgig",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "N Alhgig",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "R Mehta",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R Mehta",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "M Amanullah",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M Amanullah",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "A Kalam",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A Kalam",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "A Zayegh",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A Zayegh",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "A Aladwani",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A Aladwani",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "W Boehmer",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "W Boehmer",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "L Bodin",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "L Bodin",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "L Gordon",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "L Gordon",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "M Loeb",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M Loeb",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "S Bezweek",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S Bezweek",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "C Egbu",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "C Egbu",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "A Busoud",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A Busoud",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "D ivkovi",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "D ivkovi",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "K Colorafi",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K Colorafi",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "B Evans",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "B Evans",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "G Disterer",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "G Disterer",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "C Hsu",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "C Hsu",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "T Wang",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "T Wang",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "A Lu",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A Lu",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "K Huang",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K Huang",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "J Wu",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J Wu",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "S Lu",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S Lu",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Y Lin",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Y Lin",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "B Maumbe",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "B Maumbe",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "V Owei",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "V Owei",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "H Alexander",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "H Alexander",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "N Manochehri",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "N Manochehri",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "R Al-Esmail",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R Al-Esmail",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "R Ashrafi",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R Ashrafi",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "L Murugiah",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "L Murugiah",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "H Akgam",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "H Akgam",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "B Mai",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "B Mai",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "T Parsons",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "T Parsons",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "V Prybutok",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "V Prybutok",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "K Namuduri",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K Namuduri",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Narain Singh",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Narain Singh",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "A Gupta",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A Gupta",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "M Ojha",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M Ojha",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "A",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "S Pal",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S Pal",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "S Anand",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "S Anand",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "M Pattinson",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M Pattinson",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "M Butavicius",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M Butavicius",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "K Parsons",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "K Parsons",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "A Mccormac",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A Mccormac",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "C Jerram",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "C Jerram",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "R Prokupets",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R Prokupets",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "M Regelski",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M Regelski",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "R Rowlingson",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R Rowlingson",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "R Winsborrow",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R Winsborrow",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Z Soomro",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Z Soomro",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "M Shah",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M Shah",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "J Ahmed",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J Ahmed",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "A Shameli-Sendi",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "A Shameli-Sendi",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "R Aghababaei-Barzegar",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "R Aghababaei-Barzegar",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "M Cheriet",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "M Cheriet",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "T Subramani",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "T Subramani",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "T Kumar",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "T Kumar",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "J Twati",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J Twati",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": null,
+            "display_name": "J Gammack",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "J Gammack",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 66,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5095476073"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I98905743"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.36401004,
+      "has_fulltext": true,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.75326748,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10734",
+        "display_name": "Information and Cyber Security",
+        "score": 0.9036999940872192,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1710",
+          "display_name": "Information Systems"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10734",
+          "display_name": "Information and Cyber Security",
+          "score": 0.9036999940872192,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/work",
+          "display_name": "Work (physics)",
+          "score": 0.6894456744194031
+        },
+        {
+          "id": "https://openalex.org/keywords/business",
+          "display_name": "Business",
+          "score": 0.4869571626186371
+        },
+        {
+          "id": "https://openalex.org/keywords/process-management",
+          "display_name": "Process management",
+          "score": 0.36158645153045654
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.34511154890060425
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.1057666540145874
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C18762648",
+          "wikidata": "https://www.wikidata.org/wiki/Q42213",
+          "display_name": "Work (physics)",
+          "level": 2,
+          "score": 0.6894456744194031
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.4869571626186371
+        },
+        {
+          "id": "https://openalex.org/C195094911",
+          "wikidata": "https://www.wikidata.org/wiki/Q14167904",
+          "display_name": "Process management",
+          "level": 1,
+          "score": 0.36158645153045654
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.34511154890060425
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.1057666540145874
+        },
+        {
+          "id": "https://openalex.org/C78519656",
+          "wikidata": "https://www.wikidata.org/wiki/Q101333",
+          "display_name": "Mechanical engineering",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.22587/ajbas.2019.13.10.14",
+          "is_oa": true,
+          "landing_page_url": "http://doi.org/10.22587/ajbas.2019.13.10.14",
+          "pdf_url": "https://doi.org/10.22587/ajbas.2019.13.10.14",
+          "source": {
+            "id": "https://openalex.org/S2764745110",
+            "display_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
+            "issn_l": "1991-8178",
+            "issn": [
+              "1991-8178",
+              "2309-8414"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4376894233",
+            "host_organization_name": "International Network for Scientific Information Publication",
+            "host_organization_lineage": [
+              "https://openalex.org/P4376894233"
+            ],
+            "host_organization_lineage_names": [
+              "International Network for Scientific Information Publication"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.22587/ajbas.2019.13.10.14",
+        "is_oa": true,
+        "landing_page_url": "http://doi.org/10.22587/ajbas.2019.13.10.14",
+        "pdf_url": "https://doi.org/10.22587/ajbas.2019.13.10.14",
+        "source": {
+          "id": "https://openalex.org/S2764745110",
+          "display_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
+          "issn_l": "1991-8178",
+          "issn": [
+            "1991-8178",
+            "2309-8414"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4376894233",
+          "host_organization_name": "International Network for Scientific Information Publication",
+          "host_organization_lineage": [
+            "https://openalex.org/P4376894233"
+          ],
+          "host_organization_lineage_names": [
+            "International Network for Scientific Information Publication"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "AUSTRALIAN JOURNAL OF BASIC AND APPLIED SCIENCES",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Decent work and economic growth",
+          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/8"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4246434093.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4246434093.grobid-xml"
+      },
+      "referenced_works_count": 39,
+      "referenced_works": [
+        "https://openalex.org/W839306605",
+        "https://openalex.org/W1499316066",
+        "https://openalex.org/W1507365153",
+        "https://openalex.org/W1602002062",
+        "https://openalex.org/W1611342103",
+        "https://openalex.org/W1664717116",
+        "https://openalex.org/W1968011213",
+        "https://openalex.org/W2003676537",
+        "https://openalex.org/W2030483670",
+        "https://openalex.org/W2049214960",
+        "https://openalex.org/W2085421914",
+        "https://openalex.org/W2093619978",
+        "https://openalex.org/W2119716788",
+        "https://openalex.org/W2124658619",
+        "https://openalex.org/W2154257511",
+        "https://openalex.org/W2156461271",
+        "https://openalex.org/W2174850379",
+        "https://openalex.org/W2208596391",
+        "https://openalex.org/W2212054291",
+        "https://openalex.org/W2261736760",
+        "https://openalex.org/W2296469796",
+        "https://openalex.org/W2297459312",
+        "https://openalex.org/W2397181947",
+        "https://openalex.org/W2486598854",
+        "https://openalex.org/W2529668073",
+        "https://openalex.org/W2761738843",
+        "https://openalex.org/W2886987691",
+        "https://openalex.org/W3118658950",
+        "https://openalex.org/W3180371685",
+        "https://openalex.org/W4233748210",
+        "https://openalex.org/W4250388344",
+        "https://openalex.org/W4301248776",
+        "https://openalex.org/W4396935714",
+        "https://openalex.org/W6632901372",
+        "https://openalex.org/W6635829090",
+        "https://openalex.org/W6657911402",
+        "https://openalex.org/W6658730127",
+        "https://openalex.org/W6798234594",
+        "https://openalex.org/W6922530732"
+      ],
+      "related_works": [
+        "https://openalex.org/W1716775",
+        "https://openalex.org/W16784206",
+        "https://openalex.org/W26754671",
+        "https://openalex.org/W24801123",
+        "https://openalex.org/W6074086",
+        "https://openalex.org/W26882545",
+        "https://openalex.org/W10651703",
+        "https://openalex.org/W27142670",
+        "https://openalex.org/W34428273",
+        "https://openalex.org/W42309608"
+      ],
+      "abstract_inverted_index": {
+        "Information": [
+          0
+        ],
+        "security": [
+          1,
+          27,
+          37,
+          65,
+          156,
+          188,
+          244
+        ],
+        "(InfoSec)": [
+          2
+        ],
+        "is": [
+          3,
+          8,
+          49,
+          218
+        ],
+        "an": [
+          4,
+          88,
+          219
+        ],
+        "important": [
+          5,
+          220
+        ],
+        "issue": [
+          6
+        ],
+        "which": [
+          7
+        ],
+        "gaining": [
+          9
+        ],
+        "more": [
+          10,
+          12
+        ],
+        "and": [
+          11,
+          31,
+          54,
+          86,
+          138,
+          147,
+          160,
+          164,
+          184,
+          206,
+          210,
+          251
+        ],
+        "interest": [
+          13
+        ],
+        "by": [
+          14,
+          59,
+          84
+        ],
+        "organizations": [
+          15,
+          223,
+          225
+        ],
+        "worldwide.This": [
+          16
+        ],
+        "study": [
+          17,
+          48,
+          72,
+          93,
+          174,
+          217
+        ],
+        "aims": [
+          18
+        ],
+        "to": [
+          19,
+          33,
+          50,
+          79,
+          91,
+          104,
+          121,
+          133,
+          149,
+          192,
+          201,
+          238,
+          247,
+          253,
+          256
+        ],
+        "evaluate": [
+          20,
+          51,
+          150
+        ],
+        "the": [
+          21,
+          40,
+          52,
+          55,
+          61,
+          69,
+          81,
+          92,
+          108,
+          111,
+          125,
+          134,
+          145,
+          151,
+          172,
+          231
+        ],
+        "service": [
+          22
+        ],
+        "management": [
+          23,
+          28,
+          38,
+          66,
+          157,
+          245
+        ],
+        "approach": [
+          24,
+          78
+        ],
+        "of": [
+          25,
+          46,
+          57,
+          63,
+          153,
+          180,
+          186,
+          230,
+          242
+        ],
+        "information": [
+          26,
+          36,
+          64,
+          155,
+          187,
+          195,
+          243
+        ],
+        "that": [
+          29,
+          117
+        ],
+        "applied": [
+          30,
+          143
+        ],
+        "utilized": [
+          32
+        ],
+        "improve": [
+          34
+        ],
+        "effective": [
+          35
+        ],
+        "in": [
+          39,
+          171
+        ],
+        "Hatif": [
+          41
+        ],
+        "Libya": [
+          42
+        ],
+        "Company": [
+          43
+        ],
+        "(HLC).The": [
+          44
+        ],
+        "aim": [
+          45
+        ],
+        "this": [
+          47,
+          181,
+          214
+        ],
+        "processes": [
+          53,
+          140
+        ],
+        "performance": [
+          56,
+          250
+        ],
+        "HLC": [
+          58,
+          159,
+          199
+        ],
+        "following": [
+          60
+        ],
+        "improvements": [
+          62
+        ],
+        "standards": [
+          67
+        ],
+        "at": [
+          68,
+          228
+        ],
+        "company.This": [
+          70
+        ],
+        "research": [
+          71,
+          77,
+          135,
+          216
+        ],
+        "has": [
+          73,
+          141
+        ],
+        "used": [
+          74
+        ],
+        "a": [
+          75
+        ],
+        "descriptive": [
+          76
+        ],
+        "collect": [
+          80
+        ],
+        "required": [
+          82
+        ],
+        "data": [
+          83,
+          106
+        ],
+        "designing": [
+          85
+        ],
+        "distributing": [
+          87
+        ],
+        "online": [
+          89
+        ],
+        "questionnaire": [
+          90
+        ],
+        "participants.An": [
+          94
+        ],
+        "interpretive": [
+          95
+        ],
+        "case-study": [
+          96
+        ],
+        "approach,": [
+          97
+        ],
+        "as": [
+          98,
+          100,
+          127,
+          129,
+          224
+        ],
+        "well": [
+          99,
+          128
+        ],
+        "questionnaires,": [
+          101
+        ],
+        "were": [
+          102
+        ],
+        "employed": [
+          103
+        ],
+        "support": [
+          105
+        ],
+        "gathering.On": [
+          107
+        ],
+        "other": [
+          109
+        ],
+        "hand,": [
+          110
+        ],
+        "researchers": [
+          112
+        ],
+        "have": [
+          113,
+          189
+        ],
+        "reviewed": [
+          114
+        ],
+        "previous": [
+          115
+        ],
+        "studies": [
+          116
+        ],
+        "talked": [
+          118
+        ],
+        "about": [
+          119
+        ],
+        "subjects": [
+          120
+        ],
+        "compare": [
+          122
+        ],
+        "among": [
+          123,
+          131
+        ],
+        "identifying": [
+          124
+        ],
+        "similarities": [
+          126
+        ],
+        "differences": [
+          130
+        ],
+        "related": [
+          132,
+          162
+        ],
+        "topic.The": [
+          136
+        ],
+        "discussion": [
+          137
+        ],
+        "analysis": [
+          139
+        ],
+        "been": [
+          142,
+          190
+        ],
+        "for": [
+          144,
+          158,
+          166,
+          196,
+          221
+        ],
+        "findings": [
+          146
+        ],
+        "results": [
+          148
+        ],
+        "importance": [
+          152
+        ],
+        "considering": [
+          154
+        ],
+        "Libyan": [
+          161,
+          222
+        ],
+        "companies;": [
+          163
+        ],
+        "also,": [
+          165
+        ],
+        "those": [
+          167
+        ],
+        "who": [
+          168,
+          234
+        ],
+        "are": [
+          169,
+          226,
+          236
+        ],
+        "interested": [
+          170
+        ],
+        "same": [
+          173
+        ],
+        "subject.In": [
+          175
+        ],
+        "conclusion,": [
+          176
+        ],
+        "The": [
+          177
+        ],
+        "main": [
+          178
+        ],
+        "objective": [
+          179
+        ],
+        "research,": [
+          182
+        ],
+        "concepts": [
+          183
+        ],
+        "principles": [
+          185
+        ],
+        "tested": [
+          191
+        ],
+        "deliver": [
+          193
+        ],
+        "actionable": [
+          194
+        ],
+        "decision-makers": [
+          197
+        ],
+        "within": [
+          198
+        ],
+        "firm": [
+          200
+        ],
+        "manage": [
+          202
+        ],
+        "their": [
+          203,
+          208
+        ],
+        "corporate": [
+          204
+        ],
+        "assets": [
+          205
+        ],
+        "ensure": [
+          207,
+          239
+        ],
+        "resilience": [
+          209
+        ],
+        "increase": [
+          211,
+          248
+        ],
+        "productivity.In": [
+          212
+        ],
+        "addition,": [
+          213
+        ],
+        "practical": [
+          215
+        ],
+        "working": [
+          227
+        ],
+        "one": [
+          229
+        ],
+        "development": [
+          232
+        ],
+        "countries": [
+          233
+        ],
+        "they": [
+          235
+        ],
+        "seeking": [
+          237
+        ],
+        "high": [
+          240
+        ],
+        "level": [
+          241
+        ],
+        "factors": [
+          246
+        ],
+        "company's": [
+          249
+        ],
+        "productivity": [
+          252
+        ],
+        "make": [
+          254
+        ],
+        "time": [
+          255
+        ],
+        "market.": [
+          257
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
           "cited_by_count": 1
         }
       ],
@@ -9944,9 +9948,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9958,8 +9962,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -11035,16 +11039,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11938,16 +11942,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13018,16 +13022,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6000000238418579,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13545,16 +13549,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

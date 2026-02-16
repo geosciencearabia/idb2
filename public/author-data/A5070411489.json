@@ -16,9 +16,9 @@
       "Fadhil Sadooni"
     ],
     "works_count": 120,
-    "cited_by_count": 1525,
+    "cited_by_count": 1526,
     "summary_stats": {
-      "2yr_mean_citedness": 1.1071428571428572,
+      "2yr_mean_citedness": 1.1428571428571428,
       "h_index": 23,
       "i10_index": 35
     },
@@ -348,7 +348,7 @@
       {
         "id": "https://openalex.org/T12780",
         "display_name": "Heavy Metal Pollution Remediation",
-        "value": 0.0000581,
+        "value": 0.000058,
         "subfield": {
           "id": "https://openalex.org/subfields/2312",
           "display_name": "Water Science and Technology"
@@ -568,7 +568,7 @@
         "year": 2024,
         "works_count": 12,
         "oa_works_count": 5,
-        "cited_by_count": 16
+        "cited_by_count": 17
       },
       {
         "year": 2025,
@@ -587,7 +587,7 @@
     },
     "block_key": "f sadooni",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5070411489",
-    "updated_date": "2026-02-14T12:19:04",
+    "updated_date": "2026-02-15T12:19:12",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1434,8 +1434,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3132684617.pdf",
@@ -1538,448 +1538,7 @@
         "https://openalex.org/W2392383081",
         "https://openalex.org/W1618102658"
       ],
-      "abstract_inverted_index": {
-        "11": [
-          109
-        ],
-        "21": [
-          132
-        ],
-        "Abstract": [
-          0
-        ],
-        "This": [
-          1
-        ],
-        "paper": [
-          2
-        ],
-        "studies": [
-          3
-        ],
-        "the": [
-          4,
-          10,
-          19,
-          22,
-          26,
-          35,
-          43,
-          48,
-          57,
-          69,
-          82,
-          114,
-          124,
-          144,
-          158,
-          162,
-          166,
-          184,
-          187
-        ],
-        "oil": [
-          5,
-          188
-        ],
-        "spill,": [
-          6
-        ],
-        "which": [
-          7
-        ],
-        "occurred": [
-          8
-        ],
-        "in": [
-          9
-        ],
-        "Norilsk": [
-          11
-        ],
-        "and": [
-          12,
-          40,
-          67,
-          73,
-          80,
-          94,
-          108,
-          120,
-          127,
-          133,
-          149,
-          154,
-          171
-        ],
-        "Taimyr": [
-          13
-        ],
-        "region": [
-          14,
-          44
-        ],
-        "of": [
-          15,
-          21,
-          42,
-          52,
-          61,
-          102,
-          110,
-          116,
-          143,
-          165,
-          186
-        ],
-        "Russia": [
-          16
-        ],
-        "due": [
-          17
-        ],
-        "to": [
-          18,
-          156,
-          183
-        ],
-        "collapse": [
-          20,
-          185
-        ],
-        "fuel": [
-          23
-        ],
-        "tank": [
-          24
-        ],
-        "at": [
-          25
-        ],
-        "power": [
-          27
-        ],
-        "station": [
-          28
-        ],
-        "on": [
-          29
-        ],
-        "May": [
-          30,
-          131
-        ],
-        "29,": [
-          31
-        ],
-        "2020.": [
-          32,
-          135
-        ],
-        "We": [
-          33,
-          55,
-          136
-        ],
-        "monitored": [
-          34
-        ],
-        "snow,": [
-          36
-        ],
-        "ice,": [
-          37
-        ],
-        "water,": [
-          38
-        ],
-        "vegetation": [
-          39
-        ],
-        "wetland": [
-          41
-        ],
-        "using": [
-          45
-        ],
-        "data": [
-          46,
-          63
-        ],
-        "from": [
-          47
-        ],
-        "Multi-Spectral": [
-          49
-        ],
-        "Instruments": [
-          50
-        ],
-        "(MSI)": [
-          51
-        ],
-        "Sentinel-2": [
-          53,
-          62,
-          111,
-          138
-        ],
-        "satellite.": [
-          54
-        ],
-        "analyzed": [
-          56
-        ],
-        "spectral": [
-          58,
-          78,
-          104
-        ],
-        "band": [
-          59
-        ],
-        "absorptions": [
-          60
-        ],
-        "acquired": [
-          64
-        ],
-        "before,": [
-          65
-        ],
-        "during": [
-          66
-        ],
-        "after": [
-          68
-        ],
-        "incident,": [
-          70
-        ],
-        "developed": [
-          71
-        ],
-        "true": [
-          72
-        ],
-        "false-color": [
-          74
-        ],
-        "composites": [
-          75
-        ],
-        "(FCC),": [
-          76
-        ],
-        "decorrelated": [
-          77,
-          103
-        ],
-        "bands": [
-          79,
-          105
-        ],
-        "used": [
-          81,
-          137
-        ],
-        "indices,": [
-          83
-        ],
-        "i.e.": [
-          84
-        ],
-        "Snow": [
-          85
-        ],
-        "Water": [
-          86,
-          91
-        ],
-        "Index": [
-          87,
-          92,
-          98
-        ],
-        "(SWI),": [
-          88
-        ],
-        "Normalized": [
-          89,
-          95
-        ],
-        "Difference": [
-          90,
-          96
-        ],
-        "(NDWI)": [
-          93
-        ],
-        "Vegetation": [
-          97
-        ],
-        "(NDVI).": [
-          99
-        ],
-        "The": [
-          100
-        ],
-        "results": [
-          101,
-          115
-        ],
-        "3,": [
-          106
-        ],
-        "8,": [
-          107
-        ],
-        "well": [
-          112
-        ],
-        "confirmed": [
-          113
-        ],
-        "SWI,": [
-          117
-        ],
-        "NDWI,": [
-          118
-        ],
-        "NDVI,": [
-          119
-        ],
-        "FCC": [
-          121
-        ],
-        "images": [
-          122
-        ],
-        "showing": [
-          123
-        ],
-        "intensive": [
-          125
-        ],
-        "snow": [
-          126
-        ],
-        "ice": [
-          128
-        ],
-        "melt": [
-          129
-        ],
-        "between": [
-          130
-        ],
-        "31,": [
-          134
-        ],
-        "results,": [
-          139
-        ],
-        "field": [
-          140
-        ],
-        "photographs,": [
-          141
-        ],
-        "analysis": [
-          142
-        ],
-        "1980–2020": [
-          145
-        ],
-        "daily": [
-          146
-        ],
-        "air": [
-          147
-        ],
-        "temperature": [
-          148
-        ],
-        "precipitation": [
-          150
-        ],
-        "data,": [
-          151
-        ],
-        "permafrost": [
-          152
-        ],
-        "observations": [
-          153
-        ],
-        "modeling": [
-          155
-        ],
-        "explore": [
-          157
-        ],
-        "hypothesis": [
-          159
-        ],
-        "that": [
-          160
-        ],
-        "either": [
-          161
-        ],
-        "long-term": [
-          163
-        ],
-        "dynamics": [
-          164
-        ],
-        "frozen": [
-          167
-        ],
-        "ground,": [
-          168
-        ],
-        "changing": [
-          169
-        ],
-        "climate": [
-          170
-        ],
-        "environmental": [
-          172
-        ],
-        "factors,": [
-          173
-        ],
-        "or": [
-          174,
-          181
-        ],
-        "abnormal": [
-          175
-        ],
-        "weather": [
-          176
-        ],
-        "conditions": [
-          177
-        ],
-        "may": [
-          178
-        ],
-        "have": [
-          179
-        ],
-        "caused": [
-          180
-        ],
-        "contributed": [
-          182
-        ],
-        "tank.": [
-          189
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -2006,7 +1565,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-02-15T07:36:51.736424",
+      "updated_date": "2026-02-16T07:36:33.822630",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2863,8 +2422,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -4337,8 +3896,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -5476,8 +5035,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2057879200.pdf",
@@ -6494,8 +6053,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7668,8 +7227,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3129310095.pdf",
@@ -8781,8 +8340,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -9188,7 +8747,7 @@
       "has_fulltext": true,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.95100269,
+        "value": 0.95064426,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9570,8 +9129,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386468571.pdf",
@@ -9711,626 +9270,7 @@
         "https://openalex.org/W2076393078",
         "https://openalex.org/W1994307594"
       ],
-      "abstract_inverted_index": {
-        "Suspended": [
-          0,
-          69,
-          74
-        ],
-        "sediment": [
-          1,
-          296
-        ],
-        "concentration": [
-          2,
-          108,
-          121
-        ],
-        "(SSC)": [
-          3
-        ],
-        "in": [
-          4,
-          27,
-          50,
-          97,
-          187,
-          275,
-          293
-        ],
-        "water": [
-          5,
-          43,
-          99,
-          198
-        ],
-        "increases": [
-          6
-        ],
-        "temperature": [
-          7
-        ],
-        "and": [
-          8,
-          16,
-          47,
-          72,
-          87,
-          115,
-          118,
-          125,
-          138,
-          149,
-          176,
-          180,
-          185,
-          205,
-          213,
-          220,
-          237,
-          245,
-          269,
-          278,
-          289
-        ],
-        "turbidity,": [
-          9
-        ],
-        "limits": [
-          10
-        ],
-        "the": [
-          11,
-          28,
-          32,
-          39,
-          54,
-          58,
-          66,
-          82,
-          98,
-          103,
-          144,
-          151,
-          178,
-          188,
-          232,
-          250,
-          266,
-          276,
-          283,
-          294
-        ],
-        "photosynthesis": [
-          12
-        ],
-        "of": [
-          13,
-          31,
-          41,
-          57,
-          62,
-          95,
-          105,
-          109,
-          130,
-          146,
-          153,
-          157,
-          182,
-          272
-        ],
-        "aquatic": [
-          14
-        ],
-        "plants,": [
-          15
-        ],
-        "reduces": [
-          17
-        ],
-        "biologically": [
-          18
-        ],
-        "available": [
-          19
-        ],
-        "oxygen.": [
-          20
-        ],
-        "It": [
-          21
-        ],
-        "is": [
-          22
-        ],
-        "important": [
-          23
-        ],
-        "to": [
-          24,
-          172,
-          195,
-          222,
-          226,
-          243
-        ],
-        "study": [
-          25,
-          37,
-          156
-        ],
-        "SSC": [
-          26,
-          40,
-          96
-        ],
-        "coastal": [
-          29,
-          42
-        ],
-        "waters": [
-          30
-        ],
-        "Arabian": [
-          33
-        ],
-        "Gulf.": [
-          34
-        ],
-        "Thus,": [
-          35
-        ],
-        "this": [
-          36
-        ],
-        "mapped": [
-          38
-        ],
-        "between": [
-          44,
-          112,
-          122,
-          134,
-          210,
-          235
-        ],
-        "Al": [
-          45,
-          48,
-          113,
-          116,
-          123,
-          126
-        ],
-        "Arish": [
-          46,
-          114
-        ],
-        "Ghariyah": [
-          49
-        ],
-        "northern": [
-          51
-        ],
-        "Qatar": [
-          52
-        ],
-        "using": [
-          53,
-          81,
-          100,
-          159
-        ],
-        "spectral": [
-          55
-        ],
-        "bands": [
-          56
-        ],
-        "MultiSpectral": [
-          59
-        ],
-        "Imager": [
-          60
-        ],
-        "(MSI)": [
-          61
-        ],
-        "Sentinel-2": [
-          63
-        ],
-        "by": [
-          64,
-          264
-        ],
-        "calculating": [
-          65
-        ],
-        "Normalized": [
-          67,
-          73,
-          83,
-          89
-        ],
-        "Difference": [
-          68,
-          84,
-          90
-        ],
-        "Sediment": [
-          70
-        ],
-        "Index": [
-          71,
-          86
-        ],
-        "Material": [
-          75
-        ],
-        "Index.": [
-          76,
-          92
-        ],
-        "The": [
-          77,
-          93,
-          128,
-          155,
-          190,
-          208,
-          258
-        ],
-        "results": [
-          78,
-          152,
-          261
-        ],
-        "are": [
-          79
-        ],
-        "studied": [
-          80,
-          221
-        ],
-        "Turbidity": [
-          85
-        ],
-        "Modified": [
-          88
-        ],
-        "Water": [
-          91
-        ],
-        "mapping": [
-          94,
-          129
-        ],
-        "NDSSI": [
-          101,
-          244,
-          254
-        ],
-        "showed": [
-          102,
-          132,
-          163,
-          231
-        ],
-        "presence": [
-          104
-        ],
-        "a": [
-          106,
-          119
-        ],
-        "high": [
-          107
-        ],
-        "suspended": [
-          110,
-          141,
-          147,
-          183,
-          273
-        ],
-        "sediments": [
-          111,
-          184,
-          274
-        ],
-        "Mafjar": [
-          117,
-          124
-        ],
-        "low": [
-          120
-        ],
-        "Ghariyah.": [
-          127
-        ],
-        "NSMI": [
-          131,
-          236
-        ],
-        "values": [
-          133,
-          166
-        ],
-        "0.012": [
-          135
-        ],
-        "(clear": [
-          136,
-          170
-        ],
-        "water)": [
-          137,
-          171
-        ],
-        "0.430": [
-          139
-        ],
-        "(more": [
-          140
-        ],
-        "material)": [
-          142
-        ],
-        "for": [
-          143
-        ],
-        "occurrence": [
-          145,
-          179
-        ],
-        "materials": [
-          148,
-          186
-        ],
-        "supported": [
-          150
-        ],
-        "NDSSI.": [
-          154
-        ],
-        "turbidity": [
-          158,
-          164
-        ],
-        "an": [
-          160
-        ],
-        "NDTI": [
-          161,
-          214,
-          238,
-          248
-        ],
-        "image": [
-          162,
-          192
-        ],
-        "index": [
-          165
-        ],
-        "ranging": [
-          167
-        ],
-        "from": [
-          168,
-          202
-        ],
-        "-0.44": [
-          169
-        ],
-        "0.12": [
-          173
-        ],
-        "(high": [
-          174
-        ],
-        "turbidity)": [
-          175
-        ],
-        "confirmed": [
-          177
-        ],
-        "distribution": [
-          181,
-          271
-        ],
-        "water.": [
-          189
-        ],
-        "MNDWI": [
-          191
-        ],
-        "was": [
-          193
-        ],
-        "able": [
-          194
-        ],
-        "discriminate": [
-          196
-        ],
-        "clear": [
-          197
-        ],
-        "with": [
-          199,
-          217
-        ],
-        "bright": [
-          200
-        ],
-        "pixels": [
-          201
-        ],
-        "silty": [
-          203
-        ],
-        "sand": [
-          204
-        ],
-        "mud": [
-          206
-        ],
-        "flats.": [
-          207
-        ],
-        "relationships": [
-          209
-        ],
-        "NDSSI,": [
-          211
-        ],
-        "NSMI,": [
-          212
-        ],
-        "were": [
-          215,
-          262,
-          298
-        ],
-        "correlated": [
-          216
-        ],
-        "in-situ": [
-          218
-        ],
-        "measurements": [
-          219
-        ],
-        "find": [
-          223
-        ],
-        "suitable": [
-          224
-        ],
-        "indices": [
-          225
-        ],
-        "map": [
-          227
-        ],
-        "SSC.": [
-          228
-        ],
-        "Regression": [
-          229
-        ],
-        "analyses": [
-          230
-        ],
-        "strongest": [
-          233,
-          251
-        ],
-        "relationship": [
-          234
-        ],
-        "(R<sup>2</sup>": [
-          239,
-          255
-        ],
-        "=": [
-          240,
-          256
-        ],
-        "0.95)": [
-          241
-        ],
-        "next": [
-          242
-        ],
-        "NDTI,": [
-          246
-        ],
-        "where": [
-          247
-        ],
-        "had": [
-          249
-        ],
-        "effect": [
-          252
-        ],
-        "on": [
-          253
-        ],
-        "0.86).": [
-          257
-        ],
-        "satellite": [
-          259
-        ],
-        "data": [
-          260
-        ],
-        "evaluated": [
-          263
-        ],
-        "studying": [
-          265
-        ],
-        "physical": [
-          267
-        ],
-        "parameters": [
-          268
-        ],
-        "spatial": [
-          270
-        ],
-        "surface": [
-          277
-        ],
-        "bottom": [
-          279,
-          295
-        ],
-        "waters.": [
-          280
-        ],
-        "In": [
-          281
-        ],
-        "addition,": [
-          282
-        ],
-        "grain": [
-          284
-        ],
-        "size": [
-          285
-        ],
-        "distributions,": [
-          286
-        ],
-        "mineral": [
-          287
-        ],
-        "identification,": [
-          288
-        ],
-        "chemical": [
-          290
-        ],
-        "element": [
-          291
-        ],
-        "concentrations": [
-          292
-        ],
-        "samples": [
-          297
-        ],
-        "studied.": [
-          299
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -10345,7 +9285,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-02-12T08:01:53.621143",
+      "updated_date": "2026-02-16T07:36:33.822630",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10824,8 +9764,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11428,8 +10368,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -12476,8 +11416,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4406405554.pdf"
@@ -12933,7 +11873,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.90704867,
+        "value": 0.90663151,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13595,8 +12535,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4412083068.pdf",
@@ -13703,561 +12643,7 @@
         "https://openalex.org/W4313358197",
         "https://openalex.org/W3210213316"
       ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "Heavy": [
-          1
-        ],
-        "metal": [
-          2
-        ],
-        "(HM)": [
-          3
-        ],
-        "contamination": [
-          4,
-          36,
-          58,
-          94,
-          105,
-          142,
-          198
-        ],
-        "in": [
-          5,
-          37,
-          144,
-          175,
-          210,
-          223
-        ],
-        "marine": [
-          6,
-          83,
-          221
-        ],
-        "sediments": [
-          7,
-          40,
-          84
-        ],
-        "is": [
-          8,
-          106,
-          147
-        ],
-        "a": [
-          9,
-          25,
-          42
-        ],
-        "critical": [
-          10,
-          203
-        ],
-        "environmental": [
-          11,
-          206
-        ],
-        "concern": [
-          12
-        ],
-        "due": [
-          13
-        ],
-        "to": [
-          14,
-          97,
-          109,
-          137,
-          150,
-          170,
-          191
-        ],
-        "its": [
-          15
-        ],
-        "potential": [
-          16
-        ],
-        "ecological": [
-          17,
-          71
-        ],
-        "and": [
-          18,
-          31,
-          70,
-          88,
-          114,
-          128,
-          195,
-          208,
-          216
-        ],
-        "human": [
-          19
-        ],
-        "health": [
-          20
-        ],
-        "impacts.": [
-          21
-        ],
-        "This": [
-          22,
-          103
-        ],
-        "study": [
-          23,
-          160
-        ],
-        "provides": [
-          24
-        ],
-        "comprehensive": [
-          26
-        ],
-        "assessment": [
-          27
-        ],
-        "of": [
-          28,
-          34,
-          99,
-          187,
-          220
-        ],
-        "the": [
-          29,
-          57,
-          86,
-          133,
-          145,
-          162,
-          185,
-          218,
-          224
-        ],
-        "spatial": [
-          30
-        ],
-        "temporal": [
-          32,
-          193
-        ],
-        "evolution": [
-          33
-        ],
-        "HM": [
-          35,
-          141,
-          172
-        ],
-        "Arabian": [
-          38,
-          90,
-          225
-        ],
-        "Gulf": [
-          39,
-          101
-        ],
-        "over": [
-          41
-        ],
-        "33-year": [
-          43
-        ],
-        "period": [
-          44
-        ],
-        "(1991–2024).": [
-          45
-        ],
-        "Contamination": [
-          46
-        ],
-        "levels": [
-          47,
-          95
-        ],
-        "were": [
-          48
-        ],
-        "evaluated": [
-          49
-        ],
-        "using": [
-          50
-        ],
-        "key": [
-          51
-        ],
-        "sediment": [
-          52,
-          138
-        ],
-        "quality": [
-          53
-        ],
-        "indices": [
-          54
-        ],
-        "such": [
-          55
-        ],
-        "as": [
-          56,
-          132
-        ],
-        "factor": [
-          59
-        ],
-        "(CF),": [
-          60
-        ],
-        "geoaccumulation": [
-          61
-        ],
-        "index": [
-          62,
-          68,
-          73
-        ],
-        "(I": [
-          63
-        ],
-        "g": [
-          64
-        ],
-        "ₑₒ),": [
-          65
-        ],
-        "pollution": [
-          66,
-          213
-        ],
-        "load": [
-          67
-        ],
-        "(PLI),": [
-          69
-        ],
-        "risk": [
-          72
-        ],
-        "(ERI)": [
-          74
-        ],
-        "based": [
-          75
-        ],
-        "on": [
-          76
-        ],
-        "available": [
-          77
-        ],
-        "meta-data.": [
-          78
-        ],
-        "Spatial": [
-          79
-        ],
-        "analysis": [
-          80
-        ],
-        "revealed": [
-          81
-        ],
-        "that": [
-          82
-        ],
-        "along": [
-          85
-        ],
-        "Iranian": [
-          87
-        ],
-        "Saudi": [
-          89
-        ],
-        "coasts": [
-          91
-        ],
-        "exhibited": [
-          92
-        ],
-        "higher": [
-          93
-        ],
-        "compared": [
-          96
-        ],
-        "those": [
-          98
-        ],
-        "other": [
-          100
-        ],
-        "countries.": [
-          102
-        ],
-        "elevated": [
-          104
-        ],
-        "likely": [
-          107
-        ],
-        "attributed": [
-          108
-        ],
-        "industrial": [
-          110,
-          180
-        ],
-        "discharges,": [
-          111
-        ],
-        "oil": [
-          112
-        ],
-        "spills": [
-          113
-        ],
-        "effluent": [
-          115
-        ],
-        "releases": [
-          116
-        ],
-        "from": [
-          117
-        ],
-        "desalination": [
-          118
-        ],
-        "plants.": [
-          119
-        ],
-        "Arsenic": [
-          120
-        ],
-        "(As),": [
-          121
-        ],
-        "cadmium": [
-          122
-        ],
-        "(Cd),": [
-          123
-        ],
-        "copper": [
-          124
-        ],
-        "(Cu),": [
-          125
-        ],
-        "nickel": [
-          126
-        ],
-        "(Ni),": [
-          127
-        ],
-        "lead": [
-          129
-        ],
-        "(Pb)": [
-          130
-        ],
-        "emerged": [
-          131
-        ],
-        "primary": [
-          134
-        ],
-        "toxic": [
-          135
-        ],
-        "contributors": [
-          136
-        ],
-        "pollution.": [
-          139
-        ],
-        "Overall,": [
-          140
-        ],
-        "status": [
-          143
-        ],
-        "region": [
-          146
-        ],
-        "predominantly": [
-          148
-        ],
-        "low": [
-          149
-        ],
-        "moderate,": [
-          151
-        ],
-        "with": [
-          152
-        ],
-        "localized": [
-          153
-        ],
-        "hotspots": [
-          154
-        ],
-        "near": [
-          155
-        ],
-        "industrialized": [
-          156
-        ],
-        "coastal": [
-          157
-        ],
-        "zones.": [
-          158
-        ],
-        "The": [
-          159
-        ],
-        "highlights": [
-          161
-        ],
-        "need": [
-          163
-        ],
-        "for": [
-          164,
-          205
-        ],
-        "scientifically": [
-          165
-        ],
-        "informed": [
-          166
-        ],
-        "waste": [
-          167
-        ],
-        "management": [
-          168
-        ],
-        "strategies": [
-          169
-        ],
-        "mitigate": [
-          171
-        ],
-        "contamination,": [
-          173
-        ],
-        "particularly": [
-          174
-        ],
-        "nearshore": [
-          176
-        ],
-        "environments": [
-          177
-        ],
-        "impacted": [
-          178
-        ],
-        "by": [
-          179
-        ],
-        "activities.": [
-          181
-        ],
-        "Furthermore,": [
-          182
-        ],
-        "it": [
-          183
-        ],
-        "recommends": [
-          184
-        ],
-        "implementation": [
-          186
-        ],
-        "continuous": [
-          188
-        ],
-        "monitoring": [
-          189
-        ],
-        "programs": [
-          190
-        ],
-        "track": [
-          192
-        ],
-        "trends": [
-          194
-        ],
-        "identify": [
-          196
-        ],
-        "emerging": [
-          197
-        ],
-        "sources.": [
-          199
-        ],
-        "These": [
-          200
-        ],
-        "findings": [
-          201
-        ],
-        "provide": [
-          202
-        ],
-        "insights": [
-          204
-        ],
-        "managers": [
-          207
-        ],
-        "policymakers": [
-          209
-        ],
-        "developing": [
-          211
-        ],
-        "sustainable": [
-          212
-        ],
-        "mitigation": [
-          214
-        ],
-        "frameworks": [
-          215
-        ],
-        "enhancing": [
-          217
-        ],
-        "resilience": [
-          219
-        ],
-        "ecosystems": [
-          222
-        ],
-        "Gulf.": [
-          226
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -14268,7 +12654,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-02-15T07:36:51.736424",
+      "updated_date": "2026-02-16T07:36:33.822630",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15070,8 +13456,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -16380,8 +14766,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17571,8 +15957,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -18465,8 +16851,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18871,8 +17257,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -19303,8 +17689,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -20187,8 +18573,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -21712,8 +20098,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -22655,8 +21041,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 109,
@@ -23336,8 +21722,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2044971387.pdf"
@@ -24779,8 +23165,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3145666038.pdf",
@@ -25404,8 +23790,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2966398131.pdf",
@@ -25465,494 +23851,7 @@
         "https://openalex.org/W4210931276",
         "https://openalex.org/W2354380496"
       ],
-      "abstract_inverted_index": {
-        "Major": [
-          0
-        ],
-        "global": [
-          1
-        ],
-        "events": [
-          2,
-          28
-        ],
-        "during": [
-          3,
-          54
-        ],
-        "the": [
-          4,
-          22,
-          42,
-          51,
-          57,
-          60,
-          63,
-          66,
-          68,
-          75,
-          78,
-          84,
-          91,
-          107,
-          123,
-          127,
-          134,
-          139,
-          150,
-          157,
-          174,
-          178,
-          200
-        ],
-        "Oligocene": [
-          5,
-          99
-        ],
-        "epoch": [
-          6
-        ],
-        "included": [
-          7
-        ],
-        "a": [
-          8,
-          15
-        ],
-        "climatic": [
-          9
-        ],
-        "change": [
-          10
-        ],
-        "from": [
-          11,
-          95,
-          103,
-          160
-        ],
-        "warm": [
-          12
-        ],
-        "“greenhouse”": [
-          13
-        ],
-        "to": [
-          14,
-          30,
-          90,
-          199
-        ],
-        "cooler": [
-          16
-        ],
-        "“icehouse”": [
-          17
-        ],
-        "that": [
-          18,
-          196
-        ],
-        "was": [
-          19
-        ],
-        "accompanied": [
-          20
-        ],
-        "by": [
-          21
-        ],
-        "onset": [
-          23
-        ],
-        "of": [
-          24,
-          44,
-          59,
-          65,
-          70,
-          77,
-          83,
-          93,
-          106,
-          126,
-          138,
-          152,
-          177
-        ],
-        "Antarctic": [
-          25
-        ],
-        "glaciation.": [
-          26
-        ],
-        "These": [
-          27
-        ],
-        "led": [
-          29,
-          88
-        ],
-        "decline": [
-          31
-        ],
-        "in": [
-          32,
-          113,
-          130,
-          142,
-          156,
-          163,
-          166,
-          171,
-          203
-        ],
-        "water": [
-          33,
-          136
-        ],
-        "temperature,": [
-          34
-        ],
-        "salinity,": [
-          35
-        ],
-        "nutrient": [
-          36
-        ],
-        "supply": [
-          37
-        ],
-        "and": [
-          38,
-          41,
-          48,
-          62,
-          74,
-          81,
-          115,
-          133,
-          168,
-          209
-        ],
-        "oxygen": [
-          39
-        ],
-        "levels,": [
-          40
-        ],
-        "extinction": [
-          43
-        ],
-        "some": [
-          45
-        ],
-        "major": [
-          46
-        ],
-        "fauna": [
-          47
-        ],
-        "flora.": [
-          49
-        ],
-        "Within": [
-          50
-        ],
-        "study": [
-          52,
-          146
-        ],
-        "area,": [
-          53
-        ],
-        "this": [
-          55
-        ],
-        "epoch,": [
-          56
-        ],
-        "shrinkage": [
-          58
-        ],
-        "Neotethys": [
-          61
-        ],
-        "development": [
-          64,
-          76
-        ],
-        "Paratethys,": [
-          67
-        ],
-        "collision": [
-          69
-        ],
-        "Arabia": [
-          71,
-          94
-        ],
-        "with": [
-          72
-        ],
-        "Eurasia": [
-          73
-        ],
-        "Zagros": [
-          79
-        ],
-        "mountains": [
-          80
-        ],
-        "opening": [
-          82
-        ],
-        "Red": [
-          85
-        ],
-        "Sea": [
-          86
-        ],
-        "which": [
-          87
-        ],
-        "eventually": [
-          89
-        ],
-        "separation": [
-          92
-        ],
-        "Africa": [
-          96
-        ],
-        "were": [
-          97
-        ],
-        "witnessed.": [
-          98
-        ],
-        "sediments": [
-          100,
-          162
-        ],
-        "are": [
-          101,
-          111,
-          122,
-          197
-        ],
-        "absent": [
-          102
-        ],
-        "most": [
-          104,
-          119
-        ],
-        "parts": [
-          105
-        ],
-        "Arabian": [
-          108
-        ],
-        "Plate": [
-          109
-        ],
-        "but": [
-          110
-        ],
-        "well-preserved": [
-          112
-        ],
-        "western": [
-          114
-        ],
-        "southwestern": [
-          116,
-          143
-        ],
-        "Iran.": [
-          117,
-          144
-        ],
-        "The": [
-          118,
-          145
-        ],
-        "well-developed": [
-          120
-        ],
-        "strata": [
-          121,
-          195
-        ],
-        "coral": [
-          124,
-          191
-        ],
-        "reefs": [
-          125
-        ],
-        "Kirkuk": [
-          128,
-          169
-        ],
-        "Group": [
-          129
-        ],
-        "northern": [
-          131
-        ],
-        "Iraq": [
-          132,
-          172
-        ],
-        "shallow": [
-          135
-        ],
-        "carbonates": [
-          137
-        ],
-        "Asmari": [
-          140,
-          201
-        ],
-        "Formation": [
-          141,
-          202
-        ],
-        "area": [
-          147
-        ],
-        "also": [
-          148
-        ],
-        "represents": [
-          149
-        ],
-        "birthplace": [
-          151
-        ],
-        "commercial": [
-          153
-        ],
-        "hydrocarbons": [
-          154,
-          184
-        ],
-        "production": [
-          155
-        ],
-        "Middle": [
-          158
-        ],
-        "East": [
-          159
-        ],
-        "these": [
-          161
-        ],
-        "Masjid-i-Sulaiman": [
-          164
-        ],
-        "Field": [
-          165,
-          170
-        ],
-        "Iran": [
-          167
-        ],
-        "at": [
-          173
-        ],
-        "first": [
-          175
-        ],
-        "decade": [
-          176
-        ],
-        "last": [
-          179
-        ],
-        "century.": [
-          180
-        ],
-        "Future": [
-          181
-        ],
-        "exploration": [
-          182
-        ],
-        "for": [
-          183
-        ],
-        "potential": [
-          185
-        ],
-        "should": [
-          186
-        ],
-        "focus": [
-          187
-        ],
-        "on": [
-          188,
-          214
-        ],
-        "identifying": [
-          189
-        ],
-        "subsurface": [
-          190
-        ],
-        "buildups": [
-          192
-        ],
-        "or": [
-          193
-        ],
-        "clastic": [
-          194
-        ],
-        "equivalent": [
-          198
-        ],
-        "Iran.Other": [
-          204
-        ],
-        "Information": [
-          205
-        ],
-        "Published": [
-          206
-        ],
-        "in:": [
-          207
-        ],
-        "Carbonates": [
-          208
-        ],
-        "Evaporites<br>": [
-          210
-        ],
-        "License:": [
-          211
-        ],
-        "https://creativecommons.org/licenses/by/4.0<br>See": [
-          212
-        ],
-        "article": [
-          213
-        ],
-        "publisher's": [
-          215
-        ],
-        "website:": [
-          216
-        ],
-        "http://dx.doi.org/10.1007/s13146-019-00521-3": [
-          217
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [
         {
           "year": 2026,
@@ -25983,7 +23882,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-12T00:53:03.260389",
+      "updated_date": "2026-02-16T07:36:33.822630",
       "created_date": "2019-08-13T00:00:00"
     },
     {
@@ -26557,8 +24456,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -26905,7 +24804,7 @@
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.88090152,
+        "value": 0.88076073,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27372,8 +25271,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -27490,7 +25389,607 @@
         "https://openalex.org/W2047245391",
         "https://openalex.org/W1970779370"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "2018": [
+          178
+        ],
+        "2020": [
+          180
+        ],
+        "The": [
+          0,
+          95,
+          120,
+          149,
+          190,
+          242
+        ],
+        "inland": [
+          1,
+          62
+        ],
+        "sabkha": [
+          2,
+          23,
+          63,
+          126
+        ],
+        "of": [
+          3,
+          14,
+          21,
+          41,
+          60,
+          64,
+          70,
+          73,
+          81,
+          84,
+          87,
+          93,
+          97,
+          124,
+          167,
+          175,
+          192,
+          198,
+          205,
+          226,
+          232,
+          244,
+          247,
+          282
+        ],
+        "the": [
+          4,
+          12,
+          22,
+          26,
+          38,
+          57,
+          65,
+          71,
+          82,
+          100,
+          108,
+          125,
+          131,
+          154,
+          161,
+          168,
+          193,
+          196,
+          201,
+          206,
+          212,
+          223,
+          227,
+          230,
+          257,
+          277,
+          283
+        ],
+        "Arabian": [
+          5
+        ],
+        "Gulf": [
+          6
+        ],
+        "is": [
+          7,
+          102
+        ],
+        "important": [
+          8
+        ],
+        "to": [
+          9,
+          25,
+          179
+        ],
+        "study": [
+          10,
+          36,
+          243
+        ],
+        "for": [
+          11,
+          29,
+          116
+        ],
+        "occurrence": [
+          13,
+          96
+        ],
+        "minerals,": [
+          15,
+          43
+        ],
+        "rocks,": [
+          16,
+          45
+        ],
+        "soil": [
+          17,
+          50,
+          53,
+          262
+        ],
+        "salinity,": [
+          18,
+          54
+        ],
+        "and": [
+          19,
+          31,
+          52,
+          55,
+          89,
+          114,
+          134,
+          136,
+          221,
+          239,
+          253,
+          260,
+          273,
+          279,
+          291
+        ],
+        "stability": [
+          20,
+          59,
+          225
+        ],
+        "due": [
+          24
+        ],
+        "high": [
+          27
+        ],
+        "demand": [
+          28
+        ],
+        "infrastructure": [
+          30
+        ],
+        "agriculture": [
+          32
+        ],
+        "development": [
+          33
+        ],
+        "region.": [
+          34
+        ],
+        "This": [
+          35,
+          75
+        ],
+        "describes": [
+          37
+        ],
+        "spectral": [
+          39,
+          110,
+          140,
+          267
+        ],
+        "absorptions": [
+          40,
+          268,
+          288
+        ],
+        "evaporite": [
+          42,
+          248
+        ],
+        "discriminates": [
+          44
+        ],
+        "maps": [
+          46
+        ],
+        "salt": [
+          47,
+          258
+        ],
+        "crusts,": [
+          48
+        ],
+        "gypsiferous": [
+          49,
+          261
+        ],
+        "flats,": [
+          51
+        ],
+        "studies": [
+          56
+        ],
+        "temporal": [
+          58,
+          224
+        ],
+        "an": [
+          61
+        ],
+        "Dukhan": [
+          66
+        ],
+        "area,": [
+          67
+        ],
+        "west": [
+          68
+        ],
+        "coast": [
+          69
+        ],
+        "State": [
+          72
+        ],
+        "Qatar.": [
+          74
+        ],
+        "was": [
+          76,
+          170,
+          208
+        ],
+        "performed": [
+          77
+        ],
+        "using": [
+          78,
+          104,
+          130,
+          153,
+          172,
+          211
+        ],
+        "satellite": [
+          79
+        ],
+        "data": [
+          80,
+          106,
+          174
+        ],
+        "Hyperion": [
+          83,
+          105
+        ],
+        "EO1,": [
+          85
+        ],
+        "ASTER": [
+          86,
+          143
+        ],
+        "Terra,": [
+          88
+        ],
+        "multispectral": [
+          90
+        ],
+        "instrument": [
+          91
+        ],
+        "(MSI)": [
+          92
+        ],
+        "Sentinel-2.": [
+          94
+        ],
+        "minerals": [
+          98,
+          249,
+          281
+        ],
+        "in": [
+          99,
+          163,
+          200,
+          256,
+          269
+        ],
+        "area": [
+          101,
+          169,
+          207
+        ],
+        "detected": [
+          103
+        ],
+        "by": [
+          107,
+          129,
+          144,
+          152,
+          181,
+          210
+        ],
+        "linear": [
+          109
+        ],
+        "unmixing": [
+          111
+        ],
+        "(LSU)": [
+          112
+        ],
+        "method": [
+          113
+        ],
+        "studied": [
+          115,
+          209
+        ],
+        "their": [
+          117,
+          265
+        ],
+        "spatial": [
+          118
+        ],
+        "distribution.": [
+          119
+        ],
+        "different": [
+          121,
+          164
+        ],
+        "geological": [
+          122
+        ],
+        "formations": [
+          123,
+          162,
+          285
+        ],
+        "were": [
+          127,
+          235
+        ],
+        "discriminated": [
+          128
+        ],
+        "VNIR": [
+          132
+        ],
+        "(visible": [
+          133
+        ],
+        "near-infrared)": [
+          135
+        ],
+        "SWIR": [
+          137
+        ],
+        "(shortwave": [
+          138
+        ],
+        "infrared)": [
+          139
+        ],
+        "bands": [
+          141
+        ],
+        "from": [
+          142,
+          177
+        ],
+        "principal": [
+          145,
+          155
+        ],
+        "component": [
+          146
+        ],
+        "analysis": [
+          147
+        ],
+        "(PCA).": [
+          148
+        ],
+        "image": [
+          150,
+          233
+        ],
+        "developed": [
+          151
+        ],
+        "components": [
+          156
+        ],
+        "(R:PC2,": [
+          157
+        ],
+        "G:PC3,": [
+          158
+        ],
+        "B:PC5)": [
+          159
+        ],
+        "showed": [
+          160,
+          264
+        ],
+        "tones.": [
+          165
+        ],
+        "Salinity": [
+          166
+        ],
+        "mapped": [
+          171
+        ],
+        "monthly": [
+          173
+        ],
+        "MSI": [
+          176
+        ],
+        "normalized": [
+          182,
+          213
+        ],
+        "difference": [
+          183,
+          214
+        ],
+        "salinity": [
+          184,
+          199
+        ],
+        "index": [
+          185,
+          194,
+          216
+        ],
+        "(NDSI)": [
+          186
+        ],
+        "(band11-band12)/(band11": [
+          187
+        ],
+        "+": [
+          188,
+          219
+        ],
+        "band12).": [
+          189
+        ],
+        "results": [
+          191,
+          231
+        ],
+        "displayed": [
+          195
+        ],
+        "distribution": [
+          197
+        ],
+        "area.": [
+          202
+        ],
+        "Besides,": [
+          203
+        ],
+        "moisture": [
+          204,
+          215
+        ],
+        "(NDMI)": [
+          217
+        ],
+        "(b8-b11)/(b8": [
+          218
+        ],
+        "b11)": [
+          220
+        ],
+        "described": [
+          222
+        ],
+        "sabkha.": [
+          228
+        ],
+        "All": [
+          229
+        ],
+        "analyses": [
+          234
+        ],
+        "validated": [
+          236
+        ],
+        "through": [
+          237
+        ],
+        "field": [
+          238
+        ],
+        "laboratory": [
+          240,
+          245
+        ],
+        "studies.": [
+          241
+        ],
+        "spectra": [
+          246
+        ],
+        "namely": [
+          250
+        ],
+        "gypsum,": [
+          251
+        ],
+        "anhydrite,": [
+          252
+        ],
+        "halite": [
+          254
+        ],
+        "present": [
+          255
+        ],
+        "crusts": [
+          259
+        ],
+        "flats": [
+          263
+        ],
+        "unique": [
+          266
+        ],
+        "between": [
+          270
+        ],
+        "1.4–1.5": [
+          271
+        ],
+        "μm": [
+          272,
+          275,
+          293
+        ],
+        "1.9–2.0": [
+          274
+        ],
+        "whereas,": [
+          276
+        ],
+        "calcite": [
+          278
+        ],
+        "dolomite": [
+          280
+        ],
+        "carbonate": [
+          284
+        ],
+        "exhibited": [
+          286
+        ],
+        "deep": [
+          287
+        ],
+        "near": [
+          289
+        ],
+        "2.345": [
+          290
+        ],
+        "2.495": [
+          292
+        ],
+        "respectively.": [
+          294
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -27517,7 +26016,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-12T00:53:03.260389",
+      "updated_date": "2026-02-16T07:36:33.822630",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -28538,8 +27037,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385602287.pdf"
@@ -29243,8 +27742,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -30126,8 +28625,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3214716846.pdf",
@@ -31060,8 +29559,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385287273.pdf",
@@ -31885,8 +30384,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -32842,8 +31341,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -33745,8 +32244,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -35328,8 +33827,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -36050,8 +34549,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -36940,8 +35439,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -37718,8 +36217,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -38814,8 +37313,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -39748,8 +38247,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4291014806.pdf",
@@ -40445,8 +38944,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -41229,8 +39728,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -42084,8 +40583,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43278,8 +41777,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -43891,8 +42390,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -44480,8 +42979,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -45504,8 +44003,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -46112,7 +44611,7 @@
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.76587857,
+        "value": 0.765825,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46571,8 +45070,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 113,
@@ -46703,7 +45202,590 @@
         "https://openalex.org/W2800266504",
         "https://openalex.org/W2090253159"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "450": [
+          98
+        ],
+        "475": [
+          100
+        ],
+        "830": [
+          112
+        ],
+        "Remote": [
+          0
+        ],
+        "sensing": [
+          1,
+          251
+        ],
+        "of": [
+          2,
+          11,
+          24,
+          37,
+          45,
+          51,
+          57,
+          59,
+          64,
+          71,
+          76,
+          79,
+          81,
+          84,
+          120,
+          135,
+          145,
+          147,
+          176,
+          184,
+          197,
+          203,
+          214,
+          229,
+          234,
+          239,
+          242,
+          258,
+          278,
+          286,
+          292
+        ],
+        "spectrally": [
+          3
+        ],
+        "active": [
+          4
+        ],
+        "Chlorophyll-a": [
+          5
+        ],
+        "(Chl-a)": [
+          6
+        ],
+        "in": [
+          7,
+          28,
+          102,
+          114,
+          137,
+          179,
+          267,
+          288
+        ],
+        "the": [
+          8,
+          19,
+          29,
+          34,
+          43,
+          55,
+          85,
+          90,
+          103,
+          115,
+          133,
+          148,
+          172,
+          177,
+          180,
+          185,
+          194,
+          200,
+          204,
+          212,
+          217,
+          237,
+          246,
+          268,
+          273,
+          289,
+          293
+        ],
+        "gulf": [
+          9
+        ],
+        "water": [
+          10,
+          83,
+          259
+        ],
+        "an": [
+          12
+        ],
+        "arid": [
+          13,
+          294
+        ],
+        "region": [
+          14,
+          50,
+          88,
+          105,
+          153
+        ],
+        "is": [
+          15
+        ],
+        "important": [
+          16
+        ],
+        "to": [
+          17,
+          210,
+          263,
+          283
+        ],
+        "understand": [
+          18
+        ],
+        "spatial": [
+          20
+        ],
+        "and": [
+          21,
+          26,
+          39,
+          41,
+          66,
+          99,
+          106,
+          111,
+          140,
+          159,
+          166,
+          174,
+          199,
+          207,
+          226,
+          244,
+          255,
+          276,
+          281
+        ],
+        "temporal": [
+          22
+        ],
+        "variations": [
+          23
+        ],
+        "phytoplankton": [
+          25
+        ],
+        "biomass": [
+          27
+        ],
+        "water.": [
+          30,
+          142
+        ],
+        "This": [
+          31,
+          270
+        ],
+        "study": [
+          32,
+          75,
+          271
+        ],
+        "characterizes": [
+          33
+        ],
+        "spectral": [
+          35,
+          94,
+          128
+        ],
+        "absorption": [
+          36
+        ],
+        "Chl-a": [
+          38,
+          44,
+          80,
+          136,
+          146,
+          178,
+          235,
+          243,
+          265,
+          287
+        ],
+        "detects": [
+          40
+        ],
+        "maps": [
+          42
+        ],
+        "Al": [
+          46,
+          86,
+          149
+        ],
+        "Arish–Al": [
+          47
+        ],
+        "Ghariyah": [
+          48,
+          87,
+          151
+        ],
+        "coastal": [
+          49,
+          82,
+          152
+        ],
+        "northern": [
+          52
+        ],
+        "Qatar": [
+          53
+        ],
+        "using": [
+          54,
+          89,
+          123,
+          157,
+          189,
+          221
+        ],
+        "data": [
+          56,
+          122,
+          161,
+          209,
+          280
+        ],
+        "Hyperion": [
+          58,
+          91,
+          121
+        ],
+        "EO-1,": [
+          60
+        ],
+        "MultiSpectral": [
+          61
+        ],
+        "Instrument": [
+          62
+        ],
+        "(MSI)": [
+          63
+        ],
+        "Sentinel-2,": [
+          65
+        ],
+        "Operational": [
+          67
+        ],
+        "Land": [
+          68
+        ],
+        "Imager": [
+          69
+        ],
+        "(OLI)": [
+          70
+        ],
+        "Landsat-8": [
+          72
+        ],
+        "satellites.": [
+          73
+        ],
+        "The": [
+          74,
+          118,
+          143,
+          182,
+          232,
+          249
+        ],
+        "image": [
+          77,
+          92,
+          124
+        ],
+        "spectra": [
+          78,
+          125
+        ],
+        "showed": [
+          93,
+          132,
+          171,
+          236
+        ],
+        "band": [
+          95
+        ],
+        "absorptions": [
+          96
+        ],
+        "near": [
+          97
+        ],
+        "nm": [
+          101,
+          113
+        ],
+        "blue": [
+          104
+        ],
+        "around": [
+          107
+        ],
+        "640,": [
+          108
+        ],
+        "730,": [
+          109
+        ],
+        "760,": [
+          110
+        ],
+        "red": [
+          116
+        ],
+        "region.": [
+          117,
+          181,
+          269,
+          295
+        ],
+        "analysis": [
+          119
+        ],
+        "by": [
+          126,
+          162
+        ],
+        "linear": [
+          127
+        ],
+        "unmixing": [
+          129
+        ],
+        "(LSU)": [
+          130
+        ],
+        "method": [
+          131
+        ],
+        "occurrence": [
+          134,
+          238,
+          241
+        ],
+        "very": [
+          138
+        ],
+        "shallow": [
+          139,
+          141
+        ],
+        "mapping": [
+          144
+        ],
+        "Arish–Al​": [
+          150
+        ],
+        "was": [
+          154,
+          187
+        ],
+        "carried": [
+          155
+        ],
+        "out": [
+          156
+        ],
+        "MSI": [
+          158,
+          208
+        ],
+        "OLI": [
+          160
+        ],
+        "NDCI,": [
+          163
+        ],
+        "2BDA,": [
+          164
+        ],
+        "3BDA,": [
+          165
+        ],
+        "FLH": [
+          167
+        ],
+        "violet": [
+          168
+        ],
+        "algorithms,": [
+          169
+        ],
+        "which": [
+          170,
+          192
+        ],
+        "concentrations": [
+          173,
+          266,
+          285
+        ],
+        "distributions": [
+          175
+        ],
+        "performance": [
+          183
+        ],
+        "algorithms": [
+          186,
+          282
+        ],
+        "studied": [
+          188
+        ],
+        "WorldView-3": [
+          190
+        ],
+        "data,": [
+          191
+        ],
+        "provided": [
+          193
+        ],
+        "R2": [
+          195
+        ],
+        "values": [
+          196
+        ],
+        "60%": [
+          198
+        ],
+        "best": [
+          201
+        ],
+        "suitability": [
+          202
+        ],
+        "NDCI": [
+          205
+        ],
+        "algorithm": [
+          206
+        ],
+        "map": [
+          211,
+          284
+        ],
+        "concentration": [
+          213
+        ],
+        "Chl-a.": [
+          215
+        ],
+        "All": [
+          216
+        ],
+        "results": [
+          218,
+          252
+        ],
+        "were": [
+          219
+        ],
+        "validated": [
+          220
+        ],
+        "field": [
+          222,
+          230
+        ],
+        "measurements,": [
+          223,
+          225
+        ],
+        "in-situ": [
+          224
+        ],
+        "laboratory": [
+          227
+        ],
+        "analyses": [
+          228
+        ],
+        "samples.": [
+          231
+        ],
+        "measurements": [
+          233
+        ],
+        "poor": [
+          240
+        ],
+        "confirmed": [
+          245
+        ],
+        "imagery": [
+          247
+        ],
+        "results.": [
+          248
+        ],
+        "remote": [
+          250
+        ],
+        "with": [
+          253
+        ],
+        "physical": [
+          254
+        ],
+        "chemical": [
+          256
+        ],
+        "parameters": [
+          257
+        ],
+        "samples": [
+          260
+        ],
+        "allowed": [
+          261
+        ],
+        "us": [
+          262
+        ],
+        "assess": [
+          264
+        ],
+        "evaluates": [
+          272
+        ],
+        "sensor’s": [
+          274
+        ],
+        "capability": [
+          275
+        ],
+        "applications": [
+          277
+        ],
+        "satellite": [
+          279
+        ],
+        "Gulf": [
+          290
+        ],
+        "waters": [
+          291
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
@@ -46718,7 +45800,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-14T14:00:54.825952",
+      "updated_date": "2026-02-16T07:36:33.822630",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47116,8 +46198,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -48553,8 +47635,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4393006178.pdf"
@@ -49088,8 +48170,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3113164394.pdf",
@@ -50188,8 +49270,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -50838,8 +49920,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -51335,8 +50417,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -52102,8 +51184,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -53289,8 +52371,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -53894,8 +52976,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2942466463.pdf",
@@ -54785,8 +53867,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -55589,8 +54671,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -56933,8 +56015,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 65,
@@ -57702,7 +56784,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.48494729,
+        "value": 0.48490381,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -58179,8 +57261,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4362584973.pdf"
@@ -58217,14 +57299,500 @@
         "https://openalex.org/W1548670372",
         "https://openalex.org/W1562536427"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "Core": [
+          1
+        ],
+        "samples": [
+          2,
+          21
+        ],
+        "were": [
+          3,
+          22,
+          85,
+          149
+        ],
+        "collected": [
+          4
+        ],
+        "from": [
+          5,
+          13,
+          109
+        ],
+        "three": [
+          6
+        ],
+        "wells,": [
+          7
+        ],
+        "one": [
+          8
+        ],
+        "onshore": [
+          9
+        ],
+        "and": [
+          10,
+          27,
+          34,
+          37,
+          41,
+          47,
+          67,
+          80,
+          111,
+          125,
+          135,
+          167,
+          199
+        ],
+        "two": [
+          11
+        ],
+        "offshore,": [
+          12
+        ],
+        "Qatar’s": [
+          14
+        ],
+        "Upper": [
+          15
+        ],
+        "Jurassic": [
+          16
+        ],
+        "Arab": [
+          17,
+          54,
+          207
+        ],
+        "D": [
+          18,
+          55
+        ],
+        "reservoir.": [
+          19
+        ],
+        "The": [
+          20,
+          115,
+          187
+        ],
+        "subjected": [
+          23
+        ],
+        "to": [
+          24,
+          30,
+          120,
+          141,
+          178
+        ],
+        "multiproxy": [
+          25
+        ],
+        "petrographic": [
+          26,
+          46
+        ],
+        "chemical": [
+          28
+        ],
+        "analyses": [
+          29
+        ],
+        "identify": [
+          31
+        ],
+        "their": [
+          32,
+          39
+        ],
+        "micro-": [
+          33
+        ],
+        "nanoporosity": [
+          35
+        ],
+        "types": [
+          36,
+          71
+        ],
+        "understand": [
+          38
+        ],
+        "evolution": [
+          40
+        ],
+        "destruction.": [
+          42
+        ],
+        "Based": [
+          43
+        ],
+        "on": [
+          44
+        ],
+        "the": [
+          45,
+          53,
+          89,
+          93,
+          98,
+          101,
+          121,
+          129,
+          172,
+          191,
+          197,
+          202,
+          206
+        ],
+        "petrophysical": [
+          48
+        ],
+        "properties": [
+          49
+        ],
+        "of": [
+          50,
+          103,
+          123,
+          184,
+          190,
+          201,
+          205
+        ],
+        "studied": [
+          51,
+          192
+        ],
+        "rocks,": [
+          52
+        ],
+        "succession": [
+          56
+        ],
+        "was": [
+          57,
+          163
+        ],
+        "divided": [
+          58
+        ],
+        "into": [
+          59
+        ],
+        "seven": [
+          60
+        ],
+        "rock": [
+          61
+        ],
+        "types.": [
+          62
+        ],
+        "Primary": [
+          63,
+          83
+        ],
+        "microporosity": [
+          64
+        ],
+        "includes": [
+          65
+        ],
+        "intergranular": [
+          66
+        ],
+        "interplanar,": [
+          68
+        ],
+        "while": [
+          69,
+          128
+        ],
+        "secondary": [
+          70
+        ],
+        "include": [
+          72
+        ],
+        "vuggy,": [
+          73
+        ],
+        "intercrystalline,": [
+          74
+        ],
+        "moldic,": [
+          75
+        ],
+        "dissolution,": [
+          76
+        ],
+        "pyrite": [
+          77,
+          133
+        ],
+        "displacement,": [
+          78
+        ],
+        "microfracture,": [
+          79
+        ],
+        "microbial": [
+          81,
+          159
+        ],
+        "boring.": [
+          82
+        ],
+        "micropores": [
+          84,
+          107
+        ],
+        "found": [
+          86
+        ],
+        "mainly": [
+          87
+        ],
+        "between": [
+          88,
+          97
+        ],
+        "micrite": [
+          90
+        ],
+        "grains": [
+          91,
+          99
+        ],
+        "in": [
+          92,
+          165,
+          169,
+          171,
+          180
+        ],
+        "lime": [
+          94
+        ],
+        "mudstone": [
+          95
+        ],
+        "facies,": [
+          96
+        ],
+        "or": [
+          100,
+          144,
+          158
+        ],
+        "plates": [
+          102
+        ],
+        "clay": [
+          104,
+          154
+        ],
+        "minerals.": [
+          105
+        ],
+        "Secondary": [
+          106
+        ],
+        "result": [
+          108
+        ],
+        "open": [
+          110,
+          116
+        ],
+        "closed": [
+          112,
+          130
+        ],
+        "diagenetic": [
+          113,
+          117
+        ],
+        "systems.": [
+          114
+        ],
+        "system": [
+          118,
+          131,
+          204
+        ],
+        "led": [
+          119
+        ],
+        "development": [
+          122,
+          198
+        ],
+        "dissolution": [
+          124
+        ],
+        "moldic": [
+          126
+        ],
+        "micropores,": [
+          127
+        ],
+        "created": [
+          132
+        ],
+        "displacement": [
+          134,
+          145
+        ],
+        "boring": [
+          136
+        ],
+        "porosity.": [
+          137
+        ],
+        "Mechanical": [
+          138
+        ],
+        "stress": [
+          139
+        ],
+        "due": [
+          140
+        ],
+        "crystal": [
+          142
+        ],
+        "growth": [
+          143
+        ],
+        "generated": [
+          146
+        ],
+        "microfractures.": [
+          147
+        ],
+        "Micropores": [
+          148
+        ],
+        "destroyed": [
+          150
+        ],
+        "either": [
+          151
+        ],
+        "by": [
+          152
+        ],
+        "cementation,": [
+          153
+        ],
+        "minerals": [
+          155
+        ],
+        "growth,": [
+          156
+        ],
+        "dolomitization,": [
+          157
+        ],
+        "pustular": [
+          160
+        ],
+        "overgrowth.": [
+          161
+        ],
+        "Microporosity": [
+          162
+        ],
+        "important": [
+          164
+        ],
+        "quantity": [
+          166
+        ],
+        "varied": [
+          168
+        ],
+        "nature": [
+          170
+        ],
+        "mud-supported": [
+          173
+        ],
+        "rocks.": [
+          174
+        ],
+        "They": [
+          175
+        ],
+        "are": [
+          176
+        ],
+        "similar": [
+          177
+        ],
+        "macropores": [
+          179
+        ],
+        "grain-supported": [
+          181
+        ],
+        "sediments": [
+          182
+        ],
+        "but": [
+          183
+        ],
+        "less": [
+          185
+        ],
+        "importance.": [
+          186
+        ],
+        "complex": [
+          188
+        ],
+        "lithology": [
+          189
+        ],
+        "rocks": [
+          193
+        ],
+        "has": [
+          194
+        ],
+        "significantly": [
+          195
+        ],
+        "influenced": [
+          196
+        ],
+        "destruction": [
+          200
+        ],
+        "porosity": [
+          203
+        ],
+        "Formation.": [
+          208
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-15T07:36:51.736424",
+      "updated_date": "2026-02-16T07:36:33.822630",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58811,8 +58379,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -60205,8 +59773,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407260658.pdf"
@@ -61172,7 +60740,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.82565326,
+        "value": 0.82503521,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61532,8 +61100,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -61587,14 +61155,500 @@
         "https://openalex.org/W2575121716",
         "https://openalex.org/W2438534850"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Shale": [
+          0,
+          44,
+          94,
+          121
+        ],
+        "gas": [
+          1,
+          9,
+          20,
+          30
+        ],
+        "is": [
+          2,
+          83,
+          178
+        ],
+        "considered": [
+          3
+        ],
+        "one": [
+          4
+        ],
+        "of": [
+          5,
+          42,
+          92,
+          110,
+          141,
+          158,
+          206
+        ],
+        "the": [
+          6,
+          15,
+          36,
+          48,
+          65,
+          84,
+          119,
+          138,
+          175,
+          197
+        ],
+        "promising": [
+          7
+        ],
+        "unconventional": [
+          8
+        ],
+        "reservoirs": [
+          10,
+          31
+        ],
+        "that": [
+          11,
+          81,
+          132,
+          174
+        ],
+        "would": [
+          12
+        ],
+        "help": [
+          13
+        ],
+        "meet": [
+          14
+        ],
+        "current": [
+          16
+        ],
+        "demand": [
+          17
+        ],
+        "for": [
+          18,
+          191
+        ],
+        "natural": [
+          19
+        ],
+        "as": [
+          21,
+          100,
+          105,
+          107,
+          126,
+          164,
+          187
+        ],
+        "a": [
+          22,
+          188,
+          202,
+          211
+        ],
+        "clean": [
+          23
+        ],
+        "energy": [
+          24
+        ],
+        "resource.": [
+          25
+        ],
+        "Qatar": [
+          26
+        ],
+        "has": [
+          27,
+          184,
+          201
+        ],
+        "several": [
+          28
+        ],
+        "shale": [
+          29,
+          143
+        ],
+        "from": [
+          32,
+          47
+        ],
+        "diverse": [
+          33
+        ],
+        "epochs,": [
+          34
+        ],
+        "including": [
+          35,
+          113
+        ],
+        "Eocene": [
+          37
+        ],
+        "Midra": [
+          38,
+          43,
+          88,
+          93,
+          120,
+          161
+        ],
+        "Shale.": [
+          39,
+          89
+        ],
+        "Outcrop": [
+          40
+        ],
+        "samples": [
+          41
+        ],
+        "were": [
+          45,
+          61
+        ],
+        "collected": [
+          46
+        ],
+        "Umm": [
+          49,
+          198
+        ],
+        "Bab": [
+          50,
+          199
+        ],
+        "and": [
+          51,
+          54,
+          57,
+          68,
+          76,
+          103,
+          116,
+          129,
+          167,
+          183
+        ],
+        "Dukhan": [
+          52,
+          176
+        ],
+        "areas,": [
+          53
+        ],
+        "multiple": [
+          55
+        ],
+        "measuring": [
+          56
+        ],
+        "geochemical": [
+          58,
+          171
+        ],
+        "analysis": [
+          59,
+          75,
+          172
+        ],
+        "techniques": [
+          60
+        ],
+        "utilized": [
+          62
+        ],
+        "to": [
+          63
+        ],
+        "characterize": [
+          64
+        ],
+        "mineralogy,": [
+          66
+        ],
+        "microstructure,": [
+          67
+        ],
+        "pores": [
+          69,
+          159
+        ],
+        "type.": [
+          70
+        ],
+        "X-ray": [
+          71,
+          77
+        ],
+        "diffraction": [
+          72
+        ],
+        "(XRD)": [
+          73
+        ],
+        "mineralogy": [
+          74,
+          91
+        ],
+        "Fluorescence": [
+          78
+        ],
+        "(XRF)": [
+          79
+        ],
+        "indicated": [
+          80
+        ],
+        "palygorskite": [
+          82
+        ],
+        "dominant": [
+          85
+        ],
+        "clay": [
+          86
+        ],
+        "in": [
+          87,
+          160,
+          180
+        ],
+        "The": [
+          90,
+          170
+        ],
+        "includes": [
+          95
+        ],
+        "other": [
+          96,
+          111
+        ],
+        "minor": [
+          97
+        ],
+        "minerals": [
+          98
+        ],
+        "such": [
+          99,
+          125,
+          163
+        ],
+        "calcite,": [
+          101
+        ],
+        "quartz,": [
+          102
+        ],
+        "halite,": [
+          104
+        ],
+        "well": [
+          106
+        ],
+        "low": [
+          108,
+          185
+        ],
+        "content": [
+          109
+        ],
+        "clays,": [
+          112
+        ],
+        "sepiolite,": [
+          114
+        ],
+        "smectite,": [
+          115
+        ],
+        "illite.": [
+          117
+        ],
+        "Although": [
+          118
+        ],
+        "contains": [
+          122
+        ],
+        "many": [
+          123
+        ],
+        "elements,": [
+          124
+        ],
+        "shark": [
+          127
+        ],
+        "teeth": [
+          128
+        ],
+        "large": [
+          130
+        ],
+        "foraminifera": [
+          131
+        ],
+        "support": [
+          133
+        ],
+        "deposition": [
+          134
+        ],
+        "under": [
+          135
+        ],
+        "marine": [
+          136,
+          146
+        ],
+        "conditions,": [
+          137
+        ],
+        "existence": [
+          139
+        ],
+        "horizons": [
+          140
+        ],
+        "laminated": [
+          142
+        ],
+        "designate": [
+          144
+        ],
+        "mixed": [
+          145
+        ],
+        "continental": [
+          147
+        ],
+        "depositional": [
+          148
+        ],
+        "settings.": [
+          149
+        ],
+        "Scanning": [
+          150
+        ],
+        "electron": [
+          151
+        ],
+        "microscope": [
+          152
+        ],
+        "(SEM)": [
+          153
+        ],
+        "images": [
+          154
+        ],
+        "revealed": [
+          155,
+          173
+        ],
+        "various": [
+          156
+        ],
+        "types": [
+          157
+        ],
+        "Shale,": [
+          162
+        ],
+        "intragranular,": [
+          165
+        ],
+        "intergranular,": [
+          166
+        ],
+        "organic": [
+          168,
+          181,
+          207
+        ],
+        "pores.": [
+          169
+        ],
+        "section": [
+          177
+        ],
+        "poor": [
+          179
+        ],
+        "matter": [
+          182
+        ],
+        "potential": [
+          186,
+          212
+        ],
+        "source": [
+          189,
+          213
+        ],
+        "rock": [
+          190
+        ],
+        "oil": [
+          192
+        ],
+        "or": [
+          193
+        ],
+        "gas.": [
+          194
+        ],
+        "In": [
+          195
+        ],
+        "contrast,": [
+          196
+        ],
+        "Section": [
+          200
+        ],
+        "relatively": [
+          203
+        ],
+        "high": [
+          204
+        ],
+        "amount": [
+          205
+        ],
+        "carbon,": [
+          208
+        ],
+        "making": [
+          209
+        ],
+        "it": [
+          210
+        ],
+        "rock.": [
+          214
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-14T14:00:54.825952",
+      "updated_date": "2026-02-16T07:36:33.822630",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62118,8 +62172,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -63283,8 +63337,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65005,8 +65059,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2796282768.pdf",
@@ -66701,8 +66755,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68435,8 +68489,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389947940.pdf"
@@ -69361,8 +69415,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -70847,8 +70901,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207158966.pdf",
@@ -72112,8 +72166,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -73599,8 +73653,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -74142,8 +74196,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -74588,8 +74642,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2126440970.pdf",
@@ -75914,8 +75968,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 25,
@@ -76672,8 +76726,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -78634,8 +78688,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -79784,8 +79838,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -81057,8 +81111,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -81850,8 +81904,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -84562,8 +84616,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4224294682.pdf",
@@ -85606,8 +85660,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 129,
@@ -86232,8 +86286,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -86640,8 +86694,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -87183,8 +87237,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -88468,8 +88522,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89965,8 +90019,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90460,8 +90514,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90791,8 +90845,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -91165,8 +91219,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -91712,8 +91766,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92055,8 +92109,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92386,8 +92440,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -92717,8 +92771,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -93434,8 +93488,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3111736389.pdf",
@@ -94491,8 +94545,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3205612556.pdf",
@@ -95808,8 +95862,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3207614801.pdf",
@@ -96838,8 +96892,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312290890.pdf",
@@ -97386,8 +97440,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312435439.pdf",
@@ -98050,8 +98104,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -98612,8 +98666,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -99270,8 +99324,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -99663,8 +99717,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389562204.pdf"
@@ -99950,7 +100004,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.01180297,
+        "value": 0.01180287,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -100433,8 +100487,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4391532219.pdf"
@@ -100453,9 +100507,108 @@
         "https://openalex.org/W1995474404",
         "https://openalex.org/W2887180609"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          36
+        ],
+        "Funding": [
+          1
+        ],
+        "section": [
+          2
+        ],
+        "in": [
+          3
+        ],
+        "the": [
+          4
+        ],
+        "original": [
+          5,
+          37
+        ],
+        "version": [
+          6
+        ],
+        "of": [
+          7
+        ],
+        "this": [
+          8
+        ],
+        "Article": [
+          9,
+          38
+        ],
+        "was": [
+          10
+        ],
+        "incorrect.": [
+          11
+        ],
+        "\"Qatar": [
+          12,
+          27
+        ],
+        "National": [
+          13,
+          28
+        ],
+        "Research": [
+          14,
+          29
+        ],
+        "Fund,": [
+          15,
+          30
+        ],
+        "NPRP11S-1228-170138": [
+          16,
+          19,
+          22
+        ],
+        "and": [
+          17,
+          20,
+          23,
+          34
+        ],
+        "NPRP12S-0305-190235,": [
+          18,
+          21,
+          32
+        ],
+        "NPRP12S-0305-190235.\"": [
+          24
+        ],
+        "now": [
+          25
+        ],
+        "reads:": [
+          26
+        ],
+        "NPRP11S-1228-170138,": [
+          31
+        ],
+        "NPRP12S-013-190023": [
+          33
+        ],
+        "NPRP13S-1231-190009.\"": [
+          35
+        ],
+        "has": [
+          39
+        ],
+        "been": [
+          40
+        ],
+        "corrected.": [
+          41
+        ]
+      },
       "counts_by_year": [],
-      "updated_date": "2026-02-15T07:36:51.736424",
+      "updated_date": "2026-02-16T07:36:33.822630",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -101256,8 +101409,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4399515790.pdf"
@@ -102097,8 +102250,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -102470,8 +102623,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -103398,8 +103551,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -104677,8 +104830,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -105164,8 +105317,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408523099.pdf"
@@ -105456,8 +105609,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4414525693.pdf"
@@ -105748,8 +105901,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -106084,8 +106237,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -106402,8 +106555,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -106722,8 +106875,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -107048,8 +107201,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -107381,8 +107534,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -107707,8 +107860,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -108053,8 +108206,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -108386,8 +108539,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
