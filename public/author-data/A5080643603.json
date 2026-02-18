@@ -946,9 +946,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.49000000953674316,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -965,8 +965,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -1620,9 +1620,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -1649,8 +1649,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -2115,7 +2115,7 @@
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.93151331,
+        "value": 0.93137802,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2507,8 +2507,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -2603,7 +2603,516 @@
         "https://openalex.org/W2073340904",
         "https://openalex.org/W2969957582"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "42": [
+          216
+        ],
+        "150": [
+          58
+        ],
+        "This": [
+          0
+        ],
+        "study": [
+          1,
+          39
+        ],
+        "develops": [
+          2
+        ],
+        "a": [
+          3,
+          55,
+          153,
+          158
+        ],
+        "new": [
+          4
+        ],
+        "artificial": [
+          5
+        ],
+        "neural": [
+          6
+        ],
+        "network": [
+          7
+        ],
+        "(ANN)": [
+          8
+        ],
+        "model": [
+          9,
+          96,
+          151
+        ],
+        "for": [
+          10,
+          54,
+          106,
+          135,
+          198,
+          207
+        ],
+        "predicting": [
+          11
+        ],
+        "the": [
+          12,
+          38,
+          94,
+          107,
+          130,
+          143,
+          173,
+          186,
+          212
+        ],
+        "total": [
+          13,
+          56
+        ],
+        "organic": [
+          14
+        ],
+        "carbon": [
+          15
+        ],
+        "(TOC)": [
+          16
+        ],
+        "of": [
+          17,
+          57,
+          132,
+          161
+        ],
+        "an": [
+          18
+        ],
+        "organic-rich": [
+          19
+        ],
+        "carbonate": [
+          20
+        ],
+        "mudstone": [
+          21
+        ],
+        "formation": [
+          22
+        ],
+        "using": [
+          23
+        ],
+        "conventional": [
+          24,
+          41
+        ],
+        "well": [
+          25,
+          42,
+          66,
+          122
+        ],
+        "log": [
+          26,
+          104
+        ],
+        "data": [
+          27,
+          35,
+          111,
+          133
+        ],
+        "and": [
+          28,
+          48,
+          77,
+          85,
+          92,
+          99,
+          121,
+          138,
+          145,
+          172,
+          195,
+          210
+        ],
+        "X-ray": [
+          29
+        ],
+        "fluorescence": [
+          30
+        ],
+        "spectroscopy": [
+          31
+        ],
+        "(XRF)": [
+          32
+        ],
+        "analysis.": [
+          33
+        ],
+        "The": [
+          34,
+          148,
+          163,
+          201
+        ],
+        "used": [
+          36,
+          89,
+          134
+        ],
+        "in": [
+          37,
+          52,
+          156
+        ],
+        "include": [
+          40
+        ],
+        "logs,": [
+          43
+        ],
+        "redox-sensitive": [
+          44
+        ],
+        "elements": [
+          45
+        ],
+        "from": [
+          46,
+          62,
+          185
+        ],
+        "XRF,": [
+          47
+        ],
+        "TOC": [
+          49,
+          103,
+          110,
+          144,
+          199,
+          209
+        ],
+        "values": [
+          50
+        ],
+        "measured": [
+          51
+        ],
+        "lab": [
+          53
+        ],
+        "core": [
+          59
+        ],
+        "samples": [
+          60
+        ],
+        "obtained": [
+          61
+        ],
+        "five": [
+          63,
+          108
+        ],
+        "wells.": [
+          64,
+          109
+        ],
+        "Selected": [
+          65
+        ],
+        "logs": [
+          67
+        ],
+        "including": [
+          68,
+          80
+        ],
+        "gamma": [
+          69
+        ],
+        "ray": [
+          70
+        ],
+        "(GR),": [
+          71
+        ],
+        "bulk": [
+          72
+        ],
+        "density": [
+          73
+        ],
+        "(RHOB),": [
+          74
+        ],
+        "uranium": [
+          75
+        ],
+        "(URAN),": [
+          76
+        ],
+        "XRF-derived": [
+          78
+        ],
+        "elements,": [
+          79
+        ],
+        "molybdenum": [
+          81
+        ],
+        "(Mo),": [
+          82
+        ],
+        "copper": [
+          83
+        ],
+        "(Cu),": [
+          84
+        ],
+        "nickel": [
+          86
+        ],
+        "(Ni),": [
+          87
+        ],
+        "were": [
+          88,
+          112,
+          126,
+          183
+        ],
+        "to": [
+          90,
+          97,
+          128,
+          139
+        ],
+        "train": [
+          91
+        ],
+        "develop": [
+          93
+        ],
+        "ANN": [
+          95,
+          150,
+          189
+        ],
+        "predict": [
+          98
+        ],
+        "generate": [
+          100
+        ],
+        "continuous": [
+          101,
+          159
+        ],
+        "high-resolution": [
+          102
+        ],
+        "profiles": [
+          105
+        ],
+        "classified": [
+          113
+        ],
+        "into": [
+          114
+        ],
+        "two": [
+          115
+        ],
+        "groups": [
+          116
+        ],
+        "based": [
+          117
+        ],
+        "on": [
+          118
+        ],
+        "geological": [
+          119
+        ],
+        "descriptions": [
+          120
+        ],
+        "locations.": [
+          123
+        ],
+        "Statistical": [
+          124
+        ],
+        "analyses": [
+          125
+        ],
+        "performed": [
+          127
+        ],
+        "establish": [
+          129
+        ],
+        "range": [
+          131
+        ],
+        "each": [
+          136
+        ],
+        "group": [
+          137
+        ],
+        "evaluate": [
+          140
+        ],
+        "relationships": [
+          141
+        ],
+        "among": [
+          142
+        ],
+        "input": [
+          146
+        ],
+        "parameters.": [
+          147
+        ],
+        "developed": [
+          149,
+          202
+        ],
+        "showed": [
+          152
+        ],
+        "high": [
+          154
+        ],
+        "performance": [
+          155
+        ],
+        "providing": [
+          157
+        ],
+        "profile": [
+          160
+        ],
+        "TOC.": [
+          162
+        ],
+        "difference": [
+          164
+        ],
+        "between": [
+          165
+        ],
+        "absolute": [
+          166
+        ],
+        "average": [
+          167
+        ],
+        "is": [
+          168,
+          177
+        ],
+        "less": [
+          169
+        ],
+        "than": [
+          170,
+          179
+        ],
+        "0.50": [
+          171
+        ],
+        "correlation": [
+          174
+        ],
+        "coefficient": [
+          175
+        ],
+        "(R-value)": [
+          176
+        ],
+        "greater": [
+          178
+        ],
+        "0.70.": [
+          180
+        ],
+        "Empirical": [
+          181
+        ],
+        "correlations": [
+          182,
+          203
+        ],
+        "extracted": [
+          184
+        ],
+        "best": [
+          187
+        ],
+        "performing": [
+          188
+        ],
+        "model,": [
+          190
+        ],
+        "which": [
+          191
+        ],
+        "will": [
+          192
+        ],
+        "allow": [
+          193
+        ],
+        "easy": [
+          194
+        ],
+        "quick": [
+          196
+        ],
+        "estimation": [
+          197,
+          213
+        ],
+        "values.": [
+          200
+        ],
+        "outperform": [
+          204
+        ],
+        "available": [
+          205
+        ],
+        "methods": [
+          206
+        ],
+        "determining": [
+          208
+        ],
+        "reduce": [
+          211
+        ],
+        "error": [
+          214
+        ],
+        "by": [
+          215
+        ],
+        "%.": [
+          217
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -2626,7 +3135,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-02-10T21:29:10.735309",
+      "updated_date": "2026-02-18T08:19:44.376480",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3220,16 +3729,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/8",
           "score": 0.4099999964237213,
-          "display_name": "Decent work and economic growth"
+          "display_name": "Decent work and economic growth",
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 35,
@@ -3939,8 +4448,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -5269,8 +5778,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -6034,16 +6543,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -7236,16 +7745,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7962,8 +8471,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9442,9 +9951,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7099999785423279,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -9469,8 +9978,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -10084,16 +10593,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7400000095367432,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -10586,8 +11095,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -11253,8 +11762,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127304390.pdf",
@@ -12284,8 +12793,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -13086,8 +13595,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13545,8 +14054,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -14615,16 +15124,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7799999713897705,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15090,16 +15599,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15613,7 +16122,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.83945529,
+        "value": 0.83941488,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16046,16 +16555,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4699999988079071,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -16121,7 +16630,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-16T07:36:33.822630",
+      "updated_date": "2026-02-18T08:19:44.376480",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16444,16 +16953,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5299999713897705,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -16996,8 +17505,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17246,8 +17755,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17458,8 +17967,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17946,16 +18455,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.41999998688697815,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2902775908.pdf",
@@ -18875,8 +19384,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19296,8 +19805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19639,16 +20148,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6800000071525574,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20305,8 +20814,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20734,16 +21243,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21768,8 +22277,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -22322,16 +22831,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5699999928474426,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 56,
@@ -22690,8 +23199,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -23850,8 +24359,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
