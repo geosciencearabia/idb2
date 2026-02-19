@@ -7,10 +7,10 @@
       "M. Salih",
       "Moaz Salih"
     ],
-    "works_count": 22,
+    "works_count": 23,
     "cited_by_count": 118,
     "summary_stats": {
-      "2yr_mean_citedness": 0.8888888888888888,
+      "2yr_mean_citedness": 0.8,
       "h_index": 5,
       "i10_index": 4
     },
@@ -31,6 +31,7 @@
           ]
         },
         "years": [
+          2026,
           2025,
           2024,
           2022,
@@ -66,23 +67,13 @@
         "lineage": [
           "https://openalex.org/I134085113"
         ]
-      },
-      {
-        "id": "https://openalex.org/I4210118538",
-        "ror": "https://ror.org/02em1tr51",
-        "display_name": "University of Petroleum",
-        "country_code": "ID",
-        "type": "education",
-        "lineage": [
-          "https://openalex.org/I4210118538"
-        ]
       }
     ],
     "topics": [
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 13,
+        "count": 14,
         "score": 1,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
@@ -100,7 +91,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 10,
+        "count": 11,
         "score": 1,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
@@ -118,7 +109,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 5,
+        "count": 6,
         "score": 0.9998999834060669,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
@@ -174,7 +165,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000378,
+        "value": 0.0000415,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -191,7 +182,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000288,
+        "value": 0.000031,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -208,7 +199,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000224,
+        "value": 0.0000269,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -265,6 +256,12 @@
         "score": 0.9192104339599609
       },
       {
+        "id": "199289684",
+        "wikidata": "https://www.wikidata.org/wiki/Q83353",
+        "display_name": "Mineralogy",
+        "score": 0.7064153552055359
+      },
+      {
         "id": "2780659211",
         "wikidata": "https://www.wikidata.org/wiki/Q181699",
         "display_name": "Carbonate",
@@ -281,12 +278,6 @@
         "wikidata": "https://www.wikidata.org/wiki/Q161764",
         "display_name": "Geochemistry",
         "score": 0.4986872673034668
-      },
-      {
-        "id": "185592680",
-        "wikidata": "https://www.wikidata.org/wiki/Q2329",
-        "display_name": "Chemistry",
-        "score": 0.4473520815372467
       }
     ],
     "counts_by_year": [
@@ -331,6 +322,12 @@
         "works_count": 6,
         "oa_works_count": 2,
         "cited_by_count": 1
+      },
+      {
+        "year": 2026,
+        "works_count": 1,
+        "oa_works_count": 0,
+        "cited_by_count": 0
       }
     ],
     "longest_name": "Moaz Salih",
@@ -343,8 +340,8 @@
     },
     "block_key": "m salih",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034460286",
-    "updated_date": "2026-02-09T12:19:41.486839",
-    "created_date": "2025-10-10"
+    "updated_date": "2026-02-18T12:20:29",
+    "created_date": "2025-10-10T00:00:00"
   },
   "works": [
     {
@@ -913,9 +910,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -1877,9 +1874,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -3274,9 +3271,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -6264,9 +6261,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -8642,9 +8639,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -9874,9 +9871,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -14678,9 +14675,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -15947,9 +15944,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
@@ -17896,7 +17893,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.94743276,
+        "value": 0.91988131,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18111,7 +18108,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-18T08:19:44.376480",
+      "updated_date": "2026-02-18T06:25:47.457606",
       "created_date": "2026-02-18T00:00:00"
     }
   ]

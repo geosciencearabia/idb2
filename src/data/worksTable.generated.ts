@@ -8303,7 +8303,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-08-28",
     "year": 2023,
     "venue": "International Geology Review",
-    "citations": 12,
+    "citations": 13,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -30214,7 +30214,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-04-20",
     "year": 2023,
     "venue": "Fuel",
-    "citations": 72,
+    "citations": 73,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "CO2 Sequestration and Geologic Interactions",
@@ -30390,7 +30390,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-05-21",
     "year": 2024,
     "venue": "Fuel",
-    "citations": 23,
+    "citations": 24,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "Hydrocarbon exploration and reservoir analysis",
@@ -30510,6 +30510,38 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4402460934",
+    "doi": "https://doi.org/10.1016/j.ijhydene.2024.09.061",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5027197211",
+    "allAuthorOpenAlexIds": [
+      "A5027197211",
+      "A5008302543",
+      "A5063894925",
+      "A5024608621"
+    ],
+    "firstAuthorLastName": "Muhammed",
+    "allAuthors": [
+      "Nasiru Salahu Muhammed",
+      "Bashirul Haq",
+      "Dhafer Al Shehri",
+      "Abduljamiu O. Amao"
+    ],
+    "title": "Geochemical influences of hydrogen storage in depleted gas reservoirs with N2 cushion gas",
+    "publicationDate": "2024-09-11",
+    "year": 2024,
+    "venue": "International Journal of Hydrogen Energy",
+    "citations": 10,
+    "topics": [
+      "Methane Hydrates and Related Phenomena",
+      "Hydrocarbon exploration and reservoir analysis",
+      "CO2 Sequestration and Geologic Interactions"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4384207547",
     "doi": "https://doi.org/10.2118/215857-pa",
     "program": "",
@@ -30547,38 +30579,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "University of Petroleum",
       "Saudi Aramco (United States)"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4402460934",
-    "doi": "https://doi.org/10.1016/j.ijhydene.2024.09.061",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5027197211",
-    "allAuthorOpenAlexIds": [
-      "A5027197211",
-      "A5008302543",
-      "A5063894925",
-      "A5024608621"
-    ],
-    "firstAuthorLastName": "Muhammed",
-    "allAuthors": [
-      "Nasiru Salahu Muhammed",
-      "Bashirul Haq",
-      "Dhafer Al Shehri",
-      "Abduljamiu O. Amao"
-    ],
-    "title": "Geochemical influences of hydrogen storage in depleted gas reservoirs with N2 cushion gas",
-    "publicationDate": "2024-09-11",
-    "year": 2024,
-    "venue": "International Journal of Hydrogen Energy",
-    "citations": 9,
-    "topics": [
-      "Methane Hydrates and Related Phenomena",
-      "Hydrocarbon exploration and reservoir analysis",
-      "CO2 Sequestration and Geologic Interactions"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -30690,6 +30690,41 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4405930152",
+    "doi": "https://doi.org/10.1016/j.ijhydene.2024.12.455",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5027197211",
+    "allAuthorOpenAlexIds": [
+      "A5027197211",
+      "A5080526944",
+      "A5080553596",
+      "A5002974432",
+      "A5067974945"
+    ],
+    "firstAuthorLastName": "Alafnan",
+    "allAuthors": [
+      "Saad Alafnan",
+      "Dandi Alvayed",
+      "Murtada Saleh Aljawad",
+      "Abduljamiu O. Amao",
+      "Hussein Hoteit"
+    ],
+    "title": "Evaluating long-term integrity of shale for safe hydrogen storage: A nanoscale analysis of hydrogen-shale interactions",
+    "publicationDate": "2024-12-31",
+    "year": 2024,
+    "venue": "International Journal of Hydrogen Energy",
+    "citations": 6,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Drilling and Well Engineering",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "King Abdullah University of Science and Technology"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4415000454",
     "doi": "https://doi.org/10.1016/j.biombioe.2025.108450",
     "program": "",
@@ -30728,41 +30763,6 @@ export const worksTable: WorkTableRecord[] = [
       "Advanced Battery Technologies Research"
     ],
     "institutions": []
-  },
-  {
-    "workId": "https://openalex.org/W4405930152",
-    "doi": "https://doi.org/10.1016/j.ijhydene.2024.12.455",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5027197211",
-    "allAuthorOpenAlexIds": [
-      "A5027197211",
-      "A5080526944",
-      "A5080553596",
-      "A5002974432",
-      "A5067974945"
-    ],
-    "firstAuthorLastName": "Alafnan",
-    "allAuthors": [
-      "Saad Alafnan",
-      "Dandi Alvayed",
-      "Murtada Saleh Aljawad",
-      "Abduljamiu O. Amao",
-      "Hussein Hoteit"
-    ],
-    "title": "Evaluating long-term integrity of shale for safe hydrogen storage: A nanoscale analysis of hydrogen-shale interactions",
-    "publicationDate": "2024-12-31",
-    "year": 2024,
-    "venue": "International Journal of Hydrogen Energy",
-    "citations": 5,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Drilling and Well Engineering",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "King Abdullah University of Science and Technology"
-    ]
   },
   {
     "workId": "https://openalex.org/W4379280029",
@@ -47526,6 +47526,42 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4308105876",
+    "doi": "https://doi.org/10.3390/rs14215515",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5034672880",
+      "A5062007467",
+      "A5059504799",
+      "A5007631351",
+      "A5030371811"
+    ],
+    "firstAuthorLastName": "Al‐Areeq",
+    "allAuthors": [
+      "Ahmed M. Al‐Areeq",
+      "Sani I. Abba",
+      "Mohamed A. Yassin",
+      "Mohammed Benaafi",
+      "Mustafa Ghaleb",
+      "Isam H. Aljundi"
+    ],
+    "title": "Computational Machine Learning Approach for Flood Susceptibility Assessment Integrated with Remote Sensing and GIS Techniques from Jeddah, Saudi Arabia",
+    "publicationDate": "2022-11-02",
+    "year": 2022,
+    "venue": "Remote Sensing",
+    "citations": 58,
+    "topics": [
+      "Flood Risk Assessment and Management",
+      "Hydrology and Drought Analysis",
+      "Hydrology and Watershed Management Studies"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4281850339",
     "doi": "https://doi.org/10.1016/j.ecoinf.2022.101696",
     "program": "",
@@ -47567,42 +47603,6 @@ export const worksTable: WorkTableRecord[] = [
       "Danube Delta National Institute for Research and Development",
       "Transylvania University of Brașov",
       "Baze University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4308105876",
-    "doi": "https://doi.org/10.3390/rs14215515",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5034672880",
-      "A5062007467",
-      "A5059504799",
-      "A5007631351",
-      "A5030371811"
-    ],
-    "firstAuthorLastName": "Al‐Areeq",
-    "allAuthors": [
-      "Ahmed M. Al‐Areeq",
-      "Sani I. Abba",
-      "Mohamed A. Yassin",
-      "Mohammed Benaafi",
-      "Mustafa Ghaleb",
-      "Isam H. Aljundi"
-    ],
-    "title": "Computational Machine Learning Approach for Flood Susceptibility Assessment Integrated with Remote Sensing and GIS Techniques from Jeddah, Saudi Arabia",
-    "publicationDate": "2022-11-02",
-    "year": 2022,
-    "venue": "Remote Sensing",
-    "citations": 55,
-    "topics": [
-      "Flood Risk Assessment and Management",
-      "Hydrology and Drought Analysis",
-      "Hydrology and Watershed Management Studies"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -50136,7 +50136,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-03-17",
     "year": 2020,
     "venue": "ACS Omega",
-    "citations": 34,
+    "citations": 35,
     "topics": [
       "NMR spectroscopy and applications",
       "Advanced Neuroimaging Techniques and Applications",
@@ -72801,7 +72801,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-08-25",
     "year": 2019,
     "venue": "Earth-Science Reviews",
-    "citations": 276,
+    "citations": 278,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geochemical Analysis",
@@ -73400,9 +73400,11 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "British Geological Survey",
-      "Equinor (Norway)",
       "Norwegian University of Science and Technology",
-      "Heriot-Watt University"
+      "Equinor (United Kingdom)",
+      "Equinor (Norway)",
+      "Heriot-Watt University",
+      "Heriot-Watt University Malaysia"
     ]
   },
   {
@@ -84887,7 +84889,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1996-01-01",
     "year": 1996,
     "venue": "Geological Society London Special Publications",
-    "citations": 240,
+    "citations": 241,
     "topics": [
       "Geological and Geophysical Studies Worldwide",
       "Geological and Geochemical Analysis",
@@ -85273,7 +85275,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-04-25",
     "year": 2015,
     "venue": "Gondwana Research",
-    "citations": 158,
+    "citations": 159,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -85595,47 +85597,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2089924959",
-    "doi": "https://doi.org/10.1016/j.gr.2014.11.005",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5002671147",
-      "A5039866356",
-      "A5030105240",
-      "A5050798817",
-      "A5060053337",
-      "A5015495688"
-    ],
-    "firstAuthorLastName": "Clark",
-    "allAuthors": [
-      "Chris Clark",
-      "David Healy",
-      "Tim Johnson",
-      "Alan S. Collins",
-      "Richard Taylor",
-      "M. Santosh",
-      "Nicholas E. Timms"
-    ],
-    "title": "Hot orogens and supercontinent amalgamation: A Gondwanan example from southern India",
-    "publicationDate": "2014-11-30",
-    "year": 2014,
-    "venue": "Gondwana Research",
-    "citations": 107,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "earthquake and tectonic studies",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "Curtin University",
-      "University of Aberdeen",
-      "University of Adelaide",
-      "China University of Geosciences (Beijing)"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2029042093",
     "doi": "https://doi.org/10.1016/j.gr.2014.10.013",
     "program": "",
@@ -85677,7 +85638,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-11-07",
     "year": 2014,
     "venue": "Gondwana Research",
-    "citations": 106,
+    "citations": 107,
     "topics": [
       "Geological and Geochemical Analysis",
       "earthquake and tectonic studies",
@@ -85688,6 +85649,47 @@ export const worksTable: WorkTableRecord[] = [
       "Indian Statistical Institute",
       "Curtin University",
       "McGill University"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2089924959",
+    "doi": "https://doi.org/10.1016/j.gr.2014.11.005",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5002671147",
+      "A5039866356",
+      "A5030105240",
+      "A5050798817",
+      "A5060053337",
+      "A5015495688"
+    ],
+    "firstAuthorLastName": "Clark",
+    "allAuthors": [
+      "Chris Clark",
+      "David Healy",
+      "Tim Johnson",
+      "Alan S. Collins",
+      "Richard Taylor",
+      "M. Santosh",
+      "Nicholas E. Timms"
+    ],
+    "title": "Hot orogens and supercontinent amalgamation: A Gondwanan example from southern India",
+    "publicationDate": "2014-11-30",
+    "year": 2014,
+    "venue": "Gondwana Research",
+    "citations": 107,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "earthquake and tectonic studies",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "Curtin University",
+      "University of Aberdeen",
+      "University of Adelaide",
+      "China University of Geosciences (Beijing)"
     ]
   },
   {
@@ -86002,7 +86004,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-07-19",
     "year": 2017,
     "venue": "Precambrian Research",
-    "citations": 73,
+    "citations": 74,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -86458,6 +86460,39 @@ export const worksTable: WorkTableRecord[] = [
       "State Conservatory of Uzbekistan",
       "Interstate Commission for Water Coordination of Central Asia",
       "Academy of Sciences of the Republic of Tajikistan"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W2784067900",
+    "doi": "https://doi.org/10.1016/j.precamres.2017.12.030",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5015745455",
+      "A5065024034",
+      "A5033825059"
+    ],
+    "firstAuthorLastName": "McGee",
+    "allAuthors": [
+      "Ben McGee",
+      "Marly Babinski",
+      "Ricardo I.F. Trindade",
+      "Alan S. Collins"
+    ],
+    "title": "Tracing final Gondwana assembly: Age and provenance of key stratigraphic units in the southern Paraguay Belt, Brazil",
+    "publicationDate": "2018-01-10",
+    "year": 2018,
+    "venue": "Precambrian Research",
+    "citations": 37,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": [
+      "Universidade de São Paulo",
+      "University of Adelaide"
     ]
   },
   {
@@ -87765,7 +87800,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-05-21",
     "year": 2011,
     "venue": "Gondwana Research",
-    "citations": 65,
+    "citations": 66,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -89263,39 +89298,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Adelaide",
       "Department of State Development",
       "Curtin University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2784067900",
-    "doi": "https://doi.org/10.1016/j.precamres.2017.12.030",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5015745455",
-      "A5065024034",
-      "A5033825059"
-    ],
-    "firstAuthorLastName": "McGee",
-    "allAuthors": [
-      "Ben McGee",
-      "Marly Babinski",
-      "Ricardo I.F. Trindade",
-      "Alan S. Collins"
-    ],
-    "title": "Tracing final Gondwana assembly: Age and provenance of key stratigraphic units in the southern Paraguay Belt, Brazil",
-    "publicationDate": "2018-01-10",
-    "year": 2018,
-    "venue": "Precambrian Research",
-    "citations": 36,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": [
-      "Universidade de São Paulo",
-      "University of Adelaide"
     ]
   },
   {
@@ -113880,6 +113882,47 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4412083068",
+    "doi": "https://doi.org/10.1007/s10661-025-14348-0",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5020348989",
+      "A5075463735",
+      "A5042396632",
+      "A5064433182",
+      "A5013148267",
+      "A5045349847",
+      "A5057210692"
+    ],
+    "firstAuthorLastName": "Swetha",
+    "allAuthors": [
+      "Selvara Swetha",
+      "S. Veerasingam",
+      "Sankaran Rajendran",
+      "Hassan Hassan",
+      "Muhammad Zaffar Hashmi",
+      "Hamood Abdulla Alsaadi",
+      "Nelson Rangel-Buitrago",
+      "Fadhil Sadooni"
+    ],
+    "title": "Long-term trends in heavy metal contamination of marine sediments in the Arabian Gulf: A meta-analysis",
+    "publicationDate": "2025-07-08",
+    "year": 2025,
+    "venue": "Environmental Monitoring and Assessment",
+    "citations": 6,
+    "topics": [
+      "Heavy metals in environment",
+      "Arsenic contamination and mitigation",
+      "Water Quality and Pollution Assessment"
+    ],
+    "institutions": [
+      "Qatar University",
+      "University of Atlántico"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4406405554",
     "doi": "https://doi.org/10.1007/s10533-024-01204-5",
     "program": "",
@@ -113924,47 +113967,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Toronto",
       "The Scarborough Hospital",
       "University of Windsor"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4412083068",
-    "doi": "https://doi.org/10.1007/s10661-025-14348-0",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5020348989",
-      "A5075463735",
-      "A5042396632",
-      "A5064433182",
-      "A5013148267",
-      "A5045349847",
-      "A5057210692"
-    ],
-    "firstAuthorLastName": "Swetha",
-    "allAuthors": [
-      "Selvara Swetha",
-      "S. Veerasingam",
-      "Sankaran Rajendran",
-      "Hassan Hassan",
-      "Muhammad Zaffar Hashmi",
-      "Hamood Abdulla Alsaadi",
-      "Nelson Rangel-Buitrago",
-      "Fadhil Sadooni"
-    ],
-    "title": "Long-term trends in heavy metal contamination of marine sediments in the Arabian Gulf: A meta-analysis",
-    "publicationDate": "2025-07-08",
-    "year": 2025,
-    "venue": "Environmental Monitoring and Assessment",
-    "citations": 5,
-    "topics": [
-      "Heavy metals in environment",
-      "Arsenic contamination and mitigation",
-      "Water Quality and Pollution Assessment"
-    ],
-    "institutions": [
-      "Qatar University",
-      "University of Atlántico"
     ]
   },
   {
@@ -118527,7 +118529,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-01-10",
     "year": 2023,
     "venue": "Frontiers in Earth Science",
-    "citations": 26,
+    "citations": 27,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Rock Mechanics and Modeling",
@@ -120802,7 +120804,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-03-09",
     "year": 2023,
     "venue": "Journal of Energy Storage",
-    "citations": 42,
+    "citations": 43,
     "topics": [
       "Methane Hydrates and Related Phenomena",
       "Hydrocarbon exploration and reservoir analysis",
@@ -120938,7 +120940,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2024-09-01",
     "year": 2024,
     "venue": "Fuel",
-    "citations": 12,
+    "citations": 13,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Methane Hydrates and Related Phenomena",
@@ -121483,6 +121485,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4399169417",
+    "doi": "https://doi.org/10.1021/acsomega.4c01343",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5079903196",
+    "allAuthorOpenAlexIds": [
+      "A5079903196",
+      "A5093217596",
+      "A5008213975",
+      "A5082826691",
+      "A5074883327"
+    ],
+    "firstAuthorLastName": "Rafiq",
+    "allAuthors": [
+      "Jawad Rafiq",
+      "Israa S. Abu‐Mahfouz",
+      "Pantelis Soupios",
+      "John Humphrey",
+      "Bassam Tawabini"
+    ],
+    "title": "Hydrochemical Characterization, Geothermometry, and Origin of Ain Al-Harrah Hot Spring and Its Relationship to Al-Lith Geothermal System, Saudi Arabia",
+    "publicationDate": "2024-05-30",
+    "year": 2024,
+    "venue": "ACS Omega",
+    "citations": 5,
+    "topics": [
+      "Groundwater and Isotope Geochemistry",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Karst Systems and Hydrogeology"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4400874350",
     "doi": "https://doi.org/10.1007/s00531-024-02444-4",
     "program": "",
@@ -121582,40 +121618,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Abdullah University of Science and Technology"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4399169417",
-    "doi": "https://doi.org/10.1021/acsomega.4c01343",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5079903196",
-    "allAuthorOpenAlexIds": [
-      "A5079903196",
-      "A5093217596",
-      "A5008213975",
-      "A5082826691",
-      "A5074883327"
-    ],
-    "firstAuthorLastName": "Rafiq",
-    "allAuthors": [
-      "Jawad Rafiq",
-      "Israa S. Abu‐Mahfouz",
-      "Pantelis Soupios",
-      "John Humphrey",
-      "Bassam Tawabini"
-    ],
-    "title": "Hydrochemical Characterization, Geothermometry, and Origin of Ain Al-Harrah Hot Spring and Its Relationship to Al-Lith Geothermal System, Saudi Arabia",
-    "publicationDate": "2024-05-30",
-    "year": 2024,
-    "venue": "ACS Omega",
-    "citations": 4,
-    "topics": [
-      "Groundwater and Isotope Geochemistry",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Karst Systems and Hydrogeology"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
