@@ -1143,8 +1143,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4210484148.pdf",
@@ -2222,16 +2222,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4300000071525574,
-          "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -3458,16 +3458,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4300000071525574,
-          "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -4546,8 +4546,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -5644,8 +5644,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -6503,8 +6503,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -7264,8 +7264,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -8191,16 +8191,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -9493,8 +9493,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9963,7 +9963,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.78967777,
+        "value": 0.78131204,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10137,8 +10137,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -10163,14 +10163,353 @@
         "https://openalex.org/W4391913857",
         "https://openalex.org/W2358668433"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "Seismic": [
+          0,
+          92
+        ],
+        "data": [
+          1,
+          44
+        ],
+        "acquisition": [
+          2,
+          24,
+          45,
+          111,
+          140
+        ],
+        "is": [
+          3,
+          72,
+          89,
+          97
+        ],
+        "a": [
+          4,
+          76,
+          108
+        ],
+        "labor-intensive": [
+          5
+        ],
+        "process.": [
+          6
+        ],
+        "Leveraging": [
+          7
+        ],
+        "advances": [
+          8
+        ],
+        "in": [
+          9
+        ],
+        "robotics": [
+          10
+        ],
+        "and": [
+          11,
+          34,
+          64
+        ],
+        "automation": [
+          12
+        ],
+        "we": [
+          13
+        ],
+        "are": [
+          14,
+          36
+        ],
+        "able": [
+          15
+        ],
+        "to": [
+          16,
+          39,
+          60,
+          74,
+          106,
+          125
+        ],
+        "significantly": [
+          17
+        ],
+        "reduce": [
+          18
+        ],
+        "the": [
+          19,
+          62,
+          115,
+          122,
+          134,
+          138
+        ],
+        "environmental": [
+          20
+        ],
+        "footprint": [
+          21
+        ],
+        "of": [
+          22,
+          78,
+          133,
+          137
+        ],
+        "an": [
+          23,
+          41,
+          66,
+          83,
+          101
+        ],
+        "crew.": [
+          25
+        ],
+        "This": [
+          26,
+          70
+        ],
+        "paper": [
+          27
+        ],
+        "presents": [
+          28
+        ],
+        "technologies": [
+          29
+        ],
+        "that": [
+          30,
+          35,
+          117
+        ],
+        "have": [
+          31,
+          118
+        ],
+        "been": [
+          32,
+          119
+        ],
+        "developed": [
+          33
+        ],
+        "under": [
+          37
+        ],
+        "development": [
+          38
+        ],
+        "enable": [
+          40,
+          107
+        ],
+        "autonomous": [
+          42,
+          102,
+          110,
+          139
+        ],
+        "seismic": [
+          43,
+          85,
+          103
+        ],
+        "system": [
+          46,
+          87
+        ],
+        "for": [
+          47
+        ],
+        "land": [
+          48
+        ],
+        "exploration.": [
+          49
+        ],
+        "Saudi": [
+          50
+        ],
+        "Aramco’s": [
+          51
+        ],
+        "Geophysical": [
+          52
+        ],
+        "Robot": [
+          53
+        ],
+        "(SAGR)": [
+          54
+        ],
+        "utilizes": [
+          55
+        ],
+        "unmanned": [
+          56
+        ],
+        "aerial": [
+          57
+        ],
+        "vehicles": [
+          58
+        ],
+        "(UAVs)": [
+          59
+        ],
+        "scan": [
+          61
+        ],
+        "surface": [
+          63
+        ],
+        "provide": [
+          65
+        ],
+        "accurate": [
+          67
+        ],
+        "scouting": [
+          68
+        ],
+        "report.": [
+          69
+        ],
+        "information": [
+          71
+        ],
+        "used": [
+          73
+        ],
+        "deploy": [
+          75
+        ],
+        "swarm": [
+          77
+        ],
+        "custom": [
+          79
+        ],
+        "UAVs": [
+          80
+        ],
+        "equipped": [
+          81
+        ],
+        "with": [
+          82
+        ],
+        "onboard": [
+          84
+        ],
+        "sensing": [
+          86
+        ],
+        "which": [
+          88
+        ],
+        "called": [
+          90
+        ],
+        "Autonomous": [
+          91
+        ],
+        "Acquisition": [
+          93
+        ],
+        "Device": [
+          94
+        ],
+        "(ASAD).": [
+          95
+        ],
+        "It": [
+          96
+        ],
+        "also": [
+          98
+        ],
+        "supported": [
+          99
+        ],
+        "by": [
+          100
+        ],
+        "source": [
+          104
+        ],
+        "vessel": [
+          105
+        ],
+        "fully": [
+          109
+        ],
+        "system.": [
+          112,
+          141
+        ],
+        "We": [
+          113
+        ],
+        "present": [
+          114
+        ],
+        "strides": [
+          116
+        ],
+        "made": [
+          120
+        ],
+        "over": [
+          121
+        ],
+        "past": [
+          123
+        ],
+        "years": [
+          124
+        ],
+        "support": [
+          126
+        ],
+        "this": [
+          127
+        ],
+        "vision": [
+          128
+        ],
+        "alongside": [
+          129
+        ],
+        "some": [
+          130
+        ],
+        "field": [
+          131
+        ],
+        "results": [
+          132
+        ],
+        "various": [
+          135
+        ],
+        "components": [
+          136
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2025,
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-12-27T23:08:20.325037",
+      "updated_date": "2026-02-20T08:17:22.645390",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10532,8 +10871,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -11495,16 +11834,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4300000071525574,
-          "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12420,16 +12759,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6600000262260437,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12990,8 +13329,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -13867,8 +14206,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -14864,16 +15203,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7200000286102295,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15821,16 +16160,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8199999928474426,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -16988,8 +17327,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17369,16 +17708,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8100000023841858,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17985,8 +18324,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18643,8 +18982,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19191,16 +19530,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.47999998927116394,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20290,8 +20629,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -20890,7 +21229,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.29069877,
+        "value": 0.27569161,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21044,16 +21383,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6399999856948853,
-          "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21070,9 +21409,456 @@
         "https://openalex.org/W4312192474",
         "https://openalex.org/W4283697347"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "10": [
+          97
+        ],
+        "Summary": [
+          0
+        ],
+        "This": [
+          1,
+          161
+        ],
+        "abstract": [
+          2
+        ],
+        "presents": [
+          3
+        ],
+        "a": [
+          4,
+          21,
+          60
+        ],
+        "deep": [
+          5
+        ],
+        "learning": [
+          6
+        ],
+        "workflow": [
+          7,
+          162
+        ],
+        "for": [
+          8,
+          88,
+          138,
+          142
+        ],
+        "multichannel": [
+          9
+        ],
+        "synthetic": [
+          10
+        ],
+        "log": [
+          11,
+          86
+        ],
+        "prediction": [
+          12
+        ],
+        "using": [
+          13,
+          104
+        ],
+        "surface": [
+          14
+        ],
+        "drilling": [
+          15
+        ],
+        "data": [
+          16,
+          123
+        ],
+        "and": [
+          17,
+          44,
+          49,
+          63,
+          73,
+          140,
+          150,
+          158,
+          167
+        ],
+        "gamma-ray": [
+          18
+        ],
+        "logs": [
+          19,
+          47
+        ],
+        "in": [
+          20,
+          117,
+          171
+        ],
+        "complex": [
+          22
+        ],
+        "carbonate": [
+          23
+        ],
+        "reservoir.": [
+          24
+        ],
+        "A": [
+          25,
+          51
+        ],
+        "two-stage": [
+          26
+        ],
+        "architecture": [
+          27,
+          66
+        ],
+        "was": [
+          28,
+          67,
+          82,
+          94,
+          124
+        ],
+        "developed:": [
+          29
+        ],
+        "an": [
+          30,
+          78
+        ],
+        "initial": [
+          31
+        ],
+        "ensemble": [
+          32,
+          114
+        ],
+        "of": [
+          33,
+          42,
+          136,
+          148
+        ],
+        "fully": [
+          34
+        ],
+        "connected": [
+          35
+        ],
+        "neural": [
+          36
+        ],
+        "networks": [
+          37
+        ],
+        "(FCNN)": [
+          38
+        ],
+        "generated": [
+          39
+        ],
+        "baseline": [
+          40
+        ],
+        "predictions": [
+          41
+        ],
+        "compressional": [
+          43
+        ],
+        "shear": [
+          45
+        ],
+        "sonic": [
+          46
+        ],
+        "(DTCO": [
+          48
+        ],
+        "DTSM).": [
+          50
+        ],
+        "second-stage": [
+          52
+        ],
+        "Bidirectional": [
+          53
+        ],
+        "Long": [
+          54
+        ],
+        "Short-Term": [
+          55
+        ],
+        "Memory": [
+          56
+        ],
+        "(BiLSTM)": [
+          57
+        ],
+        "network": [
+          58
+        ],
+        "with": [
+          59,
+          144
+        ],
+        "Conv1D": [
+          61
+        ],
+        "encoder": [
+          62
+        ],
+        "sequence-to-sequence": [
+          64
+        ],
+        "(seq2seq)": [
+          65
+        ],
+        "applied": [
+          68
+        ],
+        "to": [
+          69,
+          84
+        ],
+        "enhance": [
+          70
+        ],
+        "temporal": [
+          71
+        ],
+        "consistency": [
+          72
+        ],
+        "fill": [
+          74
+        ],
+        "measurement": [
+          75
+        ],
+        "gaps.": [
+          76
+        ],
+        "Additionally,": [
+          77
+        ],
+        "ahead-of-the-bit": [
+          79
+        ],
+        "LSTM": [
+          80
+        ],
+        "model": [
+          81,
+          133,
+          153
+        ],
+        "trained": [
+          83
+        ],
+        "forecast": [
+          85
+        ],
+        "trends": [
+          87
+        ],
+        "real-time": [
+          89,
+          164
+        ],
+        "geosteering": [
+          90
+        ],
+        "support.": [
+          91
+        ],
+        "The": [
+          92,
+          152
+        ],
+        "approach": [
+          93
+        ],
+        "validated": [
+          95
+        ],
+        "on": [
+          96
+        ],
+        "wells": [
+          98
+        ],
+        "from": [
+          99
+        ],
+        "two": [
+          100
+        ],
+        "adjacent": [
+          101
+        ],
+        "development": [
+          102
+        ],
+        "zones": [
+          103
+        ],
+        "leave-one-out": [
+          105
+        ],
+        "cross-validation.": [
+          106
+        ],
+        "Results": [
+          107
+        ],
+        "showed": [
+          108
+        ],
+        "significant": [
+          109
+        ],
+        "performance": [
+          110
+        ],
+        "improvement": [
+          111
+        ],
+        "over": [
+          112
+        ],
+        "simpler": [
+          113
+        ],
+        "models,": [
+          115
+        ],
+        "particularly": [
+          116
+        ],
+        "vertical": [
+          118
+        ],
+        "build-up": [
+          119
+        ],
+        "sections": [
+          120
+        ],
+        "where": [
+          121
+        ],
+        "LWD": [
+          122
+        ],
+        "sparse": [
+          125
+        ],
+        "or": [
+          126
+        ],
+        "missing.": [
+          127
+        ],
+        "In": [
+          128
+        ],
+        "blind": [
+          129
+        ],
+        "test": [
+          130
+        ],
+        "wells,": [
+          131
+        ],
+        "the": [
+          132
+        ],
+        "achieved": [
+          134
+        ],
+        "RMSEs": [
+          135
+        ],
+        "6.88%": [
+          137
+        ],
+        "DTCO": [
+          139
+        ],
+        "8.24%": [
+          141
+        ],
+        "DTSM": [
+          143
+        ],
+        "corresponding": [
+          145
+        ],
+        "R2": [
+          146
+        ],
+        "scores": [
+          147
+        ],
+        "0.63": [
+          149
+        ],
+        "0.73.": [
+          151
+        ],
+        "successfully": [
+          154
+        ],
+        "captured": [
+          155
+        ],
+        "both": [
+          156
+        ],
+        "macro-trends": [
+          157
+        ],
+        "fine-scale": [
+          159
+        ],
+        "variations.": [
+          160
+        ],
+        "enables": [
+          163
+        ],
+        "subsurface": [
+          165
+        ],
+        "characterization": [
+          166
+        ],
+        "supports": [
+          168
+        ],
+        "operational": [
+          169
+        ],
+        "decision-making": [
+          170
+        ],
+        "unconventional": [
+          172
+        ],
+        "environments.": [
+          173
+        ]
+      },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-20T08:17:22.645390",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21239,7 +22025,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23718867,
+        "value": 0.22138173,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21350,16 +22136,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.6299999952316284,
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21376,9 +22162,452 @@
         "https://openalex.org/W4409278740",
         "https://openalex.org/W2898370298"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "22": [
+          129
+        ],
+        "471": [
+          88
+        ],
+        "479": [
+          78
+        ],
+        "Summary": [
+          0
+        ],
+        "Determining": [
+          1
+        ],
+        "accurate": [
+          2
+        ],
+        "near-surface": [
+          3,
+          28,
+          60,
+          149
+        ],
+        "velocity": [
+          4,
+          29,
+          61
+        ],
+        "models": [
+          5
+        ],
+        "in": [
+          6,
+          38,
+          50,
+          80
+        ],
+        "exploratory": [
+          7,
+          52
+        ],
+        "areas": [
+          8
+        ],
+        "is": [
+          9
+        ],
+        "quite": [
+          10
+        ],
+        "challenging.": [
+          11
+        ],
+        "It": [
+          12
+        ],
+        "often": [
+          13
+        ],
+        "requires": [
+          14
+        ],
+        "on-demand": [
+          15
+        ],
+        "high-resolution": [
+          16
+        ],
+        "seismic": [
+          17,
+          19,
+          85
+        ],
+        "refraction": [
+          18
+        ],
+        "experiment": [
+          20
+        ],
+        "and/or": [
+          21
+        ],
+        "drilling": [
+          22
+        ],
+        "and": [
+          23,
+          44,
+          58,
+          162
+        ],
+        "logging": [
+          24
+        ],
+        "numerous": [
+          25
+        ],
+        "upholes,": [
+          26
+        ],
+        "for": [
+          27
+        ],
+        "model": [
+          30,
+          153
+        ],
+        "building.": [
+          31
+        ],
+        "We": [
+          32,
+          114,
+          138
+        ],
+        "capitalised": [
+          33
+        ],
+        "on": [
+          34
+        ],
+        "the": [
+          35,
+          70,
+          84,
+          93,
+          97,
+          135
+        ],
+        "recent": [
+          36
+        ],
+        "advancements": [
+          37
+        ],
+        "Distributed": [
+          39
+        ],
+        "Acoustic": [
+          40
+        ],
+        "Sensing": [
+          41
+        ],
+        "(DAS)": [
+          42
+        ],
+        "technology": [
+          43
+        ],
+        "used": [
+          45,
+          139
+        ],
+        "a": [
+          46,
+          56,
+          74,
+          100,
+          116,
+          140,
+          146
+        ],
+        "pre-drilled": [
+          47
+        ],
+        "water-supply": [
+          48,
+          71,
+          136
+        ],
+        "well": [
+          49,
+          72
+        ],
+        "an": [
+          51
+        ],
+        "area": [
+          53
+        ],
+        "to": [
+          54,
+          73,
+          82,
+          110,
+          170
+        ],
+        "reconstruct": [
+          55
+        ],
+        "robust": [
+          57,
+          147
+        ],
+        "cost-effective": [
+          59
+        ],
+        "model.": [
+          62,
+          150
+        ],
+        "A": [
+          63
+        ],
+        "disposable": [
+          64
+        ],
+        "fibre-optic": [
+          65
+        ],
+        "cable": [
+          66
+        ],
+        "was": [
+          67,
+          154
+        ],
+        "unspooled": [
+          68
+        ],
+        "inside": [
+          69
+        ],
+        "depth": [
+          75
+        ],
+        "of": [
+          76,
+          99,
+          119
+        ],
+        "approximately": [
+          77,
+          158
+        ],
+        "meter": [
+          79
+        ],
+        "order": [
+          81
+        ],
+        "record": [
+          83
+        ],
+        "wavefield": [
+          86
+        ],
+        "along": [
+          87,
+          92
+        ],
+        "densely": [
+          89
+        ],
+        "spaced": [
+          90
+        ],
+        "points": [
+          91
+        ],
+        "fibre.": [
+          94
+        ],
+        "This": [
+          95
+        ],
+        "enabled": [
+          96
+        ],
+        "acquisition": [
+          98
+        ],
+        "DAS": [
+          101
+        ],
+        "Vertical-Seismic-Profiling": [
+          102
+        ],
+        "(VSP)": [
+          103
+        ],
+        "survey": [
+          104
+        ],
+        "that": [
+          105,
+          168
+        ],
+        "delivers": [
+          106
+        ],
+        "superior": [
+          107
+        ],
+        "sampling": [
+          108
+        ],
+        "compared": [
+          109
+        ],
+        "conventional": [
+          111
+        ],
+        "uphole": [
+          112
+        ],
+        "surveys.": [
+          113
+        ],
+        "extracted": [
+          115
+        ],
+        "large": [
+          117
+        ],
+        "ensemble": [
+          118
+        ],
+        "first-break": [
+          120
+        ],
+        "traveltimes": [
+          121
+        ],
+        "from": [
+          122,
+          156
+        ],
+        "all": [
+          123,
+          126
+        ],
+        "gathers": [
+          124
+        ],
+        "using": [
+          125
+        ],
+        "sweeps": [
+          127
+        ],
+        "across": [
+          128
+        ],
+        "shot": [
+          130
+        ],
+        "point": [
+          131
+        ],
+        "positions": [
+          132
+        ],
+        "centred": [
+          133
+        ],
+        "around": [
+          134
+        ],
+        "well.": [
+          137
+        ],
+        "least-squares": [
+          141
+        ],
+        "tomographic": [
+          142
+        ],
+        "inversion,": [
+          143
+        ],
+        "which": [
+          144
+        ],
+        "yields": [
+          145
+        ],
+        "shallow": [
+          148
+        ],
+        "The": [
+          151
+        ],
+        "final": [
+          152
+        ],
+        "constructed": [
+          155
+        ],
+        "inverting": [
+          157
+        ],
+        "25,700": [
+          159
+        ],
+        "traveltime": [
+          160
+        ],
+        "picks,": [
+          161
+        ],
+        "it": [
+          163
+        ],
+        "revealed": [
+          164
+        ],
+        "key": [
+          165
+        ],
+        "lithological": [
+          166
+        ],
+        "horizons": [
+          167
+        ],
+        "correspond": [
+          169
+        ],
+        "abrupt": [
+          171
+        ],
+        "rate-of-penetration": [
+          172
+        ],
+        "(ROP)": [
+          173
+        ],
+        "sudden": [
+          174
+        ],
+        "changes": [
+          175
+        ],
+        "while": [
+          176
+        ],
+        "drilling.": [
+          177
+        ]
+      },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-20T08:17:22.645390",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21834,8 +23063,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -22649,8 +23878,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
