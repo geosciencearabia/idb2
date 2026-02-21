@@ -12,7 +12,7 @@
       "Yves-Michel le Nindre"
     ],
     "works_count": 41,
-    "cited_by_count": 958,
+    "cited_by_count": 959,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 16,
@@ -176,7 +176,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001022,
+        "value": 0.0001021,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -303,7 +303,7 @@
         "year": 2005,
         "works_count": 5,
         "oa_works_count": 2,
-        "cited_by_count": 222
+        "cited_by_count": 223
       },
       {
         "year": 2006,
@@ -400,7 +400,7 @@
     },
     "block_key": "y le nindre",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054427253",
-    "updated_date": "2026-02-19T12:19:50",
+    "updated_date": "2026-02-20T12:20:28",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1355,9 +1355,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Partnerships for the goals",
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/17"
+          "id": "https://metadata.un.org/sdg/17",
+          "display_name": "Partnerships for the goals"
         }
       ],
       "awards": [],
@@ -1656,6 +1656,1839 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2287111010",
+      "doi": "https://doi.org/10.2113/geoarabia100477",
+      "title": "The Permian-Triassic Khuff Formation of central Saudi Arabia",
+      "display_name": "The Permian-Triassic Khuff Formation of central Saudi Arabia",
+      "publication_year": 2005,
+      "publication_date": "2005-10-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2287111010",
+        "doi": "https://doi.org/10.2113/geoarabia100477",
+        "mag": "2287111010"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/geoarabia100477",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia100477",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/10/4/77/5442556/vaslet.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/10/4/77/5442556/vaslet.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5038965329",
+            "display_name": "Denis Vaslet",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Denis Vaslet",
+          "raw_affiliation_strings": [
+            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054427253",
+            "display_name": "Yves-Michel Le Nindre",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yves-Michel Le Nindre",
+          "raw_affiliation_strings": [
+            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5022478113",
+            "display_name": "Daniel Vachard",
+            "orcid": "https://orcid.org/0000-0003-1680-3767"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210148734",
+              "display_name": "Unité Évolution, Écologie et Paléontologie",
+              "ror": "https://ror.org/04y91dy23",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I4210137101",
+                "https://openalex.org/I4210139971",
+                "https://openalex.org/I4210148734"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Daniel Vachard",
+          "raw_affiliation_strings": [
+            "Laboratoire de Paléontologie et Paléogéographie du Paléozoïque (UMR 8014 du CNRS UFR des Sciences de la Terre 59655 VILLENEUVE D'ASCQ Cedex - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Paléontologie et Paléogéographie du Paléozoïque (UMR 8014 du CNRS UFR des Sciences de la Terre 59655 VILLENEUVE D'ASCQ Cedex - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210148734",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5019328510",
+            "display_name": "Jean Broutin",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Jean Broutin",
+          "raw_affiliation_strings": [
+            "Paléobiodiversité et paléoenvironnements (Muséum national d'Histoire naturelle - Département Histoire de la Terre - 8 rue Buffon - CP 38 - 75005 Paris - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Paléobiodiversité et paléoenvironnements (Muséum national d'Histoire naturelle - Département Histoire de la Terre - 8 rue Buffon - CP 38 - 75005 Paris - France)",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066243148",
+            "display_name": "Sylvie Crasquin",
+            "orcid": "https://orcid.org/0000-0003-4358-3827"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Sylvie Crasquin-Soleau",
+          "raw_affiliation_strings": [
+            "Paléobiodiversité et paléoenvironnements (Muséum national d'Histoire naturelle - Département Histoire de la Terre - 8 rue Buffon - CP 38 - 75005 Paris - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Paléobiodiversité et paléoenvironnements (Muséum national d'Histoire naturelle - Département Histoire de la Terre - 8 rue Buffon - CP 38 - 75005 Paris - France)",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109129765",
+            "display_name": "Martine Berthelin",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Martine Berthelin",
+          "raw_affiliation_strings": [
+            "Laboratoire de Paléobotanique (75005 PARIS - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Paléobotanique (75005 PARIS - France)",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021604188",
+            "display_name": "Jérémie Gaillot",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210148734",
+              "display_name": "Unité Évolution, Écologie et Paléontologie",
+              "ror": "https://ror.org/04y91dy23",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I2279609970",
+                "https://openalex.org/I4210137101",
+                "https://openalex.org/I4210139971",
+                "https://openalex.org/I4210148734"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I1294671590",
+              "display_name": "Centre National de la Recherche Scientifique",
+              "ror": "https://ror.org/02feahw73",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jérémie Gaillot",
+          "raw_affiliation_strings": [
+            "Laboratoire de Paléontologie et Paléogéographie du Paléozoïque (UMR 8014 du CNRS UFR des Sciences de la Terre 59655 VILLENEUVE D'ASCQ Cedex - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire de Paléontologie et Paléogéographie du Paléozoïque (UMR 8014 du CNRS UFR des Sciences de la Terre 59655 VILLENEUVE D'ASCQ Cedex - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210148734",
+                "https://openalex.org/I1294671590"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5055304725",
+            "display_name": "Mohammed Halawani",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Halawani",
+          "raw_affiliation_strings": [
+            "Saudi Geological Survey (Morocco)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey (Morocco)",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5081811780",
+            "display_name": "Moujahed Al-Husseini",
+            "orcid": "https://orcid.org/0009-0002-1087-5882"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Moujahed Al-Husseini",
+          "raw_affiliation_strings": [],
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 9,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5038965329"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210158893"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 15.06249993,
+      "has_fulltext": false,
+      "cited_by_count": 88,
+      "citation_normalized_percentile": {
+        "value": 0.98874146,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "10",
+        "issue": "4",
+        "first_page": "77",
+        "last_page": "134"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T13177",
+        "display_name": "Geological and Geophysical Studies",
+        "score": 0.994700014591217,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1907",
+          "display_name": "Geology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T13177",
+          "display_name": "Geological and Geophysical Studies",
+          "score": 0.994700014591217,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9923999905586243,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10385",
+          "display_name": "Plant Diversity and Evolution",
+          "score": 0.9865999817848206,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1105",
+            "display_name": "Ecology, Evolution, Behavior and Systematics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/11",
+            "display_name": "Agricultural and Biological Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/1",
+            "display_name": "Life Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/permian",
+          "display_name": "Permian",
+          "score": 0.9202067852020264
+        },
+        {
+          "id": "https://openalex.org/keywords/unconformity",
+          "display_name": "Unconformity",
+          "score": 0.8696171045303345
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8297706246376038
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.7883598804473877
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.7141867280006409
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-shale",
+          "display_name": "Oil shale",
+          "score": 0.48915937542915344
+        },
+        {
+          "id": "https://openalex.org/keywords/early-triassic",
+          "display_name": "Early Triassic",
+          "score": 0.43879154324531555
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.2808551788330078
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.9202067852020264
+        },
+        {
+          "id": "https://openalex.org/C191735495",
+          "wikidata": "https://www.wikidata.org/wiki/Q876798",
+          "display_name": "Unconformity",
+          "level": 3,
+          "score": 0.8696171045303345
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8297706246376038
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7883598804473877
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.7141867280006409
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.48915937542915344
+        },
+        {
+          "id": "https://openalex.org/C2781229967",
+          "wikidata": "https://www.wikidata.org/wiki/Q1075885",
+          "display_name": "Early Triassic",
+          "level": 4,
+          "score": 0.43879154324531555
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.2808551788330078
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/geoarabia100477",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2113/geoarabia100477",
+          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/10/4/77/5442556/vaslet.pdf",
+          "source": {
+            "id": "https://openalex.org/S189311251",
+            "display_name": "GeoArabia",
+            "issn_l": "1025-6059",
+            "issn": [
+              "1025-6059"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "GeoArabia",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2113/geoarabia100477",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia100477",
+        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/10/4/77/5442556/vaslet.pdf",
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2287111010.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2287111010.grobid-xml"
+      },
+      "referenced_works_count": 66,
+      "referenced_works": [
+        "https://openalex.org/W57810535",
+        "https://openalex.org/W62814192",
+        "https://openalex.org/W88175743",
+        "https://openalex.org/W159079554",
+        "https://openalex.org/W188107018",
+        "https://openalex.org/W195523536",
+        "https://openalex.org/W201823505",
+        "https://openalex.org/W563420437",
+        "https://openalex.org/W577755460",
+        "https://openalex.org/W578079095",
+        "https://openalex.org/W1488703263",
+        "https://openalex.org/W1525628619",
+        "https://openalex.org/W1580174060",
+        "https://openalex.org/W1630322587",
+        "https://openalex.org/W1789645206",
+        "https://openalex.org/W1970818951",
+        "https://openalex.org/W1986107162",
+        "https://openalex.org/W1988398424",
+        "https://openalex.org/W2006751098",
+        "https://openalex.org/W2041622963",
+        "https://openalex.org/W2053154125",
+        "https://openalex.org/W2053493272",
+        "https://openalex.org/W2054921342",
+        "https://openalex.org/W2069467375",
+        "https://openalex.org/W2071064541",
+        "https://openalex.org/W2085188216",
+        "https://openalex.org/W2127288366",
+        "https://openalex.org/W2139711367",
+        "https://openalex.org/W2166039370",
+        "https://openalex.org/W2188233270",
+        "https://openalex.org/W2191182709",
+        "https://openalex.org/W2196620403",
+        "https://openalex.org/W2257536778",
+        "https://openalex.org/W2313285032",
+        "https://openalex.org/W2327228832",
+        "https://openalex.org/W2344742640",
+        "https://openalex.org/W2417828621",
+        "https://openalex.org/W2473132188",
+        "https://openalex.org/W2910362007",
+        "https://openalex.org/W2944320642",
+        "https://openalex.org/W2954113145",
+        "https://openalex.org/W2968599283",
+        "https://openalex.org/W2969747300",
+        "https://openalex.org/W2979942938",
+        "https://openalex.org/W2986102651",
+        "https://openalex.org/W2986225371",
+        "https://openalex.org/W2996108273",
+        "https://openalex.org/W3127056474",
+        "https://openalex.org/W3127250646",
+        "https://openalex.org/W3157716230",
+        "https://openalex.org/W3174426671",
+        "https://openalex.org/W3200669176",
+        "https://openalex.org/W4232328127",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W6602627032",
+        "https://openalex.org/W6608040782",
+        "https://openalex.org/W6608227967",
+        "https://openalex.org/W6616703885",
+        "https://openalex.org/W6631502831",
+        "https://openalex.org/W6668300143",
+        "https://openalex.org/W6678618728",
+        "https://openalex.org/W6692110163",
+        "https://openalex.org/W6720747304",
+        "https://openalex.org/W6794449952",
+        "https://openalex.org/W6884882557",
+        "https://openalex.org/W7036357283"
+      ],
+      "related_works": [
+        "https://openalex.org/W1993242347",
+        "https://openalex.org/W2049316585",
+        "https://openalex.org/W2014665347",
+        "https://openalex.org/W794666598",
+        "https://openalex.org/W2010617273",
+        "https://openalex.org/W4301344323",
+        "https://openalex.org/W2150160502",
+        "https://openalex.org/W2148222437",
+        "https://openalex.org/W2157793915",
+        "https://openalex.org/W3028753483"
+      ],
+      "abstract_inverted_index": {
+        "ABSTRACT": [
+          0
+        ],
+        "The": [
+          1,
+          54,
+          85,
+          109,
+          138,
+          160,
+          205,
+          250,
+          272,
+          306,
+          323,
+          350,
+          370,
+          395,
+          436,
+          459,
+          471,
+          494,
+          510
+        ],
+        "Permian-Triassic": [
+          2
+        ],
+        "Khuff": [
+          3,
+          47,
+          58,
+          273,
+          536
+        ],
+        "Formation": [
+          4,
+          59
+        ],
+        "crops": [
+          5
+        ],
+        "out": [
+          6
+        ],
+        "in": [
+          7,
+          18,
+          27,
+          188,
+          228,
+          275,
+          344,
+          358,
+          375
+        ],
+        "central": [
+          8,
+          276
+        ],
+        "Saudi": [
+          9,
+          277,
+          348
+        ],
+        "Arabia": [
+          10
+        ],
+        "along": [
+          11
+        ],
+        "a": [
+          12,
+          63,
+          297,
+          478
+        ],
+        "N-S": [
+          13
+        ],
+        "belt,": [
+          14
+        ],
+        "some": [
+          15
+        ],
+        "1,200": [
+          16
+        ],
+        "km": [
+          17
+        ],
+        "length.": [
+          19
+        ],
+        "It": [
+          20
+        ],
+        "is": [
+          21,
+          60,
+          74,
+          89,
+          112,
+          141,
+          163,
+          209,
+          254,
+          373,
+          384,
+          439,
+          475,
+          497
+        ],
+        "171.4": [
+          22
+        ],
+        "m": [
+          23
+        ],
+        "(562.2": [
+          24
+        ],
+        "ft)": [
+          25
+        ],
+        "thick": [
+          26
+        ],
+        "the": [
+          28,
+          46,
+          57,
+          69,
+          72,
+          77,
+          81,
+          99,
+          102,
+          176,
+          179,
+          185,
+          189,
+          193,
+          200,
+          218,
+          229,
+          233,
+          236,
+          246,
+          264,
+          267,
+          303,
+          316,
+          329,
+          335,
+          338,
+          345,
+          359,
+          366,
+          376,
+          380,
+          387,
+          392,
+          403,
+          409,
+          422,
+          429,
+          433,
+          442,
+          445,
+          467,
+          485,
+          489,
+          515,
+          521,
+          528,
+          535,
+          541,
+          549
+        ],
+        "type": [
+          29
+        ],
+        "section": [
+          30
+        ],
+        "and": [
+          31,
+          52,
+          68,
+          106,
+          134,
+          156,
+          172,
+          175,
+          182,
+          225,
+          235,
+          242,
+          292,
+          319,
+          333,
+          355,
+          383,
+          419,
+          457,
+          507,
+          538
+        ],
+        "divided": [
+          32
+        ],
+        "into": [
+          33
+        ],
+        "five": [
+          34
+        ],
+        "members;": [
+          35
+        ],
+        "from": [
+          36
+        ],
+        "oldest": [
+          37,
+          307
+        ],
+        "to": [
+          38,
+          256,
+          328,
+          365,
+          405,
+          425,
+          466,
+          480,
+          524,
+          545
+        ],
+        "youngest:": [
+          39
+        ],
+        "Ash": [
+          40,
+          86,
+          317,
+          360
+        ],
+        "Shiqqah": [
+          41,
+          87,
+          318,
+          361
+        ],
+        "(formerly": [
+          42
+        ],
+        "Unayzah": [
+          43
+        ],
+        "member": [
+          44
+        ],
+        "of": [
+          45,
+          56,
+          71,
+          101,
+          124,
+          178,
+          192,
+          220,
+          223,
+          232,
+          266,
+          281,
+          315,
+          337,
+          347,
+          379,
+          391,
+          408,
+          432,
+          444,
+          491,
+          527,
+          534,
+          548
+        ],
+        "Formation),": [
+          48
+        ],
+        "Huqayl,": [
+          49
+        ],
+        "Duhaysan,": [
+          50
+        ],
+        "Midhnab": [
+          51,
+          194,
+          203,
+          434,
+          446
+        ],
+        "Khartam.": [
+          53
+        ],
+        "base": [
+          55,
+          443
+        ],
+        "recognised": [
+          61
+        ],
+        "as": [
+          62,
+          92,
+          115,
+          143,
+          165,
+          212
+        ],
+        "regional": [
+          64,
+          283
+        ],
+        "unconformity": [
+          65
+        ],
+        "(Pre-Khuff": [
+          66
+        ],
+        "Unconformity),": [
+          67
+        ],
+        "top": [
+          70
+        ],
+        "formation": [
+          73
+        ],
+        "defined": [
+          75
+        ],
+        "by": [
+          76,
+          128,
+          386,
+          477,
+          499
+        ],
+        "conformable": [
+          78
+        ],
+        "contact": [
+          79
+        ],
+        "with": [
+          80,
+          302,
+          402,
+          421,
+          520,
+          540
+        ],
+        "overlying": [
+          82,
+          320
+        ],
+        "Sudair": [
+          83,
+          516,
+          552
+        ],
+        "Shale.": [
+          84,
+          553
+        ],
+        "Member": [
+          88,
+          111,
+          140,
+          162,
+          208,
+          253,
+          362,
+          533
+        ],
+        "tentatively": [
+          90,
+          113
+        ],
+        "dated": [
+          91,
+          114,
+          142,
+          164,
+          211
+        ],
+        "?Middle": [
+          93
+        ],
+        "Permian": [
+          94,
+          117,
+          145,
+          202,
+          214,
+          340,
+          461,
+          504
+        ],
+        "?Capitanian": [
+          95
+        ],
+        "(?Midian)": [
+          96
+        ],
+        "based": [
+          97,
+          120,
+          147,
+          168,
+          216,
+          262
+        ],
+        "on": [
+          98,
+          121,
+          148,
+          169,
+          217,
+          263
+        ],
+        "presence": [
+          100,
+          219
+        ],
+        "fusulinids": [
+          103
+        ],
+        "Monodiexodina": [
+          104
+        ],
+        "kattaensis": [
+          105
+        ],
+        "Reichelina": [
+          107
+        ],
+        "sp.": [
+          108,
+          171,
+          244
+        ],
+        "Huqayl": [
+          110,
+          321,
+          381,
+          393
+        ],
+        "?Late": [
+          116
+        ],
+        "?Wuchiapingian": [
+          118
+        ],
+        "(?Dzhulfian)": [
+          119
+        ],
+        "an": [
+          122,
+          257,
+          413,
+          451
+        ],
+        "assemblage": [
+          123
+        ],
+        "smaller": [
+          125
+        ],
+        "foraminifers": [
+          126
+        ],
+        "dominated": [
+          127
+        ],
+        "Pseudomidiella": [
+          129
+        ],
+        "cf.": [
+          130,
+          152,
+          158
+        ],
+        "labensis,": [
+          131
+        ],
+        "Earlandia?": [
+          132
+        ],
+        "spp.": [
+          133,
+          241
+        ],
+        "Neodiscus": [
+          135
+        ],
+        "aff.": [
+          136
+        ],
+        "qinglongensis.": [
+          137
+        ],
+        "Duhaysan": [
+          139,
+          410
+        ],
+        "Late": [
+          144,
+          201
+        ],
+        "(Wuchiapingian-Changhsingian)": [
+          146
+        ],
+        "Hemigordius": [
+          149
+        ],
+        "baoqingensis,": [
+          150
+        ],
+        "Graecodiscus": [
+          151
+        ],
+        "kotlyarae,": [
+          153
+        ],
+        "“Dentalina”": [
+          154
+        ],
+        "hoi,": [
+          155
+        ],
+        "Colaniella": [
+          157
+        ],
+        "minuta.": [
+          159
+        ],
+        "sMidhnab": [
+          161
+        ],
+        "Changhsingian": [
+          166
+        ],
+        "(Dorashamian)": [
+          167,
+          215
+        ],
+        "Paradagmarita": [
+          170,
+          224
+        ],
+        "“Glomospirella": [
+          173
+        ],
+        "spirillinoides”": [
+          174
+        ],
+        "disappearance": [
+          177
+        ],
+        "genera": [
+          180
+        ],
+        "Nankinella": [
+          181
+        ],
+        "Globivalvulina.": [
+          183
+        ],
+        "Within": [
+          184
+        ],
+        "continental": [
+          186,
+          426,
+          486
+        ],
+        "facies": [
+          187,
+          198
+        ],
+        "upper": [
+          190,
+          430
+        ],
+        "part": [
+          191,
+          378,
+          431
+        ],
+        "Member,": [
+          195,
+          382,
+          411,
+          447
+        ],
+        "incised": [
+          196
+        ],
+        "channels": [
+          197
+        ],
+        "yielded": [
+          199,
+          450
+        ],
+        "Flora.": [
+          204
+        ],
+        "Lower": [
+          206,
+          247,
+          468
+        ],
+        "Khartam": [
+          207,
+          248,
+          252,
+          469,
+          532
+        ],
+        "also": [
+          210
+        ],
+        "latest": [
+          213
+        ],
+        "several": [
+          221
+        ],
+        "species": [
+          222
+        ],
+        "“Nodosaria”": [
+          226
+        ],
+        "dzhulfensis": [
+          227
+        ],
+        "lowest": [
+          230
+        ],
+        "beds": [
+          231
+        ],
+        "member,": [
+          234
+        ],
+        "ostracods": [
+          237
+        ],
+        "Paraparchites": [
+          238
+        ],
+        "spp.,": [
+          239
+        ],
+        "Knoxiella": [
+          240
+        ],
+        "Kloedenellitina": [
+          243
+        ],
+        "throughout": [
+          245
+        ],
+        "Member.": [
+          249,
+          394,
+          435,
+          470
+        ],
+        "Upper": [
+          251,
+          531
+        ],
+        "assigned": [
+          255
+        ],
+        "Early": [
+          258,
+          529,
+          550
+        ],
+        "Triassic": [
+          259,
+          530,
+          551
+        ],
+        "(‘Scythian’)": [
+          260
+        ],
+        "age": [
+          261
+        ],
+        "occurrence": [
+          265
+        ],
+        "characteristic": [
+          268
+        ],
+        "annelid": [
+          269
+        ],
+        "Spirorbis": [
+          270
+        ],
+        "phlyctaena.": [
+          271
+        ],
+        "Formation,": [
+          274,
+          537
+        ],
+        "Arabian": [
+          278
+        ],
+        "outcrops,": [
+          279
+        ],
+        "consists": [
+          280,
+          314
+        ],
+        "four": [
+          282
+        ],
+        "depositional": [
+          284
+        ],
+        "sequences": [
+          285
+        ],
+        "(DS": [
+          286
+        ],
+        "PKh,": [
+          287
+        ],
+        "DS": [
+          288,
+          290,
+          293,
+          309,
+          396,
+          417,
+          462,
+          492,
+          511
+        ],
+        "PKm,": [
+          289
+        ],
+        "PKk": [
+          291,
+          463,
+          474,
+          496
+        ],
+        "TrS),": [
+          294
+        ],
+        "each": [
+          295
+        ],
+        "containing": [
+          296
+        ],
+        "maximum": [
+          298
+        ],
+        "flooding": [
+          299,
+          341
+        ],
+        "interval": [
+          300
+        ],
+        "(MFI,": [
+          301
+        ],
+        "same": [
+          304
+        ],
+        "designation).": [
+          305
+        ],
+        "sequence": [
+          308,
+          325
+        ],
+        "PKh": [
+          310,
+          372
+        ],
+        "(named": [
+          311,
+          398,
+          513
+        ],
+        "after": [
+          312,
+          399,
+          484,
+          514
+        ],
+        "Permian-Khuff-Huqayl)": [
+          313
+        ],
+        "members.": [
+          322
+        ],
+        "basal": [
+          324,
+          377,
+          472
+        ],
+        "boundary": [
+          326
+        ],
+        "corresponds": [
+          327,
+          465
+        ],
+        "Pre-Khuff": [
+          330
+        ],
+        "Unconformity": [
+          331
+        ],
+        "(PKU)": [
+          332
+        ],
+        "represents": [
+          334
+        ],
+        "onset": [
+          336
+        ],
+        "first": [
+          339
+        ],
+        "event": [
+          342
+        ],
+        "recorded": [
+          343
+        ],
+        "outcrops": [
+          346
+        ],
+        "Arabia.": [
+          349
+        ],
+        "massive": [
+          351
+        ],
+        "gypsum,": [
+          352
+        ],
+        "gypsiferous": [
+          353
+        ],
+        "claystone,": [
+          354
+        ],
+        "solution": [
+          356
+        ],
+        "breccias": [
+          357
+        ],
+        "are": [
+          363
+        ],
+        "correlated": [
+          364
+        ],
+        "subsurface": [
+          367
+        ],
+        "Khuff-D": [
+          368
+        ],
+        "Anhydrite.": [
+          369
+        ],
+        "MFI": [
+          371,
+          437,
+          495
+        ],
+        "positioned": [
+          374
+        ],
+        "followed": [
+          385
+        ],
+        "regressive": [
+          388,
+          423
+        ],
+        "evaporitic": [
+          389,
+          546
+        ],
+        "palaeoenvironments": [
+          390
+        ],
+        "PKm": [
+          397,
+          438
+        ],
+        "Permian-Khuff-Midhnab)": [
+          400
+        ],
+        "starts": [
+          401,
+          519
+        ],
+        "subtidal": [
+          404,
+          482
+        ],
+        "littoral": [
+          406
+        ],
+        "deposits": [
+          407,
+          427,
+          526
+        ],
+        "over": [
+          412
+        ],
+        "erosive": [
+          414
+        ],
+        "surface": [
+          415
+        ],
+        "upon": [
+          416
+        ],
+        "PKh;": [
+          418
+        ],
+        "ends": [
+          420,
+          539
+        ],
+        "supratidal": [
+          424
+        ],
+        "at": [
+          428,
+          441,
+          488
+        ],
+        "located": [
+          440
+        ],
+        "where": [
+          448
+        ],
+        "limestones": [
+          449
+        ],
+        "abundant": [
+          452,
+          503
+        ],
+        "marine": [
+          453,
+          481,
+          500
+        ],
+        "fauna": [
+          454,
+          501
+        ],
+        "including": [
+          455,
+          502
+        ],
+        "cephalopods": [
+          456
+        ],
+        "brachiopods.": [
+          458
+        ],
+        "terminal": [
+          460
+        ],
+        "(Permian-Khuff-Khartam)": [
+          464
+        ],
+        "SB": [
+          473
+        ],
+        "marked": [
+          476
+        ],
+        "return": [
+          479
+        ],
+        "conditions": [
+          483
+        ],
+        "break": [
+          487
+        ],
+        "end": [
+          490
+        ],
+        "PKm.": [
+          493
+        ],
+        "characterised": [
+          498
+        ],
+        "ostracods,": [
+          505
+        ],
+        "bactritids,": [
+          506
+        ],
+        "locally": [
+          508
+        ],
+        "cephalopods.": [
+          509
+        ],
+        "TrS": [
+          512
+        ],
+        "Shale": [
+          517
+        ],
+        "Formation)": [
+          518
+        ],
+        "littoral,": [
+          522
+        ],
+        "tidal": [
+          523
+        ],
+        "intertidal": [
+          525
+        ],
+        "closed": [
+          542
+        ],
+        "basin,": [
+          543
+        ],
+        "clayey": [
+          544
+        ],
+        "rocks": [
+          547
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-02-21T08:31:23.865262",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W1542845244",
       "doi": "https://doi.org/10.2113/geoarabia190381",
       "title": "Cambrian stratigraphy of Jordan",
@@ -1830,9 +3663,9 @@
       "apc_paid": null,
       "fwci": 3.93901651,
       "has_fulltext": false,
-      "cited_by_count": 58,
+      "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.9234029,
+        "value": 0.92215762,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2174,9 +4007,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3882,7 +5715,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 1
+          "cited_by_count": 2
         },
         {
           "year": 2025,
@@ -3933,7 +5766,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-21T08:31:23.865262",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4516,9 +6349,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4700,1061 +6533,6 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W1979422933",
-      "doi": "https://doi.org/10.1016/j.ijggc.2009.09.001",
-      "title": "CCS scenarios optimization by spatial multi-criteria analysis: Application to multiple source sink matching in Hebei province",
-      "display_name": "CCS scenarios optimization by spatial multi-criteria analysis: Application to multiple source sink matching in Hebei province",
-      "publication_year": 2009,
-      "publication_date": "2009-09-26",
-      "ids": {
-        "openalex": "https://openalex.org/W1979422933",
-        "doi": "https://doi.org/10.1016/j.ijggc.2009.09.001",
-        "mag": "1979422933"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.ijggc.2009.09.001",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.ijggc.2009.09.001",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S21262371",
-          "display_name": "International journal of greenhouse gas control",
-          "issn_l": "1750-5836",
-          "issn": [
-            "1750-5836",
-            "1878-0148"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "International Journal of Greenhouse Gas Control",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5101668043",
-            "display_name": "Wenying Chen",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I99065089",
-              "display_name": "Tsinghua University",
-              "ror": "https://ror.org/03cve4549",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I99065089"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Wenying Chen",
-          "raw_affiliation_strings": [
-            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-            "Energy Environment and Economy Research Institute (China)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-              "institution_ids": [
-                "https://openalex.org/I99065089"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5054427253",
-            "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Yves-Michel Le Nindre",
-          "raw_affiliation_strings": [
-            "BRGM, BP 36009, Orléans 45060, France",
-            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, BP 36009, Orléans 45060, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            },
-            {
-              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5080138605",
-            "display_name": "Ruina Xu",
-            "orcid": "https://orcid.org/0000-0001-8561-560X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I99065089",
-              "display_name": "Tsinghua University",
-              "ror": "https://ror.org/03cve4549",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I99065089"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ruina Xu",
-          "raw_affiliation_strings": [
-            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-            "Energy Environment and Economy Research Institute (China)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-              "institution_ids": [
-                "https://openalex.org/I99065089"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5047435631",
-            "display_name": "Delphine Allier",
-            "orcid": "https://orcid.org/0000-0002-6869-3451"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Delphine Allier",
-          "raw_affiliation_strings": [
-            "BRGM, BP 36009, Orléans 45060, France",
-            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, BP 36009, Orléans 45060, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            },
-            {
-              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5100603950",
-            "display_name": "Fei Teng",
-            "orcid": "https://orcid.org/0000-0003-0371-1142"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I99065089",
-              "display_name": "Tsinghua University",
-              "ror": "https://ror.org/03cve4549",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I99065089"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Fei Teng",
-          "raw_affiliation_strings": [
-            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-            "Energy Environment and Economy Research Institute (China)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-              "institution_ids": [
-                "https://openalex.org/I99065089"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5049486660",
-            "display_name": "Kim Domptail",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I99065089",
-              "display_name": "Tsinghua University",
-              "ror": "https://ror.org/03cve4549",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I99065089"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Kim Domptail",
-          "raw_affiliation_strings": [
-            "BRGM, BP 36009, Orléans 45060, France",
-            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)",
-            "Energy Environment and Economy Research Institute (China)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, BP 36009, Orléans 45060, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-              "institution_ids": [
-                "https://openalex.org/I99065089"
-              ]
-            },
-            {
-              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5079409628",
-            "display_name": "Xing Xiang",
-            "orcid": "https://orcid.org/0000-0003-4838-806X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I99065089",
-              "display_name": "Tsinghua University",
-              "ror": "https://ror.org/03cve4549",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I99065089"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Xing Xiang",
-          "raw_affiliation_strings": [
-            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-            "Energy Environment and Economy Research Institute (China)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-              "institution_ids": [
-                "https://openalex.org/I99065089"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5073598089",
-            "display_name": "Laura Guillon",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I99065089",
-              "display_name": "Tsinghua University",
-              "ror": "https://ror.org/03cve4549",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I99065089"
-              ]
-            }
-          ],
-          "countries": [
-            "CN",
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Laura Guillon",
-          "raw_affiliation_strings": [
-            "BRGM, BP 36009, Orléans 45060, France",
-            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-            "Energy Environment and Economy Research Institute (China)",
-            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, BP 36009, Orléans 45060, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-              "institution_ids": [
-                "https://openalex.org/I99065089"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5028703498",
-            "display_name": "Jiyong Chen",
-            "orcid": "https://orcid.org/0000-0002-8484-0300"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I99065089",
-              "display_name": "Tsinghua University",
-              "ror": "https://ror.org/03cve4549",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I99065089"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jiyong Chen",
-          "raw_affiliation_strings": [
-            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-            "Energy Environment and Economy Research Institute (China)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-              "institution_ids": [
-                "https://openalex.org/I99065089"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5035572801",
-            "display_name": "Lingyan Huang",
-            "orcid": "https://orcid.org/0000-0003-3493-2431"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I99065089",
-              "display_name": "Tsinghua University",
-              "ror": "https://ror.org/03cve4549",
-              "country_code": "CN",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I99065089"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Lingyan Huang",
-          "raw_affiliation_strings": [
-            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-            "Energy Environment and Economy Research Institute (China)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
-              "institution_ids": [
-                "https://openalex.org/I99065089"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5103467086",
-            "display_name": "Rongshu Zeng",
-            "orcid": "https://orcid.org/0009-0003-2221-8115"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I19820366",
-              "display_name": "Chinese Academy of Sciences",
-              "ror": "https://ror.org/034t30j35",
-              "country_code": "CN",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I19820366"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210126061",
-              "display_name": "Institute of Geology and Geophysics",
-              "ror": "https://ror.org/030vmwa78",
-              "country_code": "CN",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I19820366",
-                "https://openalex.org/I4210126061"
-              ]
-            }
-          ],
-          "countries": [
-            "CN"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Rongshu Zeng",
-          "raw_affiliation_strings": [
-            "Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100049, China",
-            "IGG - Institute of Geology and Geophysics [Beijing] (No. 19, Beitucheng Western Road, Chaoyang District, 100029, Beijing, P.R.China - China)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100049, China",
-              "institution_ids": [
-                "https://openalex.org/I4210126061",
-                "https://openalex.org/I19820366"
-              ]
-            },
-            {
-              "raw_affiliation_string": "IGG - Institute of Geology and Geophysics [Beijing] (No. 19, Beitucheng Western Road, Chaoyang District, 100029, Beijing, P.R.China - China)",
-              "institution_ids": [
-                "https://openalex.org/I4210126061"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 11,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5054427253",
-        "https://openalex.org/A5101668043"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893",
-        "https://openalex.org/I99065089"
-      ],
-      "apc_list": {
-        "value": 3980,
-        "currency": "USD",
-        "value_usd": 3980
-      },
-      "apc_paid": null,
-      "fwci": 3.52248394,
-      "has_fulltext": false,
-      "cited_by_count": 40,
-      "citation_normalized_percentile": {
-        "value": 0.9221148,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "4",
-        "issue": "2",
-        "first_page": "341",
-        "last_page": "350"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11302",
-        "display_name": "CO2 Sequestration and Geologic Interactions",
-        "score": 0.9997000098228455,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11225",
-          "display_name": "Geothermal Energy Systems and Applications",
-          "score": 0.9939000010490417,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10967",
-          "display_name": "Carbon Dioxide Capture Technologies",
-          "score": 0.9897000193595886,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.7223193049430847
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.5960171222686768
-        },
-        {
-          "id": "https://openalex.org/keywords/sink",
-          "display_name": "Sink (geography)",
-          "score": 0.5384914875030518
-        },
-        {
-          "id": "https://openalex.org/keywords/fossil-fuel",
-          "display_name": "Fossil fuel",
-          "score": 0.49504461884498596
-        },
-        {
-          "id": "https://openalex.org/keywords/refinery",
-          "display_name": "Refinery",
-          "score": 0.4868990480899811
-        },
-        {
-          "id": "https://openalex.org/keywords/tonne",
-          "display_name": "Tonne",
-          "score": 0.4809964597225189
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-refinery",
-          "display_name": "Oil refinery",
-          "score": 0.4289555549621582
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-engineering",
-          "display_name": "Environmental engineering",
-          "score": 0.3947681784629822
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.36309006810188293
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.34141993522644043
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.2639186680316925
-        },
-        {
-          "id": "https://openalex.org/keywords/waste-management",
-          "display_name": "Waste management",
-          "score": 0.2541029751300812
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.1948215663433075
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.15976381301879883
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.10900929570198059
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.7223193049430847
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5960171222686768
-        },
-        {
-          "id": "https://openalex.org/C143050476",
-          "wikidata": "https://www.wikidata.org/wiki/Q194502",
-          "display_name": "Sink (geography)",
-          "level": 2,
-          "score": 0.5384914875030518
-        },
-        {
-          "id": "https://openalex.org/C68189081",
-          "wikidata": "https://www.wikidata.org/wiki/Q12748",
-          "display_name": "Fossil fuel",
-          "level": 2,
-          "score": 0.49504461884498596
-        },
-        {
-          "id": "https://openalex.org/C105168734",
-          "wikidata": "https://www.wikidata.org/wiki/Q1867977",
-          "display_name": "Refinery",
-          "level": 2,
-          "score": 0.4868990480899811
-        },
-        {
-          "id": "https://openalex.org/C76758496",
-          "wikidata": "https://www.wikidata.org/wiki/Q191118",
-          "display_name": "Tonne",
-          "level": 2,
-          "score": 0.4809964597225189
-        },
-        {
-          "id": "https://openalex.org/C20309002",
-          "wikidata": "https://www.wikidata.org/wiki/Q12353044",
-          "display_name": "Oil refinery",
-          "level": 2,
-          "score": 0.4289555549621582
-        },
-        {
-          "id": "https://openalex.org/C87717796",
-          "wikidata": "https://www.wikidata.org/wiki/Q146326",
-          "display_name": "Environmental engineering",
-          "level": 1,
-          "score": 0.3947681784629822
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.36309006810188293
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.34141993522644043
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.2639186680316925
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.2541029751300812
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.1948215663433075
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.15976381301879883
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.10900929570198059
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C58640448",
-          "wikidata": "https://www.wikidata.org/wiki/Q42515",
-          "display_name": "Cartography",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.ijggc.2009.09.001",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.ijggc.2009.09.001",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S21262371",
-            "display_name": "International journal of greenhouse gas control",
-            "issn_l": "1750-5836",
-            "issn": [
-              "1750-5836",
-              "1878-0148"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "International Journal of Greenhouse Gas Control",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:HAL:hal-00555110v1",
-          "is_oa": false,
-          "landing_page_url": "https://brgm.hal.science/hal-00555110",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "International Journal of Greenhouse Gas Control, 2010, 4 (2), p. 341-350. &#x27E8;10.1016/j.ijggc.2009.09.001&#x27E9;",
-          "raw_type": "Journal articles"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320320300",
-          "display_name": "European Commission",
-          "ror": "https://ror.org/00k4n6c32"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 12,
-      "referenced_works": [
-        "https://openalex.org/W2021429322",
-        "https://openalex.org/W2064770948",
-        "https://openalex.org/W2087585881",
-        "https://openalex.org/W2106802871",
-        "https://openalex.org/W2140982950",
-        "https://openalex.org/W2184819533",
-        "https://openalex.org/W2355305752",
-        "https://openalex.org/W2381863651",
-        "https://openalex.org/W2485865780",
-        "https://openalex.org/W2560152191",
-        "https://openalex.org/W7024720515",
-        "https://openalex.org/W7066359867"
-      ],
-      "related_works": [
-        "https://openalex.org/W3123234388",
-        "https://openalex.org/W4312885019",
-        "https://openalex.org/W2135001683",
-        "https://openalex.org/W2607953476",
-        "https://openalex.org/W9725264",
-        "https://openalex.org/W2495697527",
-        "https://openalex.org/W4206645016",
-        "https://openalex.org/W3022794556",
-        "https://openalex.org/W2570513290",
-        "https://openalex.org/W2254012195"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 4
-        }
-      ],
-      "updated_date": "2026-02-05T00:54:17.221276",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6404,9 +7182,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6597,1839 +7375,6 @@
         }
       ],
       "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2287111010",
-      "doi": "https://doi.org/10.2113/geoarabia100477",
-      "title": "The Permian-Triassic Khuff Formation of central Saudi Arabia",
-      "display_name": "The Permian-Triassic Khuff Formation of central Saudi Arabia",
-      "publication_year": 2005,
-      "publication_date": "2005-10-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2287111010",
-        "doi": "https://doi.org/10.2113/geoarabia100477",
-        "mag": "2287111010"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/geoarabia100477",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia100477",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/10/4/77/5442556/vaslet.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/10/4/77/5442556/vaslet.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5038965329",
-            "display_name": "Denis Vaslet",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Denis Vaslet",
-          "raw_affiliation_strings": [
-            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5054427253",
-            "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yves-Michel Le Nindre",
-          "raw_affiliation_strings": [
-            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales\r\n - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5022478113",
-            "display_name": "Daniel Vachard",
-            "orcid": "https://orcid.org/0000-0003-1680-3767"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210148734",
-              "display_name": "Unité Évolution, Écologie et Paléontologie",
-              "ror": "https://ror.org/04y91dy23",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I4210137101",
-                "https://openalex.org/I4210139971",
-                "https://openalex.org/I4210148734"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Daniel Vachard",
-          "raw_affiliation_strings": [
-            "Laboratoire de Paléontologie et Paléogéographie du Paléozoïque (UMR 8014 du CNRS UFR des Sciences de la Terre 59655 VILLENEUVE D'ASCQ Cedex - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Paléontologie et Paléogéographie du Paléozoïque (UMR 8014 du CNRS UFR des Sciences de la Terre 59655 VILLENEUVE D'ASCQ Cedex - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210148734",
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5019328510",
-            "display_name": "Jean Broutin",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Jean Broutin",
-          "raw_affiliation_strings": [
-            "Paléobiodiversité et paléoenvironnements (Muséum national d'Histoire naturelle - Département Histoire de la Terre - 8 rue Buffon - CP 38 - 75005 Paris - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Paléobiodiversité et paléoenvironnements (Muséum national d'Histoire naturelle - Département Histoire de la Terre - 8 rue Buffon - CP 38 - 75005 Paris - France)",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5066243148",
-            "display_name": "Sylvie Crasquin",
-            "orcid": "https://orcid.org/0000-0003-4358-3827"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Sylvie Crasquin-Soleau",
-          "raw_affiliation_strings": [
-            "Paléobiodiversité et paléoenvironnements (Muséum national d'Histoire naturelle - Département Histoire de la Terre - 8 rue Buffon - CP 38 - 75005 Paris - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Paléobiodiversité et paléoenvironnements (Muséum national d'Histoire naturelle - Département Histoire de la Terre - 8 rue Buffon - CP 38 - 75005 Paris - France)",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5109129765",
-            "display_name": "Martine Berthelin",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Martine Berthelin",
-          "raw_affiliation_strings": [
-            "Laboratoire de Paléobotanique (75005 PARIS - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Paléobotanique (75005 PARIS - France)",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5021604188",
-            "display_name": "Jérémie Gaillot",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210148734",
-              "display_name": "Unité Évolution, Écologie et Paléontologie",
-              "ror": "https://ror.org/04y91dy23",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I2279609970",
-                "https://openalex.org/I4210137101",
-                "https://openalex.org/I4210139971",
-                "https://openalex.org/I4210148734"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I1294671590",
-              "display_name": "Centre National de la Recherche Scientifique",
-              "ror": "https://ror.org/02feahw73",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jérémie Gaillot",
-          "raw_affiliation_strings": [
-            "Laboratoire de Paléontologie et Paléogéographie du Paléozoïque (UMR 8014 du CNRS UFR des Sciences de la Terre 59655 VILLENEUVE D'ASCQ Cedex - France)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire de Paléontologie et Paléogéographie du Paléozoïque (UMR 8014 du CNRS UFR des Sciences de la Terre 59655 VILLENEUVE D'ASCQ Cedex - France)",
-              "institution_ids": [
-                "https://openalex.org/I4210148734",
-                "https://openalex.org/I1294671590"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5055304725",
-            "display_name": "Mohammed Halawani",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Halawani",
-          "raw_affiliation_strings": [
-            "Saudi Geological Survey (Morocco)"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Geological Survey (Morocco)",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
-            "orcid": "https://orcid.org/0009-0002-1087-5882"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Moujahed Al-Husseini",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 9,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5038965329"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 15.06249993,
-      "has_fulltext": false,
-      "cited_by_count": 87,
-      "citation_normalized_percentile": {
-        "value": 0.98844884,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 90,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "10",
-        "issue": "4",
-        "first_page": "77",
-        "last_page": "134"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T13177",
-        "display_name": "Geological and Geophysical Studies",
-        "score": 0.994700014591217,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1907",
-          "display_name": "Geology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T13177",
-          "display_name": "Geological and Geophysical Studies",
-          "score": 0.994700014591217,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9923999905586243,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10385",
-          "display_name": "Plant Diversity and Evolution",
-          "score": 0.9865999817848206,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1105",
-            "display_name": "Ecology, Evolution, Behavior and Systematics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/11",
-            "display_name": "Agricultural and Biological Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/1",
-            "display_name": "Life Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/permian",
-          "display_name": "Permian",
-          "score": 0.9202067852020264
-        },
-        {
-          "id": "https://openalex.org/keywords/unconformity",
-          "display_name": "Unconformity",
-          "score": 0.8696171045303345
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8297706246376038
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7883598804473877
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.7141867280006409
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-shale",
-          "display_name": "Oil shale",
-          "score": 0.48915937542915344
-        },
-        {
-          "id": "https://openalex.org/keywords/early-triassic",
-          "display_name": "Early Triassic",
-          "score": 0.43879154324531555
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.2808551788330078
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C83365034",
-          "wikidata": "https://www.wikidata.org/wiki/Q76402",
-          "display_name": "Permian",
-          "level": 3,
-          "score": 0.9202067852020264
-        },
-        {
-          "id": "https://openalex.org/C191735495",
-          "wikidata": "https://www.wikidata.org/wiki/Q876798",
-          "display_name": "Unconformity",
-          "level": 3,
-          "score": 0.8696171045303345
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8297706246376038
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7883598804473877
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.7141867280006409
-        },
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.48915937542915344
-        },
-        {
-          "id": "https://openalex.org/C2781229967",
-          "wikidata": "https://www.wikidata.org/wiki/Q1075885",
-          "display_name": "Early Triassic",
-          "level": 4,
-          "score": 0.43879154324531555
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.2808551788330078
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/geoarabia100477",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.2113/geoarabia100477",
-          "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/10/4/77/5442556/vaslet.pdf",
-          "source": {
-            "id": "https://openalex.org/S189311251",
-            "display_name": "GeoArabia",
-            "issn_l": "1025-6059",
-            "issn": [
-              "1025-6059"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "GeoArabia",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.2113/geoarabia100477",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia100477",
-        "pdf_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/10/4/77/5442556/vaslet.pdf",
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2287111010.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2287111010.grobid-xml"
-      },
-      "referenced_works_count": 66,
-      "referenced_works": [
-        "https://openalex.org/W57810535",
-        "https://openalex.org/W62814192",
-        "https://openalex.org/W88175743",
-        "https://openalex.org/W159079554",
-        "https://openalex.org/W188107018",
-        "https://openalex.org/W195523536",
-        "https://openalex.org/W201823505",
-        "https://openalex.org/W563420437",
-        "https://openalex.org/W577755460",
-        "https://openalex.org/W578079095",
-        "https://openalex.org/W1488703263",
-        "https://openalex.org/W1525628619",
-        "https://openalex.org/W1580174060",
-        "https://openalex.org/W1630322587",
-        "https://openalex.org/W1789645206",
-        "https://openalex.org/W1970818951",
-        "https://openalex.org/W1986107162",
-        "https://openalex.org/W1988398424",
-        "https://openalex.org/W2006751098",
-        "https://openalex.org/W2041622963",
-        "https://openalex.org/W2053154125",
-        "https://openalex.org/W2053493272",
-        "https://openalex.org/W2054921342",
-        "https://openalex.org/W2069467375",
-        "https://openalex.org/W2071064541",
-        "https://openalex.org/W2085188216",
-        "https://openalex.org/W2127288366",
-        "https://openalex.org/W2139711367",
-        "https://openalex.org/W2166039370",
-        "https://openalex.org/W2188233270",
-        "https://openalex.org/W2191182709",
-        "https://openalex.org/W2196620403",
-        "https://openalex.org/W2257536778",
-        "https://openalex.org/W2313285032",
-        "https://openalex.org/W2327228832",
-        "https://openalex.org/W2344742640",
-        "https://openalex.org/W2417828621",
-        "https://openalex.org/W2473132188",
-        "https://openalex.org/W2910362007",
-        "https://openalex.org/W2944320642",
-        "https://openalex.org/W2954113145",
-        "https://openalex.org/W2968599283",
-        "https://openalex.org/W2969747300",
-        "https://openalex.org/W2979942938",
-        "https://openalex.org/W2986102651",
-        "https://openalex.org/W2986225371",
-        "https://openalex.org/W2996108273",
-        "https://openalex.org/W3127056474",
-        "https://openalex.org/W3127250646",
-        "https://openalex.org/W3157716230",
-        "https://openalex.org/W3174426671",
-        "https://openalex.org/W3200669176",
-        "https://openalex.org/W4232328127",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6602627032",
-        "https://openalex.org/W6608040782",
-        "https://openalex.org/W6608227967",
-        "https://openalex.org/W6616703885",
-        "https://openalex.org/W6631502831",
-        "https://openalex.org/W6668300143",
-        "https://openalex.org/W6678618728",
-        "https://openalex.org/W6692110163",
-        "https://openalex.org/W6720747304",
-        "https://openalex.org/W6794449952",
-        "https://openalex.org/W6884882557",
-        "https://openalex.org/W7036357283"
-      ],
-      "related_works": [
-        "https://openalex.org/W1993242347",
-        "https://openalex.org/W2049316585",
-        "https://openalex.org/W2014665347",
-        "https://openalex.org/W794666598",
-        "https://openalex.org/W2010617273",
-        "https://openalex.org/W4301344323",
-        "https://openalex.org/W2150160502",
-        "https://openalex.org/W2148222437",
-        "https://openalex.org/W2157793915",
-        "https://openalex.org/W3028753483"
-      ],
-      "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
-        "The": [
-          1,
-          54,
-          85,
-          109,
-          138,
-          160,
-          205,
-          250,
-          272,
-          306,
-          323,
-          350,
-          370,
-          395,
-          436,
-          459,
-          471,
-          494,
-          510
-        ],
-        "Permian-Triassic": [
-          2
-        ],
-        "Khuff": [
-          3,
-          47,
-          58,
-          273,
-          536
-        ],
-        "Formation": [
-          4,
-          59
-        ],
-        "crops": [
-          5
-        ],
-        "out": [
-          6
-        ],
-        "in": [
-          7,
-          18,
-          27,
-          188,
-          228,
-          275,
-          344,
-          358,
-          375
-        ],
-        "central": [
-          8,
-          276
-        ],
-        "Saudi": [
-          9,
-          277,
-          348
-        ],
-        "Arabia": [
-          10
-        ],
-        "along": [
-          11
-        ],
-        "a": [
-          12,
-          63,
-          297,
-          478
-        ],
-        "N-S": [
-          13
-        ],
-        "belt,": [
-          14
-        ],
-        "some": [
-          15
-        ],
-        "1,200": [
-          16
-        ],
-        "km": [
-          17
-        ],
-        "length.": [
-          19
-        ],
-        "It": [
-          20
-        ],
-        "is": [
-          21,
-          60,
-          74,
-          89,
-          112,
-          141,
-          163,
-          209,
-          254,
-          373,
-          384,
-          439,
-          475,
-          497
-        ],
-        "171.4": [
-          22
-        ],
-        "m": [
-          23
-        ],
-        "(562.2": [
-          24
-        ],
-        "ft)": [
-          25
-        ],
-        "thick": [
-          26
-        ],
-        "the": [
-          28,
-          46,
-          57,
-          69,
-          72,
-          77,
-          81,
-          99,
-          102,
-          176,
-          179,
-          185,
-          189,
-          193,
-          200,
-          218,
-          229,
-          233,
-          236,
-          246,
-          264,
-          267,
-          303,
-          316,
-          329,
-          335,
-          338,
-          345,
-          359,
-          366,
-          376,
-          380,
-          387,
-          392,
-          403,
-          409,
-          422,
-          429,
-          433,
-          442,
-          445,
-          467,
-          485,
-          489,
-          515,
-          521,
-          528,
-          535,
-          541,
-          549
-        ],
-        "type": [
-          29
-        ],
-        "section": [
-          30
-        ],
-        "and": [
-          31,
-          52,
-          68,
-          106,
-          134,
-          156,
-          172,
-          175,
-          182,
-          225,
-          235,
-          242,
-          292,
-          319,
-          333,
-          355,
-          383,
-          419,
-          457,
-          507,
-          538
-        ],
-        "divided": [
-          32
-        ],
-        "into": [
-          33
-        ],
-        "five": [
-          34
-        ],
-        "members;": [
-          35
-        ],
-        "from": [
-          36
-        ],
-        "oldest": [
-          37,
-          307
-        ],
-        "to": [
-          38,
-          256,
-          328,
-          365,
-          405,
-          425,
-          466,
-          480,
-          524,
-          545
-        ],
-        "youngest:": [
-          39
-        ],
-        "Ash": [
-          40,
-          86,
-          317,
-          360
-        ],
-        "Shiqqah": [
-          41,
-          87,
-          318,
-          361
-        ],
-        "(formerly": [
-          42
-        ],
-        "Unayzah": [
-          43
-        ],
-        "member": [
-          44
-        ],
-        "of": [
-          45,
-          56,
-          71,
-          101,
-          124,
-          178,
-          192,
-          220,
-          223,
-          232,
-          266,
-          281,
-          315,
-          337,
-          347,
-          379,
-          391,
-          408,
-          432,
-          444,
-          491,
-          527,
-          534,
-          548
-        ],
-        "Formation),": [
-          48
-        ],
-        "Huqayl,": [
-          49
-        ],
-        "Duhaysan,": [
-          50
-        ],
-        "Midhnab": [
-          51,
-          194,
-          203,
-          434,
-          446
-        ],
-        "Khartam.": [
-          53
-        ],
-        "base": [
-          55,
-          443
-        ],
-        "recognised": [
-          61
-        ],
-        "as": [
-          62,
-          92,
-          115,
-          143,
-          165,
-          212
-        ],
-        "regional": [
-          64,
-          283
-        ],
-        "unconformity": [
-          65
-        ],
-        "(Pre-Khuff": [
-          66
-        ],
-        "Unconformity),": [
-          67
-        ],
-        "top": [
-          70
-        ],
-        "formation": [
-          73
-        ],
-        "defined": [
-          75
-        ],
-        "by": [
-          76,
-          128,
-          386,
-          477,
-          499
-        ],
-        "conformable": [
-          78
-        ],
-        "contact": [
-          79
-        ],
-        "with": [
-          80,
-          302,
-          402,
-          421,
-          520,
-          540
-        ],
-        "overlying": [
-          82,
-          320
-        ],
-        "Sudair": [
-          83,
-          516,
-          552
-        ],
-        "Shale.": [
-          84,
-          553
-        ],
-        "Member": [
-          88,
-          111,
-          140,
-          162,
-          208,
-          253,
-          362,
-          533
-        ],
-        "tentatively": [
-          90,
-          113
-        ],
-        "dated": [
-          91,
-          114,
-          142,
-          164,
-          211
-        ],
-        "?Middle": [
-          93
-        ],
-        "Permian": [
-          94,
-          117,
-          145,
-          202,
-          214,
-          340,
-          461,
-          504
-        ],
-        "?Capitanian": [
-          95
-        ],
-        "(?Midian)": [
-          96
-        ],
-        "based": [
-          97,
-          120,
-          147,
-          168,
-          216,
-          262
-        ],
-        "on": [
-          98,
-          121,
-          148,
-          169,
-          217,
-          263
-        ],
-        "presence": [
-          100,
-          219
-        ],
-        "fusulinids": [
-          103
-        ],
-        "Monodiexodina": [
-          104
-        ],
-        "kattaensis": [
-          105
-        ],
-        "Reichelina": [
-          107
-        ],
-        "sp.": [
-          108,
-          171,
-          244
-        ],
-        "Huqayl": [
-          110,
-          321,
-          381,
-          393
-        ],
-        "?Late": [
-          116
-        ],
-        "?Wuchiapingian": [
-          118
-        ],
-        "(?Dzhulfian)": [
-          119
-        ],
-        "an": [
-          122,
-          257,
-          413,
-          451
-        ],
-        "assemblage": [
-          123
-        ],
-        "smaller": [
-          125
-        ],
-        "foraminifers": [
-          126
-        ],
-        "dominated": [
-          127
-        ],
-        "Pseudomidiella": [
-          129
-        ],
-        "cf.": [
-          130,
-          152,
-          158
-        ],
-        "labensis,": [
-          131
-        ],
-        "Earlandia?": [
-          132
-        ],
-        "spp.": [
-          133,
-          241
-        ],
-        "Neodiscus": [
-          135
-        ],
-        "aff.": [
-          136
-        ],
-        "qinglongensis.": [
-          137
-        ],
-        "Duhaysan": [
-          139,
-          410
-        ],
-        "Late": [
-          144,
-          201
-        ],
-        "(Wuchiapingian-Changhsingian)": [
-          146
-        ],
-        "Hemigordius": [
-          149
-        ],
-        "baoqingensis,": [
-          150
-        ],
-        "Graecodiscus": [
-          151
-        ],
-        "kotlyarae,": [
-          153
-        ],
-        "“Dentalina”": [
-          154
-        ],
-        "hoi,": [
-          155
-        ],
-        "Colaniella": [
-          157
-        ],
-        "minuta.": [
-          159
-        ],
-        "sMidhnab": [
-          161
-        ],
-        "Changhsingian": [
-          166
-        ],
-        "(Dorashamian)": [
-          167,
-          215
-        ],
-        "Paradagmarita": [
-          170,
-          224
-        ],
-        "“Glomospirella": [
-          173
-        ],
-        "spirillinoides”": [
-          174
-        ],
-        "disappearance": [
-          177
-        ],
-        "genera": [
-          180
-        ],
-        "Nankinella": [
-          181
-        ],
-        "Globivalvulina.": [
-          183
-        ],
-        "Within": [
-          184
-        ],
-        "continental": [
-          186,
-          426,
-          486
-        ],
-        "facies": [
-          187,
-          198
-        ],
-        "upper": [
-          190,
-          430
-        ],
-        "part": [
-          191,
-          378,
-          431
-        ],
-        "Member,": [
-          195,
-          382,
-          411,
-          447
-        ],
-        "incised": [
-          196
-        ],
-        "channels": [
-          197
-        ],
-        "yielded": [
-          199,
-          450
-        ],
-        "Flora.": [
-          204
-        ],
-        "Lower": [
-          206,
-          247,
-          468
-        ],
-        "Khartam": [
-          207,
-          248,
-          252,
-          469,
-          532
-        ],
-        "also": [
-          210
-        ],
-        "latest": [
-          213
-        ],
-        "several": [
-          221
-        ],
-        "species": [
-          222
-        ],
-        "“Nodosaria”": [
-          226
-        ],
-        "dzhulfensis": [
-          227
-        ],
-        "lowest": [
-          230
-        ],
-        "beds": [
-          231
-        ],
-        "member,": [
-          234
-        ],
-        "ostracods": [
-          237
-        ],
-        "Paraparchites": [
-          238
-        ],
-        "spp.,": [
-          239
-        ],
-        "Knoxiella": [
-          240
-        ],
-        "Kloedenellitina": [
-          243
-        ],
-        "throughout": [
-          245
-        ],
-        "Member.": [
-          249,
-          394,
-          435,
-          470
-        ],
-        "Upper": [
-          251,
-          531
-        ],
-        "assigned": [
-          255
-        ],
-        "Early": [
-          258,
-          529,
-          550
-        ],
-        "Triassic": [
-          259,
-          530,
-          551
-        ],
-        "(‘Scythian’)": [
-          260
-        ],
-        "age": [
-          261
-        ],
-        "occurrence": [
-          265
-        ],
-        "characteristic": [
-          268
-        ],
-        "annelid": [
-          269
-        ],
-        "Spirorbis": [
-          270
-        ],
-        "phlyctaena.": [
-          271
-        ],
-        "Formation,": [
-          274,
-          537
-        ],
-        "Arabian": [
-          278
-        ],
-        "outcrops,": [
-          279
-        ],
-        "consists": [
-          280,
-          314
-        ],
-        "four": [
-          282
-        ],
-        "depositional": [
-          284
-        ],
-        "sequences": [
-          285
-        ],
-        "(DS": [
-          286
-        ],
-        "PKh,": [
-          287
-        ],
-        "DS": [
-          288,
-          290,
-          293,
-          309,
-          396,
-          417,
-          462,
-          492,
-          511
-        ],
-        "PKm,": [
-          289
-        ],
-        "PKk": [
-          291,
-          463,
-          474,
-          496
-        ],
-        "TrS),": [
-          294
-        ],
-        "each": [
-          295
-        ],
-        "containing": [
-          296
-        ],
-        "maximum": [
-          298
-        ],
-        "flooding": [
-          299,
-          341
-        ],
-        "interval": [
-          300
-        ],
-        "(MFI,": [
-          301
-        ],
-        "same": [
-          304
-        ],
-        "designation).": [
-          305
-        ],
-        "sequence": [
-          308,
-          325
-        ],
-        "PKh": [
-          310,
-          372
-        ],
-        "(named": [
-          311,
-          398,
-          513
-        ],
-        "after": [
-          312,
-          399,
-          484,
-          514
-        ],
-        "Permian-Khuff-Huqayl)": [
-          313
-        ],
-        "members.": [
-          322
-        ],
-        "basal": [
-          324,
-          377,
-          472
-        ],
-        "boundary": [
-          326
-        ],
-        "corresponds": [
-          327,
-          465
-        ],
-        "Pre-Khuff": [
-          330
-        ],
-        "Unconformity": [
-          331
-        ],
-        "(PKU)": [
-          332
-        ],
-        "represents": [
-          334
-        ],
-        "onset": [
-          336
-        ],
-        "first": [
-          339
-        ],
-        "event": [
-          342
-        ],
-        "recorded": [
-          343
-        ],
-        "outcrops": [
-          346
-        ],
-        "Arabia.": [
-          349
-        ],
-        "massive": [
-          351
-        ],
-        "gypsum,": [
-          352
-        ],
-        "gypsiferous": [
-          353
-        ],
-        "claystone,": [
-          354
-        ],
-        "solution": [
-          356
-        ],
-        "breccias": [
-          357
-        ],
-        "are": [
-          363
-        ],
-        "correlated": [
-          364
-        ],
-        "subsurface": [
-          367
-        ],
-        "Khuff-D": [
-          368
-        ],
-        "Anhydrite.": [
-          369
-        ],
-        "MFI": [
-          371,
-          437,
-          495
-        ],
-        "positioned": [
-          374
-        ],
-        "followed": [
-          385
-        ],
-        "regressive": [
-          388,
-          423
-        ],
-        "evaporitic": [
-          389,
-          546
-        ],
-        "palaeoenvironments": [
-          390
-        ],
-        "PKm": [
-          397,
-          438
-        ],
-        "Permian-Khuff-Midhnab)": [
-          400
-        ],
-        "starts": [
-          401,
-          519
-        ],
-        "subtidal": [
-          404,
-          482
-        ],
-        "littoral": [
-          406
-        ],
-        "deposits": [
-          407,
-          427,
-          526
-        ],
-        "over": [
-          412
-        ],
-        "erosive": [
-          414
-        ],
-        "surface": [
-          415
-        ],
-        "upon": [
-          416
-        ],
-        "PKh;": [
-          418
-        ],
-        "ends": [
-          420,
-          539
-        ],
-        "supratidal": [
-          424
-        ],
-        "at": [
-          428,
-          441,
-          488
-        ],
-        "located": [
-          440
-        ],
-        "where": [
-          448
-        ],
-        "limestones": [
-          449
-        ],
-        "abundant": [
-          452,
-          503
-        ],
-        "marine": [
-          453,
-          481,
-          500
-        ],
-        "fauna": [
-          454,
-          501
-        ],
-        "including": [
-          455,
-          502
-        ],
-        "cephalopods": [
-          456
-        ],
-        "brachiopods.": [
-          458
-        ],
-        "terminal": [
-          460
-        ],
-        "(Permian-Khuff-Khartam)": [
-          464
-        ],
-        "SB": [
-          473
-        ],
-        "marked": [
-          476
-        ],
-        "return": [
-          479
-        ],
-        "conditions": [
-          483
-        ],
-        "break": [
-          487
-        ],
-        "end": [
-          490
-        ],
-        "PKm.": [
-          493
-        ],
-        "characterised": [
-          498
-        ],
-        "ostracods,": [
-          505
-        ],
-        "bactritids,": [
-          506
-        ],
-        "locally": [
-          508
-        ],
-        "cephalopods.": [
-          509
-        ],
-        "TrS": [
-          512
-        ],
-        "Shale": [
-          517
-        ],
-        "Formation)": [
-          518
-        ],
-        "littoral,": [
-          522
-        ],
-        "tidal": [
-          523
-        ],
-        "intertidal": [
-          525
-        ],
-        "closed": [
-          542
-        ],
-        "basin,": [
-          543
-        ],
-        "clayey": [
-          544
-        ],
-        "rocks": [
-          547
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 4
-        }
-      ],
-      "updated_date": "2026-02-07T08:09:18.108334",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8636,13 +7581,13 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 3,
       "corresponding_author_ids": [
-        "https://openalex.org/A5066243148",
         "https://openalex.org/A5038965329",
-        "https://openalex.org/A5054427253"
+        "https://openalex.org/A5054427253",
+        "https://openalex.org/A5066243148"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I39804081",
         "https://openalex.org/I1294671590",
+        "https://openalex.org/I39804081",
         "https://openalex.org/I4210158893"
       ],
       "apc_list": {
@@ -8655,7 +7600,7 @@
       "has_fulltext": false,
       "cited_by_count": 77,
       "citation_normalized_percentile": {
-        "value": 0.91363397,
+        "value": 0.91574526,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8933,18 +7878,16 @@
           "landing_page_url": "https://brgm.hal.science/hal-03763493",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -8960,9 +7903,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9063,7 +8006,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-21T08:31:23.865262",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9592,9 +8535,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10790,9 +9733,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -11327,9 +10270,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12591,6 +11534,1059 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W1979422933",
+      "doi": "https://doi.org/10.1016/j.ijggc.2009.09.001",
+      "title": "CCS scenarios optimization by spatial multi-criteria analysis: Application to multiple source sink matching in Hebei province",
+      "display_name": "CCS scenarios optimization by spatial multi-criteria analysis: Application to multiple source sink matching in Hebei province",
+      "publication_year": 2009,
+      "publication_date": "2009-09-26",
+      "ids": {
+        "openalex": "https://openalex.org/W1979422933",
+        "doi": "https://doi.org/10.1016/j.ijggc.2009.09.001",
+        "mag": "1979422933"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.ijggc.2009.09.001",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.ijggc.2009.09.001",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S21262371",
+          "display_name": "International journal of greenhouse gas control",
+          "issn_l": "1750-5836",
+          "issn": [
+            "1750-5836",
+            "1878-0148"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Greenhouse Gas Control",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5101668043",
+            "display_name": "Wenying Chen",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Wenying Chen",
+          "raw_affiliation_strings": [
+            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+            "Energy Environment and Economy Research Institute (China)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054427253",
+            "display_name": "Yves-Michel Le Nindre",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Yves-Michel Le Nindre",
+          "raw_affiliation_strings": [
+            "BRGM, BP 36009, Orléans 45060, France",
+            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, BP 36009, Orléans 45060, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            },
+            {
+              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5080138605",
+            "display_name": "Ruina Xu",
+            "orcid": "https://orcid.org/0000-0001-8561-560X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ruina Xu",
+          "raw_affiliation_strings": [
+            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+            "Energy Environment and Economy Research Institute (China)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047435631",
+            "display_name": "Delphine Allier",
+            "orcid": "https://orcid.org/0000-0002-6869-3451"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Delphine Allier",
+          "raw_affiliation_strings": [
+            "BRGM, BP 36009, Orléans 45060, France",
+            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, BP 36009, Orléans 45060, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            },
+            {
+              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5100603950",
+            "display_name": "Fei Teng",
+            "orcid": "https://orcid.org/0000-0003-0371-1142"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fei Teng",
+          "raw_affiliation_strings": [
+            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+            "Energy Environment and Economy Research Institute (China)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5049486660",
+            "display_name": "Kim Domptail",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Kim Domptail",
+          "raw_affiliation_strings": [
+            "BRGM, BP 36009, Orléans 45060, France",
+            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)",
+            "Energy Environment and Economy Research Institute (China)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, BP 36009, Orléans 45060, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            },
+            {
+              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079409628",
+            "display_name": "Xing Xiang",
+            "orcid": "https://orcid.org/0000-0003-4838-806X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Xing Xiang",
+          "raw_affiliation_strings": [
+            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+            "Energy Environment and Economy Research Institute (China)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5073598089",
+            "display_name": "Laura Guillon",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN",
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Laura Guillon",
+          "raw_affiliation_strings": [
+            "BRGM, BP 36009, Orléans 45060, France",
+            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+            "Energy Environment and Economy Research Institute (China)",
+            "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, BP 36009, Orléans 45060, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (regroupe le site d'Orléans et l'ensemble des Directions régionales sous une seule et même  affiliation. Ne pas décliner de sous-structures locales - France)",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5028703498",
+            "display_name": "Jiyong Chen",
+            "orcid": "https://orcid.org/0000-0002-8484-0300"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jiyong Chen",
+          "raw_affiliation_strings": [
+            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+            "Energy Environment and Economy Research Institute (China)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035572801",
+            "display_name": "Lingyan Huang",
+            "orcid": "https://orcid.org/0000-0003-3493-2431"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I99065089",
+              "display_name": "Tsinghua University",
+              "ror": "https://ror.org/03cve4549",
+              "country_code": "CN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I99065089"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Lingyan Huang",
+          "raw_affiliation_strings": [
+            "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+            "Energy Environment and Economy Research Institute (China)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Energy Environment and Economy (3E) Research Institute, Tsinghua University, Beijing 100084, China",
+              "institution_ids": [
+                "https://openalex.org/I99065089"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Energy Environment and Economy Research Institute (China)",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103467086",
+            "display_name": "Rongshu Zeng",
+            "orcid": "https://orcid.org/0009-0003-2221-8115"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I19820366",
+              "display_name": "Chinese Academy of Sciences",
+              "ror": "https://ror.org/034t30j35",
+              "country_code": "CN",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210126061",
+              "display_name": "Institute of Geology and Geophysics",
+              "ror": "https://ror.org/030vmwa78",
+              "country_code": "CN",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I4210126061"
+              ]
+            }
+          ],
+          "countries": [
+            "CN"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rongshu Zeng",
+          "raw_affiliation_strings": [
+            "Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100049, China",
+            "IGG - Institute of Geology and Geophysics [Beijing] (No. 19, Beitucheng Western Road, Chaoyang District, 100029, Beijing, P.R.China - China)"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geology and Geophysics, Chinese Academy of Sciences, Beijing 100049, China",
+              "institution_ids": [
+                "https://openalex.org/I4210126061",
+                "https://openalex.org/I19820366"
+              ]
+            },
+            {
+              "raw_affiliation_string": "IGG - Institute of Geology and Geophysics [Beijing] (No. 19, Beitucheng Western Road, Chaoyang District, 100029, Beijing, P.R.China - China)",
+              "institution_ids": [
+                "https://openalex.org/I4210126061"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 11,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054427253",
+        "https://openalex.org/A5101668043"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210158893",
+        "https://openalex.org/I99065089"
+      ],
+      "apc_list": {
+        "value": 3980,
+        "currency": "USD",
+        "value_usd": 3980
+      },
+      "apc_paid": null,
+      "fwci": 3.52248394,
+      "has_fulltext": false,
+      "cited_by_count": 40,
+      "citation_normalized_percentile": {
+        "value": 0.92156267,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "4",
+        "issue": "2",
+        "first_page": "341",
+        "last_page": "350"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11225",
+          "display_name": "Geothermal Energy Systems and Applications",
+          "score": 0.9939000010490417,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10967",
+          "display_name": "Carbon Dioxide Capture Technologies",
+          "score": 0.9897000193595886,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.7223193049430847
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.5960171222686768
+        },
+        {
+          "id": "https://openalex.org/keywords/sink",
+          "display_name": "Sink (geography)",
+          "score": 0.5384914875030518
+        },
+        {
+          "id": "https://openalex.org/keywords/fossil-fuel",
+          "display_name": "Fossil fuel",
+          "score": 0.49504461884498596
+        },
+        {
+          "id": "https://openalex.org/keywords/refinery",
+          "display_name": "Refinery",
+          "score": 0.4868990480899811
+        },
+        {
+          "id": "https://openalex.org/keywords/tonne",
+          "display_name": "Tonne",
+          "score": 0.4809964597225189
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-refinery",
+          "display_name": "Oil refinery",
+          "score": 0.4289555549621582
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-engineering",
+          "display_name": "Environmental engineering",
+          "score": 0.3947681784629822
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.36309006810188293
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.34141993522644043
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.2639186680316925
+        },
+        {
+          "id": "https://openalex.org/keywords/waste-management",
+          "display_name": "Waste management",
+          "score": 0.2541029751300812
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.1948215663433075
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.15976381301879883
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.10900929570198059
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.7223193049430847
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5960171222686768
+        },
+        {
+          "id": "https://openalex.org/C143050476",
+          "wikidata": "https://www.wikidata.org/wiki/Q194502",
+          "display_name": "Sink (geography)",
+          "level": 2,
+          "score": 0.5384914875030518
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.49504461884498596
+        },
+        {
+          "id": "https://openalex.org/C105168734",
+          "wikidata": "https://www.wikidata.org/wiki/Q1867977",
+          "display_name": "Refinery",
+          "level": 2,
+          "score": 0.4868990480899811
+        },
+        {
+          "id": "https://openalex.org/C76758496",
+          "wikidata": "https://www.wikidata.org/wiki/Q191118",
+          "display_name": "Tonne",
+          "level": 2,
+          "score": 0.4809964597225189
+        },
+        {
+          "id": "https://openalex.org/C20309002",
+          "wikidata": "https://www.wikidata.org/wiki/Q12353044",
+          "display_name": "Oil refinery",
+          "level": 2,
+          "score": 0.4289555549621582
+        },
+        {
+          "id": "https://openalex.org/C87717796",
+          "wikidata": "https://www.wikidata.org/wiki/Q146326",
+          "display_name": "Environmental engineering",
+          "level": 1,
+          "score": 0.3947681784629822
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.36309006810188293
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.34141993522644043
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.2639186680316925
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.2541029751300812
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.1948215663433075
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.15976381301879883
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.10900929570198059
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C58640448",
+          "wikidata": "https://www.wikidata.org/wiki/Q42515",
+          "display_name": "Cartography",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.ijggc.2009.09.001",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.ijggc.2009.09.001",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S21262371",
+            "display_name": "International journal of greenhouse gas control",
+            "issn_l": "1750-5836",
+            "issn": [
+              "1750-5836",
+              "1878-0148"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Greenhouse Gas Control",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-00555110v1",
+          "is_oa": false,
+          "landing_page_url": "https://brgm.hal.science/hal-00555110",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "International Journal of Greenhouse Gas Control, 2010, 4 (2), p. 341-350. &#x27E8;10.1016/j.ijggc.2009.09.001&#x27E9;",
+          "raw_type": "Journal articles"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320300",
+          "display_name": "European Commission",
+          "ror": "https://ror.org/00k4n6c32"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 12,
+      "referenced_works": [
+        "https://openalex.org/W2021429322",
+        "https://openalex.org/W2064770948",
+        "https://openalex.org/W2087585881",
+        "https://openalex.org/W2106802871",
+        "https://openalex.org/W2140982950",
+        "https://openalex.org/W2184819533",
+        "https://openalex.org/W2355305752",
+        "https://openalex.org/W2381863651",
+        "https://openalex.org/W2485865780",
+        "https://openalex.org/W2560152191",
+        "https://openalex.org/W7024720515",
+        "https://openalex.org/W7066359867"
+      ],
+      "related_works": [
+        "https://openalex.org/W3123234388",
+        "https://openalex.org/W4312885019",
+        "https://openalex.org/W2135001683",
+        "https://openalex.org/W2607953476",
+        "https://openalex.org/W9725264",
+        "https://openalex.org/W2495697527",
+        "https://openalex.org/W4206645016",
+        "https://openalex.org/W3022794556",
+        "https://openalex.org/W2570513290",
+        "https://openalex.org/W2254012195"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-02-21T08:31:23.865262",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2581167478",
       "doi": "https://doi.org/10.2113/geoarabia130251",
       "title": "Stratigraphy of the Valanginian? to Early Paleocene succession in central Saudi Arabia outcrops: Implications for regional Arabian sequence stratigraphy",
@@ -13161,9 +13157,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/15"
+          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -16533,9 +16529,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -19122,9 +19118,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20237,9 +20233,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -22247,9 +22243,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -23700,9 +23696,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -24717,9 +24713,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -25491,9 +25487,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -26390,9 +26386,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -27454,9 +27450,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -27558,18 +27554,16 @@
         "landing_page_url": "https://brgm.hal.science/hal-00575582",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "id": "https://openalex.org/S4406922466",
+          "display_name": "SPIRE - Sciences Po Institutional REpository",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
-          "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -27692,7 +27686,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.80227526,
+        "value": 0.80669527,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27924,18 +27918,16 @@
           "landing_page_url": "https://brgm.hal.science/hal-00575582",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -27951,9 +27943,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -28003,7 +27995,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-10T06:17:13.238206",
+      "updated_date": "2026-02-21T08:31:23.865262",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28339,7 +28331,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.60244251,
+        "value": 0.60654368,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28724,18 +28716,16 @@
           "landing_page_url": "https://brgm.hal.science/hal-03652201",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -28828,7 +28818,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-21T08:31:23.865262",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -29266,9 +29256,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -29624,9 +29614,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -33871,7 +33861,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11332774,
+        "value": 0.11250123,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -34161,18 +34151,16 @@
           "landing_page_url": "https://brgm.hal.science/hal-03652118",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -34265,7 +34253,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-21T08:31:23.865262",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34607,9 +34595,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -35271,9 +35259,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -36882,18 +36870,16 @@
         "landing_page_url": "https://brgm.hal.science/hal-00871333",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "id": "https://openalex.org/S4406922461",
+          "display_name": "SPIRE - Sciences Po Institutional REpository",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
-          "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -37109,7 +37095,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.49698606,
+        "value": 0.4999721,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37242,18 +37228,16 @@
           "landing_page_url": "https://brgm.hal.science/hal-00871333",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "id": "https://openalex.org/S4406922461",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -38254,7 +38238,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-10T06:17:13.238206",
+      "updated_date": "2026-02-21T08:31:23.865262",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -38275,18 +38259,16 @@
         "landing_page_url": "https://brgm.hal.science/hal-00871336",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "id": "https://openalex.org/S4406922461",
+          "display_name": "SPIRE - Sciences Po Institutional REpository",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
-          "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -38430,7 +38412,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.51150134,
+        "value": 0.51541724,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38551,18 +38533,16 @@
           "landing_page_url": "https://brgm.hal.science/hal-00871336",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "id": "https://openalex.org/S4406922461",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -38578,9 +38558,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -39503,7 +39483,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-10T06:17:13.238206",
+      "updated_date": "2026-02-21T08:31:23.865262",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40420,18 +40400,16 @@
         "landing_page_url": "https://brgm.hal.science/hal-00658080",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "id": "https://openalex.org/S4406922466",
+          "display_name": "SPIRE - Sciences Po Institutional REpository",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
-          "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -40477,19 +40455,19 @@
           "is_corresponding": true,
           "raw_author_name": "Issautier, Benoit",
           "raw_affiliation_strings": [
-            "Géologie des systémes et des réservoirs carbonatés - EA4234",
-            "Bureau de Recherches Géologiques et Minières (BRGM)"
+            "Bureau de Recherches Géologiques et Minières (BRGM)",
+            "Géologie des systémes et des réservoirs carbonatés - EA4234"
           ],
           "affiliations": [
-            {
-              "raw_affiliation_string": "Géologie des systémes et des réservoirs carbonatés - EA4234",
-              "institution_ids": []
-            },
             {
               "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
               "institution_ids": [
                 "https://openalex.org/I4210158893"
               ]
+            },
+            {
+              "raw_affiliation_string": "Géologie des systémes et des réservoirs carbonatés - EA4234",
+              "institution_ids": []
             }
           ]
         },
@@ -40623,7 +40601,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.60444479,
+        "value": 0.60412108,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40916,18 +40894,16 @@
           "landing_page_url": "https://brgm.hal.science/hal-00658080",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -40972,7 +40948,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-10T06:17:13.238206",
+      "updated_date": "2026-02-21T08:31:23.865262",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40992,18 +40968,16 @@
         "landing_page_url": "https://hal.science/hal-00022141",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306402512",
-          "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+          "id": "https://openalex.org/S4406922466",
+          "display_name": "SPIRE - Sciences Po Institutional REpository",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I1294671590",
-          "host_organization_name": "Centre National de la Recherche Scientifique",
-          "host_organization_lineage": [
-            "https://openalex.org/I1294671590"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -41192,7 +41166,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.16739355,
+        "value": 0.16070341,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41380,18 +41354,16 @@
           "landing_page_url": "https://hal.science/hal-00022141",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "id": "https://openalex.org/S4406922466",
+            "display_name": "SPIRE - Sciences Po Institutional REpository",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -41407,9 +41379,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -41728,7 +41700,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-10T06:17:13.238206",
+      "updated_date": "2026-02-21T08:31:23.865262",
       "created_date": "2025-10-10T00:00:00"
     }
   ]
