@@ -707,7 +707,11 @@ export const worksTable: WorkTableRecord[] = [
       "Hydrocarbon exploration and reservoir analysis",
       "Mineral Processing and Grinding"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Alberta",
+      "China University of Geosciences"
+    ]
   },
   {
     "workId": "https://openalex.org/W4412493990",
@@ -7561,7 +7565,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2011-04-26",
     "year": 2011,
     "venue": "Contributions to Mineralogy and Petrology",
-    "citations": 410,
+    "citations": 411,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -7738,7 +7742,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-12-19",
     "year": 2018,
     "venue": "Geochemistry Geophysics Geosystems",
-    "citations": 186,
+    "citations": 187,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -10778,7 +10782,11 @@ export const worksTable: WorkTableRecord[] = [
       "Geochemistry and Geologic Mapping",
       "earthquake and tectonic studies"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Korea Basic Science Institute",
+      "Korea University"
+    ]
   },
   {
     "workId": "https://openalex.org/W4386968786",
@@ -20937,7 +20945,9 @@ export const worksTable: WorkTableRecord[] = [
       "Astrophysics and Star Formation Studies",
       "Porphyrin and Phthalocyanine Chemistry"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4407686626",
@@ -22317,7 +22327,11 @@ export const worksTable: WorkTableRecord[] = [
     "venue": "Unconventional Resources",
     "citations": 0,
     "topics": [],
-    "institutions": []
+    "institutions": [
+      "National University of Río Negro",
+      "Saudi Aramco (Saudi Arabia)",
+      "National Agricultural Technology Institute"
+    ]
   },
   {
     "workId": "https://openalex.org/W1970644949",
@@ -23980,7 +23994,9 @@ export const worksTable: WorkTableRecord[] = [
       "Coastal wetland ecosystem dynamics",
       "Geology and Paleoclimatology Research"
     ],
-    "institutions": []
+    "institutions": [
+      "Equinor (Norway)"
+    ]
   },
   {
     "workId": "https://openalex.org/W4385545744",
@@ -25878,7 +25894,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-03-29",
     "year": 2021,
     "venue": "Marine and Petroleum Geology",
-    "citations": 52,
+    "citations": 53,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
@@ -26011,7 +26027,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-04-29",
     "year": 2022,
     "venue": "Minerals",
-    "citations": 28,
+    "citations": 29,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -26053,6 +26069,40 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Birmingham City University",
       "University of Aberdeen",
+      "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4313367735",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2022.106073",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5014657720",
+    "allAuthorOpenAlexIds": [
+      "A5014657720",
+      "A5085007251",
+      "A5044235421",
+      "A5035537771",
+      "A5027197211"
+    ],
+    "firstAuthorLastName": "Bello",
+    "allAuthors": [
+      "Abdulwahab Muhammad Bello",
+      "Khalid Al–Ramadan",
+      "Lamidi Babalola",
+      "Abdullah Alqubalee",
+      "Abduljamiu O. Amao"
+    ],
+    "title": "Impact of grain-coating illite in preventing quartz cementation: Example from permo-carboniferous sandstone, Central Saudi Arabia",
+    "publicationDate": "2022-12-23",
+    "year": 2022,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 23,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
       "King Fahd University of Petroleum and Minerals"
     ]
   },
@@ -26388,40 +26438,6 @@ export const worksTable: WorkTableRecord[] = [
       "King Fahd University of Petroleum and Minerals",
       "Jagiellonian University",
       "Instytut Nauk Geologicznych"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4313367735",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2022.106073",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5014657720",
-    "allAuthorOpenAlexIds": [
-      "A5014657720",
-      "A5085007251",
-      "A5044235421",
-      "A5035537771",
-      "A5027197211"
-    ],
-    "firstAuthorLastName": "Bello",
-    "allAuthors": [
-      "Abdulwahab Muhammad Bello",
-      "Khalid Al–Ramadan",
-      "Lamidi Babalola",
-      "Abdullah Alqubalee",
-      "Abduljamiu O. Amao"
-    ],
-    "title": "Impact of grain-coating illite in preventing quartz cementation: Example from permo-carboniferous sandstone, Central Saudi Arabia",
-    "publicationDate": "2022-12-23",
-    "year": 2022,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 22,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological formations and processes",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals"
     ]
   },
   {
@@ -29455,7 +29471,18 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils",
       "Methane Hydrates and Related Phenomena"
     ],
-    "institutions": []
+    "institutions": [
+      "Khalifa University of Science and Technology",
+      "Salahaddin University-Erbil",
+      "Palacký University Olomouc",
+      "Kurdistan Regional Government",
+      "University of Kurdistan Hewler",
+      "Iraqi University",
+      "Giuliani (Italy)",
+      "Universidade Federal do Rio Grande do Sul",
+      "University of Al Maarif",
+      "University of Geneva"
+    ]
   },
   {
     "workId": "https://openalex.org/W4415510432",
@@ -30511,6 +30538,46 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4384207547",
+    "doi": "https://doi.org/10.2118/215857-pa",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5027197211",
+    "allAuthorOpenAlexIds": [
+      "A5027197211",
+      "A5017097772",
+      "A5002974432",
+      "A5038432622",
+      "A5053834729",
+      "A5067074454",
+      "A5024843025"
+    ],
+    "firstAuthorLastName": "Desouky",
+    "allAuthors": [
+      "Mahmoud Desouky",
+      "Murtada Saleh Aljawad",
+      "Abduljamiu O. Amao",
+      "Theis I. Sølling",
+      "Abdulazeez Abdulraheem",
+      "Murtadha J. AlTammar",
+      "Khalid M. Alruwaili"
+    ],
+    "title": "Enhancing Fracture Conductivity in Soft Chalk Formations With Diammonium Phosphate Treatment: A Study at High Temperature, Pressure, and Stresses",
+    "publicationDate": "2023-07-13",
+    "year": 2023,
+    "venue": "SPE Journal",
+    "citations": 10,
+    "topics": [
+      "Rock Mechanics and Modeling",
+      "Drilling and Well Engineering",
+      "Hydraulic Fracturing and Reservoir Analysis"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "University of Petroleum",
+      "Saudi Aramco (United States)"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4402460934",
     "doi": "https://doi.org/10.1016/j.ijhydene.2024.09.061",
     "program": "",
@@ -30540,46 +30607,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4384207547",
-    "doi": "https://doi.org/10.2118/215857-pa",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5027197211",
-    "allAuthorOpenAlexIds": [
-      "A5027197211",
-      "A5017097772",
-      "A5002974432",
-      "A5038432622",
-      "A5053834729",
-      "A5067074454",
-      "A5024843025"
-    ],
-    "firstAuthorLastName": "Desouky",
-    "allAuthors": [
-      "Mahmoud Desouky",
-      "Murtada Saleh Aljawad",
-      "Abduljamiu O. Amao",
-      "Theis I. Sølling",
-      "Abdulazeez Abdulraheem",
-      "Murtadha J. AlTammar",
-      "Khalid M. Alruwaili"
-    ],
-    "title": "Enhancing Fracture Conductivity in Soft Chalk Formations With Diammonium Phosphate Treatment: A Study at High Temperature, Pressure, and Stresses",
-    "publicationDate": "2023-07-13",
-    "year": 2023,
-    "venue": "SPE Journal",
-    "citations": 9,
-    "topics": [
-      "Rock Mechanics and Modeling",
-      "Drilling and Well Engineering",
-      "Hydraulic Fracturing and Reservoir Analysis"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "University of Petroleum",
-      "Saudi Aramco (United States)"
     ]
   },
   {
@@ -30731,7 +30758,11 @@ export const worksTable: WorkTableRecord[] = [
       "Advancements in Battery Materials",
       "Advanced Battery Technologies Research"
     ],
-    "institutions": []
+    "institutions": [
+      "State University of Malang",
+      "King Fahd University of Petroleum and Minerals",
+      "Kyoto University"
+    ]
   },
   {
     "workId": "https://openalex.org/W4379280029",
@@ -34127,7 +34158,10 @@ export const worksTable: WorkTableRecord[] = [
       "Evolution and Paleontology Studies",
       "Geology and Paleoclimatology Research"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Geological Survey of India"
+    ]
   },
   {
     "workId": "https://openalex.org/W4412363895",
@@ -39603,38 +39637,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4414413720",
-    "doi": "https://doi.org/10.1016/j.jafrearsci.2025.105848",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5057960065",
-      "A5061703841",
-      "A5048429617",
-      "A5043354798"
-    ],
-    "firstAuthorLastName": "Hatem",
-    "allAuthors": [
-      "Baleid Ali Hatem",
-      "Mohammed Hail Hakimi",
-      "Khairul Azlan Mustapha",
-      "Wan Hasiah Abdullah",
-      "Alok Kumar"
-    ],
-    "title": "Shale–oil potential in Shabwah depression, southeast Yemen: A geochemical and basin modeling perspective",
-    "publicationDate": "2025-09-23",
-    "year": 2025,
-    "venue": "Journal of African Earth Sciences",
-    "citations": 1,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Geological Studies and Exploration"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W2130733762",
     "doi": "https://doi.org/10.1016/j.orggeochem.2012.10.003",
     "program": "",
@@ -41186,6 +41188,43 @@ export const worksTable: WorkTableRecord[] = [
       "University of Technology Malaysia",
       "Almetyevsk State Oil Institute",
       "Tatneft (Russia)"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4414413720",
+    "doi": "https://doi.org/10.1016/j.jafrearsci.2025.105848",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5057960065",
+      "A5061703841",
+      "A5048429617",
+      "A5043354798"
+    ],
+    "firstAuthorLastName": "Hatem",
+    "allAuthors": [
+      "Baleid Ali Hatem",
+      "Mohammed Hail Hakimi",
+      "Khairul Azlan Mustapha",
+      "Wan Hasiah Abdullah",
+      "Alok Kumar"
+    ],
+    "title": "Shale–oil potential in Shabwah depression, southeast Yemen: A geochemical and basin modeling perspective",
+    "publicationDate": "2025-09-23",
+    "year": 2025,
+    "venue": "Journal of African Earth Sciences",
+    "citations": 1,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "University of Malaya",
+      "Kazan Federal University",
+      "Taiz University",
+      "Banaras Hindu University"
     ]
   },
   {
@@ -47451,7 +47490,9 @@ export const worksTable: WorkTableRecord[] = [
     "venue": "International Journal of Sediment Research",
     "citations": 0,
     "topics": [],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W7129290408",
@@ -47515,7 +47556,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-06-16",
     "year": 2023,
     "venue": "Chemosphere",
-    "citations": 64,
+    "citations": 65,
     "topics": [
       "Fluoride Effects and Removal",
       "Groundwater and Isotope Geochemistry"
@@ -66924,7 +66965,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2008-05-12",
     "year": 2008,
     "venue": "Lethaia",
-    "citations": 211,
+    "citations": 212,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -72802,7 +72843,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-08-25",
     "year": 2019,
     "venue": "Earth-Science Reviews",
-    "citations": 280,
+    "citations": 281,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geochemical Analysis",
@@ -72897,7 +72938,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-02-09",
     "year": 2021,
     "venue": "National Science Review",
-    "citations": 111,
+    "citations": 113,
     "topics": [
       "Scientific Computing and Data Management",
       "Geochemistry and Geologic Mapping",
@@ -74113,7 +74154,16 @@ export const worksTable: WorkTableRecord[] = [
       "Evolution and Paleontology Studies",
       "Pleistocene-Era Hominins and Archaeology"
     ],
-    "institutions": []
+    "institutions": [
+      "University College London",
+      "Nanjing University",
+      "Purdue University West Lafayette",
+      "Chengdu University of Technology",
+      "Universidad de Zaragoza",
+      "University of California, Riverside",
+      "British Geological Survey",
+      "East China University of Technology"
+    ]
   },
   {
     "workId": "https://openalex.org/W4410828119",
@@ -76047,7 +76097,14 @@ export const worksTable: WorkTableRecord[] = [
       "Oceanographic and Atmospheric Processes",
       "demographic modeling and climate adaptation"
     ],
-    "institutions": []
+    "institutions": [
+      "Nanjing University",
+      "University of Oxford",
+      "Hefei University of Technology",
+      "Innovation Team (China)",
+      "Merrimack College",
+      "British Geological Survey"
+    ]
   },
   {
     "workId": "https://openalex.org/W4410205451",
@@ -84697,7 +84754,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-04-06",
     "year": 2017,
     "venue": "Gondwana Research",
-    "citations": 624,
+    "citations": 625,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -99430,7 +99487,9 @@ export const worksTable: WorkTableRecord[] = [
       "Geochemistry and Elemental Analysis",
       "Radioactive element chemistry and processing"
     ],
-    "institutions": []
+    "institutions": [
+      "The University of Adelaide"
+    ]
   },
   {
     "workId": "https://openalex.org/W4414970434",
@@ -103731,7 +103790,7 @@ export const worksTable: WorkTableRecord[] = [
     "title": "Facies analysis and sequence stratigraphy of the uppermost Jurassic- Lower Cretaceous Sulaiy Formation in outcrops of central Saudi Arabia",
     "publicationDate": "2015-01-01",
     "year": 2015,
-    "venue": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "venue": "SPIRE - Sciences Po Institutional REpository",
     "citations": 8,
     "topics": [
       "Geological and Geophysical Studies",
@@ -104640,7 +104699,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-11-24",
     "year": 2020,
     "venue": "Sustainability",
-    "citations": 32,
+    "citations": 33,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -109209,7 +109268,10 @@ export const worksTable: WorkTableRecord[] = [
     "venue": "Results in Engineering",
     "citations": 0,
     "topics": [],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "King Fahd Military Medical Complex"
+    ]
   },
   {
     "workId": "https://openalex.org/W2774779682",
@@ -111086,36 +111148,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W4409211374",
-    "doi": "https://doi.org/10.1016/j.jappgeo.2025.105723",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5055394222",
-      "A5053621729",
-      "A5100674127"
-    ],
-    "firstAuthorLastName": "Antariksa",
-    "allAuthors": [
-      "Gian Antariksa",
-      "Ardiansyah Koeshidayatullah",
-      "Subasish Das",
-      "Jihwan Lee"
-    ],
-    "title": "XAI-driven contamination for self-supervised denoising with pixel-level anomaly detection in seismic data",
-    "publicationDate": "2025-04-07",
-    "year": 2025,
-    "venue": "Journal of Applied Geophysics",
-    "citations": 1,
-    "topics": [
-      "Seismic Imaging and Inversion Techniques",
-      "Seismology and Earthquake Studies",
-      "Image and Signal Denoising Methods"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W2562655431",
     "doi": "https://doi.org/10.1111/jpg.12665",
     "program": "",
@@ -111568,6 +111600,40 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4409211374",
+    "doi": "https://doi.org/10.1016/j.jappgeo.2025.105723",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5055394222",
+      "A5053621729",
+      "A5100674127"
+    ],
+    "firstAuthorLastName": "Antariksa",
+    "allAuthors": [
+      "Gian Antariksa",
+      "Ardiansyah Koeshidayatullah",
+      "Subasish Das",
+      "Jihwan Lee"
+    ],
+    "title": "XAI-driven contamination for self-supervised denoising with pixel-level anomaly detection in seismic data",
+    "publicationDate": "2025-04-07",
+    "year": 2025,
+    "venue": "Journal of Applied Geophysics",
+    "citations": 1,
+    "topics": [
+      "Seismic Imaging and Inversion Techniques",
+      "Seismology and Earthquake Studies",
+      "Image and Signal Denoising Methods"
+    ],
+    "institutions": [
+      "Pukyong National University",
+      "King Fahd University of Petroleum and Minerals",
+      "Texas State University"
     ]
   },
   {
@@ -113082,7 +113148,11 @@ export const worksTable: WorkTableRecord[] = [
     "venue": "Geoenergy Science and Engineering",
     "citations": 0,
     "topics": [],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "Planetary Science Institute",
+      "Saudi Aramco (Saudi Arabia)"
+    ]
   },
   {
     "workId": "https://openalex.org/W1525628619",
@@ -118059,7 +118129,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-11-28",
     "year": 2022,
     "venue": "Scientific Reports",
-    "citations": 36,
+    "citations": 37,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Groundwater flow and contamination studies",
@@ -120272,7 +120342,9 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geochemical Analysis",
       "Mine drainage and remediation techniques"
     ],
-    "institutions": []
+    "institutions": [
+      "King Abdullah University of Science and Technology"
+    ]
   },
   {
     "workId": "https://openalex.org/W4413554805",
@@ -121625,7 +121697,9 @@ export const worksTable: WorkTableRecord[] = [
       "Geophysical and Geoelectrical Methods",
       "Geological and Geophysical Studies"
     ],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4213030173",
@@ -122778,7 +122852,9 @@ export const worksTable: WorkTableRecord[] = [
     "venue": "Journal of Molecular Liquids",
     "citations": 0,
     "topics": [],
-    "institutions": []
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals"
+    ]
   },
   {
     "workId": "https://openalex.org/W4391074126",
@@ -123433,7 +123509,12 @@ export const worksTable: WorkTableRecord[] = [
       "Geology and Paleoclimatology Research",
       "Hydrocarbon exploration and reservoir analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "Saudi Aramco (Saudi Arabia)",
+      "The University of Texas at Austin",
+      "Bureau of Economic Analysis",
+      "Kitware (United States)"
+    ]
   },
   {
     "workId": "https://openalex.org/W2064401694",
@@ -125746,7 +125827,13 @@ export const worksTable: WorkTableRecord[] = [
       "Geology and Paleoclimatology Research",
       "Hydrocarbon exploration and reservoir analysis"
     ],
-    "institutions": []
+    "institutions": [
+      "Wound Care Strategies (United States)",
+      "Christian-Albrechts-Universität zu Kiel",
+      "Bahrain Center for Strategic International and Energy Studies",
+      "International Hospital of Bahrain",
+      "Kuwait Petroleum Corporation (Kuwait)"
+    ]
   },
   {
     "workId": "https://openalex.org/W2968475188",
@@ -126075,7 +126162,9 @@ export const worksTable: WorkTableRecord[] = [
     "venue": "Gondwana Research",
     "citations": 0,
     "topics": [],
-    "institutions": []
+    "institutions": [
+      "Geophysical Survey"
+    ]
   },
   {
     "workId": "https://openalex.org/W2029445869",

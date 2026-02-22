@@ -827,9 +827,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/10",
           "score": 0.5600000023841858,
-          "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -2529,9 +2529,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7099999785423279,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3659,9 +3659,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/8",
           "score": 0.4399999976158142,
-          "display_name": "Decent work and economic growth",
-          "id": "https://metadata.un.org/sdg/8"
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -4221,9 +4221,9 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/10",
           "score": 0.4300000071525574,
-          "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
@@ -6347,14 +6347,43 @@
           "author": {
             "id": "https://openalex.org/A5013827317",
             "display_name": "Abdulrahman Al‐Fakih",
-            "orcid": "https://orcid.org/0000-0001-7583-768X"
+            "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Abdulrahman Al-Fakih",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -6363,12 +6392,41 @@
             "display_name": "Ardiansyah Koeshidayatullah",
             "orcid": "https://orcid.org/0000-0001-7558-8783"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Ardiansyah Koeshidayatullah",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -6377,12 +6435,34 @@
             "display_name": "Nabil A. Saraih",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Nabil A. Saraih",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -6391,12 +6471,34 @@
             "display_name": "Tapan Mukerji",
             "orcid": "https://orcid.org/0000-0003-1711-1850"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1302918504",
+              "display_name": "Planetary Science Institute",
+              "ror": "https://ror.org/05vvg9554",
+              "country_code": "US",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I1302918504"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Tapan Mukerji",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Departments of Energy Science & Engineering, Earth & Planetary Sciences, and Geophysics, Stanford University, Stanford, 94305, USA"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Departments of Energy Science & Engineering, Earth & Planetary Sciences, and Geophysics, Stanford University, Stanford, 94305, USA",
+              "institution_ids": [
+                "https://openalex.org/I1302918504"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -6405,12 +6507,34 @@
             "display_name": "Rayan Kanfar",
             "orcid": "https://orcid.org/0000-0003-4321-5573"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Rayan Kanfar",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -6419,12 +6543,34 @@
             "display_name": "Abdulmohsen Alali",
             "orcid": "https://orcid.org/0000-0002-5128-992X"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdulmohsen Alali",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "EXPEC Advanced Research Center, Saudi Aramco, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -6433,21 +6579,52 @@
             "display_name": "SanLinn I. Kaka",
             "orcid": "https://orcid.org/0000-0003-1229-4627"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "SanLinn I. Kaka",
-          "raw_affiliation_strings": [],
-          "affiliations": []
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 2,
       "institutions_distinct_count": 7,
       "corresponding_author_ids": [
         "https://openalex.org/A5013827317"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
@@ -6590,9 +6767,791 @@
         "https://openalex.org/W4412972888"
       ],
       "related_works": [],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "90": [
+          313
+        ],
+        "Accurate": [
+          0
+        ],
+        "geological": [
+          1,
+          178,
+          299
+        ],
+        "modeling": [
+          2
+        ],
+        "is": [
+          3,
+          218
+        ],
+        "essential": [
+          4
+        ],
+        "for": [
+          5,
+          134,
+          150,
+          191,
+          196,
+          250,
+          277
+        ],
+        "reservoir": [
+          6,
+          45,
+          56,
+          265,
+          278,
+          295
+        ],
+        "characterization,": [
+          7
+        ],
+        "yet": [
+          8
+        ],
+        "traditional": [
+          9,
+          201
+        ],
+        "methods": [
+          10
+        ],
+        "struggle": [
+          11
+        ],
+        "with": [
+          12,
+          89,
+          147,
+          244
+        ],
+        "complex": [
+          13
+        ],
+        "subsurface": [
+          14
+        ],
+        "heterogeneity": [
+          15,
+          237
+        ],
+        "and": [
+          16,
+          50,
+          87,
+          93,
+          110,
+          126,
+          140,
+          156,
+          162,
+          177,
+          185,
+          194,
+          207,
+          210,
+          233,
+          267,
+          286,
+          306,
+          323,
+          327
+        ],
+        "the": [
+          17,
+          38,
+          54,
+          58,
+          68,
+          75,
+          187,
+          192,
+          215,
+          239,
+          242,
+          256,
+          273
+        ],
+        "conditioning": [
+          18
+        ],
+        "of": [
+          19,
+          57,
+          241,
+          258
+        ],
+        "data": [
+          20,
+          78
+        ],
+        "to": [
+          21,
+          42,
+          81,
+          200,
+          220,
+          229,
+          246
+        ],
+        "observed": [
+          22
+        ],
+        "values.": [
+          23
+        ],
+        "This": [
+          24,
+          253
+        ],
+        "study": [
+          25,
+          254
+        ],
+        "introduces": [
+          26
+        ],
+        "Pix2Geomodel,": [
+          27
+        ],
+        "a": [
+          28,
+          63,
+          90
+        ],
+        "novel": [
+          29
+        ],
+        "conditional": [
+          30
+        ],
+        "generative": [
+          31,
+          259
+        ],
+        "adversarial": [
+          32
+        ],
+        "network": [
+          33
+        ],
+        "(cGAN)": [
+          34
+        ],
+        "framework": [
+          35,
+          173
+        ],
+        "based": [
+          36
+        ],
+        "on": [
+          37
+        ],
+        "Pix2Pix": [
+          39,
+          275
+        ],
+        "architecture,": [
+          40
+        ],
+        "designed": [
+          41
+        ],
+        "predict": [
+          43
+        ],
+        "key": [
+          44
+        ],
+        "properties": [
+          46
+        ],
+        "(facies,": [
+          47
+        ],
+        "porosity,": [
+          48
+        ],
+        "permeability,": [
+          49
+        ],
+        "water": [
+          51,
+          141
+        ],
+        "saturation)": [
+          52
+        ],
+        "from": [
+          53,
+          67
+        ],
+        "Rotliegend": [
+          55
+        ],
+        "Groningen": [
+          59
+        ],
+        "gas": [
+          60
+        ],
+        "field.": [
+          61
+        ],
+        "Utilizing": [
+          62
+        ],
+        "7.6": [
+          64
+        ],
+        "million-cell": [
+          65
+        ],
+        "dataset": [
+          66
+        ],
+        "Nederlandse": [
+          69
+        ],
+        "Aardolie": [
+          70
+        ],
+        "Maatschappij,": [
+          71
+        ],
+        "accessed": [
+          72
+        ],
+        "via": [
+          73
+        ],
+        "EPOS-NL,": [
+          74
+        ],
+        "methodology": [
+          76
+        ],
+        "included": [
+          77
+        ],
+        "preprocessing,": [
+          79
+        ],
+        "augmentation": [
+          80
+        ],
+        "generate": [
+          82
+        ],
+        "2,350": [
+          83
+        ],
+        "images": [
+          84
+        ],
+        "per": [
+          85
+        ],
+        "property,": [
+          86
+        ],
+        "training": [
+          88,
+          188
+        ],
+        "U-Net": [
+          91
+        ],
+        "generator": [
+          92,
+          193
+        ],
+        "PatchGAN": [
+          94
+        ],
+        "discriminator": [
+          95,
+          195
+        ],
+        "over": [
+          96,
+          107,
+          113
+        ],
+        "19,000": [
+          97
+        ],
+        "steps.": [
+          98
+        ],
+        "Evaluation": [
+          99
+        ],
+        "metrics": [
+          100
+        ],
+        "include": [
+          101
+        ],
+        "pixel": [
+          102
+        ],
+        "accuracy": [
+          103,
+          133,
+          292
+        ],
+        "(PA),": [
+          104
+        ],
+        "mean": [
+          105
+        ],
+        "intersection": [
+          106,
+          112
+        ],
+        "union": [
+          108,
+          114
+        ],
+        "(mIoU),": [
+          109
+        ],
+        "frequency-weighted": [
+          111
+        ],
+        "(FWIoU).": [
+          115
+        ],
+        "Performance": [
+          116
+        ],
+        "was": [
+          117
+        ],
+        "evaluated": [
+          118
+        ],
+        "in": [
+          119,
+          238,
+          261
+        ],
+        "two": [
+          120
+        ],
+        "tasks:": [
+          121
+        ],
+        "(i)": [
+          122
+        ],
+        "masked": [
+          123
+        ],
+        "property": [
+          124,
+          212,
+          279
+        ],
+        "prediction": [
+          125
+        ],
+        "(ii)": [
+          127
+        ],
+        "property-to-property": [
+          128
+        ],
+        "translation.": [
+          129,
+          280
+        ],
+        "Results": [
+          130
+        ],
+        "demonstrated": [
+          131
+        ],
+        "high": [
+          132,
+          291
+        ],
+        "facies": [
+          135
+        ],
+        "(PA": [
+          136,
+          143,
+          152,
+          158
+        ],
+        "0.88,": [
+          137
+        ],
+        "FWIoU": [
+          138,
+          145,
+          154,
+          160,
+          170
+        ],
+        "0.85)": [
+          139
+        ],
+        "saturation": [
+          142
+        ],
+        "0.96,": [
+          144
+        ],
+        "0.95),": [
+          146
+        ],
+        "moderate": [
+          148
+        ],
+        "success": [
+          149
+        ],
+        "porosity": [
+          151
+        ],
+        "0.70,": [
+          153
+        ],
+        "0.55)": [
+          155
+        ],
+        "permeability": [
+          157
+        ],
+        "0.74,": [
+          159
+        ],
+        "0.60),": [
+          161
+        ],
+        "robust": [
+          163
+        ],
+        "transferability": [
+          164
+        ],
+        "performance": [
+          165
+        ],
+        "(e.g.,": [
+          166
+        ],
+        "facies-to-Sw": [
+          167
+        ],
+        "PA": [
+          168
+        ],
+        "0.98,": [
+          169
+        ],
+        "0.97).": [
+          171
+        ],
+        "The": [
+          172
+        ],
+        "captured": [
+          174
+        ],
+        "spatial": [
+          175
+        ],
+        "variability": [
+          176
+        ],
+        "realism,": [
+          179,
+          300
+        ],
+        "as": [
+          180
+        ],
+        "validated": [
+          181,
+          301
+        ],
+        "by": [
+          182,
+          302
+        ],
+        "variogram": [
+          183
+        ],
+        "analysis,": [
+          184
+        ],
+        "calculated": [
+          186
+        ],
+        "loss": [
+          189
+        ],
+        "curves": [
+          190
+        ],
+        "each": [
+          197
+        ],
+        "property.": [
+          198
+        ],
+        "Compared": [
+          199
+        ],
+        "methods,": [
+          202
+        ],
+        "Pix2Geomodel": [
+          203,
+          251
+        ],
+        "provides": [
+          204
+        ],
+        "more": [
+          205,
+          208
+        ],
+        "accurate": [
+          206
+        ],
+        "time-": [
+          209
+        ],
+        "resource-efficient": [
+          211
+        ],
+        "mapping.": [
+          213
+        ],
+        "While": [
+          214
+        ],
+        "current": [
+          216
+        ],
+        "model": [
+          217
+        ],
+        "trained": [
+          219
+        ],
+        "perform": [
+          221
+        ],
+        "2D": [
+          222
+        ],
+        "geomodeling,": [
+          223
+        ],
+        "future": [
+          224,
+          317
+        ],
+        "work": [
+          225
+        ],
+        "will": [
+          226
+        ],
+        "be": [
+          227
+        ],
+        "developed": [
+          228
+        ],
+        "involve": [
+          230
+        ],
+        "3D": [
+          231,
+          318
+        ],
+        "geomodeling": [
+          232
+        ],
+        "also": [
+          234
+        ],
+        "consider": [
+          235
+        ],
+        "microstructural": [
+          236
+        ],
+        "geology": [
+          240
+        ],
+        "area,": [
+          243
+        ],
+        "extensions": [
+          245
+        ],
+        "multi-modal": [
+          247
+        ],
+        "inputs": [
+          248
+        ],
+        "planned": [
+          249
+        ],
+        "v2.0.": [
+          252
+        ],
+        "advances": [
+          255
+        ],
+        "application": [
+          257
+        ],
+        "AI": [
+          260
+        ],
+        "geoscience,": [
+          262
+        ],
+        "supporting": [
+          263
+        ],
+        "improved": [
+          264
+        ],
+        "management": [
+          266
+        ],
+        "open": [
+          268
+        ],
+        "science": [
+          269
+        ],
+        "initiatives.": [
+          270
+        ],
+        "•": [
+          271,
+          281,
+          289,
+          297,
+          309,
+          320
+        ],
+        "Pix2Geomodel:": [
+          272
+        ],
+        "first": [
+          274
+        ],
+        "cGAN": [
+          276
+        ],
+        "Handles": [
+          282
+        ],
+        "both": [
+          283
+        ],
+        "missing-data": [
+          284
+        ],
+        "reconstruction": [
+          285
+        ],
+        "cross-property": [
+          287
+        ],
+        "prediction.": [
+          288
+        ],
+        "Achieves": [
+          290
+        ],
+        "across": [
+          293
+        ],
+        "multiple": [
+          294
+        ],
+        "properties.": [
+          296
+        ],
+        "Preserves": [
+          298
+        ],
+        "variograms,": [
+          303
+        ],
+        "error": [
+          304
+        ],
+        "metrics,": [
+          305
+        ],
+        "expert": [
+          307
+        ],
+        "reviews.": [
+          308
+        ],
+        "Scalable": [
+          310
+        ],
+        "workflow:": [
+          311
+        ],
+        "∼": [
+          312
+        ],
+        "%": [
+          314
+        ],
+        "faster,": [
+          315
+        ],
+        "enabling": [
+          316
+        ],
+        "applications.": [
+          319
+        ],
+        "Open-source": [
+          321
+        ],
+        "datasets": [
+          322
+        ],
+        "code": [
+          324
+        ],
+        "ensure": [
+          325
+        ],
+        "reproducibility": [
+          326
+        ],
+        "reuse.": [
+          328
+        ]
+      },
       "counts_by_year": [],
-      "updated_date": "2025-12-21T01:58:51.020947",
+      "updated_date": "2026-02-22T15:27:11.003080",
       "created_date": "2025-12-12T00:00:00"
     }
   ]
