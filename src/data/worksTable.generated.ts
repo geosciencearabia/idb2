@@ -72938,7 +72938,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2021-02-09",
     "year": 2021,
     "venue": "National Science Review",
-    "citations": 113,
+    "citations": 114,
     "topics": [
       "Scientific Computing and Data Management",
       "Geochemistry and Geologic Mapping",
@@ -113203,6 +113203,39 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W3014593358",
+    "doi": "https://doi.org/10.1016/j.petrol.2020.107209",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5061320565",
+    "allAuthorOpenAlexIds": [
+      "A5061320565",
+      "A5109239773",
+      "A5070455488",
+      "A5018368442"
+    ],
+    "firstAuthorLastName": "AlQuraishi",
+    "allAuthors": [
+      "Abdulrahman A. AlQuraishi",
+      "Abdulaziz A. Al-Laboun",
+      "Faisal AlGhamdi",
+      "Saud N. AlHussinan"
+    ],
+    "title": "Silurian qusaiba shale: Petrophysical, mineralogical and geochemical analysis",
+    "publicationDate": "2020-04-01",
+    "year": 2020,
+    "venue": "Journal of Petroleum Science and Engineering",
+    "citations": 13,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Methane Hydrates and Related Phenomena",
+      "Geochemistry and Geologic Mapping"
+    ],
+    "institutions": [
+      "King Abdulaziz City for Science and Technology",
+      "King Saud University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2169570507",
     "doi": "https://doi.org/10.1007/s13202-011-0007-5",
     "program": "",
@@ -113317,39 +113350,6 @@ export const worksTable: WorkTableRecord[] = [
       "Geological formations and processes"
     ],
     "institutions": [
-      "King Saud University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3014593358",
-    "doi": "https://doi.org/10.1016/j.petrol.2020.107209",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5061320565",
-    "allAuthorOpenAlexIds": [
-      "A5061320565",
-      "A5109239773",
-      "A5070455488",
-      "A5018368442"
-    ],
-    "firstAuthorLastName": "AlQuraishi",
-    "allAuthors": [
-      "Abdulrahman A. AlQuraishi",
-      "Abdulaziz A. Al-Laboun",
-      "Faisal AlGhamdi",
-      "Saud N. AlHussinan"
-    ],
-    "title": "Silurian qusaiba shale: Petrophysical, mineralogical and geochemical analysis",
-    "publicationDate": "2020-04-01",
-    "year": 2020,
-    "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 12,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Methane Hydrates and Related Phenomena",
-      "Geochemistry and Geologic Mapping"
-    ],
-    "institutions": [
-      "King Abdulaziz City for Science and Technology",
       "King Saud University"
     ]
   },
@@ -130920,7 +130920,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2003-04-01",
     "year": 2003,
     "venue": "Terra Nova",
-    "citations": 82,
+    "citations": 83,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
