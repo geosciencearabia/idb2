@@ -627,11 +627,11 @@
         "currency": "CHF",
         "value_usd": 2598
       },
-      "fwci": 2.39869713,
+      "fwci": 2.3323,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.86658596,
+        "value": 0.86540202,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1096,7 +1096,22 @@
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8838089",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
           "license": "other-oa",
           "license_id": "https://openalex.org/licenses/other-oa",
           "version": "submittedVersion",
@@ -1687,7 +1702,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-02-09T09:26:11.010843",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1923,11 +1938,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.69539633,
+      "fwci": 1.4525,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.79970853,
+        "value": 0.7929486,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2222,9 +2237,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -3174,11 +3189,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.93737558,
+      "fwci": 1.1124,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.7518481,
+        "value": 0.7376762,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3458,9 +3473,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -4306,11 +4321,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.16126043,
+      "fwci": 1.2879,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.77132631,
+        "value": 0.76592974,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5251,11 +5266,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.13484386,
+      "fwci": 1.2772,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.76349076,
+        "value": 0.76240821,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5970,7 +5985,7 @@
         "gauge": [
           105
         ],
-        "length's": [
+        "length’s": [
           106
         ],
         "smoothing": [
@@ -6241,11 +6256,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.97272331,
+      "fwci": 1.0947,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.7380714,
+        "value": 0.73687578,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7061,7 +7076,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.16942149,
+      "fwci": 2.8756,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
@@ -7509,13 +7524,13 @@
           62,
           160
         ],
-        "\"shallow\",": [
+        "“shallow”,": [
           63
         ],
-        "\"deep\",": [
+        "“deep”,": [
           64
         ],
-        "\"FWI\"": [
+        "“FWI”": [
           66
         ],
         "surveys": [
@@ -7901,16 +7916,16 @@
         "https://openalex.org/A5052123503"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I62856769",
-        "https://openalex.org/I44461941"
+        "https://openalex.org/I44461941",
+        "https://openalex.org/I62856769"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.06084576,
+      "fwci": 3.011,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.9036479,
+        "value": 0.903667,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8191,9 +8206,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9196,11 +9211,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.76632866,
+      "fwci": 0.5254,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.7048569,
+        "value": 0.69974888,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9959,11 +9974,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2775571,
+      "fwci": 0.7724,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.78131204,
+        "value": 0.78242735,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10509,7 +10524,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2025-12-27T23:08:20.325037",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10710,11 +10725,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.34538381,
+      "fwci": 0.3396,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.59343184,
+        "value": 0.59269279,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11510,11 +11525,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.43421651,
+      "fwci": 0.3254,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.60214813,
+        "value": 0.59670115,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11834,9 +11849,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -12475,16 +12490,16 @@
         "https://openalex.org/A5027711423"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I71920554",
-        "https://openalex.org/I62856769"
+        "https://openalex.org/I62856769",
+        "https://openalex.org/I71920554"
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.31910614,
+      "fwci": 0.7786,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.79218927,
+        "value": 0.77512484,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12759,9 +12774,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6600000262260437
+          "score": 0.6600000262260437,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -13153,7 +13168,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.09002466,
+        "value": 0.09376328,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13423,7 +13438,7 @@
           50,
           82
         ],
-        "\"SAM\"": [
+        "“SAM”": [
           12
         ],
         "in": [
@@ -13498,13 +13513,13 @@
         "Harmonic": [
           40
         ],
-        "\"SHM\",": [
+        "“SHM”,": [
           42
         ],
         "Geometric": [
           44
         ],
-        "\"SGM\",": [
+        "“SGM”,": [
           46
         ],
         "and": [
@@ -13516,7 +13531,7 @@
         "Quadratic": [
           49
         ],
-        "\"SQM\".": [
+        "“SQM”.": [
           51
         ],
         "Furthermore,": [
@@ -13577,7 +13592,7 @@
         "Backus": [
           80
         ],
-        "\"BAM\".": [
+        "“BAM”.": [
           83
         ],
         "In": [
@@ -13903,11 +13918,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.50914015,
+      "fwci": 0.4481,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.5097152,
+        "value": 0.50878594,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14845,11 +14860,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.33907927,
+      "fwci": 0.2905,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.53722595,
+        "value": 0.53181731,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15203,9 +15218,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -15813,11 +15828,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.61216915,
+      "fwci": 0.6022,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.53231562,
+        "value": 0.53240833,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16160,9 +16175,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17155,7 +17170,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.24678567,
+        "value": 0.24663037,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17708,9 +17723,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -18823,7 +18838,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.13553415,
+        "value": 0.06119508,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19256,7 +19271,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0990815,
+        "value": 0.0801651,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19530,9 +19545,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -19693,7 +19708,7 @@
           33,
           149
         ],
-        "system's": [
+        "system’s": [
           34,
           135
         ],
@@ -21229,7 +21244,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.27569161,
+        "value": 0.27414168,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21383,9 +21398,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -21858,7 +21873,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22025,7 +22040,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22138173,
+        "value": 0.21662084,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22136,9 +22151,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -22607,7 +22622,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2025-11-06T03:46:38.306776",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22889,7 +22904,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.31153625,
+        "value": 0.29445074,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23769,7 +23784,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4057527,
+        "value": 0.36456455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
