@@ -169,7 +169,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000509,
+        "value": 0.0000508,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -220,7 +220,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000189,
+        "value": 0.0000188,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -339,7 +339,7 @@
     },
     "block_key": "a abdlmutalib",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5006844997",
-    "updated_date": "2026-02-11T12:21:17",
+    "updated_date": "2026-02-24T12:19:58",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -1276,7 +1276,7 @@
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.83694492,
+        "value": 0.83694847,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3202,11 +3202,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.9205,
+      "fwci": 2.9096,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.91425291,
+        "value": 0.91397021,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3810,11 +3810,11 @@
         "currency": "USD",
         "value_usd": 1805
       },
-      "fwci": 0.9236,
+      "fwci": 0.9124,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.74278717,
+        "value": 0.7428345,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5984,11 +5984,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.3896,
+      "fwci": 1.3897,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.79491074,
+        "value": 0.79492692,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9026,7 +9026,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.53238601,
+        "value": 0.53237596,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9534,11 +9534,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.2899,
+      "fwci": 0.2863,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.44056893,
+        "value": 0.44425737,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9888,8 +9888,21 @@
             "display_name": "Ammar Adam",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": true,
           "raw_author_name": "Ammar M. Adam*",
           "raw_affiliation_strings": [
@@ -9899,11 +9912,15 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "(1) Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             }
           ]
         },
@@ -9914,8 +9931,21 @@
             "display_name": "Osman Abdullatif",
             "orcid": "https://orcid.org/0000-0001-6214-5772"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Osman Abdullatif",
           "raw_affiliation_strings": [
@@ -9925,11 +9955,15 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "(1) Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             }
           ]
         },
@@ -9940,8 +9974,21 @@
             "display_name": "Ammar Abdlmutalib",
             "orcid": "https://orcid.org/0000-0003-3580-9136"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Ammar J. Abdlmutalib",
           "raw_affiliation_strings": [
@@ -9951,11 +9998,15 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "(1) Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             }
           ]
         },
@@ -9966,8 +10017,21 @@
             "display_name": "Mohammed Elhibir",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mohammed Elhibir",
           "raw_affiliation_strings": [
@@ -9977,11 +10041,15 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "(1) Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             }
           ]
         },
@@ -9992,8 +10060,21 @@
             "display_name": "Mazin A. Bashari",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mazin Bashari",
           "raw_affiliation_strings": [
@@ -10003,11 +10084,15 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "(1) Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             }
           ]
         },
@@ -10018,8 +10103,21 @@
             "display_name": "Moaz Mohammed",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Moaz Mohammed",
           "raw_affiliation_strings": [
@@ -10029,11 +10127,15 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "(1) Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             }
           ]
         },
@@ -10044,8 +10146,21 @@
             "display_name": "Mohammed Jabir",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mohammed Jabir",
           "raw_affiliation_strings": [
@@ -10055,11 +10170,15 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "(1) Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             }
           ]
         },
@@ -10070,8 +10189,21 @@
             "display_name": "Abdallah Abdelkarim",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdallah Abdelkarim",
           "raw_affiliation_strings": [
@@ -10081,22 +10213,28 @@
           "affiliations": [
             {
               "raw_affiliation_string": "Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             },
             {
               "raw_affiliation_string": "(1) Earth Sciences, King Fahd University of Petroleum & Minerals, Dhahran, Eastern Province, Saudi Arabia",
-              "institution_ids": []
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
+      "countries_distinct_count": 1,
       "institutions_distinct_count": 8,
       "corresponding_author_ids": [
         "https://openalex.org/A5103920205"
       ],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": 0,
@@ -10836,7 +10974,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-02-24T19:35:01.260952",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11072,7 +11210,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.53925993,
+        "value": 0.5391991,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14817,7 +14955,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.30022693,
+        "value": 0.30024964,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19520,7 +19658,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.36996863,
+        "value": 0.36762099,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19818,526 +19956,9 @@
         "https://openalex.org/W4409462518"
       ],
       "related_works": [],
-      "abstract_inverted_index": {
-        "Core-based": [
-          0
-        ],
-        "data": [
-          1
-        ],
-        "provide": [
-          2,
-          193
-        ],
-        "critical": [
-          3
-        ],
-        "insights": [
-          4,
-          194
-        ],
-        "into": [
-          5
-        ],
-        "subsurface": [
-          6
-        ],
-        "reservoir": [
-          7,
-          65,
-          91,
-          201
-        ],
-        "characterization": [
-          8
-        ],
-        "by": [
-          9,
-          28
-        ],
-        "offering": [
-          10
-        ],
-        "direct": [
-          11
-        ],
-        "observations": [
-          12
-        ],
-        "of": [
-          13,
-          41,
-          75,
-          98,
-          169,
-          178
-        ],
-        "rock": [
-          14
-        ],
-        "formations,": [
-          15
-        ],
-        "including": [
-          16
-        ],
-        "lithology,": [
-          17
-        ],
-        "sedimentary": [
-          18,
-          156
-        ],
-        "structures,": [
-          19
-        ],
-        "and": [
-          20,
-          37,
-          72,
-          132,
-          158,
-          182
-        ],
-        "minerals.": [
-          21
-        ],
-        "However,": [
-          22
-        ],
-        "core": [
-          23,
-          76,
-          84,
-          104,
-          180
-        ],
-        "analysis": [
-          24
-        ],
-        "is": [
-          25,
-          61
-        ],
-        "frequently": [
-          26
-        ],
-        "compromised": [
-          27
-        ],
-        "missing": [
-          29,
-          83
-        ],
-        "intervals": [
-          30,
-          131
-        ],
-        "resulting": [
-          31
-        ],
-        "from": [
-          32
-        ],
-        "extraction": [
-          33
-        ],
-        "damage,": [
-          34
-        ],
-        "handling": [
-          35,
-          142
-        ],
-        "losses,": [
-          36
-        ],
-        "the": [
-          38,
-          68,
-          96,
-          167,
-          176,
-          183,
-          187
-        ],
-        "common": [
-          39
-        ],
-        "practice": [
-          40
-        ],
-        "drilling": [
-          42
-        ],
-        "inch-size": [
-          43
-        ],
-        "plugs": [
-          44
-        ],
-        "for": [
-          45,
-          63,
-          81,
-          103,
-          195
-        ],
-        "laboratory": [
-          46
-        ],
-        "analysis.": [
-          47
-        ],
-        "These": [
-          48
-        ],
-        "gaps": [
-          49
-        ],
-        "create": [
-          50
-        ],
-        "significant": [
-          51
-        ],
-        "interpretation": [
-          52
-        ],
-        "challenges,": [
-          53
-        ],
-        "particularly": [
-          54
-        ],
-        "in": [
-          55,
-          90,
-          112,
-          128,
-          141,
-          154,
-          164
-        ],
-        "heterogeneous": [
-          56,
-          144
-        ],
-        "formations": [
-          57
-        ],
-        "where": [
-          58
-        ],
-        "spatial": [
-          59
-        ],
-        "continuity": [
-          60
-        ],
-        "essential": [
-          62
-        ],
-        "accurate": [
-          64
-        ],
-        "modeling.": [
-          66
-        ],
-        "Given": [
-          67
-        ],
-        "high": [
-          69
-        ],
-        "operational": [
-          70
-        ],
-        "costs": [
-          71
-        ],
-        "strategic": [
-          73
-        ],
-        "value": [
-          74
-        ],
-        "data,": [
-          77
-        ],
-        "developing": [
-          78
-        ],
-        "reliable": [
-          79
-        ],
-        "methods": [
-          80,
-          191
-        ],
-        "reconstructing": [
-          82,
-          129
-        ],
-        "sections": [
-          85
-        ],
-        "represents": [
-          86
-        ],
-        "a": [
-          87
-        ],
-        "crucial": [
-          88
-        ],
-        "advancement": [
-          89
-        ],
-        "evaluation.": [
-          92
-        ],
-        "This": [
-          93
-        ],
-        "study": [
-          94
-        ],
-        "investigates": [
-          95
-        ],
-        "application": [
-          97
-        ],
-        "Stable": [
-          99
-        ],
-        "Diffusion": [
-          100
-        ],
-        "Model": [
-          101
-        ],
-        "(SDM)": [
-          102
-        ],
-        "interval/plug": [
-          105
-        ],
-        "reconstruction,": [
-          106
-        ],
-        "building": [
-          107
-        ],
-        "on": [
-          108
-        ],
-        "its": [
-          109,
-          139
-        ],
-        "proven": [
-          110
-        ],
-        "success": [
-          111
-        ],
-        "conditioned": [
-          113
-        ],
-        "image": [
-          114
-        ],
-        "inpainting": [
-          115
-        ],
-        "tasks.": [
-          116
-        ],
-        "Through": [
-          117
-        ],
-        "systematic": [
-          118
-        ],
-        "evaluation": [
-          119
-        ],
-        "across": [
-          120
-        ],
-        "diverse": [
-          121
-        ],
-        "depositional": [
-          122
-        ],
-        "environments,": [
-          123
-        ],
-        "we": [
-          124
-        ],
-        "demonstrate": [
-          125
-        ],
-        "SDM's": [
-          126
-        ],
-        "effectiveness": [
-          127
-        ],
-        "homogeneous": [
-          130
-        ],
-        "gradual": [
-          133
-        ],
-        "facies": [
-          134,
-          148,
-          171
-        ],
-        "transition": [
-          135
-        ],
-        "zones,": [
-          136
-        ],
-        "while": [
-          137
-        ],
-        "testing": [
-          138
-        ],
-        "limitations": [
-          140
-        ],
-        "complex": [
-          143
-        ],
-        "zones": [
-          145
-        ],
-        "with": [
-          146,
-          186
-        ],
-        "abrupt": [
-          147
-        ],
-        "changes.": [
-          149
-        ],
-        "The": [
-          150
-        ],
-        "model": [
-          151
-        ],
-        "shows": [
-          152
-        ],
-        "strengths": [
-          153
-        ],
-        "restoring": [
-          155
-        ],
-        "textures": [
-          157
-        ],
-        "bedding": [
-          159
-        ],
-        "architectures": [
-          160
-        ],
-        "but": [
-          161
-        ],
-        "faces": [
-          162
-        ],
-        "challenges": [
-          163
-        ],
-        "accurately": [
-          165
-        ],
-        "predicting": [
-          166
-        ],
-        "locations": [
-          168
-        ],
-        "sharp": [
-          170
-        ],
-        "boundaries.": [
-          172
-        ],
-        "Our": [
-          173
-        ],
-        "approach": [
-          174
-        ],
-        "enhances": [
-          175
-        ],
-        "utility": [
-          177
-        ],
-        "incomplete": [
-          179
-        ],
-        "images,": [
-          181
-        ],
-        "findings": [
-          184
-        ],
-        "along": [
-          185
-        ],
-        "proposed": [
-          188
-        ],
-        "potential": [
-          189
-        ],
-        "improvement": [
-          190
-        ],
-        "may": [
-          192
-        ],
-        "other": [
-          196
-        ],
-        "researchers": [
-          197
-        ],
-        "to": [
-          198
-        ],
-        "further": [
-          199
-        ],
-        "reduce": [
-          200
-        ],
-        "assessment": [
-          202
-        ],
-        "uncertainties.": [
-          203
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-23T08:04:50.183275",
+      "updated_date": "2026-02-25T08:12:03.925757",
       "created_date": "2025-10-22T00:00:00"
     },
     {
@@ -20555,11 +20176,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.67577366,
+        "value": 0.50086059,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20574,16 +20195,16 @@
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.28519999980926514,
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.7418000102043152,
         "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
         },
         "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -20592,16 +20213,16 @@
       },
       "topics": [
         {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.28519999980926514,
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.7418000102043152,
           "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
           },
           "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -20611,7 +20232,7 @@
         {
           "id": "https://openalex.org/T10399",
           "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.1454000025987625,
+          "score": 0.1477999985218048,
           "subfield": {
             "id": "https://openalex.org/subfields/2211",
             "display_name": "Mechanics of Materials"
@@ -20626,12 +20247,12 @@
           }
         },
         {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.1281999945640564,
+          "id": "https://openalex.org/T11740",
+          "display_name": "Geochemistry and Elemental Analysis",
+          "score": 0.027000000700354576,
           "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
           },
           "field": {
             "id": "https://openalex.org/fields/19",
@@ -20968,7 +20589,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-02-20T08:17:22.645390",
+      "updated_date": "2026-02-07T06:15:42.627816",
       "created_date": "2026-02-07T00:00:00"
     }
   ]
