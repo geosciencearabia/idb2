@@ -38717,7 +38717,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2013-10-17",
     "year": 2013,
     "venue": "Marine and Petroleum Geology",
-    "citations": 61,
+    "citations": 62,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Atmospheric and Environmental Gas Dynamics",
@@ -38896,7 +38896,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2016-01-15",
     "year": 2016,
     "venue": "Marine and Petroleum Geology",
-    "citations": 45,
+    "citations": 46,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Atmospheric and Environmental Gas Dynamics",
@@ -39286,6 +39286,56 @@ export const worksTable: WorkTableRecord[] = [
       "Kazan Federal University",
       "King Saud University",
       "University of the Fraser Valley"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W4401628572",
+    "doi": "https://doi.org/10.1038/s41598-024-68416-5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5006452421",
+      "A5061703841",
+      "A5036262291",
+      "A5093832213",
+      "A5102858778",
+      "A5019002975",
+      "A5108751417",
+      "A5005831087",
+      "A5073694501"
+    ],
+    "firstAuthorLastName": "Hakimi",
+    "allAuthors": [
+      "Mohammed Hail Hakimi",
+      "Mohammad Alqudah",
+      "Khairul Azlan Mustapha",
+      "Ali Y. Kahal",
+      "Mahdi Ali Lathbl",
+      "Afikah Rahim",
+      "Mikhail A. Varfolomeev",
+      "Danis K. Nurgaliev",
+      "Ameen A. Al‐Muntaser",
+      "Shadi A. Saeed"
+    ],
+    "title": "High sulphur oil of Type II kerogen of the oil shales from Western Central Jordan based on molecular structure and kinetics",
+    "publicationDate": "2024-08-16",
+    "year": 2024,
+    "venue": "Scientific Reports",
+    "citations": 4,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping",
+      "Petroleum Processing and Analysis"
+    ],
+    "institutions": [
+      "Kazan Federal University",
+      "Taiz University",
+      "Yarmouk University",
+      "University of Malaya",
+      "King Saud University",
+      "Universiti Teknologi Petronas",
+      "University of Technology Malaysia"
     ]
   },
   {
@@ -39758,7 +39808,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-08-14",
     "year": 2014,
     "venue": "Marine and Petroleum Geology",
-    "citations": 54,
+    "citations": 55,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological Studies and Exploration",
@@ -40292,6 +40342,45 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3083450441",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104701",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5007946242",
+      "A5036262291",
+      "A5029189031",
+      "A5086333096",
+      "A5026482796"
+    ],
+    "firstAuthorLastName": "Hakimi",
+    "allAuthors": [
+      "Mohammed Hail Hakimi",
+      "Adeeb Ahmed",
+      "Ali Y. Kahal",
+      "Osman Salad Hersi",
+      "Hussain J. Al Faifi",
+      "Saleh Qaysi"
+    ],
+    "title": "Organic geochemistry and basin modeling of Late Cretaceous Harshiyat Formation in the onshore and offshore basins in Yemen: Implications for effective source rock potential and hydrocarbon generation",
+    "publicationDate": "2020-09-07",
+    "year": 2020,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 29,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Petroleum Processing and Analysis",
+      "Atmospheric and Environmental Gas Dynamics"
+    ],
+    "institutions": [
+      "Taiz University",
+      "Bahria University",
+      "King Saud University",
+      "University of Regina"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3112362710",
     "doi": "https://doi.org/10.1038/s41598-020-78906-x",
     "program": "",
@@ -40371,45 +40460,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of Malaya",
       "Taiz University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3083450441",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2020.104701",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5007946242",
-      "A5036262291",
-      "A5029189031",
-      "A5086333096",
-      "A5026482796"
-    ],
-    "firstAuthorLastName": "Hakimi",
-    "allAuthors": [
-      "Mohammed Hail Hakimi",
-      "Adeeb Ahmed",
-      "Ali Y. Kahal",
-      "Osman Salad Hersi",
-      "Hussain J. Al Faifi",
-      "Saleh Qaysi"
-    ],
-    "title": "Organic geochemistry and basin modeling of Late Cretaceous Harshiyat Formation in the onshore and offshore basins in Yemen: Implications for effective source rock potential and hydrocarbon generation",
-    "publicationDate": "2020-09-07",
-    "year": 2020,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 28,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Petroleum Processing and Analysis",
-      "Atmospheric and Environmental Gas Dynamics"
-    ],
-    "institutions": [
-      "Taiz University",
-      "Bahria University",
-      "King Saud University",
-      "University of Regina"
     ]
   },
   {
@@ -40862,6 +40912,50 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2937250130",
+    "doi": "https://doi.org/10.1016/j.petrol.2019.04.032",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5048429617",
+      "A5029189031",
+      "A5023467994",
+      "A5077508945",
+      "A5034540430",
+      "A5049485817",
+      "A5057960065"
+    ],
+    "firstAuthorLastName": "Hakimi",
+    "allAuthors": [
+      "Mohammed Hail Hakimi",
+      "Wan Hasiah Abdullah",
+      "Osman Salad Hersi",
+      "Aref Lashin",
+      "Mohamed M. El Alfy",
+      "Yousif M. Makeen",
+      "Mostafa M. Kinawy",
+      "Baleid Ali Hatem"
+    ],
+    "title": "Organic geochemistry of the Early Cretaceous shales, Saar Formation in the East Shabwah oil fields, onshore Masila Basin of eastern Yemen",
+    "publicationDate": "2019-04-12",
+    "year": 2019,
+    "venue": "Journal of Petroleum Science and Engineering",
+    "citations": 13,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Geologic Mapping",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "Taiz University",
+      "University of Malaya",
+      "University of Regina",
+      "King Saud University",
+      "Jilin University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W3106401641",
     "doi": "https://doi.org/10.1007/s12517-020-06227-4",
     "program": "",
@@ -40935,50 +41029,6 @@ export const worksTable: WorkTableRecord[] = [
       "Xi'an Shiyou University",
       "Taiz University",
       "Southwest Petroleum University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2937250130",
-    "doi": "https://doi.org/10.1016/j.petrol.2019.04.032",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5048429617",
-      "A5029189031",
-      "A5023467994",
-      "A5077508945",
-      "A5034540430",
-      "A5049485817",
-      "A5057960065"
-    ],
-    "firstAuthorLastName": "Hakimi",
-    "allAuthors": [
-      "Mohammed Hail Hakimi",
-      "Wan Hasiah Abdullah",
-      "Osman Salad Hersi",
-      "Aref Lashin",
-      "Mohamed M. El Alfy",
-      "Yousif M. Makeen",
-      "Mostafa M. Kinawy",
-      "Baleid Ali Hatem"
-    ],
-    "title": "Organic geochemistry of the Early Cretaceous shales, Saar Formation in the East Shabwah oil fields, onshore Masila Basin of eastern Yemen",
-    "publicationDate": "2019-04-12",
-    "year": 2019,
-    "venue": "Journal of Petroleum Science and Engineering",
-    "citations": 12,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geochemistry and Geologic Mapping",
-      "Geological Studies and Exploration"
-    ],
-    "institutions": [
-      "Taiz University",
-      "University of Malaya",
-      "University of Regina",
-      "King Saud University",
-      "Jilin University"
     ]
   },
   {
@@ -41414,56 +41464,6 @@ export const worksTable: WorkTableRecord[] = [
       "Imam Ja’afar Al-Sadiq University",
       "University of Technology Malaysia",
       "Western Michigan University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4401628572",
-    "doi": "https://doi.org/10.1038/s41598-024-68416-5",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5006452421",
-      "A5061703841",
-      "A5036262291",
-      "A5093832213",
-      "A5102858778",
-      "A5019002975",
-      "A5108751417",
-      "A5005831087",
-      "A5073694501"
-    ],
-    "firstAuthorLastName": "Hakimi",
-    "allAuthors": [
-      "Mohammed Hail Hakimi",
-      "Mohammad Alqudah",
-      "Khairul Azlan Mustapha",
-      "Ali Y. Kahal",
-      "Mahdi Ali Lathbl",
-      "Afikah Rahim",
-      "Mikhail A. Varfolomeev",
-      "Danis K. Nurgaliev",
-      "Ameen A. Al‐Muntaser",
-      "Shadi A. Saeed"
-    ],
-    "title": "High sulphur oil of Type II kerogen of the oil shales from Western Central Jordan based on molecular structure and kinetics",
-    "publicationDate": "2024-08-16",
-    "year": 2024,
-    "venue": "Scientific Reports",
-    "citations": 3,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geochemistry and Geologic Mapping",
-      "Petroleum Processing and Analysis"
-    ],
-    "institutions": [
-      "Taiz University",
-      "Yarmouk University",
-      "University of Malaya",
-      "King Saud University",
-      "Universiti Teknologi Petronas",
-      "University of Technology Malaysia",
-      "Kazan Federal University"
     ]
   },
   {
@@ -42135,7 +42135,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2015-04-06",
     "year": 2015,
     "venue": "Fuel",
-    "citations": 19,
+    "citations": 20,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Coal and Its By-products",
@@ -42919,7 +42919,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2012-01-30",
     "year": 2012,
     "venue": "Marine and Petroleum Geology",
-    "citations": 14,
+    "citations": 15,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological Studies and Exploration",
@@ -42953,7 +42953,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2014-09-28",
     "year": 2014,
     "venue": "Marine and Petroleum Geology",
-    "citations": 13,
+    "citations": 14,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Petroleum Processing and Analysis",
@@ -43170,6 +43170,46 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2942040268",
+    "doi": "https://doi.org/10.1016/j.marpetgeo.2019.04.030",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5029716563",
+    "allAuthorOpenAlexIds": [
+      "A5029716563",
+      "A5077319141",
+      "A5023467994",
+      "A5083028288",
+      "A5045824304",
+      "A5049485817"
+    ],
+    "firstAuthorLastName": "Hakimi",
+    "allAuthors": [
+      "Mohammed Hail Hakimi",
+      "Abdulwahab S. Alaug",
+      "Aref Lashin",
+      "Ibrahim M. J. Mohialdeen",
+      "Madyan M.A. Yahya",
+      "Mostafa M. Kinawy"
+    ],
+    "title": "Geochemical and geological modeling of the Late Jurassic Meem Shale Member in the Al-Jawf sub-basin, Yemen: Implications for regional oil and gas exploration",
+    "publicationDate": "2019-04-26",
+    "year": 2019,
+    "venue": "Marine and Petroleum Geology",
+    "citations": 11,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Petroleum Processing and Analysis",
+      "Atmospheric and Environmental Gas Dynamics"
+    ],
+    "institutions": [
+      "Taiz University",
+      "King Saud University",
+      "Benha University",
+      "University of Sulaimani",
+      "Al-Azhar University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4200370666",
     "doi": "https://doi.org/10.1007/s13202-021-01413-w",
     "program": "",
@@ -43228,46 +43268,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Taiz University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2942040268",
-    "doi": "https://doi.org/10.1016/j.marpetgeo.2019.04.030",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5029716563",
-    "allAuthorOpenAlexIds": [
-      "A5029716563",
-      "A5077319141",
-      "A5023467994",
-      "A5083028288",
-      "A5045824304",
-      "A5049485817"
-    ],
-    "firstAuthorLastName": "Hakimi",
-    "allAuthors": [
-      "Mohammed Hail Hakimi",
-      "Abdulwahab S. Alaug",
-      "Aref Lashin",
-      "Ibrahim M. J. Mohialdeen",
-      "Madyan M.A. Yahya",
-      "Mostafa M. Kinawy"
-    ],
-    "title": "Geochemical and geological modeling of the Late Jurassic Meem Shale Member in the Al-Jawf sub-basin, Yemen: Implications for regional oil and gas exploration",
-    "publicationDate": "2019-04-26",
-    "year": 2019,
-    "venue": "Marine and Petroleum Geology",
-    "citations": 10,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Petroleum Processing and Analysis",
-      "Atmospheric and Environmental Gas Dynamics"
-    ],
-    "institutions": [
-      "Taiz University",
-      "King Saud University",
-      "Benha University",
-      "University of Sulaimani",
-      "Al-Azhar University"
     ]
   },
   {
@@ -52686,8 +52686,7 @@ export const worksTable: WorkTableRecord[] = [
       "Geological Formations and Processes Exploration"
     ],
     "institutions": [
-      "University College London",
-      "King Fahd University of Petroleum and Minerals"
+      "University College London"
     ]
   },
   {
@@ -84903,7 +84902,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2007-06-26",
     "year": 2007,
     "venue": "Precambrian Research",
-    "citations": 3335,
+    "citations": 3336,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -92798,7 +92797,7 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Geological Survey of Canada",
       "Laurentian University",
-      "University of Adelaide",
+      "The University of Adelaide",
       "King Abdulaziz University",
       "University of Arizona",
       "Curtin University",
@@ -93150,6 +93149,7 @@ export const worksTable: WorkTableRecord[] = [
       "Geological formations and processes"
     ],
     "institutions": [
+      "The University of Adelaide",
       "Université Claude Bernard Lyon 1",
       "École Normale Supérieure de Lyon",
       "Centre National de la Recherche Scientifique",
@@ -93503,9 +93503,9 @@ export const worksTable: WorkTableRecord[] = [
       "Paleontology and Stratigraphy of Fossils"
     ],
     "institutions": [
-      "University of Adelaide",
-      "Laurentian University",
       "Geological Survey of Canada",
+      "Laurentian University",
+      "The University of Adelaide",
       "University of Wollongong"
     ]
   },
@@ -96959,7 +96959,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "Universidade Federal do Rio de Janeiro",
-      "University of Adelaide",
+      "The University of Adelaide",
       "Geological Survey of Canada",
       "Laurentian University",
       "St. Francis Xavier University",
@@ -99883,7 +99883,7 @@ export const worksTable: WorkTableRecord[] = [
     "title": "On Using Large Language Models to Enhance Clinically-Driven Missing Data Recovery Algorithms in Electronic Health Records",
     "publicationDate": "2025-10-04",
     "year": 2025,
-    "venue": "arXiv (Cornell University)",
+    "venue": "ArXiv.org",
     "citations": 0,
     "topics": [
       "Machine Learning in Healthcare"
@@ -104939,7 +104939,7 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
-      "University of Western Australia",
+      "The University of Western Australia",
       "ET Enterprises (United Kingdom)"
     ]
   },
@@ -105125,7 +105125,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-01-01",
     "year": 2018,
     "venue": "IEEE Access",
-    "citations": 29,
+    "citations": 30,
     "topics": [
       "Seismic Imaging and Inversion Techniques",
       "Seismic Waves and Analysis",
@@ -113439,7 +113439,7 @@ export const worksTable: WorkTableRecord[] = [
     "title": "SeisCoDE: 3D Seismic Interpretation Foundation Model with Contrastive Self-Distillation Learning",
     "publicationDate": "2025-05-26",
     "year": 2025,
-    "venue": "arXiv (Cornell University)",
+    "venue": "ArXiv.org",
     "citations": 0,
     "topics": [
       "Seismic Imaging and Inversion Techniques",
@@ -114335,6 +114335,45 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4378649681",
+    "doi": "https://doi.org/10.1016/j.envres.2023.116279",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5042396632",
+      "A5037734458",
+      "A5062108247",
+      "A5066001291",
+      "A5079226465"
+    ],
+    "firstAuthorLastName": "Rajendran",
+    "allAuthors": [
+      "Sankaran Rajendran",
+      "Hamad Al Saad Al Kuwari",
+      "Fadhil Sadooni",
+      "Sobhi Nasir",
+      "Himanshu Govil",
+      "Habes Ghrefat"
+    ],
+    "title": "Remote sensing of desertification and study of temporal variability of aeolian deposits in parts of the Arabian Desert for sustainable development in an arid environment",
+    "publicationDate": "2023-05-29",
+    "year": 2023,
+    "venue": "Environmental Research",
+    "citations": 9,
+    "topics": [
+      "Aeolian processes and effects",
+      "Geochemistry and Geologic Mapping",
+      "Soil and Land Suitability Analysis"
+    ],
+    "institutions": [
+      "Qatar University",
+      "Sultan Qaboos University",
+      "National Institute of Technology Raipur",
+      "Yarmouk University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4412083068",
     "doi": "https://doi.org/10.1007/s10661-025-14348-0",
     "program": "",
@@ -115081,45 +115120,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "University of Houston",
       "Qatar University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4378649681",
-    "doi": "https://doi.org/10.1016/j.envres.2023.116279",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5042396632",
-      "A5037734458",
-      "A5062108247",
-      "A5066001291",
-      "A5079226465"
-    ],
-    "firstAuthorLastName": "Rajendran",
-    "allAuthors": [
-      "Sankaran Rajendran",
-      "Hamad Al Saad Al Kuwari",
-      "Fadhil Sadooni",
-      "Sobhi Nasir",
-      "Himanshu Govil",
-      "Habes Ghrefat"
-    ],
-    "title": "Remote sensing of desertification and study of temporal variability of aeolian deposits in parts of the Arabian Desert for sustainable development in an arid environment",
-    "publicationDate": "2023-05-29",
-    "year": 2023,
-    "venue": "Environmental Research",
-    "citations": 8,
-    "topics": [
-      "Aeolian processes and effects",
-      "Geochemistry and Geologic Mapping",
-      "Soil and Land Suitability Analysis"
-    ],
-    "institutions": [
-      "Qatar University",
-      "Sultan Qaboos University",
-      "National Institute of Technology Raipur",
-      "Yarmouk University"
     ]
   },
   {
@@ -133074,6 +133074,40 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
+    "workId": "https://openalex.org/W1997757609",
+    "doi": "https://doi.org/10.1007/s10661-015-4264-5",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5102809672",
+    "allAuthorOpenAlexIds": [
+      "A5102809672",
+      "A5087995404",
+      "A5013553375",
+      "A5040373852"
+    ],
+    "firstAuthorLastName": "Kuisi",
+    "allAuthors": [
+      "Mustafa Al Kuisi",
+      "Mohammad Al-Hwaiti",
+      "Kholoud Mashal",
+      "Abdulkader M. Abed"
+    ],
+    "title": "Spatial distribution patterns of molybdenum (Mo) concentrations in potable groundwater in Northern Jordan",
+    "publicationDate": "2015-02-26",
+    "year": 2015,
+    "venue": "Environmental Monitoring and Assessment",
+    "citations": 22,
+    "topics": [
+      "Radioactive element chemistry and processing",
+      "Mine drainage and remediation techniques",
+      "Arsenic contamination and mitigation"
+    ],
+    "institutions": [
+      "University of Jordan",
+      "Al-Hussein Bin Talal University",
+      "Hashemite University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2032141020",
     "doi": "https://doi.org/10.1111/j.1747-5457.1983.tb00571.x",
     "program": "",
@@ -133275,40 +133309,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "Water Authority of Jordan",
       "University of Jordan"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W1997757609",
-    "doi": "https://doi.org/10.1007/s10661-015-4264-5",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5102809672",
-    "allAuthorOpenAlexIds": [
-      "A5102809672",
-      "A5087995404",
-      "A5013553375",
-      "A5040373852"
-    ],
-    "firstAuthorLastName": "Kuisi",
-    "allAuthors": [
-      "Mustafa Al Kuisi",
-      "Mohammad Al-Hwaiti",
-      "Kholoud Mashal",
-      "Abdulkader M. Abed"
-    ],
-    "title": "Spatial distribution patterns of molybdenum (Mo) concentrations in potable groundwater in Northern Jordan",
-    "publicationDate": "2015-02-26",
-    "year": 2015,
-    "venue": "Environmental Monitoring and Assessment",
-    "citations": 21,
-    "topics": [
-      "Radioactive element chemistry and processing",
-      "Mine drainage and remediation techniques",
-      "Arsenic contamination and mitigation"
-    ],
-    "institutions": [
-      "University of Jordan",
-      "Al-Hussein Bin Talal University",
-      "Hashemite University"
     ]
   },
   {
