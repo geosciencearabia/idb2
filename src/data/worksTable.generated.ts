@@ -30616,7 +30616,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-12-18",
     "year": 2023,
     "venue": "Energy & Fuels",
-    "citations": 15,
+    "citations": 16,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydrocarbon exploration and reservoir analysis",
@@ -34731,6 +34731,90 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W3156145138",
+    "doi": "https://doi.org/10.1007/s43217-021-00057-4",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5028390167",
+    "allAuthorOpenAlexIds": [
+      "A5028390167",
+      "A5055073262",
+      "A5053209526",
+      "A5022637228",
+      "A5038753401",
+      "A5062041023"
+    ],
+    "firstAuthorLastName": "Ali",
+    "allAuthors": [
+      "Syed Haroon Ali",
+      "Osman Abdullatif",
+      "Mohamed Abioui",
+      "Yasir Bashir",
+      "Ali Wahid",
+      "Qamar Yasin"
+    ],
+    "title": "Dolomitization and paleoenvironment of deposition of the Lower and Middle Rus Formation (Early Eocene, Dammam Dome, Eastern Saudi Arabia)",
+    "publicationDate": "2021-04-16",
+    "year": 2021,
+    "venue": "Journal of Sedimentary Environments",
+    "citations": 17,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geochemistry and Elemental Analysis"
+    ],
+    "institutions": [
+      "University of Sargodha",
+      "King Fahd University of Petroleum and Minerals",
+      "Université Ibn Zohr",
+      "Universiti Sains Malaysia",
+      "University of Azad Jammu and Kashmir",
+      "China University of Petroleum, East China"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3170579962",
+    "doi": "https://doi.org/10.1007/s13202-021-01181-7",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5028390167",
+    "allAuthorOpenAlexIds": [
+      "A5028390167",
+      "A5055073262",
+      "A5044235421",
+      "A5007108235",
+      "A5022637228",
+      "A5085811814",
+      "A5038753401"
+    ],
+    "firstAuthorLastName": "Ali",
+    "allAuthors": [
+      "Syed Haroon Ali",
+      "Osman Abdullatif",
+      "Lamidi Babalola",
+      "Fawwaz Muhammad Alkhaldi",
+      "Yasir Bashir",
+      "S. M. Talha Qadri",
+      "Ali Wahid"
+    ],
+    "title": "Sedimentary facies, depositional environments and conceptual outcrop analogue (Dam Formation, early Miocene) Eastern Arabian Platform, Saudi Arabia: a new high-resolution approach",
+    "publicationDate": "2021-05-15",
+    "year": 2021,
+    "venue": "Journal of Petroleum Exploration and Production Technology",
+    "citations": 14,
+    "topics": [
+      "Geological and Geophysical Studies",
+      "Paleontology and Stratigraphy of Fossils",
+      "Geological formations and processes"
+    ],
+    "institutions": [
+      "University of Sargodha",
+      "King Fahd University of Petroleum and Minerals",
+      "Saudi Aramco (Saudi Arabia)",
+      "Universiti Sains Malaysia",
+      "University of Toronto",
+      "University of Azad Jammu and Kashmir"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W1985709058",
     "doi": "https://doi.org/10.2118/171702-ms",
     "program": "",
@@ -35076,47 +35160,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W3156145138",
-    "doi": "https://doi.org/10.1007/s43217-021-00057-4",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5028390167",
-    "allAuthorOpenAlexIds": [
-      "A5028390167",
-      "A5055073262",
-      "A5053209526",
-      "A5022637228",
-      "A5038753401",
-      "A5062041023"
-    ],
-    "firstAuthorLastName": "Ali",
-    "allAuthors": [
-      "Syed Haroon Ali",
-      "Osman Abdullatif",
-      "Mohamed Abioui",
-      "Yasir Bashir",
-      "Ali Wahid",
-      "Qamar Yasin"
-    ],
-    "title": "Dolomitization and paleoenvironment of deposition of the Lower and Middle Rus Formation (Early Eocene, Dammam Dome, Eastern Saudi Arabia)",
-    "publicationDate": "2021-04-16",
-    "year": 2021,
-    "venue": "Journal of Sedimentary Environments",
-    "citations": 16,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geochemistry and Elemental Analysis"
-    ],
-    "institutions": [
-      "University of Sargodha",
-      "King Fahd University of Petroleum and Minerals",
-      "Université Ibn Zohr",
-      "Universiti Sains Malaysia",
-      "University of Azad Jammu and Kashmir",
-      "China University of Petroleum, East China"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W2618281084",
     "doi": "https://doi.org/10.1016/j.jafrearsci.2017.05.011",
     "program": "",
@@ -35149,49 +35192,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": [
       "King Fahd University of Petroleum and Minerals",
       "Pukyong National University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W3170579962",
-    "doi": "https://doi.org/10.1007/s13202-021-01181-7",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5028390167",
-    "allAuthorOpenAlexIds": [
-      "A5028390167",
-      "A5055073262",
-      "A5044235421",
-      "A5007108235",
-      "A5022637228",
-      "A5085811814",
-      "A5038753401"
-    ],
-    "firstAuthorLastName": "Ali",
-    "allAuthors": [
-      "Syed Haroon Ali",
-      "Osman Abdullatif",
-      "Lamidi Babalola",
-      "Fawwaz Muhammad Alkhaldi",
-      "Yasir Bashir",
-      "S. M. Talha Qadri",
-      "Ali Wahid"
-    ],
-    "title": "Sedimentary facies, depositional environments and conceptual outcrop analogue (Dam Formation, early Miocene) Eastern Arabian Platform, Saudi Arabia: a new high-resolution approach",
-    "publicationDate": "2021-05-15",
-    "year": 2021,
-    "venue": "Journal of Petroleum Exploration and Production Technology",
-    "citations": 13,
-    "topics": [
-      "Geological and Geophysical Studies",
-      "Paleontology and Stratigraphy of Fossils",
-      "Geological formations and processes"
-    ],
-    "institutions": [
-      "University of Sargodha",
-      "King Fahd University of Petroleum and Minerals",
-      "Saudi Aramco (Saudi Arabia)",
-      "Universiti Sains Malaysia",
-      "University of Toronto",
-      "University of Azad Jammu and Kashmir"
     ]
   },
   {
@@ -47888,7 +47888,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-07-22",
     "year": 2023,
     "venue": "Journal of Cleaner Production",
-    "citations": 43,
+    "citations": 44,
     "topics": [
       "Membrane Separation Technologies",
       "Water Quality Monitoring Technologies",
@@ -50084,14 +50084,14 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies"
     ],
     "institutions": [
+      "Universität Hamburg",
       "Hamburg Institut (Germany)",
       "Woods Hole Oceanographic Institution",
-      "Universität Hamburg",
       "GEOMAR Helmholtz Centre for Ocean Research Kiel",
       "University of Manchester",
       "Williams (United Kingdom)",
       "King Abdullah University of Science and Technology",
-      "Kiel University",
+      "Christian-Albrechts-Universität zu Kiel",
       "Red Sea University"
     ]
   },
@@ -52248,7 +52248,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "1999-05-01",
     "year": 1999,
     "venue": "Earth-Science Reviews",
-    "citations": 76,
+    "citations": 77,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological formations and processes",
@@ -118494,7 +118494,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-01-01",
     "year": 2022,
     "venue": "International journal of greenhouse gas control",
-    "citations": 53,
+    "citations": 54,
     "topics": [
       "CO2 Sequestration and Geologic Interactions",
       "Hydrocarbon exploration and reservoir analysis",
